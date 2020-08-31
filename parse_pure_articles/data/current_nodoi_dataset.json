@@ -1,14 +1,14 @@
 {
- "4883": {
+ "4268": {
   "month": "7",
-  "pub_date": "21 Jul 2020",
+  "pub_date": "13 Jul 2020",
   "year": 2020,
   "early_online": null,
-  "title": "The CTD Is Not Essential for the Post-Initiation Control of RNA Polymerase II Activity",
-  "contributors": "Gerber, A., Roeder, R. G.",
+  "title": "Structure and Function of the Mycobacterial Type VII Secretion Systems",
+  "contributors": "Bunduc, C. M., Bitter, W., Houben, E. N. G.",
   "corresponding": null,
-  "organisations": "Organic Chemistry, AIMMS",
+  "organisations": "Molecular Microbiology, AIMMS",
   "journal": null,
-  "description": "The CTD Is Not Essential for the Post-Initiation Control of RNA Polymerase II ActivityInterest in the C-terminal domain (CTD) of the RPB1 subunit of the RNA polymerase II (Pol II) has been revived in recent years, owing to its numerous posttranslational modifications and its \u201cphase-separation\u201d properties. A large number of studies have shown that the status of CTD modifications is associated with the activity of Pol II during the transcription cycle. However, because this domain is essential in living cells, the functional requirement of the full CTD for the control of Pol II activity at endogenous mammalian genes has never been addressed directly in living cells. Using an inducible Pol II-degradation system that we previously established, we investigated here the roles of the CTD in the post-initiation control of Pol II. The selective ablation of the RPB1 CTD, post-initiation, at promoter-proximal pause-sites revealed that this domain, and by extension the CTD heptads and their modifications, is functionally neither absolutely required to maintain pausing in the absence of CDK9 activity nor essential for the release of Pol II into productive elongation."
+  "description": "Structure and Function of the Mycobacterial Type VII Secretion SystemsBacteria have evolved intricate secretion machineries for the successful delivery of large molecules across their cell envelopes. Such specialized secretion systems allow a variety of bacteria to thrive in specific host environments. In mycobacteria, type VII secretion systems (T7SSs) are dedicated protein transport machineries that fulfill diverse and crucial roles, ranging from metabolite uptake to immune evasion and subversion to conjugation. Since the discovery of mycobacterial T7SSs about 15 y ago, genetic, structural, and functional studies have provided insight into the roles and functioning of these secretion machineries. Here, we focus on recent advances in the elucidation of the structure and mechanism of mycobacterial T7SSs in protein secretion. As many of these systems are essential for mycobacterial growth or virulence, they provide opportunities for the development of novel therapies to combat a number of relevant mycobacterial diseases. Expected final online publication date for the Annual Review of Microbiology, Volume 74 is September 8, 2020. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates."
  }
 }

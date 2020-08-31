@@ -371,6 +371,18 @@
   "journal": "Angewandte Chemie - International Edition",
   "description": "How Lewis Acids Catalyze Diels\u2013Alder ReactionsThe Lewis acid(LA)-catalyzed Diels\u2013Alder reaction between isoprene and methyl acrylate was investigated quantum chemically using a combined density functional theory and coupled-cluster theory approach. Computed activation energies systematically decrease as the strength of the LA increases along the series I2<SnCl4<TiCl4<ZnCl2<BF3<AlCl3. Emerging from our activation strain and Kohn\u2013Sham molecular orbital bonding analysis was an unprecedented finding, namely that the LAs accelerate the Diels\u2013Alder reaction by a diminished Pauli repulsion between the \u03c0-electron systems of the diene and dienophile. Our results oppose the widely accepted view that LAs catalyze the Diels\u2013Alder reaction by enhancing the donor\u2013acceptor [HOMOdiene\u2013LUMOdienophile] interaction and constitute a novel physical mechanism for this indispensable textbook organic reaction."
  },
+ "https://doi.org/10.1147/JRD.2020.2965881": {
+  "month": "5",
+  "pub_date": "1 May 2020",
+  "year": 2020,
+  "early_online": "15 Jan 2020",
+  "title": "Pre-exascale accelerated application development: The ORNL Summit experience",
+  "contributors": "Luo, L., Straatsma, T. P., Suarez, L. E., Broer, R., Bykov, D., D'Azevedo, E. F., Faraji, S. S., Gottiparthi, K. C., De Graaf, C., Harris, J. A., Havenith, R. W., Jensen, H. J., Joubert, W., Kathir, R. K., Larkin, J., Li, Y. W., Lyakh, D. I., Messer, O. E., Norman, M. R., Oefelein, J. C., Sankaran, R., Tillack, A. F., Barnes, A. L., Visscher, L., Wells, J. C., Wibowo, M.",
+  "corresponding": null,
+  "organisations": "Theoretical Chemistry, AIMMS, IBM, Oak Ridge National Laboratory, University of Groningen, Universidad Rovira i Virgili, University of Southern Denmark, Nvidia, Los Alamos National Laboratory, Georgia Institute of Technology",
+  "journal": "IBM Journal of Research and Development",
+  "description": "Pre-exascale accelerated application development: The ORNL Summit experienceHigh-performance computing (HPC) increasingly relies on heterogeneous architectures to achieve higher performance. In the Oak Ridge Leadership Facility (OLCF), Oak Ridge, TN, USA, this trend continues as its latest supercomputer, Summit, entered production in early 2019. The combination of IBM POWER9 CPU and NVIDIA V100 GPU, along with a fast NVLink2 interconnect and other latest technologies, pushes system performance to a new height and breaks the exascale barrier by certain measures. Due to Summit's powerful GPUs and much higher GPU-CPU ratio, offloading to accelerators becomes a requirement for any application, which intends to effectively use the system. To facilitate navigating a complex landscape of competing heterogeneous architectures, a collection of applications from a wide spectrum of scientific domains is selected for early adoption on Summit. In this article, the experience and lessons learned are summarized, in the hope of providing useful guidance to address new programming challenges, such as scalability, performance portability, and software maintainability, for future application development efforts on heterogeneous HPC systems."
+ },
  "https://doi.org/10.1021/acs.jmedchem.9b01581": {
   "month": "5",
   "pub_date": "14 May 2020",
@@ -839,6 +851,18 @@
   "journal": "Journal of Physical Chemistry C",
   "description": "TD-DFT+TB: An Efficient and Fast Approach for Quantum Plasmonic ExcitationsWe study the quantum plasmonic features of gold and silver nanoparticles using TD-DFT+TB, a new density functional theory approach to the calculation of excited states, which combines a full DFT ground state with tight-binding approximations in the linear response calculation. In this framework, the optical properties of closed-shell Ag, Au and bimetallic Ag-Au nanoparticles with tetrahedral symmetry (with 20, 56, 120, and 165 atoms) and icosahedral structure (with 13, 55, and 147 atoms) were obtained and compared to full linear response time-dependent density functional theory (TD-DFT) as a reference and also to time-dependent density functional based tight binding (TD-DFTB) as a low-cost alternative approach. We find an excellent agreement of TD-DFT+TB calculated absorption spectra with the TD-DFT reference with errors less than 0.15 eV in peak positions, while TD-DFTB shows larger errors of about 1 eV. The computational cost for the ground state calculation is identical for TD-DFT and TD-DFT+TB, but the excited state calculation becomes about a hundred times faster when applying the TB approximation and is then almost negligible for the overall timing of the calculation. In contrast to TD-DFTB, which can only be applied to element combinations for which a suitable DFTB parametrization is available, TD-DFT+TB can be applied to any combination of elements. To assess the accuracy of TD-DFT+TB for different combinations of atoms, the plasmonic properties of bimetallic clusters with different ratios of Ag and Au atoms were obtained and the trend of energy and intensity reproduced in good agreement with TD-DFT, which is not possible using TD-DFTB with standard parameter sets."
  },
+ "https://doi.org/10.1021/acsptsci.0c00008": {
+  "month": "4",
+  "pub_date": "10 Apr 2020",
+  "year": 2020,
+  "early_online": "16 Mar 2020",
+  "title": "Differential Role of Serines and Threonines in Intracellular Loop 3 and C-Terminal Tail of the Histamine H4 Receptor in \u03b2-Arrestin and G Protein-Coupled Receptor Kinase Interaction, Internalization, and Signaling",
+  "contributors": "Verweij, E. W., Al Araaj, B., Prabhata, W. R., Prihandoko, R., Nijmeijer, S., Tobin, A. B., Leurs, R., Vischer, H. F.",
+  "corresponding": "Vischer, H. F.",
+  "organisations": "Medicinal chemistry, AIMMS, Amsterdam Institute for Molecules, Medicines and Systems, University of Glasgow",
+  "journal": "ACS Pharmacology and Translational Science",
+  "description": "Differential Role of Serines and Threonines in Intracellular Loop 3 and C-Terminal Tail of the Histamine H4 Receptor in \u03b2-Arrestin and G Protein-Coupled Receptor Kinase Interaction, Internalization, and SignalingThe histamine H4 receptor (H4R) activates G\u03b1i-mediated signaling and recruits \u03b2-arrestin2 upon stimulation with histamine. \u03b2-Arrestins play a regulatory role in G protein-coupled receptor (GPCR) signaling by interacting with phosphorylated serine and threonine residues in the GPCR C-terminal tail and intracellular loop 3, resulting in receptor desensitization and internalization. Using bioluminescence resonance energy transfer (BRET)-based biosensors, we show that G protein-coupled receptor kinases (GRK) 2 and 3 are more quickly recruited to the H4R than \u03b2-arrestin1 and 2 upon agonist stimulation, whereas receptor internalization dynamics toward early endosomes was slower. Alanine-substitution revealed that a serine cluster at the distal end of the H4R C-terminal tail is essential for the recruitment of \u03b2-arrestin1/2, and consequently, receptor internalization and desensitization of G protein-driven extracellular-signal-regulated kinase (ERK)1/2 phosphorylation and label-free cellular impedance. In contrast, alanine substitution of serines and threonines in the intracellular loop 3 of the H4R did not affect \u03b2-arrestin2 recruitment and receptor desensitization, but reduced \u03b2-arrestin1 recruitment and internalization. Hence, \u03b2-arrestin recruitment to H4R requires the putative phosphorylated serine cluster in the H4R C-terminal tail, whereas putative phosphosites in the intracellular loop 3 have different effects on \u03b2-arrestin1 versus \u03b2-arrestin2. Mutation of these putative phosphosites in either intracellular loop 3 or the C-terminal tail did not affect the histamine-induced recruitment of GRK2 and GRK3 but does change the interaction of H4R with GRK5 and GRK6, respectively. Identification of H4R interactions with these proteins is a first step in the understanding how this receptor might be dysregulated in pathophysiological conditions."
+ },
  "https://doi.org/10.1016/j.chemosphere.2020.126588": {
   "month": "8",
   "pub_date": "Aug 2020",
@@ -850,6 +874,18 @@
   "organisations": "Environmental Health and Toxicology, AIMMS, Environmental Bioanalytical Chemistry, Environment and Health",
   "journal": "Chemosphere",
   "description": "Toddler behavior, the home environment, and flame retardant exposureToddlers are at increased risk of dust ingestion and subsequently flame retardant (FR) exposure because they often play close to the floor and mouth hands and objects. Exposure to some FRs have been associated to endocrine disruption and neurodevelopmental disorders. Previous research has shown higher FR concentrations in toddlers\u2019 serum and urine, but which toddler-behaviors influence exposure levels remains to be determined. We investigated how toddler-behaviors are associated to FRs in hand wipes (HWs) and saliva. Fifty 8-18 month-old children from the Linking EDCs in maternal Nutrition to Child health study, were visited at home. The child's behavior was observed and assessed using a questionnaire. Hand-to-object behavior frequency was associated with HW tris(chloroethyl) phosphate (TCEP), tris(1,3-dichloroisopropyl) phosphate (TDCIPP), tris(phenyl) phosphate, tris(methylphenyl) phosphate, and resorcinol bis(diphenyl phosphate) levels above the detection limit. Children playing with electronics multiple times per week had higher TDCIPP HW levels compared to children playing with electronics once per month or never (p = 0.032 and p = 0.046). Frequent mouth-to-object and frequent mouthing a pacifier were associated with lower TDCIPP (p = 0.019) and tris(2-chloroisopropyl) phosphate (TCIPP) HW levels, respectively (p = 0.002\u20130.019). Exposure estimates based on hand-to-mouth behavior did not exceed the available reference doses. This is the first study investigating toddler-behavior in relation to FR hand loadings. Although a range of behaviors was investigated, only a few showed a relation with FR HW levels, suggesting that toddler-behavior might not alone be responsible for the elevated FR levels in children. It is therefore important to explore other pathways including dermal absorption and inhalation."
+ },
+ "https://doi.org/10.3390/molecules25081918": {
+  "month": "4",
+  "pub_date": "Apr 2020",
+  "year": 2020,
+  "early_online": "21 Apr 2020",
+  "title": "Comparison of molecular recognition of trimethyllysine and trimethylthialysine by epigenetic reader proteins",
+  "contributors": "Hintzen, J. C., Poater, J., Kumar, K., Al Temimi, A. H., Pieters, B. J., Paton, R. S., Bickelhaupt, F. M., Mecinovi\u0107, J.",
+  "corresponding": "Paton, R. S.",
+  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, University of Southern Denmark, University of Oxford, Radboud University Nijmegen",
+  "journal": "Molecules",
+  "description": "Comparison of molecular recognition of trimethyllysine and trimethylthialysine by epigenetic reader proteinsGaining a fundamental insight into the biomolecular recognition of posttranslationally modified histones by epigenetic reader proteins is of crucial importance to understanding the regulation of the activity of human genes. Here, we seek to establish whether trimethylthialysine, a simple trimethyllysine analogue generated through cysteine alkylation, is a good trimethyllysine mimic for studies on molecular recognition by reader proteins. Histone peptides bearing trimethylthialysine and trimethyllysine were examined for binding with five human reader proteins employing a combination of thermodynamic analyses, molecular dynamics simulations and quantum chemical analyses. Collectively, our experimental and computational findings reveal that trimethylthialysine and trimethyllysine exhibit very similar binding characteristics for the association with human reader proteins, thereby justifying the use of trimethylthialysine for studies aimed at dissecting the origin of biomolecular recognition in epigenetic processes that play important roles in human health and disease."
  },
  "https://doi.org/10.1093/bioinformatics/btz917": {
   "month": "4",
@@ -971,6 +1007,18 @@
   "journal": "Journal of Chemical Physics",
   "description": "Efficient implementation of the superposition of atomic potentials initial guess for electronic structure calculations in Gaussian basis setsThe superposition of atomic potentials (SAP) approach has recently been shown to be a simple and efficient way to initialize electronic structure calculations [S. Lehtola, J. Chem. Theory Comput. 15, 1593-1604 (2019)]. Here, we study the differences between effective potentials from fully numerical density functional and optimized effective potential calculations for fixed configurations. We find that the differences are small, overall, and choose exchange-only potentials at the local density approximation level of theory computed on top of Hartree-Fock densities as a good compromise. The differences between potentials arising from different atomic configurations are also found to be small at this level of theory. Furthermore, we discuss the efficient Gaussian-basis implementation of SAP via error function fits to fully numerical atomic radial potentials. The guess obtained from the fitted potentials can be easily implemented in any Gaussian-basis quantum chemistry code in terms of two-electron integrals. Fits covering the whole periodic table from H to Og are reported for non-relativistic as well as fully relativistic four-component calculations that have been carried out with fully numerical approaches."
  },
+ "https://doi.org/10.1016/j.toxicon.2019.10.024": {
+  "month": "4",
+  "pub_date": "20 Apr 2020",
+  "year": 2020,
+  "early_online": null,
+  "title": "Picofractionation & MS imaging: Analytics for pathology profiling of venoms",
+  "contributors": "Kool, J.",
+  "corresponding": null,
+  "organisations": "BioAnalytical Chemistry, AIMMS",
+  "journal": "Toxicon : official journal of the International Society on Toxinology",
+  "description": "Picofractionation & MS imaging: Analytics for pathology profiling of venoms"
+ },
  "https://doi.org/10.12688/f1000research.20559.1": {
   "month": "4",
   "pub_date": "22 Apr 2020",
@@ -1007,18 +1055,6 @@
   "journal": "Chemosphere",
   "description": "Novel brominated flame retardants - A review of their occurrence in indoor air, dust, consumer goods and foodThis critical review summarizes the occurrence of 63 novel brominated flame retardants (NBFRs) in indoor air, dust, consumer goods and food. It includes their EU registration and (potential) risks. The increasing application of NBFRs calls for more research on their occurrence, environmental fate and toxicity. This review reports which NBFRs are actually being studied, which are detected and which are of most concern. It also connects data from the European Chemical Association on NBFRs with other scientific information. Large knowledge gaps emerged for 28 (out of 63) NBFRs, which were not included in any monitoring programs or other studies. This also indicates the need for optimized analytical methods including all NBFRs. Further research on indoor environments, emission sources and potential leaching is also necessary. High concentrations of 2-ethylhexyl 2,3,4,5-tetrabromobenzoate (EH-TBB), bis(2-ethylhexyl)tetrabromophthalate (BEH-TEBP), decabromodiphenyl ethane (DBDPE) and 1,2-bis(2,4,6-tribromophenoxy)ethane (BTBPE) were often reported. The detection of hexabromobenzene (HBB), pentabromotoluene (PBT), 1,4-dimethyltetrabromobenzene (TBX), 4-(1,2-dibromoethyl)-1,2-dibromocyclohexane (DBE-DBCH) and tetrabromobisphenol A bis(2,3-dibromopropyl) ether (TBBPA-BDBPE) also raises concern."
  },
- "https://doi.org/10.1016/j.scitotenv.2020.139028": {
-  "month": "8",
-  "pub_date": "10 Aug 2020",
-  "year": 2020,
-  "early_online": "28 Apr 2020",
-  "title": "Development of a high-throughput bioassay for screening of antibiotics in aquatic environmental samples",
-  "contributors": "Jonkers, T. J., Steenhuis, M., Schalkwijk, L., Luirink, J., Bald, D., Houtman, C. J., Kool, J., Lamoree, M. H., Hamers, T.",
-  "corresponding": "Jonkers, T. J.",
-  "organisations": "AIMMS, Environmental Chemistry and Toxicology, Molecular Microbiology, LaserLaB - Molecular Biophysics, Structural Biology, BioAnalytical Chemistry, Environmental Health and Toxicology, VU University, The Water Laboratory",
-  "journal": "Science of the Total Environment",
-  "description": "Development of a high-throughput bioassay for screening of antibiotics in aquatic environmental samplesThe goal of the present study was to select a Gram-positive (Gram+) and Gram-negative (Gram\u2212) strain to measure antimicrobial activity in environmental samples, allowing high-throughput environmental screening. The sensitivity of eight pre-selected bacterial strains were tested to a training set of ten antibiotics, i.e. three Gram+ Bacillus subtilis strains with different read-outs, and five Gram\u2212 strains. The latter group consisted of a bioluminescent Allivibrio fischeri strain and four Escherichia coli strains, i.e. a wild type (WT) and three strains with a modified cell envelope to increase their sensitivity. The WT B. subtilis and an E. coli strain newly developed in this study, were most sensitive to the training set. This E. coli strain carries an open variant of an outer membrane protein combined with an inactivated multidrug efflux transport system. The assay conditions of these two strains were optimized and validated by exposure to a validation set of thirteen antibiotics with clinical and environmental relevance. The assay sensitivity ranged from the ng/mL to \u03bcg/mL range. The applicability of the assays for toxicological characterization of aquatic environmental samples was demonstrated for hospital effluent extract. A future application includes effect-directed analysis to identify yet unknown antibiotic contaminants or their transformation products."
- },
  "https://doi.org/10.3390/ijms21093123": {
   "month": "4",
   "pub_date": "28 Apr 2020",
@@ -1042,6 +1078,30 @@
   "organisations": "Environmental Bioanalytical Chemistry, AIMMS, Environmental Health and Toxicology",
   "journal": "Analytical and Bioanalytical Chemistry",
   "description": "Evaluation of LC-MS and LC\u00d7LC-MS in analysis of zebrafish embryo samples for comprehensive lipid profilingIn this study, both conventional one-dimensional liquid chromatography (1DLC) and comprehensive two-dimensional liquid chromatography (2DLC) coupled to a high-resolution time-of-flight mass spectrometer (HR-TOF MS) were used for full-scale lipid characterization of lipid extracts from zebrafish embryos. We investigated the influence on annotated lipids and different separation mechanisms (HILIC, C18, and PFP), and their different orders arranged in the first and the second dimensions. As a result, the number of lipid species annotated by conventional one-dimensional LC-MS was between 212 and 448. In contrast, the number of individual lipids species annotated by C18\u00d7HILIC, HILIC\u00d7C18, and HILIC\u00d7PFP were 1784, 1059, and 1123, respectively. Therefore, it was evident that the performance of comprehensive 2DLC, especially the C18\u00d7HILIC method, considerably exceeded 1DLC. Interestingly, a comparison of the HILIC\u00d7C18 and C18\u00d7HILIC approaches showed, under the optimized conditions, similar orthogonality, but the effective separation power of the C18\u00d7HILIC was much higher. A comparison of the HILIC\u00d7C18 and the HILIC\u00d7PFP methods demonstrated that the HILIC\u00d7PFP separation had superior orthogonality with a small increase on its effective peak capacity, indicating that the HILIC\u00d7PFP combination maybe a promising platform for untargeted lipidomics in complex samples. Finally, from the comprehensive lipid profiling respective, the C18\u00d7HILIC was selected for further studies."
+ },
+ "https://doi.org/10.1016/j.toxlet.2020.04.008": {
+  "month": "4",
+  "pub_date": "1 Oct 2020",
+  "year": 2020,
+  "early_online": "30 Apr 2020",
+  "title": "Human exposure to synthetic endocrine disrupting chemicals (S-EDCs) is generally negligible as compared to natural compounds with higher or comparable endocrine activity. How to evaluate the risk of the S-EDCs?",
+  "contributors": "Autrup, H., Barile, F. A., Berry, S. C., Blaauboer, B. J., Boobis, A., Bolt, H., Borgert, C. J., Dekant, W., Dietrich, D., Domingo, J. L., Gori, G. B., Greim, H., Hengstler, J., Kacew, S., Marquardt, H., Pelkonen, O., Savolainen, K., Heslop-Harrison, P., Vermeulen, N. P.",
+  "corresponding": "Greim, H.",
+  "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, Aarhus University, St. John's University, Queen Mary University of London, Utrecht University, Imperial College London, Dortmund University, Applied Pharmacology and Toxicology, Inc., University of W\u00fcrzburg, University of Konstanz, Pere Virgili Health Research Institute, The Health Policy Center, Technical University of Munich, University of Ottawa, Toxicology, University of Oulu, Finnish Institute of Occupational Health, University of Leicester",
+  "journal": "Toxicology Letters",
+  "description": "Human exposure to synthetic endocrine disrupting chemicals (S-EDCs) is generally negligible as compared to natural compounds with higher or comparable endocrine activity. How to evaluate the risk of the S-EDCs?"
+ },
+ "https://doi.org/10.1016/j.tiv.2020.104861": {
+  "month": "4",
+  "pub_date": "Sep 2020",
+  "year": 2020,
+  "early_online": "30 Apr 2020",
+  "title": "Human exposure to synthetic endocrine disrupting chemicals (S-EDCs) is generally negligible as compared to natural compounds with higher or comparable endocrine activity. How to evaluate the risk of the S-EDCs?",
+  "contributors": "Autrup, H., Barile, F. A., Berry, S. C., Blaauboer, B. J., Boobis, A., Bolt, H., Borgert, C. J., Dekant, W., Dietrich, D., Domingo, J. L., Gori, G. B., Greim, H., Hengstler, J., Kacew, S., Marquardt, H., Pelkonen, O., Savolainen, K., Heslop-Harrison, P., Vermeulen, N. P.",
+  "corresponding": "Blaauboer, B. J.",
+  "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, Aarhus University, St. John's University, Queen Mary University of London, Utrecht University, Imperial College London, Dortmund University, Applied Pharmacology and Toxicology, Inc., University of W\u00fcrzburg, University of Konstanz, Pere Virgili Health Research Institute, The Health Policy Center, University of Ottawa, Toxicology, University of Oulu, Finnish Institute of Occupational Health, University of Leicester",
+  "journal": "Toxicology in Vitro",
+  "description": "Human exposure to synthetic endocrine disrupting chemicals (S-EDCs) is generally negligible as compared to natural compounds with higher or comparable endocrine activity. How to evaluate the risk of the S-EDCs?Theoretically, both synthetic endocrine disrupting chemicals (S-EDCs) and natural (exogenous and endogenous) endocrine disrupting chemicals (N-EDCs) can interact with endocrine receptors and disturb hormonal balance. However, compared to endogenous hormones, S-EDCs are only weak partial agonists with receptor affinities several orders of magnitude lower. Thus, to elicit observable effects, S-EDCs require considerably higher concentrations to attain sufficient receptor occupancy or to displace natural hormones and other endogenous ligands. Significant exposures to exogenous N-EDCs may result from ingestion of foods such as soy-based diets, green tea and sweet mustard. While their potencies are lower as compared to natural endogenous hormones, they usually are considerably more potent than S-EDCs. Effects of exogenous N-EDCs on the endocrine system were observed at high dietary intakes. A causal relation between their mechanism of action and these effects is established and biologically plausible. In contrast, the assumption that the much lower human exposures to S-EDCs may induce observable endocrine effects is not plausible. Hence, it is not surprising that epidemiological studies searching for an association between S-EDC exposure and health effects have failed. Regarding testing for potential endocrine effects, a scientifically justified screen should use in vitro tests to compare potencies of S-EDCs with those of reference N-EDCs. When the potency of the S-EDC is similar or smaller than that of the N-EDC, further testing in laboratory animals and regulatory consequences are not warranted."
  },
  "https://doi.org/10.1007/s00109-020-01907-w": {
   "month": "5",
@@ -1199,6 +1259,18 @@
   "journal": "Environmental Toxicology and Pharmacology",
   "description": "Human exposure to synthetic endocrine disrupting chemicals (S-EDCs) is generally negligible as compared to natural compounds with higher or comparable endocrine activity. How to evaluate the risk of the S-EDCs?Theoretically, both synthetic endocrine disrupting chemicals (S-EDCs) and natural (exogenous and endogenous) endocrine disrupting chemicals (N-EDCs) can interact with endocrine receptors and disturb hormonal balance. However, compared to endogenous hormones, S-EDCs are only weak partial agonists with receptor affinities several orders of magnitude lower than S-EDCs. Thus, to elicit observable effects, S-EDCs require considerably higher concentrations to attain sufficient receptor occupancy or to displace natural hormones and other endogenous ligands. Significant exposures to exogenous N-EDCs may result from ingestion of foods such as soy-based diets, green tea and sweet mustard. While their potencies are lower as compared to natural endogenous hormones, they usually are considerably more potent than S-EDCs. Effects of exogenous N-EDCs on the endocrine system were observed at high dietary intakes. A causal relation between their mechanism of action and these effects is established and biologically plausible. In contrast, the assumption that the much lower human exposures to S-EDCs may induce observable endocrine effects is not plausible. Hence, it is not surprising that epidemiological studies searching for an association between S-EDC exposure and health effects have failed. Regarding testing for potential endocrine effects, a scientifically justified screen should use in vitro tests to compare potencies of S-EDCs with those of reference N-EDCs. When the potency of the S-EDC is similar or smaller than that of the N-EDC, further testing in laboratory animals and regulatory consequences are not warranted."
  },
+ "https://doi.org/10.1016/j.scitotenv.2020.139028": {
+  "month": "8",
+  "pub_date": "10 Aug 2020",
+  "year": 2020,
+  "early_online": "28 Apr 2020",
+  "title": "Development of a high-throughput bioassay for screening of antibiotics in aquatic environmental samples",
+  "contributors": "Jonkers, T. J., Steenhuis, M., Schalkwijk, L., Luirink, J., Bald, D., Houtman, C. J., Kool, J., Lamoree, M. H., Hamers, T.",
+  "corresponding": "Jonkers, T. J.",
+  "organisations": "AIMMS, Environmental Chemistry and Toxicology, Molecular Microbiology, LaserLaB - Molecular Biophysics, Structural Biology, BioAnalytical Chemistry, Environmental Health and Toxicology, VU University, The Water Laboratory",
+  "journal": "Science of the Total Environment",
+  "description": "Development of a high-throughput bioassay for screening of antibiotics in aquatic environmental samplesThe goal of the present study was to select a Gram-positive (Gram+) and Gram-negative (Gram\u2212) strain to measure antimicrobial activity in environmental samples, allowing high-throughput environmental screening. The sensitivity of eight pre-selected bacterial strains were tested to a training set of ten antibiotics, i.e. three Gram+ Bacillus subtilis strains with different read-outs, and five Gram\u2212 strains. The latter group consisted of a bioluminescent Allivibrio fischeri strain and four Escherichia coli strains, i.e. a wild type (WT) and three strains with a modified cell envelope to increase their sensitivity. The WT B. subtilis and an E. coli strain newly developed in this study, were most sensitive to the training set. This E. coli strain carries an open variant of an outer membrane protein combined with an inactivated multidrug efflux transport system. The assay conditions of these two strains were optimized and validated by exposure to a validation set of thirteen antibiotics with clinical and environmental relevance. The assay sensitivity ranged from the ng/mL to \u03bcg/mL range. The applicability of the assays for toxicological characterization of aquatic environmental samples was demonstrated for hospital effluent extract. A future application includes effect-directed analysis to identify yet unknown antibiotic contaminants or their transformation products."
+ },
  "https://doi.org/10.1016/j.comtox.2020.100124": {
   "month": "5",
   "pub_date": "May 2020",
@@ -1283,6 +1355,30 @@
   "journal": "Methods in Ecology and Evolution",
   "description": "The omnistat: A flexible continuous-culture system for prolonged experimental evolutionMicrobial evolution experiments provide a powerful tool to unravel the molecular basis of adaptive evolution but their outcomes can be difficult to interpret, unless the selective forces that are applied during the experiment are carefully controlled. In this respect, experimental evolution in continuous cultures provides advantages over commonly used sequential batch-culture protocols because continuous cultures allow for more accurate control over the induced selective environment. However, commercial continuous-culture systems are large and expensive, while available DIY continuous-culture systems are not versatile enough to allow for multiple sensors and rigorous stirring. We present a modular continuous-culture system that adopts the commonly used GL45 glass laboratory bottle as a bioreactor vessel. Our design offers three advantages: first, it is equipped with a large head plate, fitting two sensors and seven input/output ports, enabling the customization of the system for many running modes (chemostat, auxostat, etc.). Second, the bioreactor is small (25\u2013250ml), which makes it feasible to run many replicates in parallel. Third, bioreactor modules can be coupled by uni- or bi-directional flows to induce spatiotemporal variation in selection. These features result in a particularly flexible culturing platform that facilitates the investigation of a broad range of evolutionary and ecological questions. To illustrate the versatility of our culturing system, we outline two evolution experiments that impose a temporally or spatially variable regime of selection. The first experiment illustrates how controlled temporal variation in resource availability can be utilized to select for anticipatory switching. The second experiment illustrates a spatially structured morbidostat setup that is designed to probe epistatic interactions between adaptive mutations. Furthermore, we demonstrate how sensor data can be used to stabilize selection pressures or track evolutionary adaptation. Evolution experiments in which populations are exposed to controlled spatiotemporal variation, are essential to gain insight into the process of adaptation and the mechanisms that constrain evolution. Continuous-culture systems, like the one presented here, offer control over key environmental parameters and establish a well-defined regime of selection. As such, they create the opportunity to expose evolutionary constraints in the form of phenotypic trade-offs, contributing to a mechanistic understanding of adaptive evolution."
  },
+ "https://doi.org/10.1021/acs.organomet.0c00066": {
+  "month": "5",
+  "pub_date": "26 May 2020",
+  "year": 2020,
+  "early_online": "8 May 2020",
+  "title": "Synthesis, Structures, and Electronic Properties of O- And S-Heterocyclic Carbene Complexes of Iridium, Copper, Silver, and Gold",
+  "contributors": "Joost, M., Nieger, M., Lutz, M., Ehlers, A. W., Slootweg, J. C., Lammertsma, K.",
+  "corresponding": "Lammertsma, K.",
+  "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, University of Helsinki, Utrecht University",
+  "journal": "Organometallics",
+  "description": "Synthesis, Structures, and Electronic Properties of O- And S-Heterocyclic Carbene Complexes of Iridium, Copper, Silver, and GoldO- and S-heterocyclic carbenes (OHCs, SHCs) are shown experimentally and computationally to be stronger \u03c0acceptors than NHCs and lack, of course, substituents at the heteroatoms. These different electronic and steric characteristics make OHCs and SHCs interesting ligands for coordination chemistry. Convenient synthetic routes are presented to access their iridium(I), iridium(III), and coinage-metal(I) (Cu, Ag, Au) complexes in good yields by means of dissociation of olefins, deprotonation of precursor salts, and transmetalation from a silver carbene complex. Molecular structures and detailed bonding analyses of these complexes are presented."
+ },
+ "https://doi.org/10.1007/s00204-020-02793-4": {
+  "month": "5",
+  "pub_date": "1 Sep 2020",
+  "year": 2020,
+  "early_online": "29 May 2020",
+  "title": "Human multidrug resistance protein 4 (MRP4) is a cellular efflux transporter for paracetamol glutathione and cysteine conjugates",
+  "contributors": "Koenderink, J. B., van den Heuvel, J. J., Bilos, A., Vredenburg, G., Vermeulen, N. P., Russel, F. G.",
+  "corresponding": "Koenderink, J. B.",
+  "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, Radboud University Nijmegen, VU University",
+  "journal": "Archives of Toxicology",
+  "description": "Human multidrug resistance protein 4 (MRP4) is a cellular efflux transporter for paracetamol glutathione and cysteine conjugatesParacetamol (acetaminophen, APAP) overdose is a leading cause of acute drug-induced liver failure. APAP hepatotoxicity is mediated by the reactive metabolite N-acetyl-p-benzoquinone imine (NAPQI). NAPQI is inactivated by conjugation with glutathione (GSH) to APAP-GSH, which is further converted into its cysteine derivative APAP-CYS. Before necrosis of hepatocytes occurs, APAP-CYS is measurable in plasma of the affected patient and it has been proposed as an early biomarker of acetaminophen toxicity. APAP-GSH and APAP-CYS can be extruded by hepatocytes, but the transporters involved are unknown. In this study we examined whether ATP-binding cassette (ABC) transporters play a role in the cellular efflux of APAP, APAP-GSH, and APAP-CYS. The ABC transport proteins P-gp/ABCB1, BSEP/ABCB11, BCRP/ABCG2, and MRP/ABCC1-5 were overexpressed in HEK293 cells and membrane vesicles were produced. Whereas P-gp, BSEP, MRP3, MRP5, and BCRP did not transport any of the compounds, uptake of APAP-GSH was found for MRP1, MRP2 and MRP4. APAP-CYS appeared to be a substrate of MRP4 and none of the ABC proteins transported APAP. The results suggest that the NAPQI metabolite APAP-CYS can be excreted into plasma by MRP4, where it could be a useful biomarker for APAP exposure and toxicity. Characterization of the cellular efflux of APAP-CYS is important for its development as a biomarker, because plasma concentrations might be influenced by drug-transporter interactions and upregulation of MRP4."
+ },
  "https://doi.org/10.1063/5.0004844": {
   "month": "5",
   "pub_date": "29 May 2020",
@@ -1343,6 +1439,30 @@
   "journal": "Journal of Organic Chemistry",
   "description": "Synthesis of Quinazolin-4-ones by Copper-Catalyzed Isocyanide InsertionHerein, we report a novel copper-catalyzed imidoylative cross-coupling/cyclocondensation reaction between 2-isocyanobenzoates and amines efficiently producing quinazolin-4-ones. The reaction utilizes Cu(II) acetate as an environmentally benign catalyst in combination with a mild base and proceeds well in anisole, a recommended, sustainable solvent. Additionally, the reaction does not require dry conditions or inert atmospheres for optimal performance. The scope of this isocyanide insertion reaction is rather broad, tolerating various functionalized isocyanobenzoates and a range of substituted amines, although the use of aromatic amines as nucleophiles requires microwave heating."
  },
+ "https://doi.org/10.1021/acsenergylett.0c00914": {
+  "month": "6",
+  "pub_date": "12 Jun 2020",
+  "year": 2020,
+  "early_online": "8 May 2020",
+  "title": "Compositional Tuning of Carrier Dynamics in Cs2Na1- x",
+  "contributors": "Zhu, D., Zito, J., Pinchetti, V., Dang, Z., Olivati, A., Pasquale, L., Tang, A., Zaffalon, M. L., Meinardi, F., Infante, I., De Trizio, L., Manna, L., Brovelli, S.",
+  "corresponding": "De Trizio, L.",
+  "organisations": "Theoretical Chemistry, AIMMS, Beijing Jiaotong University, Italian Institute of Technology, University of Genoa, University of Milan - Bicocca",
+  "journal": "ACS Energy Letters",
+  "description": "Compositional Tuning of Carrier Dynamics in Cs2Na1- xAgxBiCl6Double-Perovskite NanocrystalsWe devised a hot-injection synthesis to prepare colloidal double-perovskite Cs2NaBiCl6 nanocrystals (NCs). We also examined the effects of replacing Na+ with Ag+ cations by preparing and characterizing Cs2Na1-xAgxBiCl6 alloy NCs with x ranging from 0 to 1. Whereas Cs2NaBiCl6 NCs were not emissive, Cs2Na1-xAgxBiCl6 NCs featured a broad photoluminescence band at \u223c690 nm, Stokes-shifted from the respective absorption by \u22651.5 eV. The emission efficiency was maximized for low Ag+ amounts, reaching \u223c3% for the Cs2Na0.95Ag0.05BiCl6 composition. Density functional theory calculations coupled with spectroscopic investigations revealed that Cs2Na1-xAgxBiCl6 NCs are characterized by a complex photophysics stemming from the interplay of (i) radiative recombination via trapped excitons localized in spatially connected AgCl6-BiCl6 octahedra; (ii) surface traps, located on undercoordinated surface Bi centers, behaving as phonon-assisted nonradiative decay channels; and (iii) a thermal equilibrium between trapping and detrapping processes. These results offer insights into developing double-perovskite NCs with enhanced optoelectronic efficiency. "
+ },
+ "https://doi.org/10.1016/j.cub.2020.04.030": {
+  "month": "6",
+  "pub_date": "22 Jun 2020",
+  "year": 2020,
+  "early_online": "14 May 2020",
+  "title": "Biphasic Cell-Size and Growth-Rate Homeostasis by Single Bacillus subtilis Cells",
+  "contributors": "Nordholt, N., van Heerden, J. H., Bruggeman, F. J.",
+  "corresponding": "Bruggeman, F. J.",
+  "organisations": "Systems Bioinformatics, AIMMS",
+  "journal": "Current Biology",
+  "description": "Biphasic Cell-Size and Growth-Rate Homeostasis by Single Bacillus subtilis CellsNordholt et al. show how growth-rate and protein-concentration homeostasis is achieved in Bacillus subtilis, through systematic rate adjustments during cell-cycle progression. They identify two distinct growth regimes in this bacterium's cell cycle, suggesting a link between growth-rate dynamics and size homeostasis."
+ },
  "https://doi.org/10.1002/ejoc.202000590": {
   "month": "7",
   "pub_date": "7 Jul 2020",
@@ -1378,6 +1498,30 @@
   "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, Aarhus University, St. John's University, Queen Mary University of London, Utrecht University, Imperial College London, Dortmund University, Applied Pharmacology and Toxicology, Inc., University of W\u00fcrzburg, University of Konstanz, Pere Virgili Health Research Institute, The Health Policy Center, Technical University of Munich, University of Ottawa, Toxicology, University of Oulu, Finnish Institute of Occupational Health, University of Leicester",
   "journal": "Chemico-Biological Interactions",
   "description": "Human exposure to synthetic endocrine disrupting chemicals (S-EDCs) is generally negligible as compared to natural compounds with higher or comparable endocrine activity. How to evaluate the risk of the S-EDCs?Theoretically, both synthetic endocrine disrupting chemicals (S-EDCs) and natural (exogenous and endogenous) endocrine disrupting chemicals (N-EDCs) can interact with endocrine receptors and disturb hormonal balance. However, compared to endogenous hormones, S-EDCs are only weak partial agonists with receptor affinities several orders of magnitude lower. Thus, to elicit observable effects, S-EDCs require considerably higher concentrations to attain sufficient receptor occupancy or to displace natural hormones and other endogenous ligands. Significant exposures to exogenous N-EDCs may result from ingestion of foods such as soy-based diets, green tea and sweet mustard. While their potencies are lower as compared to natural endogenous hormones, they usually are considerably more potent than S-EDCs. Effects of exogenous N-EDCs on the endocrine system were observed at high dietary intakes. A causal relation between their mechanism of action and these effects is established and biologically plausible. In contrast, the assumption that the much lower human exposures to S-EDCs may induce observable endocrine effects is not plausible. Hence, it is not surprising that epidemiological studies searching for an association between S-EDC exposure and health effects have failed. Regarding testing for potential endocrine effects, a scientifically justified screen should use in vitro tests to compare potencies of S-EDCs with those of reference N-EDCs. When the potency of the S-EDC is similar or smaller than that of the N-EDC, further testing in laboratory animals and regulatory consequences are not warranted."
+ },
+ "https://doi.org/10.1089/ast.2019.2063": {
+  "month": "6",
+  "pub_date": "Jun 2020",
+  "year": 2020,
+  "early_online": "10 Jun 2020",
+  "title": "Biosignature Analysis of Mars Soil Analogs from the Atacama Desert: Challenges and Implications for Future Missions to Mars",
+  "contributors": "Aerts, J. W., Riedo, A., Melton, D. J., Martini, S., Flahaut, J., Meierhenrich, U. J., Meinert, C., Myrgorodska, I., Lindner, R., Ehrenfreund, P.",
+  "corresponding": null,
+  "organisations": "Molecular Cell Physiology, AIMMS, Leiden University, Centre de recherches p\u00e9trographiques et g\u00e9ochimiques, Universit\u00e9 C\u00f4te d\u2019Azur, University of Bristol, ESTEC",
+  "journal": "Astrobiology",
+  "description": "Biosignature Analysis of Mars Soil Analogs from the Atacama Desert: Challenges and Implications for Future Missions to MarsThe detection of biosignatures on Mars is of outstanding interest in the current field of astrobiology and drives various fields of research, ranging from new sample collection strategies to the development of more sensitive detection techniques. Detailed analysis of the organic content in Mars analog materials collected from extreme environments on Earth improves the current understanding of biosignature preservation and detection under conditions similar to those of Mars. In this article, we examined the biological fingerprint of several locations in the Atacama Desert (Chile), which include different wet and dry, and intermediate to high elevation salt flats (also named salars). Liquid chromatography and multidimensional gas chromatography mass spectrometry measurement techniques were used for the detection and analysis of amino acids extracted from the salt crusts and sediments by using sophisticated extraction procedures. Illumina 16S amplicon sequencing was used for the identification of microbial communities associated with the different sample locations. Although amino acid load and organic carbon and nitrogen quantities were generally low, it was found that most of the samples harbored complex and versatile microbial communities, which were dominated by (extremely) halophilic microorganisms (most notably by species of the Archaeal family Halobacteriaceae). The dominance of salts (i.e., halites and sulfates) in the investigated samples leaves its mark on the composition of the microbial communities but does not appear to hinder the potential of life to flourish since it can clearly adapt to the higher concentrations. Although the Atacama Desert is one of the driest and harshest environments on Earth, it is shown that there are still sub-locations where life is able to maintain a foothold, and, as such, salt flats could be considered as interesting targets for future life exploration missions on Mars."
+ },
+ "https://doi.org/10.7189/jogh.10.010330": {
+  "month": "6",
+  "pub_date": "Jun 2020",
+  "year": 2020,
+  "early_online": null,
+  "title": "Empowering women through probiotic fermented food in East Africa",
+  "contributors": "Reid, G., Sybesma, W., Matovu, W., Onyango, A., Westerik, N., Kort, R.",
+  "corresponding": "Reid, G.",
+  "organisations": "Molecular Cell Physiology, AIMMS, Western University, Yoba for Life Foundation, Heifer International, Jomo Kenyatta University of Agriculture and Technology",
+  "journal": "Journal of global health",
+  "description": "Empowering women through probiotic fermented food in East Africa"
  },
  "https://doi.org/10.1038/s42004-020-0313-2": {
   "month": "6",
@@ -1438,6 +1582,18 @@
   "organisations": "Theoretical Chemistry, Chemistry and Pharmaceutical Sciences, AIMMS, University of Southern Denmark, Radboud University Nijmegen",
   "journal": "Chemphyschem : a European journal of chemical physics and physical chemistry",
   "description": "Through-Space Polar-\u03c0 Interactions in 2,6-DiarylthiophenolsThe front cover artwork is provided by Marijn Maas from the group of Prof. Jasmin Mecinovi\u0107 (University of Southern Denmark). The image shows the stabilization of thiols by aromatic rings, as a result of energetically favorable SH-\u03c0 interactions in a designed small molecule and in proteins. Read the full text of the Article at 10.1002/cphc.202000132."
+ },
+ "https://doi.org/10.4230/LIPIcs.CPM.2020.10": {
+  "month": "6",
+  "pub_date": "9 Jun 2020",
+  "year": 2020,
+  "early_online": null,
+  "title": "Unary Words Have the Smallest Levenshtein k-Neighbourhoods",
+  "contributors": "Charalampopoulos, P., Pissis, S. P., Radoszewski, J., Walen, T., Zuba, W.",
+  "corresponding": null,
+  "organisations": "Bioinformatics, AIMMS, Bio Informatics (IBIVU), University of Warsaw",
+  "journal": null,
+  "description": "Unary Words Have the Smallest Levenshtein k-NeighbourhoodsThe edit distance (a.k.a. the Levenshtein distance) between two words is defined as the minimum number of insertions, deletions or substitutions of letters needed to transform one word into another. The Levenshtein k-neighbourhood of a word w is the set of words that are at edit distance at most k from w. This is perhaps the most important concept underlying BLAST, a widely-used tool for comparing biological sequences. A natural combinatorial question is to ask for upper and lower bounds on the size of this set. The answer to this question has important algorithmic implications as well. Myers notes that \"such bounds would give a tighter characterisation of the running time of the algorithm\" behind BLAST. We show that the size of the Levenshtein k-neighbourhood of any word of length n over an arbitrary alphabet is not smaller than the size of the Levenshtein k-neighbourhood of a unary word of length n, thus providing a tight lower bound on the size of the Levenshtein k-neighbourhood. We remark that this result was posed as a conjecture by Dufresne at WCTA 2019. 2012 ACM Subject Classification Theory of computation ! Pattern matching."
  },
  "https://doi.org/10.3389/fmolb.2020.00114": {
   "month": "6",
@@ -1523,6 +1679,30 @@
   "journal": "Environment International",
   "description": "Where is the evidence that human exposure to microplastics is safe?"
  },
+ "https://doi.org/10.1039/d0sc02878a": {
+  "month": "6",
+  "pub_date": "28 Jun 2020",
+  "year": 2020,
+  "early_online": "24 Jun 2020",
+  "title": "Dual catalytic enantioselective desymmetrization of allene-tethered cyclohexanones",
+  "contributors": "Zhang, L., Yamazaki, K., Leitch, J. A., Manzano, R., Atkinson, V. A., Hamlin, T. A., Dixon, D. J.",
+  "corresponding": "Dixon, D. J.",
+  "organisations": "Theoretical Chemistry, AIMMS, University of Oxford",
+  "journal": "Chemical Science",
+  "description": "Dual catalytic enantioselective desymmetrization of allene-tethered cyclohexanonesThe construction of enantioenriched azabicyclo[3.3.1]nonan-6-one heterocycles via an enantioselective desymmetrization of allene-linked cyclohexanones, enabled through a dual catalytic system, that provides synchronous activation of the cyclohexanone with a chiral prolinamide and the allene with a copper(i) co-catalyst to deliver the stereodefined bicyclic core, is described. Successful application to oxygen analogues was also achieved, thereby providing a new enantioselective synthetic entry to architecturally complex bicyclic ethereal frameworks. The mechanistic pathway and the origin of enantio- and diastereoselectivities has been uncovered using density functional theory (DFT) calculations. This journal is "
+ },
+ "https://doi.org/10.1016/j.chembiol.2020.06.006": {
+  "month": "6",
+  "pub_date": "30 Jun 2020",
+  "year": 2020,
+  "early_online": "30 Jun 2020",
+  "title": "Monitoring Allosteric Interactions with CXCR4 Using Nano",
+  "contributors": "Soave, M., Heukers, R., Kellam, B., Woolard, J., Smit, M. J., Briddon, S. J., Hill, S. J.",
+  "corresponding": "Hill, S. J.",
+  "organisations": "Medicinal chemistry, AIMMS, University of Nottingham",
+  "journal": null,
+  "description": "Monitoring Allosteric Interactions with CXCR4 Using NanoBiT Conjugated NanobodiesCamelid single-domain antibody fragments (nanobodies) offer the specificity of an antibody in a single 15-kDa immunoglobulin domain. Their small size allows for easy genetic manipulation of the nanobody sequence to incorporate protein tags, facilitating their use as biochemical probes. The nanobody VUN400, which recognizes the second extracellular loop of the human CXCR4 chemokine receptor, was used as a probe to monitor specific CXCR4 conformations. VUN400 was fused via its C terminus to the 11-amino-acid HiBiT tag (VUN400-HiBiT) which complements LgBiT protein, forming a full-length functional NanoLuc luciferase. Here, complemented luminescence was used to detect VUN400-HiBiT binding to CXCR4 receptors expressed in living HEK293 cells. VUN400-HiBiT binding to CXCR4 could be prevented by orthosteric and allosteric ligands, allowing VUN400-HiBiT to be used as a probe to detect allosteric interactions with CXCR4. These data demonstrate that the high specificity offered by extracellular targeted nanobodies can be utilized to probe receptor pharmacology."
+ },
  "https://doi.org/10.1007/s00204-020-02792-5": {
   "month": "6",
   "pub_date": "30 Jun 2020",
@@ -1534,6 +1714,66 @@
   "organisations": "AIMMS, Molecular and Computational Toxicology, Division of Drug Discovery and Safety, Leiden Academic Centre of Drug Research, Leiden University, Einsteinweg 55, 2333 CC, Leiden, The Netherlands., Cyprotex Discovery Ltd, Alderley Park, Macclesfield, Cheshire, UK., University of Konstanz, Constance, Germany., Department of Biochemistry and Biophysics, Stockholm University, Stockholm, Sweden., National Food Institute Technical University of Denmark (DTU), Lyngby, Denmark., Simcyp Limited (a Certara Company) , Blades Enterprise Centre, Sheffield S2 4SU, U.K., Division of Drug Discovery and Safety, Leiden Academic Centre of Drug Research, Leiden University, Einsteinweg 55, 2333 CC, Leiden, The Netherlands. water_b@lacdr.leidenuniv.nl.",
   "journal": null,
   "description": "Multiparametric assessment of mitochondrial respiratory inhibition in HepG2 and RPTEC/TERT1 cells using a panel of mitochondrial targeting agrochemicalsEvidence is mounting for the central role of mitochondrial dysfunction in several pathologies including metabolic diseases, accelerated ageing, neurodegenerative diseases and in certain xenobiotic-induced organ toxicity. Assessing mitochondrial perturbations is not trivial and the outcomes of such investigations are dependent on the cell types used and assays employed. Here we systematically investigated the effect of electron transport chain (ETC) inhibitors on multiple mitochondrial-related parameters in two human cell types, HepG2 and RPTEC/TERT1. Cells were exposed to a broad range of concentrations of 20 ETC-inhibiting agrochemicals and capsaicin, consisting of inhibitors of NADH dehydrogenase (Complex I, CI), succinate dehydrogenase (Complex II, CII) and cytochrome bc1 complex (Complex III, CIII). A battery of tests was utilised, including viability assays, lactate production, mitochondrial membrane potential (MMP) and the Seahorse bioanalyser, which simultaneously measures extracellular acidification rate [ECAR] and oxygen consumption rate [OCR]. CI inhibitors caused a potent decrease in OCR, decreased mitochondrial membrane potential, increased ECAR and increased lactate production in both cell types. Twenty-fourhour exposure to CI inhibitors decreased viability of RPTEC/TERT1 cells and 3D spheroid-cultured HepG2 cells in the presence of glucose. CI inhibitors decreased 2D HepG2 viability only in the absence of glucose. CII inhibitors had no notable effects in intact cells up to 10 \u00b5M. CIII inhibitors had similar effects to the CI inhibitors. Antimycin A was the most potent CIII inhibitor, with activity in the nanomolar range. The proposed CIII inhibitor cyazofamid demonstrated a mitochondrial uncoupling signal in both cell types. The study presents a comprehensive example of a mitochondrial assessment workflow and establishes measurable key events of ETC inhibition."
+ },
+ "https://doi.org/10.1007/s00109-020-01938-3": {
+  "month": "7",
+  "pub_date": "Jul 2020",
+  "year": 2020,
+  "early_online": "10 Jun 2020",
+  "title": "Correction to: Signaling lipids as diagnostic biomarkers for ocular surface cicatrizing conjunctivitis",
+  "contributors": "Di Zazzo, A., Yang, W., Coassin, M., Micera, A., Antonini, M., Piccinni, F., De Piano, M., Kohler, I., Harms, A. C., Hankemeier, T., Bonini, S., Mashaghi, A.",
+  "corresponding": "Mashaghi, A.",
+  "organisations": "BioAnalytical Chemistry, AIMMS, Universita Campus Bio-Medico di Roma, Leiden University, IRCCS Fondazione G.B. Bietti per lo studio e la ricerca in oftalmologia- Roma",
+  "journal": "Journal of Molecular Medicine",
+  "description": "Correction to: Signaling lipids as diagnostic biomarkers for ocular surface cicatrizing conjunctivitisThe correct name of the 11th Author and the missing Acknowledgment is presented in this paper. Acknowledgements: The project was partially funded by the Italian Ministry of Health (AM and MDP). AM and MDP thank Fondazione Roma for continuous support."
+ },
+ "https://doi.org/10.1007/s00204-020-02800-8": {
+  "month": "7",
+  "pub_date": "Jul 2020",
+  "year": 2020,
+  "early_online": "8 Jun 2020",
+  "title": "Human exposure to synthetic endocrine disrupting chemicals (S-EDCs) is generally negligible as compared to natural compounds with higher or comparable endocrine activity: how to evaluate the risk of the S-EDCs?",
+  "contributors": "Autrup, H., Barile, F. A., Berry, S. C., Blaauboer, B. J., Boobis, A., Bolt, H., Borgert, C. J., Dekant, W., Dietrich, D., Domingo, J. L., Gori, G. B., Greim, H., Hengstler, J., Kacew, S., Marquardt, H., Pelkonen, O., Savolainen, K., Heslop-Harrison, P., Vermeulen, N. P.",
+  "corresponding": "Greim, H.",
+  "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, Aarhus University, St. John's University, Queen Mary University of London, Utrecht University, Imperial College London, Dortmund University, Applied Pharmacology and Toxicology, Inc., University of W\u00fcrzburg, University of Konstanz, Pere Virgili Health Research Institute, The Health Policy Center, Technical University of Munich, University of Ottawa, Toxicology, University of Oulu, Finnish Institute of Occupational Health, University of Leicester",
+  "journal": "Archives of Toxicology",
+  "description": "Human exposure to synthetic endocrine disrupting chemicals (S-EDCs) is generally negligible as compared to natural compounds with higher or comparable endocrine activity: how to evaluate the risk of the S-EDCs?Theoretically, both synthetic endocrine disrupting chemicals (S-EDCs) and natural (exogenous and endogenous) endocrine disrupting chemicals (N-EDCs) can interact with endocrine receptors and disturb hormonal balance. However, compared to endogenous hormones, S-EDCs are only weak partial agonists with receptor affinities several orders of magnitude lower. Thus, to elicit observable effects, S-EDCs require considerably higher concentrations to attain sufficient receptor occupancy or to displace natural hormones and other endogenous ligands. Significant exposures to exogenous N-EDCs may result from ingestion of foods such as soy-based diets, green tea and sweet mustard. While their potencies are lower as compared to natural endogenous hormones, they usually are considerably more potent than S-EDCs. Effects of exogenous N-EDCs on the endocrine system were observed at high dietary intakes. A causal relation between their mechanism of action and these effects is established and biologically plausible. In contrast, the assumption that the much lower human exposures to S-EDCs may induce observable endocrine effects is not plausible. Hence, it is not surprising that epidemiological studies searching for an association between S-EDC exposure and health effects have failed. Regarding testing for potential endocrine effects, a scientifically justified screen should use in vitro tests to compare potencies of S-EDCs with those of reference N-EDCs. When the potency of the S-EDC is similar or smaller than that of the N-EDC, further testing in laboratory animals and regulatory consequences are not warranted."
+ },
+ "https://doi.org/10.1002/adfm.202002064": {
+  "month": "8",
+  "pub_date": "1 Aug 2020",
+  "year": 2020,
+  "early_online": "2 Jun 2020",
+  "title": "Computationally Guided Molecular Design to Minimize the LE/CT Gap in D-\u03c0-A Fluorinated Triarylboranes for Efficient TADF via D and \u03c0-Bridge Tuning",
+  "contributors": "Narsaria, A. K., Rauch, F., Krebs, J., Endres, P., Friedrich, A., Krummenacher, I., Braunschweig, H., Finze, M., Nitsch, J., Bickelhaupt, F. M., Marder, T. B.",
+  "corresponding": "Bickelhaupt, F. M.",
+  "organisations": "Theoretical Chemistry, Chemistry and Pharmaceutical Sciences, AIMMS, University of W\u00fcrzburg",
+  "journal": "Advanced Functional Materials",
+  "description": "Computationally Guided Molecular Design to Minimize the LE/CT Gap in D-\u03c0-A Fluorinated Triarylboranes for Efficient TADF via D and \u03c0-Bridge TuningIn this combined experimental and theoretical study, a computational protocol is reported to predict the excited states in D-\u03c0-A compounds containing the B(FXyl)2 (FXyl = 2,6-bis(trifluoromethyl)phenyl) acceptor group for the design of new thermally activated delayed fluorescence (TADF) emitters. To this end, the effect of different donor and \u03c0-bridge moieties on the energy gaps between local and charge-transfer singlet and triplet states is examined. To prove this computationally aided design concept, the D-\u03c0-B(FXyl)2 compounds 1\u20135 were synthesized and fully characterized. The photophysical properties of these compounds in various solvents, polymeric film, and in a frozen matrix were investigated in detail and show excellent agreement with the computationally obtained data. Furthermore, a simple structure\u2013property relationship is presented on the basis of the molecular fragment orbitals of the donor and the \u03c0-bridge, which minimize the relevant singlet\u2013triplet gaps to achieve efficient TADF emitters."
+ },
+ "https://doi.org/10.1007/978-1-0716-0712-1_7": {
+  "month": "7",
+  "pub_date": "2020",
+  "year": 2020,
+  "early_online": null,
+  "title": "New Generations of MS2 Variants and MCP Fusions to Detect Single m",
+  "contributors": "Pichon, X., Robert, M. C., Bertrand, E., Singer, R. H., Tutucci, E.",
+  "corresponding": null,
+  "organisations": "Systems Bioinformatics, AIMMS, Universit\u00e9 de Montpellier, Equipe lab\u00e9lis\u00e9e Ligue Nationale Contre le Cancer, Yeshiva University, Howard Hughes Medical Institute",
+  "journal": null,
+  "description": "New Generations of MS2 Variants and MCP Fusions to Detect Single mRNAs in Living Eukaryotic CellsLive imaging of single RNA from birth to death brought important advances in our understanding of the spatiotemporal regulation of gene expression. These studies have provided a comprehensive understanding of RNA metabolism by describing the process step by step. Most of these studies used for live imaging a genetically encoded RNA-tagging system fused to fluorescent proteins. One of the best characterized RNA-tagging systems is derived from the bacteriophage MS2 and it allows single RNA imaging in real-time and live cells. This system has been successfully used to track the different steps of mRNA processing in many living organisms. The recent development of optimized MS2 and MCP variants now allows the labeling of endogenous RNAs and their imaging without modifying their behavior. In this chapter, we discuss the improvements in detecting single mRNAs with different variants of MCP and fluorescent proteins that we tested in yeast and mammalian cells. Moreover, we describe protocols using MS2-MCP systems improved for real-time imaging of single mRNAs and transcription dynamics in S. cerevisiae and mammalian cells, respectively."
+ },
+ "https://doi.org/10.1007/978-1-0716-0712-1_4": {
+  "month": "7",
+  "pub_date": "2020",
+  "year": 2020,
+  "early_online": null,
+  "title": "Simultaneous Detection of m",
+  "contributors": "Tutucci, E., Singer, R. H.",
+  "corresponding": null,
+  "organisations": "Systems Bioinformatics, AIMMS, Yeshiva University, Howard Hughes Medical Institute",
+  "journal": null,
+  "description": "Simultaneous Detection of mRNA and Protein in S. cerevisiae by Single-Molecule FISH and ImmunofluorescenceSingle-molecule fluorescent in situ hybridization (smFISH) enables the detection and quantification of endogenous mRNAs within intact fixed cells. This method utilizes tens of singly labeled fluorescent DNA probes hybridized against the mRNA of interest, which can be detected by using standard wide-field fluorescence microscopy. This approach provides the means to generate absolute quantifications of gene expression within single cells, which can be used to link molecular fluctuations to phenotypes. To be able to correlate the expression of an mRNA and a protein of interest in individual cells, we combined smFISH with immunofluorescence (IF) in yeast cells. Here, we present our smFISH-IF protocol to visualize and quantify two cell cycle-controlled mRNAs (CLN2 and ASH1) and the cell cycle marker alpha-tubulin in S. cerevisiae. This protocol, which is performed over 2days, can be used to visualize up to three colors at the time (i.e., two mRNAs, one protein). Even if the described protocol is designed for S. cerevisiae, we think that the considerations discussed here can be useful to develop and troubleshoot smFISH-IF protocols for other model organisms."
  },
  "https://doi.org/10.1016/j.bcp.2020.113938": {
   "month": "7",
@@ -1595,18 +1835,6 @@
   "journal": null,
   "description": "Putative adverse outcome pathways for female reproductive disorders to improve testing and regulation of chemicalsModern living challenges female reproductive health. We are witnessing a rise in reproductive disorders and drop in birth rates across the world. The reasons for these manifestations are multifaceted and most likely include continuous exposure to an ever-increasing number of chemicals. The cause\u2013effect relationships between chemical exposure and female reproductive disorders, however, have proven problematic to determine. This has made it difficult to assess the risks chemical exposures pose to a woman\u2019s reproductive development and function. To address this challenge, this review uses the adverse outcome pathway (AOP) concept to summarize current knowledge about how chemical exposure can affect female reproductive health. We have a special focus on effects on the ovaries, since they are essential for lifelong reproductive health in women, being the source of both oocytes and several reproductive hormones, including sex steroids. The AOP framework is widely accepted as a new tool for toxicological safety assessment that enables better use of mechanistic knowledge for regulatory purposes. AOPs equip assessors and regulators with a pragmatic network of linear cause\u2013effect relationships, enabling the use of a wider range of test method data in chemical risk assessment and regulation. Based on current knowledge, we propose ten putative AOPs relevant for female reproductive disorders that can be further elaborated and potentially be included in the AOPwiki. This effort is an important step towards better safeguarding the reproductive health of all girls and women."
  },
- "https://doi.org/10.1002/elps.202000107": {
-  "month": "7",
-  "pub_date": "8 Jul 2020",
-  "year": 2020,
-  "early_online": null,
-  "title": "Four-step approach to efficiently develop capillary gel electrophoresis methods for viral vaccine protein analysis",
-  "contributors": "Geurink, L., van Tricht, E., Dudink, J., Pajic, B., van de Griend, C. E. S.",
-  "corresponding": null,
-  "organisations": "BioAnalytical Chemistry, AIMMS, Uppsala University, Faculty of Pharmacy, Department of Medicinal Chemistry, Division of Analytical Pharmaceutical Chemistry, Biomedical Centre PO Box 574, SE-751 23, Uppsala, Sweden, Janssen Vaccines and Prevention B.V., Archimedesweg 4, 2333 CN, Leiden, The Netherlands.",
-  "journal": null,
-  "description": "Four-step approach to efficiently develop capillary gel electrophoresis methods for viral vaccine protein analysisVaccines against infectious diseases are urgently needed. Therefore, modern analytical method development should be as efficient as possible to speed up vaccine development. The objectives of the study were to identify critical method parameters (CMPs) and to establish a set of steps to efficiently develop and validate a CE-SDS method for vaccine protein analysis based on a commercially available gel buffer. The CMPs were obtained from reviewing the literature and testing the effects of gel buffer dilution. A four-step approach, including two multivariate DoE (design of experiments) steps, was proposed, based on CMPs and was verified by CE-SDS method development for: (i) the determination of influenza group 1 mini-haemagglutinin glycoprotein; and (ii) the determination of polio virus particle proteins from an inactivated polio vaccine (IPV). The CMPs for sample preparation were incubation temperature(s) and time(s), pH, and reagent(s) concentration(s) and the detection wavelength. The effects of gel buffer dilution revealed the CMPs for CE-SDS separation to be the effective length, the gel buffer concentration, and the capillary temperature. The four-step approach based on the CMPs was efficient for the development of the two CE methods. A four-step approach to efficiently develop capillary gel electrophoresis methods for viral vaccine protein analysis was successfully established. This article is protected by copyright. All rights reserved."
- },
  "https://doi.org/10.1016/j.reprotox.2020.07.00310.1016/j.reprotox.2020.07.003": {
   "month": "7",
   "pub_date": "Sep 2020",
@@ -1631,17 +1859,29 @@
   "journal": "Environmental Sciences Europe",
   "description": "The NORMAN Association and the European Partnership for Chemicals Risk Assessment (PARC): let\u2019s cooperate!The Partnership for Chemicals Risk Assessment (PARC) is currently under development as a joint research and innovation programme to strengthen the scientific basis for chemical risk assessment in the EU. The plan is to bring chemical risk assessors and managers together with scientists to accelerate method development and the production of necessary data and knowledge, and to facilitate the transition to next-generation evidence-based risk assessment, a non-toxic environment and the European Green Deal. The NORMAN Network is an independent, well-established and competent network of more than 80 organisations in the field of emerging substances and has enormous potential to contribute to the implementation of the PARC partnership. NORMAN stands ready to provide expert advice to PARC, drawing on its long experience in the development, harmonisation and testing of advanced tools in relation to chemicals of emerging concern and in support of a European Early Warning System to unravel the risks of contaminants of emerging concern (CECs) and close the gap between research and innovation and regulatory processes. In this commentary we highlight the tools developed by NORMAN that we consider most relevant to supporting the PARC initiative: (i) joint data space and cutting-edge research tools for risk assessment of contaminants of emerging concern; (ii) collaborative European framework to improve data quality and comparability; (iii) advanced data analysis tools for a European early warning system and (iv) support to national and European chemical risk assessment thanks to harnessing, combining and sharing evidence and expertise on CECs. By combining the extensive knowledge and experience of the NORMAN network with the financial and policy-related strengths of the PARC initiative, a large step towards the goal of a non-toxic environment can be taken."
  },
- "https://doi.org/10.1007/s10661-020-08452-6": {
+ "https://doi.org/10.1016/j.jmb.2020.07.010": {
   "month": "7",
-  "pub_date": "27 Jul 2020",
+  "pub_date": "21 Jul 2020",
   "year": 2020,
   "early_online": null,
-  "title": "Pesticide residue levels in vegetables and surface waters at the Central Rift Valley (CRV) of Ethiopia",
-  "contributors": "Loha, K. M., Lamoree, M., De Boer, J.",
+  "title": "The CTD Is Not Essential for the Post-Initiation Control of RNA Polymerase II Activity",
+  "contributors": "Gerber, A., Roeder, R. G.",
   "corresponding": null,
-  "organisations": "AIMMS, Environmental Chemistry and Toxicology, Environment and Health",
-  "journal": "Environmental Monitoring and Assessment",
-  "description": "Pesticide residue levels in vegetables and surface waters at the Central Rift Valley (CRV) of EthiopiaSeven pesticides, profenofos, metalaxyl, \u03bb-cyhalothrin, 4,4\u2032-DDT, 4,4\u2032-DDE, and \u03b1- and \u03b2-endosulfan, were determined in vegetables (tomato, onion) from 20 locations and surface waters from 12 locations in the Central Rift Valley (CRV) of Ethiopia. Quick, Easy, Cheap, Effective, Rugged, and Safe (QuEChERS) and solid phase extraction (SPE) methods were used for the vegetables and water, respectively. In 2.5% of the tomato samples, profenofos was detected above European maximum residue limits (MRLs), in 12.5% of the samples metalaxyl, and in 2.5% \u03b1- and \u03b2-endosulfan. In 5% of the onion samples, profenofos was detected above European MRLs, in 7.5% of the onion samples metalaxyl, and in 5% \u03bb-cyhalothrin. In surface water, profenofos was detected at the highest concentration of 2300 \u03bcg/L in the Bulbula River, 890 \u03bcg/L near the agricultural land north of Lake Ziway (ANLZ-1), 1700 \u03bcg/L in the floriculture effluent (FE-1), and 900 \u03bcg/L in tap water at the Batu Drinking Water (BDW) supply. These results show that the levels of pesticides are in several cases substantially elevated, and emphasize the need of regular pesticide monitoring programs for surface waters and vegetables in the Ethiopian CRV."
+  "organisations": "Organic Chemistry, AIMMS",
+  "journal": null,
+  "description": "The CTD Is Not Essential for the Post-Initiation Control of RNA Polymerase II ActivityInterest in the C-terminal domain (CTD) of the RPB1 subunit of the RNA polymerase II (Pol II) has been revived in recent years, owing to its numerous posttranslational modifications and its \u201cphase-separation\u201d properties. A large number of studies have shown that the status of CTD modifications is associated with the activity of Pol II during the transcription cycle. However, because this domain is essential in living cells, the functional requirement of the full CTD for the control of Pol II activity at endogenous mammalian genes has never been addressed directly in living cells. Using an inducible Pol II-degradation system that we previously established, we investigated here the roles of the CTD in the post-initiation control of Pol II. The selective ablation of the RPB1 CTD, post-initiation, at promoter-proximal pause-sites revealed that this domain, and by extension the CTD heptads and their modifications, is functionally neither absolutely required to maintain pausing in the absence of CDK9 activity nor essential for the release of Pol II into productive elongation."
+ },
+ "https://doi.org/10.1016/j.etap.2020.103460": {
+  "month": "7",
+  "pub_date": "Nov 2020",
+  "year": 2020,
+  "early_online": "29 Jul 2020",
+  "title": "High resolution effect-directed analysis of steroid hormone (ant)agonists in surface and wastewater quality monitoring",
+  "contributors": "Houtman, C. J., ten Broek, R., van Oorschot, Y., Kloes, D., van der Oost, R., Rosielle, M., Lamoree, M. H.",
+  "corresponding": "Houtman, C. J.",
+  "organisations": "Environmental Chemistry and Toxicology, AIMMS, The Water Laboratory, Waternet Institute for the Urban Water Cycle",
+  "journal": "Environmental Toxicology and Pharmacology",
+  "description": "High resolution effect-directed analysis of steroid hormone (ant)agonists in surface and wastewater quality monitoringMonitoring of chemical water quality is extremely challenging due to the large variety of compounds and the presence of biologically active compounds with unknown chemical identity. Previously, we developed a high resolution Effect-Directed Analysis (EDA) platform that combines liquid chromatography with high resolution mass spectrometry and parallel bioassay detection. In this study, the platform is combined with CALUX bioassays for (anti)androgenic, estrogenic and glucocorticoid activities, and the performance of the platform is evaluated. It appeared to render very repeatable results, with high recoveries of spiked compounds and high consistency between the mass spectrometric and bioassay results. Application of the platform to wastewater treatment plant effluent and surface water samples led to the identification of several compounds contributing to the measured activities. Eventually, a workflow is proposed for the application of the platform in a routine monitoring context. The workflow divides the platform into four phases, of which one to all can be performed depending on the research question and the results obtained. This allows one to make a balance between the effort put into the platform and the certainty and depth by which active compounds will be identified. The EDA platform is a valuable tool to identify unknown bioactive compounds, both in an academic setting as in the context of legislative, governmental or routine monitoring."
  },
  "https://doi.org/10.1016/j.chemosphere.2020.127498": {
   "month": "7",
@@ -1654,5 +1894,29 @@
   "organisations": "Environmental Health and Toxicology, AIMMS, Deltares, Masaryk University, Netherlands Organisation for Applied Scientific Research, National Institute of Public Health and the Environment, DdZ Ecotox",
   "journal": "Chemosphere",
   "description": "Time integrative sampling properties of Speedisk and silicone rubber passive samplers determined by chemical analysis and in vitro bioassay testingCompared to grab samples, passive samplers have the advantage that they sample over a longer time period and can detect lower compound concentrations in water quality monitoring campaigns. To allow the determination of time-weighted average concentrations, however, sampler uptake should remain linear in time over the entire sampling period. Therefore, the time integrative or linear uptake properties of adsorption-based Speedisks and partitioning-based silicone rubber samplers were assessed with respect to chemically analyzed single compounds and measured bioactivity in in vitro bioassays. Both sampler types were deployed in consecutive and overlapping time series in a WTTP effluent and in the river Meuse up to 105 days. Extracts were chemically analyzed for PCBs, PAHs and pesticides and tested in the Aliivibrio fischeri and DR-LUC bioassays. Speedisks showed time integrative sampling for the detected pesticides as well as for bioassay responses at both sampling locations for the entire sampling period. The silicone rubber samplers showed poor linear uptake in time for the unknown compounds causing bioassay responses. The bioassay results indicate that conversion of a bioassay response to a passive sampler extract into a time-weighted average bioactivity per liter water seems justified for Speedisks, confirming that concentrations in the samplers correspond to a single volume of sampled water for all compounds. The bioassay results also indicate that a similar conversion for silicone rubber extracts should be interpreted with caution. In principle, it is actually impossible, because the concentration of each compound contributing to the bioassay response corresponds to a different sampled water volume."
+ },
+ "https://doi.org/10.1007/s10661-020-08452-6": {
+  "month": "8",
+  "pub_date": "1 Aug 2020",
+  "year": 2020,
+  "early_online": "27 Jul 2020",
+  "title": "Pesticide residue levels in vegetables and surface waters at the Central Rift Valley (CRV) of Ethiopia",
+  "contributors": "Loha, K. M., Lamoree, M., de Boer, J.",
+  "corresponding": "Loha, K. M.",
+  "organisations": "Environmental Chemistry and Toxicology, AIMMS, Environment and Health",
+  "journal": "Environmental Monitoring and Assessment",
+  "description": "Pesticide residue levels in vegetables and surface waters at the Central Rift Valley (CRV) of EthiopiaSeven pesticides, profenofos, metalaxyl, \u03bb-cyhalothrin, 4,4\u2032-DDT, 4,4\u2032-DDE, and \u03b1- and \u03b2-endosulfan, were determined in vegetables (tomato, onion) from 20 locations and surface waters from 12 locations in the Central Rift Valley (CRV) of Ethiopia. Quick, Easy, Cheap, Effective, Rugged, and Safe (QuEChERS) and solid phase extraction (SPE) methods were used for the vegetables and water, respectively. In 2.5% of the tomato samples, profenofos was detected above European maximum residue limits (MRLs), in 12.5% of the samples metalaxyl, and in 2.5% \u03b1- and \u03b2-endosulfan. In 5% of the onion samples, profenofos was detected above European MRLs, in 7.5% of the onion samples metalaxyl, and in 5% \u03bb-cyhalothrin. In surface water, profenofos was detected at the highest concentration of 2300 \u03bcg/L in the Bulbula River, 890 \u03bcg/L near the agricultural land north of Lake Ziway (ANLZ-1), 1700 \u03bcg/L in the floriculture effluent (FE-1), and 900 \u03bcg/L in tap water at the Batu Drinking Water (BDW) supply. These results show that the levels of pesticides are in several cases substantially elevated, and emphasize the need of regular pesticide monitoring programs for surface waters and vegetables in the Ethiopian CRV."
+ },
+ "https://doi.org/10.1016/j.chroma.2020.461481": {
+  "month": "8",
+  "pub_date": "27 Sep 2020",
+  "year": 2020,
+  "early_online": "16 Aug 2020",
+  "title": "A single-step preparation of carbohydrate functionalized monoliths for separation and trapping of polar compounds",
+  "contributors": "Wang, J., Guo, J., Chen, H., Huang, X., Somsen, G. W., Song, F., Jiang, Z.",
+  "corresponding": "Song, F.",
+  "organisations": "BioAnalytical Chemistry, AIMMS, Jinan University, Guangdong College of Pharmacy, Foshan University",
+  "journal": "Journal of Chromatography A",
+  "description": "A single-step preparation of carbohydrate functionalized monoliths for separation and trapping of polar compoundsA single-step copolymerization strategy was developed for the preparation of carbohydrate (glucose and maltose) functionalized monoliths using click reaction. Firstly, novel carbohydrate-functionalized methacrylate monomers were synthesized through Cu(I)-catalyzed 1,3-dipolar cycloaddition (alkyne-azide reaction) of terminal alkyne with azide of carbohydrate derivatives. The corresponding carbohydrate functionalized monolithic columns were then prepared through a single-step in-situ copolymerization. The physicochemical properties and performance of the fabricated monolithic columns were evaluated using scanning electron microscopy, Fourier-transform infrared spectroscopy, and nano-liquid chromatography. For the optimized monolithic column, satisfactory column permeability and good separation performance were demonstrated for polar compounds including nucleoside, phenolic compounds and benzoic acid derivatives. The monolithic column is also highly useful for selective and efficient enrichment of glycopeptides from human IgG tryptic digests. This study not only provided a novel hydrophilic column for separation and selective trapping of polar compounds, but also proposed a facile and efficient approach for preparing carbohydrate functionalized monoliths."
  }
 }

@@ -1,3 +1,6 @@
+# data_file = 'AIMMS_research_2020-7_08_20.xls'
+data_file = 'AIMMS_research_2020-31_08_20.xls'
+
 import os
 import time
 import pprint
@@ -9,7 +12,6 @@ import xlrd
 ctime = time.strftime('%Y-%m-%d')
 cdir = os.path.dirname(os.path.abspath(os.sys.argv[0]))
 data_dir = os.path.join(cdir, 'data')
-data_file = 'AIMMS_research_2020-7_08_20.xls'
 
 # using excel file directly
 data = {}
@@ -27,34 +29,34 @@ for r in range(len(paper)):
         pass
 
 ## using exported tsv file
-#data_file = 'AIMMS_research_2020-3_08_20.txt'
-#data = {}
-#with open(os.path.join(data_dir, data_file), 'r') as F:
-    ##csvread = csv.reader(F, dialect="excel-tab")
-    #for r in F:
-        #l = r.split('\t')
-        #if len(l) < 2:
-            #continue
-        #if l[0] in data:
-            #data[l[0]].append(l[1])
-        #else:
-            #data[l[0]] = [l[1]]
-#pprint.pprint(data)
+# data_file = 'AIMMS_research_2020-3_08_20.txt'
+# data = {}
+# with open(os.path.join(data_dir, data_file), 'r') as F:
+##csvread = csv.reader(F, dialect="excel-tab")
+# for r in F:
+# l = r.split('\t')
+# if len(l) < 2:
+# continue
+# if l[0] in data:
+# data[l[0]].append(l[1])
+# else:
+# data[l[0]] = [l[1]]
+# pprint.pprint(data)
 
 re_pub_data = re.compile(r"Publication date:(.*?)Handle")
-re_early_date =  re.compile(r"Early online date:(.*?)Publication")
-re_contrib  = re.compile(r"Contributors:(.*?)(?:Number|Publication)")
-re_corresp  = re.compile(r"Corresponding author:(.*?)Contributors")
-re_journal  = re.compile(r"Journal:(.*?)Volume")
-re_doi      = re.compile(r"DOIs:(.*?)URLs")
-re_orgs     = re.compile(r"Organisations:(.*?)(?:Contributors|Corresponding)")
-re_title    = re.compile(r"^(.*?[a-z\?])[A-Z]")
+re_early_date = re.compile(r"Early online date:(.*?)Publication")
+re_contrib = re.compile(r"Contributors:(.*?)(?:Number|Publication)")
+re_corresp = re.compile(r"Corresponding author:(.*?)Contributors")
+re_journal = re.compile(r"Journal:(.*?)Volume")
+re_doi = re.compile(r"DOIs:(.*?)URLs")
+re_orgs = re.compile(r"Organisations:(.*?)(?:Contributors|Corresponding)")
+re_title = re.compile(r"^(.*?[a-z\?])[A-Z]")
 re_descript = re.compile(r"^(.*?)General information")
 
 parsed_data = {}
 parsed_data_nodoi = {}
 data_keys = []
-for m in [str(a+1) for a in range(int(time.strftime('%m')))]:
+for m in [str(a + 1) for a in range(int(time.strftime('%m')))]:
     cntr = 1
     for p in data[m]:
         NODOI = False
@@ -71,8 +73,8 @@ for m in [str(a+1) for a in range(int(time.strftime('%m')))]:
 
         print('Processing record: {} ...'.format(cntr))
         if doi_match is not None:
-            #print(m, cntr, 'https://doi.org/'+doi_match.groups()[0])
-            key = 'https://doi.org/'+doi_match.groups()[0]
+            # print(m, cntr, 'https://doi.org/'+doi_match.groups()[0])
+            key = 'https://doi.org/' + doi_match.groups()[0]
         else:
             key = str(time.monotonic()).split('.')[0]
             NODOI = True
@@ -81,43 +83,43 @@ for m in [str(a+1) for a in range(int(time.strftime('%m')))]:
         parsed_data[key]['month'] = m
 
         if pub_date_match is not None:
-            #print(m, cntr, pub_date_match.groups()[0])
+            # print(m, cntr, pub_date_match.groups()[0])
             parsed_data[key]['pub_date'] = pub_date_match.groups()[0]
             parsed_data[key]['year'] = int(parsed_data[key]['pub_date'].split(' ')[-1])
         else:
             parsed_data[key]['year'] = time.strftime('%Y')
         if early_date_match is not None:
-            #print(m, cntr, title_match.groups()[0])
+            # print(m, cntr, title_match.groups()[0])
             parsed_data[key]['early_online'] = early_date_match.groups()[0]
         else:
             parsed_data[key]['early_online'] = None
         if title_match is not None:
-            #print(m, cntr, title_match.groups()[0])
+            # print(m, cntr, title_match.groups()[0])
             parsed_data[key]['title'] = title_match.groups()[0]
         else:
             parsed_data[key]['title'] = None
         if contrib_match is not None:
-            #print(m, cntr, contrib_match.groups()[0])
+            # print(m, cntr, contrib_match.groups()[0])
             parsed_data[key]['contributors'] = contrib_match.groups()[0]
         else:
             parsed_data[key]['contributors'] = None
         if corresp_match is not None:
-            #print(m, cntr, corresp_match.groups()[0])
+            # print(m, cntr, corresp_match.groups()[0])
             parsed_data[key]['corresponding'] = corresp_match.groups()[0]
         else:
             parsed_data[key]['corresponding'] = None
         if orgs_match is not None:
-            #print(m, cntr, orgs_match.groups()[0])
+            # print(m, cntr, orgs_match.groups()[0])
             parsed_data[key]['organisations'] = orgs_match.groups()[0]
         else:
             parsed_data[key]['organisations'] = None
         if journal_match is not None:
-            #print(m, cntr, journal_match.groups()[0])
+            # print(m, cntr, journal_match.groups()[0])
             parsed_data[key]['journal'] = journal_match.groups()[0]
         else:
             parsed_data[key]['journal'] = None
         if descript_match is not None:
-            #print(m, cntr, descript_match.groups()[0])
+            # print(m, cntr, descript_match.groups()[0])
             parsed_data[key]['description'] = descript_match.groups()[0]
         else:
             parsed_data[key]['description'] = None
@@ -158,8 +160,8 @@ for doi in parsed_data:
         new_data.append(doi)
         print('New data inserted for DOI: {}'.format(doi))
     else:
-        aimmsDB.updateData('publications', 'doi', doi, {'newdata' : 'False'}, commit=False)
+        aimmsDB.updateData(
+            'publications', 'doi', doi, {'newdata': 'False'}, commit=False
+        )
 aimmsDB.commitDB()
 aimmsDB.closeDB()
-
-
