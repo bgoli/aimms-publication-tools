@@ -37,7 +37,7 @@ for d in range(len(sldata[0])):
         new_papers.append(aimmsDB.getRow('publications', 'doi', sldata[0][d])[0])
     if int(sldata[1][d]) in (
         int(time.strftime('%m')),
-        # int(time.strftime('%m')) - 1,
+        int(time.strftime('%m')) - 1,
     ) and eval(sldata[2][d]):
         month_papers.append(aimmsDB.getRow('publications', 'doi', sldata[0][d])[0])
 
