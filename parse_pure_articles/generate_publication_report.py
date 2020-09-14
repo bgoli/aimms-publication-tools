@@ -29,16 +29,13 @@ new_papers = []
 month_papers = []
 print(len(sldata[0]))
 for d in range(len(sldata[0])):
-    print(sldata[0][d], sldata[1][d], sldata[2][d])
+    print(int(sldata[1][d]), int(time.strftime('%m')), eval(sldata[2][d]))
     if (
         int(sldata[1][d]) in range(1, int(time.strftime('%m')) + 1)
         and eval(sldata[2][d])
     ) or DO_ALL:
         new_papers.append(aimmsDB.getRow('publications', 'doi', sldata[0][d])[0])
-    if int(sldata[1][d]) in (
-        int(time.strftime('%m')),
-        int(time.strftime('%m')) - 1,
-    ) and eval(sldata[2][d]):
+    elif int(sldata[1][d]) in (int(time.strftime('%m')), int(time.strftime('%m')) - 1):
         month_papers.append(aimmsDB.getRow('publications', 'doi', sldata[0][d])[0])
 
 del sldata
