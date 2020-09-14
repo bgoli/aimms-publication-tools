@@ -105,7 +105,9 @@ def add_newsletter_item(doc, D):
 
 
 _ = Dx2news.add_heading(level=3).add_run(
-    'New papers: {}-{}'.format(time.strftime('%Y'), time.strftime('%m'))
+    'New papers: {}-{}/{}'.format(
+        time.strftime('%Y'), int(time.strftime('%m')) - 1, time.strftime('%m')
+    )
 )
 
 for d in new_papers:
