@@ -1319,6 +1319,18 @@
   "journal": "Toxicology Letters",
   "description": "Human exposure to synthetic endocrine disrupting chemicals (S-EDCs) is generally negligible as compared to natural compounds with higher or comparable endocrine activity. How to evaluate the risk of the S-EDCs?"
  },
+ "https://doi.org/10.1007/978-3-030-41120-6": {
+  "month": "5",
+  "pub_date": "2020",
+  "year": 2020,
+  "early_online": null,
+  "title": "Current Trends in Dynamical Systems in Biology and Natural Sciences",
+  "contributors": "Aguiar, M. (ed.), Braumann, C. (ed.), Kooi, B. (ed.), Pugliese, A. (ed.), Stollenwerk, N. (ed.)",
+  "corresponding": null,
+  "organisations": "Molecular Cell Biology, AIMMS, Dipartimento di Matematica, University of Trento, University of Lisbon",
+  "journal": null,
+  "description": "Current Trends in Dynamical Systems in Biology and Natural SciencesThis book disseminates the latest results and envisages new challenges in the application of mathematics to various practical situations in biology, epidemiology, and ecology. It comprises a collection of the main results presented at the Ninth Edition of the International Workshop \u201cDynamical Systems Applied to Biology and Natural Sciences \u2013 DSABNS\u201d, held from 7 to 9 February 2018 at the Department of Mathematics, University of Turin, Italy. While the principal focus is ecology and epidemiology, the coverage extends even to waste recycling and a genetic application. The topics covered in the 12 peer-reviewed contributions involve such diverse mathematical tools as ordinary and partial differential equations, delay equations, stochastic equations, control, and sensitivity analysis. The book is intended to help both in disseminating the latest results and in envisaging new challenges in the application of mathematics to various practical situations in biology, epidemiology, and ecology. "
+ },
  "https://doi.org/10.1016/j.comtox.2020.100124": {
   "month": "5",
   "pub_date": "May 2020",
@@ -1528,12 +1540,12 @@
   "pub_date": "1 Aug 2020",
   "year": 2020,
   "early_online": "1 May 2020",
-  "title": "Human exposure to synthetic endocrine disrupting chemicals (S-EDCs) is generally negligible as compared to natural compounds with higher or comparable endocrine activity. How to evaluate the risk of the S-EDCs?",
+  "title": "Human exposure to synthetic endocrine disrupting chemicals (S-EDCs) is generally negligible as compared to natural compounds with higher or comparable endocrine activity: How to evaluate the risk of the S-EDCs?",
   "contributors": "Autrup, H., Barile, F. A., Berry, S. C., Blaauboer, B. J., Boobis, A., Bolt, H., Borgert, C. J., Dekant, W., Dietrich, D., Domingo, J. L., Gori, G. B., Greim, H., Hengstler, J., Kacew, S., Marquardt, H., Pelkonen, O., Savolainen, K., Heslop-Harrison, P., Vermeulen, N. P.",
   "corresponding": "Greim, H.",
   "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, Aarhus University, St. John's University, Queen Mary University of London, Utrecht University, Imperial College London, Dortmund University, Applied Pharmacology and Toxicology, Inc., University of W\u00fcrzburg, University of Konstanz, The Health Policy Center, Technical University of Munich, University of Ottawa, Toxicology, University of Oulu, Finnish Institute of Occupational Health, University of Leicester, Universidad Rovira i Virgili",
   "journal": "Chemico-Biological Interactions",
-  "description": "Human exposure to synthetic endocrine disrupting chemicals (S-EDCs) is generally negligible as compared to natural compounds with higher or comparable endocrine activity. How to evaluate the risk of the S-EDCs?Theoretically, both synthetic endocrine disrupting chemicals (S-EDCs) and natural (exogenous and endogenous) endocrine disrupting chemicals (N-EDCs) can interact with endocrine receptors and disturb hormonal balance. However, compared to endogenous hormones, S-EDCs are only weak partial agonists with receptor affinities several orders of magnitude lower. Thus, to elicit observable effects, S-EDCs require considerably higher concentrations to attain sufficient receptor occupancy or to displace natural hormones and other endogenous ligands. Significant exposures to exogenous N-EDCs may result from ingestion of foods such as soy-based diets, green tea and sweet mustard. While their potencies are lower as compared to natural endogenous hormones, they usually are considerably more potent than S-EDCs. Effects of exogenous N-EDCs on the endocrine system were observed at high dietary intakes. A causal relation between their mechanism of action and these effects is established and biologically plausible. In contrast, the assumption that the much lower human exposures to S-EDCs may induce observable endocrine effects is not plausible. Hence, it is not surprising that epidemiological studies searching for an association between S-EDC exposure and health effects have failed. Regarding testing for potential endocrine effects, a scientifically justified screen should use in vitro tests to compare potencies of S-EDCs with those of reference N-EDCs. When the potency of the S-EDC is similar or smaller than that of the N-EDC, further testing in laboratory animals and regulatory consequences are not warranted."
+  "description": "Human exposure to synthetic endocrine disrupting chemicals (S-EDCs) is generally negligible as compared to natural compounds with higher or comparable endocrine activity: How to evaluate the risk of the S-EDCs?Theoretically, both synthetic endocrine disrupting chemicals (S-EDCs) and natural (exogenous and endogenous) endocrine disrupting chemicals (N-EDCs) can interact with endocrine receptors and disturb hormonal balance. However, compared to endogenous hormones, S-EDCs are only weak partial agonists with receptor affinities several orders of magnitude lower. Thus, to elicit observable effects, S-EDCs require considerably higher concentrations to attain sufficient receptor occupancy or to displace natural hormones and other endogenous ligands. Significant exposures to exogenous N-EDCs may result from ingestion of foods such as soy-based diets, green tea and sweet mustard. While their potencies are lower as compared to natural endogenous hormones, they usually are considerably more potent than S-EDCs. Effects of exogenous N-EDCs on the endocrine system were observed at high dietary intakes. A causal relation between their mechanism of action and these effects is established and biologically plausible. In contrast, the assumption that the much lower human exposures to S-EDCs may induce observable endocrine effects is not plausible. Hence, it is not surprising that epidemiological studies searching for an association between S-EDC exposure and health effects have failed. Regarding testing for potential endocrine effects, a scientifically justified screen should use in vitro tests to compare potencies of S-EDCs with those of reference N-EDCs. When the potency of the S-EDC is similar or smaller than that of the N-EDC, further testing in laboratory animals and regulatory consequences are not warranted."
  },
  "https://doi.org/10.1016/j.neuro.2020.05.006": {
   "month": "9",
@@ -1895,18 +1907,6 @@
   "journal": "Archives of Toxicology",
   "description": "Putative adverse outcome pathways for female reproductive disorders to improve testing and regulation of chemicalsModern living challenges female reproductive health. We are witnessing a rise in reproductive disorders and drop in birth rates across the world. The reasons for these manifestations are multifaceted and most likely include continuous exposure to an ever-increasing number of chemicals. The cause\u2013effect relationships between chemical exposure and female reproductive disorders, however, have proven problematic to determine. This has made it difficult to assess the risks chemical exposures pose to a woman\u2019s reproductive development and function. To address this challenge, this review uses the adverse outcome pathway (AOP) concept to summarize current knowledge about how chemical exposure can affect female reproductive health. We have a special focus on effects on the ovaries, since they are essential for lifelong reproductive health in women, being the source of both oocytes and several reproductive hormones, including sex steroids. The AOP framework is widely accepted as a new tool for toxicological safety assessment that enables better use of mechanistic knowledge for regulatory purposes. AOPs equip assessors and regulators with a pragmatic network of linear cause\u2013effect relationships, enabling the use of a wider range of test method data in chemical risk assessment and regulation. Based on current knowledge, we propose ten putative AOPs relevant for female reproductive disorders that can be further elaborated and potentially be included in the AOPwiki. This effort is an important step towards better safeguarding the reproductive health of all girls and women."
  },
- "https://doi.org/10.1146/annurev-micro-012420-081657": {
-  "month": "7",
-  "pub_date": "13 Jul 2020",
-  "year": 2020,
-  "early_online": null,
-  "title": "Structure and Function of the Mycobacterial Type VII Secretion Systems",
-  "contributors": "Bunduc, C. M., Bitter, W., Houben, E. N. G.Pages:315-335",
-  "corresponding": null,
-  "organisations": "Molecular Microbiology, AIMMS",
-  "journal": "Annual Review of Microbiology",
-  "description": "Structure and Function of the Mycobacterial Type VII Secretion SystemsBacteria have evolved intricate secretion machineries for the successful delivery of large molecules across their cell envelopes. Such specialized secretion systems allow a variety of bacteria to thrive in specific host environments. In mycobacteria, type VII secretion systems (T7SSs) are dedicated protein transport machineries that fulfill diverse and crucial roles, ranging from metabolite uptake to immune evasion and subversion to conjugation. Since the discovery of mycobacterial T7SSs about 15 y ago, genetic, structural, and functional studies have provided insight into the roles and functioning of these secretion machineries. Here, we focus on recent advances in the elucidation of the structure and mechanism of mycobacterial T7SSs in protein secretion. As many of these systems are essential for mycobacterial growth or virulence, they provide opportunities for the development of novel therapies to combat a number of relevant mycobacterial diseases. Expected final online publication date for the Annual Review of Microbiology, Volume 74 is September 8, 2020. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates."
- },
  "https://doi.org/10.1186/s12302-020-00375-w": {
   "month": "7",
   "pub_date": "1 Dec 2020",
@@ -1925,10 +1925,10 @@
   "year": 2020,
   "early_online": null,
   "title": "The CTD Is Not Essential for the Post-Initiation Control of RNA Polymerase II Activity",
-  "contributors": "Gerber, A., Roeder, R. G.",
+  "contributors": "Gerber, A., Roeder, R. G.Pages:5489-5498",
   "corresponding": null,
   "organisations": "Organic Chemistry, AIMMS",
-  "journal": null,
+  "journal": "Journal of Molecular Biology",
   "description": "The CTD Is Not Essential for the Post-Initiation Control of RNA Polymerase II ActivityInterest in the C-terminal domain (CTD) of the RPB1 subunit of the RNA polymerase II (Pol II) has been revived in recent years, owing to its numerous posttranslational modifications and its \u201cphase-separation\u201d properties. A large number of studies have shown that the status of CTD modifications is associated with the activity of Pol II during the transcription cycle. However, because this domain is essential in living cells, the functional requirement of the full CTD for the control of Pol II activity at endogenous mammalian genes has never been addressed directly in living cells. Using an inducible Pol II-degradation system that we previously established, we investigated here the roles of the CTD in the post-initiation control of Pol II. The selective ablation of the RPB1 CTD, post-initiation, at promoter-proximal pause-sites revealed that this domain, and by extension the CTD heptads and their modifications, is functionally neither absolutely required to maintain pausing in the absence of CDK9 activity nor essential for the release of Pol II into productive elongation."
  },
  "https://doi.org/10.1016/j.etap.2020.103460": {
@@ -2003,6 +2003,18 @@
   "journal": "Environmental Monitoring and Assessment",
   "description": "Pesticide residue levels in vegetables and surface waters at the Central Rift Valley (CRV) of EthiopiaSeven pesticides, profenofos, metalaxyl, \u03bb-cyhalothrin, 4,4\u2032-DDT, 4,4\u2032-DDE, and \u03b1- and \u03b2-endosulfan, were determined in vegetables (tomato, onion) from 20 locations and surface waters from 12 locations in the Central Rift Valley (CRV) of Ethiopia. Quick, Easy, Cheap, Effective, Rugged, and Safe (QuEChERS) and solid phase extraction (SPE) methods were used for the vegetables and water, respectively. In 2.5% of the tomato samples, profenofos was detected above European maximum residue limits (MRLs), in 12.5% of the samples metalaxyl, and in 2.5% \u03b1- and \u03b2-endosulfan. In 5% of the onion samples, profenofos was detected above European MRLs, in 7.5% of the onion samples metalaxyl, and in 5% \u03bb-cyhalothrin. In surface water, profenofos was detected at the highest concentration of 2300 \u03bcg/L in the Bulbula River, 890 \u03bcg/L near the agricultural land north of Lake Ziway (ANLZ-1), 1700 \u03bcg/L in the floriculture effluent (FE-1), and 900 \u03bcg/L in tap water at the Batu Drinking Water (BDW) supply. These results show that the levels of pesticides are in several cases substantially elevated, and emphasize the need of regular pesticide monitoring programs for surface waters and vegetables in the Ethiopian CRV."
  },
+ "https://doi.org/10.1039/d0sc02901g": {
+  "month": "8",
+  "pub_date": "21 Aug 2020",
+  "year": 2020,
+  "early_online": "9 Jul 2020",
+  "title": "Origin of rate enhancement and asynchronicity in iminium catalyzed Diels-Alder reactions",
+  "contributors": "Vermeeren, P., Hamlin, T. A., Fern\u00e1ndez, I., Bickelhaupt, F. M.",
+  "corresponding": "Hamlin, T. A.",
+  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, Complutense University",
+  "journal": "Chemical Science",
+  "description": "Origin of rate enhancement and asynchronicity in iminium catalyzed Diels-Alder reactionsThe Diels-Alder reactions between cyclopentadiene and various \u03b1,\u03b2-unsaturated aldehyde, imine, and iminium dienophiles were quantum chemically studied using a combined density functional theory and coupled-cluster theory approach. Simple iminium catalysts accelerate the Diels-Alder reactions by lowering the reaction barrier up to 20 kcal mol-1 compared to the parent aldehyde and imine reactions. Our detailed activation strain and Kohn-Sham molecular orbital analyses reveal that the iminium catalysts enhance the reactivity by reducing the steric (Pauli) repulsion between the diene and dienophile, which originates from both a more asynchronous reaction mode and a more significant polarization of the \u03c0-system away from the incoming diene compared to aldehyde and imine analogs. Notably, we establish that the driving force behind the asynchronicity of the herein studied Diels-Alder reactions is the relief of destabilizing steric (Pauli) repulsion and not the orbital interaction between the terminal carbon of the dienophile and the diene, which is the widely accepted rationale."
+ },
  "https://doi.org/10.1039/d0sc02485f": {
   "month": "8",
   "pub_date": "28 Aug 2020",
@@ -2038,6 +2050,18 @@
   "organisations": "BioAnalytical Chemistry, AIMMS, Nouryon Chemicals, University of Amsterdam, DSM Food Specialties",
   "journal": "Separations",
   "description": "Living with breakthrough: Two-dimensional liquid-chromatography separations of a water-soluble synthetically grafted bio-polymerIn this study, we evaluate the use of various two-dimensional liquid chromatographic methods to characterize water-soluble, synthetically grafted bio-polymers, consisting of long poly(acrylic acid) chains and short maltodextrin grafts. The confirmation of the presence of grafting and the estimation of its extent is challenging. It is complicated by the limited solubility of polymers, their structural dispersity and chemical heterogeneity. Moreover, the starting materials (and other reagents, reaction products and additives) may be present in the product. Reversed-phase liquid chromatography (RPLC), hydrophilic-interaction liquid chromatography (HILIC) and size-exclusion chromatography (SEC) were used to characterize the product, as well as the starting materials. Additionally, fractions were collected for off-line characterization by infrared spectroscopy and mass spectrometry. The one-dimensional separation methods were found to be inconclusive regarding the grafting question. Breakthrough (the early elution of polymer fractions due to strong injection solvents) is shown to be a perpetual problem. This issue is not solved by comprehensive two-dimensional liquid chromatography (LC \u00d7 LC), but information demonstrating the success of the grafting reaction could be obtained. SEC \u00d7 RPLC and HILIC \u00d7 RPLC separations are presented and discussed."
+ },
+ "https://doi.org/10.1146/annurev-micro-012420-081657": {
+  "month": "9",
+  "pub_date": "Sep 2020",
+  "year": 2020,
+  "early_online": "13 Jul 2020",
+  "title": "Structure and Function of the Mycobacterial Type VII Secretion Systems",
+  "contributors": "Bunduc, C. M., Bitter, W., Houben, E. N. G.",
+  "corresponding": null,
+  "organisations": "Molecular Microbiology, AIMMS",
+  "journal": "Annual Review of Microbiology",
+  "description": "Structure and Function of the Mycobacterial Type VII Secretion SystemsBacteria have evolved intricate secretion machineries for the successful delivery of large molecules across their cell envelopes. Such specialized secretion systems allow a variety of bacteria to thrive in specific host environments. In mycobacteria, type VII secretion systems (T7SSs) are dedicated protein transport machineries that fulfill diverse and crucial roles, ranging from metabolite uptake to immune evasion and subversion to conjugation. Since the discovery of mycobacterial T7SSs about 15 y ago, genetic, structural, and functional studies have provided insight into the roles and functioning of these secretion machineries. Here, we focus on recent advances in the elucidation of the structure and mechanism of mycobacterial T7SSs in protein secretion. As many of these systems are essential for mycobacterial growth or virulence, they provide opportunities for the development of novel therapies to combat a number of relevant mycobacterial diseases. Expected final online publication date for the Annual Review of Microbiology, Volume 74 is September 8, 2020. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates."
  },
  "https://doi.org/10.1021/acs.jctc.0c00603": {
   "month": "9",
@@ -2135,6 +2159,18 @@
   "journal": "Frontiers in Immunology",
   "description": "MS-Based Allotype-Specific Analysis of Polyclonal IgG-Fc N-GlycosylationCurrent approaches to study glycosylation of polyclonal human immunoglobulins G (IgG) usually imply protein digestion or glycan release. While these approaches allow in-depth characterization, they also result in a loss of valuable information regarding certain subclasses, allotypes and co-occuring post-translational modifications (PTMs). Unfortunately, the high variability of polyclonal IgGs makes their intact mass spectrometry (MS) analysis extremely challenging. We propose here a middle-up strategy for the analysis of the intact fragment crystallizable (Fc) region of human plasma IgGs, with the aim of acquiring integrated information of the N-glycosylation and other PTMs of subclasses and allotypes. Human plasma IgG was isolated using Fc-specific beads followed by an on-bead CH2 domain digestion with the enzyme IdeS. The obtained mixture of Fc subunits was analyzed by capillary electrophoresis (CE) and hydrophilic interaction liquid chromatography (HILIC) hyphenated with MS. CE-MS provided separation of different IgG-subclasses and allotypes, while HILIC-MS allowed resolution of the different glycoforms and their oxidized variants. The orthogonality of these techniques was key to reliably assign Fc allotypes. Five individual donors were analyzed using this approach. Heterozygosis was observed in all the analyzed donors resulting in a total of 12 allotypes identified. The assignments were further confirmed using recombinant monoclonal IgG allotypes as standards. While the glycosylation patterns were similar within allotypes of the same subclass, clear differences were observed between IgG subclasses and donors, highlighting the relevance of the proposed approach. In a single analysis, glycosylation levels specific for each allotype, relative abundances of subclasses and information on co-occurring modifications are obtained. This middle-up method represents an important step toward a comprehensive analysis of immunoglobulin G-Fc variants."
  },
+ "https://doi.org/10.1088/1361-648X/abace2": {
+  "month": "8",
+  "pub_date": "11 Nov 2020",
+  "year": 2020,
+  "early_online": "27 Aug 2020",
+  "title": "Kohn-Sham equations with functionals from the strictly-correlated regime: Investigation with a spectral renormalization method",
+  "contributors": "Grossi, J., Musslimani, Z. H., Seidl, M., Gori-Giorgi, P.",
+  "corresponding": "Gori-Giorgi, P.",
+  "organisations": "Theoretical Chemistry, AIMMS, VU University, Florida State University",
+  "journal": "Journal of Physics Condensed Matter",
+  "description": "Kohn-Sham equations with functionals from the strictly-correlated regime: Investigation with a spectral renormalization methodWe re-adapt a spectral renormalization method, introduced in nonlinear optics, to solve the Kohn-Sham (KS) equations of density functional theory, with a focus on functionals based on the strictly-correlated electrons (SCE) regime, which are particularly challenging to converge. Important aspects of the method are: (i) the eigenvalues and the density are computed simultaneously; (ii) it converges using randomized initial guesses; (iii) easy to implement. Using this method we could converge for the first time the Kohn-Sham equations with functionals that include the next leading term in the strong-interaction limit of density functional theory, the so called zero-point energy (ZPE) functional as well as with an interaction-strength-interpolation functional that includes both the exact SCE and ZPE terms. This work is the first building block for future studies on quantum systems confined in low dimensions with different statistics and long-range repulsions, such as localization properties of fermions and bosons with strong long-range repulsive interactions in the presence of a random external potential. "
+ },
  "https://doi.org/10.1042/BST20190988": {
   "month": "8",
   "pub_date": "28 Aug 2020",
@@ -2195,6 +2231,18 @@
   "journal": "Aquatic Toxicology",
   "description": "Neurobehavioral effects of cyanobacterial biomass field extracts on zebrafish embryos and potential role of retinoidsCyanobacteria are known for their ability to produce and release mixtures of up to thousands of compounds into the environment. Recently, the production of novel metabolites, retinoids, was reported for some cyanobacterial species along with teratogenic effects of samples containing these compounds. Retinoids are natural endogenous substances derived from vitamin A that play a crucial role in early vertebrate development. Disruption of retinoid signalling- especially during the early development of the nervous system- might lead to major malfunctions and malformations. In this study, the toxicity of cyanobacterial biomass samples from the field containing retinoids was characterized by in vivo and in vitro bioassays with a focus on the potential hazards towards nervous system development and function. Additionally, in order to identify the compounds responsible for the observed in vitro and in vivo effects the complex cyanobacterial extracts were fractionated (C18 column, water-methanol gradient) and the twelve obtained fractions were tested in bioassays. In all bioassays, all-trans retinoic acid (ATRA) was tested along with the environmental samples as a positive control. Retinoid-like activity (mediated via the retinoic acid receptor, RAR) was measured in the transgenic cell line p19/A15. The in vitro assay showed retinoid-like activity by specific interaction with RAR for the biomass samples. Neurotoxic effects of selected samples were studied on zebrafish (Danio rerio) embryos using the light/dark transition test (Viewpoint, ZebraLab system) with 120 hpf larvae. In the behavioural assay, the cyanobacterial extracts caused significant hyperactivity in zebrafish at 120 hpf after acute exposure (3 h prior to the measurement) at concentrations below the teratogenicity LOEC (0.2 g dw L\u22121). Similar effect was observed after exposure to fractions of the extracts with detected retinoid-like activity and additive effect was observed after combining the fractions. However, the effect on behaviour was not observed after exposure to ATRA only. To provide additional insight into the behavioural effects and describe the underlying mechanism gene expression of selected biomarkers was measured. We evaluated an array of 28 genes related to general toxicity, neurodevelopment, retinoid and thyroid signalling. We detected several affected genes, most notably, the Cyp26 enzymes that control endogenous ATRA concentration, which documents an effect on retinoid signalling."
  },
+ "https://doi.org/10.1002/chem.202002077": {
+  "month": "9",
+  "pub_date": "25 Sep 2020",
+  "year": 2020,
+  "early_online": null,
+  "title": "Folding Assessment of Incorporation of Noncanonical Amino Acids Facilitates Expansion of Functional-Group Diversity for Enzyme Engineering",
+  "contributors": "Drienovsk\u00e1, I., Gajdo\u0161, M., Kindler, A., Takhtehchian, M., Darnhofer, B., Birner-Gruenberger, R., D\u00f6rr, M., Bornscheuer, U. T., Kourist, R.",
+  "corresponding": "Kourist, R.",
+  "organisations": "Organic Chemistry, AIMMS, Graz University of Technology, Medical University of Graz, BioTechMed-Graz, Vienna University of Technology, University of Greifswald",
+  "journal": "Chemistry - A European Journal",
+  "description": "Folding Assessment of Incorporation of Noncanonical Amino Acids Facilitates Expansion of Functional-Group Diversity for Enzyme EngineeringProtein design is limited by the diversity of functional groups provided by the canonical protein \u201ebuilding blocks\u201c. Incorporating noncanonical amino acids (ncAAs) into enzymes enables a dramatic expansion of their catalytic features. For this, quick identification of fully translated and correctly folded variants is decisive. Herein, we report the engineering of the enantioselectivity of an esterase utilizing several ncAAs. Key for the identification of active and soluble protein variants was the use of the split-GFP method, which is crucial as it allows simple determination of the expression levels of enzyme variants with ncAA incorporations by fluorescence. Several identified variants led to improved enantioselectivity or even inverted enantiopreference in the kinetic resolution of ethyl 3-phenylbutyrate."
+ },
  "https://doi.org/10.1038/s41467-020-18634-y": {
   "month": "9",
   "pub_date": "1 Dec 2020",
@@ -2206,5 +2254,17 @@
   "organisations": "Medicinal chemistry, AIMMS, Universit\u00e9 de Montpellier, Sorbonne Universit\u00e9, ComUE Paris-Saclay, Friedrich Schiller University Jena",
   "journal": "Nature Communications",
   "description": "The atypical chemokine receptor 3 interacts with Connexin 43 inhibiting astrocytic gap junctional intercellular communicationThe atypical chemokine receptor 3 (ACKR3) plays a pivotal role in directing the migration of various cellular populations and its over-expression in tumors promotes cell proliferation and invasiveness. The intracellular signaling pathways transducing ACKR3-dependent effects remain poorly characterized, an issue we addressed by identifying the interactome of ACKR3. Here, we report that recombinant ACKR3 expressed in HEK293T cells recruits the gap junction protein Connexin 43 (Cx43). Cx43 and ACKR3 are co-expressed in mouse brain astrocytes and human glioblastoma cells and form a complex in embryonic mouse brain. Functional in vitro studies show enhanced ACKR3 interaction with Cx43 upon ACKR3 agonist stimulation. Furthermore, ACKR3 activation promotes \u03b2-arrestin2- and dynamin-dependent Cx43 internalization to inhibit gap junctional intercellular communication in primary astrocytes. These results demonstrate a functional link between ACKR3 and gap junctions that might be of pathophysiological relevance."
+ },
+ "https://doi.org/https://doi.org/10.1007/s11192-020-03707-y": {
+  "month": "10",
+  "pub_date": "10 Oct 2020",
+  "year": 2020,
+  "early_online": null,
+  "title": "Innovation in pharmaceutical R&D: mapping the research landscape",
+  "contributors": "Romasanta, A. K., van der Sijde, P., van Muijlwijk-Koezen, J. E.",
+  "corresponding": "Romasanta, A. K.",
+  "organisations": "Innovations in Human Health & Life Sciences, AIMMS, Organization & Processes of Organizing in Society (OPOS), Network Institute, Organization Sciences",
+  "journal": null,
+  "description": "Innovation in pharmaceutical R&D: mapping the research landscapeIn response to the increasing number and breadth of innovation studies on the pharmaceutical industry, we mapped the literature to show the trends in recent research and to indicate areas for further research. In the first phase, we analyzed articles on the pharmaceutical industry published in innovation journals. We used these articles\u2019 textual and citation data and applied hybrid cluster analysis. Three main clusters were produced based on the level of analysis innovation scholars had used to investigate the industry: macro, meso and micro. We describe the research topics within these clusters and show that, overall, innovation scholars increasingly focus on the meso-level, analyzing the relationships across different firms. This shift in interest toward the collaborative nature of drug discovery and development was also apparent in macro- and micro-level studies. To explore how this literature is used by scientists in the industry, our second phase involved analysis of the citing articles published in pharmaceutical journals. Using our findings, we propose research areas that can be further explored in order to create an engaged and better-integrated literature on pharmaceutical innovation."
  }
 }
