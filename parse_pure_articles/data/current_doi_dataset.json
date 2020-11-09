@@ -127,7 +127,7 @@
   "title": "Synthesis of Densely Functionalized Pyrimidouracils by Nickel(II)-Catalyzed Isocyanide Insertion",
   "contributors": "Collet, J. W., Morel, B., Lin, H. C., Roose, T. R., Mampuys, P., Orru, R. V., Ruijter, E., Maes, B. U.",
   "corresponding": "Orru, R. V.",
-  "organisations": "AIMMS, Organic Chemistry, University of Antwerp, VU University, University of Antwerp",
+  "organisations": "AIMMS, Organic Chemistry, University of Antwerp, Vrije Universiteit Amsterdam, University of Antwerp",
   "journal": "Organic letters",
   "description": "Synthesis of Densely Functionalized Pyrimidouracils by Nickel(II)-Catalyzed Isocyanide InsertionA robust nickel-catalyzed oxidative isocyanide insertion/C-H amination by reaction of readily available N-uracil-amidines with isocyanides affording polysubstituted pyrimidouracils has been reported. The reaction proceeds in moderate to quantitative yield, under mild conditions (i.e., green solvent, air atmosphere, moderate temperature). The broad range of structurally diverse isocyanides and N-uracil-amidines that are tolerated make this method an interesting alternative to the currently available procedures toward pyrimidouracils."
  },
@@ -523,7 +523,7 @@
   "title": "Distortion-Controlled Redshift of Organic Dye Molecules",
   "contributors": "Narsaria, A. K., Poater, J., Guerra, C. F., Ehlers, A. W., Hamlin, T. A., Lammertsma, K., Bickelhaupt, F. M.",
   "corresponding": null,
-  "organisations": "AIMMS, Theoretical Chemistry, Chemistry and Pharmaceutical Sciences, VU University, ICREA, Departament de Qu\u00edmica Inorg\u00e0nica i Org\u00e0nica and IQTCUB, Barcelona, Leiden University, University of Amsterdam, University of Johannesburg, Radboud University",
+  "organisations": "AIMMS, Theoretical Chemistry, Chemistry and Pharmaceutical Sciences, Vrije Universiteit Amsterdam, ICREA, Departament de Qu\u00edmica Inorg\u00e0nica i Org\u00e0nica and IQTCUB, Barcelona, Leiden University, University of Amsterdam, University of Johannesburg, Radboud University",
   "journal": "Chemistry: A European Journal",
   "description": "Distortion-Controlled Redshift of Organic Dye MoleculesIt is shown, quantum chemically, how structural distortion of an aromatic dye molecule can be leveraged to rationally tune its optoelectronic properties. By using a quantitative Kohn\u2013Sham molecular orbital (KS-MO) approach, in combination with time-dependent DFT (TD-DFT), the influence of various structural and electronic tuning parameters on the HOMO\u2013LUMO gap of a benzenoid model dye have been investigated. These parameters include 1) out-of-plane bending of the aromatic core, 2) bending of the bridge with respect to the core, 3) the nature of the bridge itself, and 4) \u03c0\u2013\u03c0 stacking. The study reveals the coupling of multiple structural distortions as a function of bridge length and number of bridges in benzene to be chiefly responsible for a decreased HOMO\u2013LUMO gap, and consequently, red-shifting of the absorption wavelength associated with the lowest singlet excitation (\u03bb\u2248560 nm) in the model cyclophane systems. These physical insights together with a rational approach for tuning the oscillator strength were leveraged for the proof-of-concept design of an intense near-infrared (NIR) absorbing cyclophane dye at \u03bb=785 nm. This design may contribute to a new class of distortion-controlled NIR absorbing organic dye molecules."
  },
@@ -1324,12 +1324,12 @@
   "pub_date": "2020",
   "year": 2020,
   "early_online": null,
-  "title": "Current Trends in Dynamical Systems in Biology and Natural Sciences",
-  "contributors": "Aguiar, M. (ed.), Braumann, C. (ed.), Kooi, B. (ed.), Pugliese, A. (ed.), Stollenwerk, N. (ed.)",
+  "title": "Preface",
+  "contributors": "Aguiar, M., Braumann, C., Kooi, B. W., Pugliese, A., Stollenwerk, N., Venturino, E.",
   "corresponding": null,
-  "organisations": "Molecular Cell Biology, AIMMS, Dipartimento di Matematica, University of Trento, University of Lisbon",
+  "organisations": "Molecular Cell Biology, AIMMS, University of Trento, University of Evora, University of Lisbon, University of Turin",
   "journal": null,
-  "description": "Current Trends in Dynamical Systems in Biology and Natural SciencesThis book disseminates the latest results and envisages new challenges in the application of mathematics to various practical situations in biology, epidemiology, and ecology. It comprises a collection of the main results presented at the Ninth Edition of the International Workshop \u201cDynamical Systems Applied to Biology and Natural Sciences \u2013 DSABNS\u201d, held from 7 to 9 February 2018 at the Department of Mathematics, University of Turin, Italy. While the principal focus is ecology and epidemiology, the coverage extends even to waste recycling and a genetic application. The topics covered in the 12 peer-reviewed contributions involve such diverse mathematical tools as ordinary and partial differential equations, delay equations, stochastic equations, control, and sensitivity analysis. The book is intended to help both in disseminating the latest results and in envisaging new challenges in the application of mathematics to various practical situations in biology, epidemiology, and ecology. "
+  "description": "Preface"
  },
  "https://doi.org/10.1016/j.comtox.2020.100124": {
   "month": "5",
@@ -1546,6 +1546,18 @@
   "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, Aarhus University, St. John's University, Queen Mary University of London, Utrecht University, Imperial College London, Dortmund University, Applied Pharmacology and Toxicology, Inc., University of W\u00fcrzburg, University of Konstanz, The Health Policy Center, Technical University of Munich, University of Ottawa, Toxicology, University of Oulu, Finnish Institute of Occupational Health, University of Leicester, Universidad Rovira i Virgili",
   "journal": "Chemico-Biological Interactions",
   "description": "Human exposure to synthetic endocrine disrupting chemicals (S-EDCs) is generally negligible as compared to natural compounds with higher or comparable endocrine activity: How to evaluate the risk of the S-EDCs?Theoretically, both synthetic endocrine disrupting chemicals (S-EDCs) and natural (exogenous and endogenous) endocrine disrupting chemicals (N-EDCs) can interact with endocrine receptors and disturb hormonal balance. However, compared to endogenous hormones, S-EDCs are only weak partial agonists with receptor affinities several orders of magnitude lower. Thus, to elicit observable effects, S-EDCs require considerably higher concentrations to attain sufficient receptor occupancy or to displace natural hormones and other endogenous ligands. Significant exposures to exogenous N-EDCs may result from ingestion of foods such as soy-based diets, green tea and sweet mustard. While their potencies are lower as compared to natural endogenous hormones, they usually are considerably more potent than S-EDCs. Effects of exogenous N-EDCs on the endocrine system were observed at high dietary intakes. A causal relation between their mechanism of action and these effects is established and biologically plausible. In contrast, the assumption that the much lower human exposures to S-EDCs may induce observable endocrine effects is not plausible. Hence, it is not surprising that epidemiological studies searching for an association between S-EDC exposure and health effects have failed. Regarding testing for potential endocrine effects, a scientifically justified screen should use in vitro tests to compare potencies of S-EDCs with those of reference N-EDCs. When the potency of the S-EDC is similar or smaller than that of the N-EDC, further testing in laboratory animals and regulatory consequences are not warranted."
+ },
+ "https://doi.org/10.1021/acs.chemmater.0c00443": {
+  "month": "8",
+  "pub_date": "11 Aug 2020",
+  "year": 2020,
+  "early_online": "28 May 2020",
+  "title": "Electronic Structure Engineering Achieved via Organic Ligands in Silicon Nanocrystals",
+  "contributors": "Dohnalov\u00e1, K., Hapala, P., K\u016fsov\u00e1, K., Infante, I.",
+  "corresponding": "Dohnalov\u00e1, K.",
+  "organisations": "Theoretical Chemistry, AIMMS, University of Amsterdam, Czech Academy of Sciences",
+  "journal": "Chemistry of Materials",
+  "description": "Electronic Structure Engineering Achieved via Organic Ligands in Silicon NanocrystalsA class of important semiconductors, such as Si, Ge, or C, has an indirect band gap, which critically limits their optical properties. Lack of efficient emission is especially unfortunate for silicon, where Si light sources could enable realization of the long-awaited on-chip-integrated Si laser for an integrated optical computing CPU architecture. Hence, methods toward the improvement of optical properties of Si-based materials are in high demand. Unlike most of the applied light-emitting semiconductor nanocrystals (NCs) with a direct band gap, the radiative rate in covalent silicon NCs (SiNCs) is size-dependent but remains low even for the smallest SiNCs. Additionally, the radiative rate is also ligand-sensitive, and the covalent bond with ligands is very rigid and static and could be, in principle, used for straining via steric hindrance, further influencing the radiative rates. In this work, we use the self-consistent density functional theory (DFT) simulation together with a \"fuzzy\"band-structure concept to show the effect of covalently bonded ligands on the electronic structure of NCs and their k - -space projection. For instance, in 2 nm large SiNCs with C-linked organic ligands, we demonstrate that radiative rates can be manipulated by ligands to a considerable extent through an intricate interplay between charge transfer from the core to the ligand, orbital delocalization, and strain by steric hindrance. We propose that the tunability of electronic properties achieved via ligands in covalent systems offers a possible direction toward the design of an ideal Si light-emitting system."
  },
  "https://doi.org/10.1016/j.neuro.2020.05.006": {
   "month": "9",
@@ -1771,7 +1783,7 @@
   "title": "Computationally Guided Molecular Design to Minimize the LE/CT Gap in D-\u03c0-A Fluorinated Triarylboranes for Efficient TADF via D and \u03c0-Bridge Tuning",
   "contributors": "Narsaria, A. K., Rauch, F., Krebs, J., Endres, P., Friedrich, A., Krummenacher, I., Braunschweig, H., Finze, M., Nitsch, J., Bickelhaupt, F. M., Marder, T. B.",
   "corresponding": "Bickelhaupt, F. M.",
-  "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, University of W\u00fcrzburg, VU University",
+  "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, University of W\u00fcrzburg, Vrije Universiteit Amsterdam",
   "journal": "Advanced Functional Materials",
   "description": "Computationally Guided Molecular Design to Minimize the LE/CT Gap in D-\u03c0-A Fluorinated Triarylboranes for Efficient TADF via D and \u03c0-Bridge TuningIn this combined experimental and theoretical study, a computational protocol is reported to predict the excited states in D-\u03c0-A compounds containing the B(FXyl)2 (FXyl = 2,6-bis(trifluoromethyl)phenyl) acceptor group for the design of new thermally activated delayed fluorescence (TADF) emitters. To this end, the effect of different donor and \u03c0-bridge moieties on the energy gaps between local and charge-transfer singlet and triplet states is examined. To prove this computationally aided design concept, the D-\u03c0-B(FXyl)2 compounds 1\u20135 were synthesized and fully characterized. The photophysical properties of these compounds in various solvents, polymeric film, and in a frozen matrix were investigated in detail and show excellent agreement with the computationally obtained data. Furthermore, a simple structure\u2013property relationship is presented on the basis of the molecular fragment orbitals of the donor and the \u03c0-bridge, which minimize the relevant singlet\u2013triplet gaps to achieve efficient TADF emitters."
  },
@@ -1931,30 +1943,6 @@
   "journal": "Journal of Molecular Biology",
   "description": "The CTD Is Not Essential for the Post-Initiation Control of RNA Polymerase II ActivityInterest in the C-terminal domain (CTD) of the RPB1 subunit of the RNA polymerase II (Pol II) has been revived in recent years, owing to its numerous posttranslational modifications and its \u201cphase-separation\u201d properties. A large number of studies have shown that the status of CTD modifications is associated with the activity of Pol II during the transcription cycle. However, because this domain is essential in living cells, the functional requirement of the full CTD for the control of Pol II activity at endogenous mammalian genes has never been addressed directly in living cells. Using an inducible Pol II-degradation system that we previously established, we investigated here the roles of the CTD in the post-initiation control of Pol II. The selective ablation of the RPB1 CTD, post-initiation, at promoter-proximal pause-sites revealed that this domain, and by extension the CTD heptads and their modifications, is functionally neither absolutely required to maintain pausing in the absence of CDK9 activity nor essential for the release of Pol II into productive elongation."
  },
- "https://doi.org/10.1016/j.etap.2020.103460": {
-  "month": "7",
-  "pub_date": "Nov 2020",
-  "year": 2020,
-  "early_online": "29 Jul 2020",
-  "title": "High resolution effect-directed analysis of steroid hormone (ant)agonists in surface and wastewater quality monitoring",
-  "contributors": "Houtman, C. J., ten Broek, R., van Oorschot, Y., Kloes, D., van der Oost, R., Rosielle, M., Lamoree, M. H.",
-  "corresponding": "Houtman, C. J.",
-  "organisations": "E&H: Environmental Chemistry and Toxicology, AIMMS, The Water Laboratory, Waternet Institute for the Urban Water Cycle",
-  "journal": "Environmental Toxicology and Pharmacology",
-  "description": "High resolution effect-directed analysis of steroid hormone (ant)agonists in surface and wastewater quality monitoringMonitoring of chemical water quality is extremely challenging due to the large variety of compounds and the presence of biologically active compounds with unknown chemical identity. Previously, we developed a high resolution Effect-Directed Analysis (EDA) platform that combines liquid chromatography with high resolution mass spectrometry and parallel bioassay detection. In this study, the platform is combined with CALUX bioassays for (anti)androgenic, estrogenic and glucocorticoid activities, and the performance of the platform is evaluated. It appeared to render very repeatable results, with high recoveries of spiked compounds and high consistency between the mass spectrometric and bioassay results. Application of the platform to wastewater treatment plant effluent and surface water samples led to the identification of several compounds contributing to the measured activities. Eventually, a workflow is proposed for the application of the platform in a routine monitoring context. The workflow divides the platform into four phases, of which one to all can be performed depending on the research question and the results obtained. This allows one to make a balance between the effort put into the platform and the certainty and depth by which active compounds will be identified. The EDA platform is a valuable tool to identify unknown bioactive compounds, both in an academic setting as in the context of legislative, governmental or routine monitoring."
- },
- "https://doi.org/10.1016/j.chemosphere.2020.127498": {
-  "month": "7",
-  "pub_date": "Nov 2020",
-  "year": 2020,
-  "early_online": "29 Jul 2020",
-  "title": "Time integrative sampling properties of Speedisk and silicone rubber passive samplers determined by chemical analysis and in vitro bioassay testing",
-  "contributors": "de Weert, J., Smedes, F., Beeltje, H., de Zwart, D., Hamers, T.",
-  "corresponding": "Hamers, T.",
-  "organisations": "E&H: Environmental Health and Toxicology, AIMMS, Deltares, Masaryk University, Netherlands Organisation for Applied Scientific Research, National Institute of Public Health and the Environment, DdZ Ecotox",
-  "journal": "Chemosphere",
-  "description": "Time integrative sampling properties of Speedisk and silicone rubber passive samplers determined by chemical analysis and in vitro bioassay testingCompared to grab samples, passive samplers have the advantage that they sample over a longer time period and can detect lower compound concentrations in water quality monitoring campaigns. To allow the determination of time-weighted average concentrations, however, sampler uptake should remain linear in time over the entire sampling period. Therefore, the time integrative or linear uptake properties of adsorption-based Speedisks and partitioning-based silicone rubber samplers were assessed with respect to chemically analyzed single compounds and measured bioactivity in in vitro bioassays. Both sampler types were deployed in consecutive and overlapping time series in a WTTP effluent and in the river Meuse up to 105 days. Extracts were chemically analyzed for PCBs, PAHs and pesticides and tested in the Aliivibrio fischeri and DR-LUC bioassays. Speedisks showed time integrative sampling for the detected pesticides as well as for bioassay responses at both sampling locations for the entire sampling period. The silicone rubber samplers showed poor linear uptake in time for the unknown compounds causing bioassay responses. The bioassay results indicate that conversion of a bioassay response to a passive sampler extract into a time-weighted average bioactivity per liter water seems justified for Speedisks, confirming that concentrations in the samplers correspond to a single volume of sampled water for all compounds. The bioassay results also indicate that a similar conversion for silicone rubber extracts should be interpreted with caution. In principle, it is actually impossible, because the concentration of each compound contributing to the bioassay response corresponds to a different sampled water volume."
- },
  "https://doi.org/10.1371/journal.pntd.0008447": {
   "month": "7",
   "pub_date": "30 Jul 2020",
@@ -2111,6 +2099,54 @@
   "journal": "Renewable and Sustainable Energy Reviews",
   "description": "Learning strategies in sustainable energy demonstration projects: What organizations learn from sustainable energy demonstrationsThis literature review study presents and discusses the learning strategies of organizations participating in sustainable energy demonstration projects. It finds that academic, commercial, and governmental organizations build on six major learning strategies. The first learning strategy is to capture intellectual property and benefit from knowledge spillovers. The second learning strategy comprises the building of a series of prototypes that are technically and commercially fit for purpose. The third learning strategy aims at operating production plants that produce the prototypes on a large scale. The fourth learning strategy concentrates on exploiting learning curves in these production plants. The fifth learning strategy focuses on creating supply-demand networks that serve increasing markets. Finally, the sixth learning strategy is to develop governmental regulation and funding schemes that support the emergence of an industrial and societal institutional infrastructure for sustainable energy technology, based on the lessons learned from the demonstration projects. This study also finds that the six learning strategies are facilitated by four key behaviors of participants in demonstration projects, which are mutual trust-building, decision-making in favor of sustainable energy technology, learning-network building, and demonstration program development. To academics, this study provides a comprehensive insight into organizations\u2019 learning strategies in sustainable energy demonstration projects, regarding learning directions and outcomes. Its contribution to practice is that it supports academic, commercial, and governmental organizations in managing their portfolio of learning strategies in new sustainable energy demonstration projects."
  },
+ "https://doi.org/10.1002/chem.202002554": {
+  "month": "10",
+  "pub_date": "21 Oct 2020",
+  "year": 2020,
+  "early_online": "7 Jul 2020",
+  "title": "Shifting Towards \u03b1V\u03b26 Integrin Ligands Using Novel Aminoproline-Based Cyclic Peptidomimetics",
+  "contributors": "Bugatti, K., Bruno, A., Arosio, D., Sartori, A., Curti, C., Augustijn, L., Zanardi, F., Battistini, L.",
+  "corresponding": "Battistini, L.",
+  "organisations": "Medicinal chemistry, AIMMS, University of Parma, National Research Council of Italy",
+  "journal": "Chemistry - A European Journal",
+  "description": "Shifting Towards \u03b1V\u03b26 Integrin Ligands Using Novel Aminoproline-Based Cyclic PeptidomimeticsIn recognition of the key role played by integrins in several life-threatening dysfunctions, the search for novel small-molecule probes that selectively recognize these surface receptors is still open and widely pursued. Inspired by previously established aminoproline (Amp)-RGD based cyclopeptidomimetics with attracting \u03b1V\u03b23 integrin affinity and selectivity, the design and straightforward synthesis of 18 new AmpRGD chemotypes bearing additional structural variants were herein implemented, to shift toward peptide-like \u03b1V\u03b26 integrin targeted binders. The ligand competence of the synthesized products toward \u03b1V\u03b26 was evaluated in competitive binding assays on isolated receptors, and \u03b1V\u03b26/\u03b1V\u03b23 selectivity was determined for a subgroup of compounds, resulting in the identification of four very promising candidates. SAR considerations and docking simulations allowed us to appreciate the key structural features responsible for the observed activity."
+ },
+ "https://doi.org/10.1016/j.etap.2020.103460": {
+  "month": "11",
+  "pub_date": "Nov 2020",
+  "year": 2020,
+  "early_online": "29 Jul 2020",
+  "title": "High resolution effect-directed analysis of steroid hormone (ant)agonists in surface and wastewater quality monitoring",
+  "contributors": "Houtman, C. J., ten Broek, R., van Oorschot, Y., Kloes, D., van der Oost, R., Rosielle, M., Lamoree, M. H.",
+  "corresponding": "Houtman, C. J.",
+  "organisations": "E&H: Environmental Chemistry and Toxicology, AIMMS, The Water Laboratory, Waternet Institute for the Urban Water Cycle",
+  "journal": "Environmental Toxicology and Pharmacology",
+  "description": "High resolution effect-directed analysis of steroid hormone (ant)agonists in surface and wastewater quality monitoringMonitoring of chemical water quality is extremely challenging due to the large variety of compounds and the presence of biologically active compounds with unknown chemical identity. Previously, we developed a high resolution Effect-Directed Analysis (EDA) platform that combines liquid chromatography with high resolution mass spectrometry and parallel bioassay detection. In this study, the platform is combined with CALUX bioassays for (anti)androgenic, estrogenic and glucocorticoid activities, and the performance of the platform is evaluated. It appeared to render very repeatable results, with high recoveries of spiked compounds and high consistency between the mass spectrometric and bioassay results. Application of the platform to wastewater treatment plant effluent and surface water samples led to the identification of several compounds contributing to the measured activities. Eventually, a workflow is proposed for the application of the platform in a routine monitoring context. The workflow divides the platform into four phases, of which one to all can be performed depending on the research question and the results obtained. This allows one to make a balance between the effort put into the platform and the certainty and depth by which active compounds will be identified. The EDA platform is a valuable tool to identify unknown bioactive compounds, both in an academic setting as in the context of legislative, governmental or routine monitoring."
+ },
+ "https://doi.org/10.1016/j.chemosphere.2020.127498": {
+  "month": "11",
+  "pub_date": "Nov 2020",
+  "year": 2020,
+  "early_online": "29 Jul 2020",
+  "title": "Time integrative sampling properties of Speedisk and silicone rubber passive samplers determined by chemical analysis and in vitro bioassay testing",
+  "contributors": "de Weert, J., Smedes, F., Beeltje, H., de Zwart, D., Hamers, T.",
+  "corresponding": "Hamers, T.",
+  "organisations": "E&H: Environmental Health and Toxicology, AIMMS, Deltares, Masaryk University, Netherlands Organisation for Applied Scientific Research, National Institute of Public Health and the Environment, DdZ Ecotox",
+  "journal": "Chemosphere",
+  "description": "Time integrative sampling properties of Speedisk and silicone rubber passive samplers determined by chemical analysis and in vitro bioassay testingCompared to grab samples, passive samplers have the advantage that they sample over a longer time period and can detect lower compound concentrations in water quality monitoring campaigns. To allow the determination of time-weighted average concentrations, however, sampler uptake should remain linear in time over the entire sampling period. Therefore, the time integrative or linear uptake properties of adsorption-based Speedisks and partitioning-based silicone rubber samplers were assessed with respect to chemically analyzed single compounds and measured bioactivity in in vitro bioassays. Both sampler types were deployed in consecutive and overlapping time series in a WTTP effluent and in the river Meuse up to 105 days. Extracts were chemically analyzed for PCBs, PAHs and pesticides and tested in the Aliivibrio fischeri and DR-LUC bioassays. Speedisks showed time integrative sampling for the detected pesticides as well as for bioassay responses at both sampling locations for the entire sampling period. The silicone rubber samplers showed poor linear uptake in time for the unknown compounds causing bioassay responses. The bioassay results indicate that conversion of a bioassay response to a passive sampler extract into a time-weighted average bioactivity per liter water seems justified for Speedisks, confirming that concentrations in the samplers correspond to a single volume of sampled water for all compounds. The bioassay results also indicate that a similar conversion for silicone rubber extracts should be interpreted with caution. In principle, it is actually impossible, because the concentration of each compound contributing to the bioassay response corresponds to a different sampled water volume."
+ },
+ "https://doi.org/10.1007/978-3-030-57239-6_14": {
+  "month": "8",
+  "pub_date": "2020",
+  "year": 2020,
+  "early_online": null,
+  "title": "Perspectives for Teaching About How Science Works",
+  "contributors": "Janssen, F., Westbroek, H., Landa, I., van der Ploeg, B., van Muijlwijk-Koezen, J. E.",
+  "corresponding": "Janssen, F.",
+  "organisations": "Innovations in Human Health & Life Sciences, AIMMS, LEARN! - Learning sciences, Team Secondary Education, ICLON, Leiden University",
+  "journal": null,
+  "description": "Perspectives for Teaching About How Science WorksAn integrative, perspective-directed, and practical approach to teaching the nature of science is elaborated in this contribution. The approach is integrative in the sense that students reflect on general and domain-specific aspects of knowledge development. In order to do this, students contribute to knowledge development using domain-specific perspectives that guide them in formulating questions as well as answers and criteria to assess those answers. The approach is practical in the sense that three heuristics were developed that offer teachers practical design support for redesigning their regular lessons into integrative, perspective-based lessons."
+ },
  "https://doi.org/10.1124/MOL.119.118448": {
   "month": "8",
   "pub_date": "1 Aug 2020",
@@ -2160,7 +2196,7 @@
   "description": "MS-Based Allotype-Specific Analysis of Polyclonal IgG-Fc N-GlycosylationCurrent approaches to study glycosylation of polyclonal human immunoglobulins G (IgG) usually imply protein digestion or glycan release. While these approaches allow in-depth characterization, they also result in a loss of valuable information regarding certain subclasses, allotypes and co-occuring post-translational modifications (PTMs). Unfortunately, the high variability of polyclonal IgGs makes their intact mass spectrometry (MS) analysis extremely challenging. We propose here a middle-up strategy for the analysis of the intact fragment crystallizable (Fc) region of human plasma IgGs, with the aim of acquiring integrated information of the N-glycosylation and other PTMs of subclasses and allotypes. Human plasma IgG was isolated using Fc-specific beads followed by an on-bead CH2 domain digestion with the enzyme IdeS. The obtained mixture of Fc subunits was analyzed by capillary electrophoresis (CE) and hydrophilic interaction liquid chromatography (HILIC) hyphenated with MS. CE-MS provided separation of different IgG-subclasses and allotypes, while HILIC-MS allowed resolution of the different glycoforms and their oxidized variants. The orthogonality of these techniques was key to reliably assign Fc allotypes. Five individual donors were analyzed using this approach. Heterozygosis was observed in all the analyzed donors resulting in a total of 12 allotypes identified. The assignments were further confirmed using recombinant monoclonal IgG allotypes as standards. While the glycosylation patterns were similar within allotypes of the same subclass, clear differences were observed between IgG subclasses and donors, highlighting the relevance of the proposed approach. In a single analysis, glycosylation levels specific for each allotype, relative abundances of subclasses and information on co-occurring modifications are obtained. This middle-up method represents an important step toward a comprehensive analysis of immunoglobulin G-Fc variants."
  },
  "https://doi.org/10.1088/1361-648X/abace2": {
-  "month": "8",
+  "month": "11",
   "pub_date": "11 Nov 2020",
   "year": 2020,
   "early_online": "27 Aug 2020",
@@ -2182,6 +2218,18 @@
   "organisations": "Medicinal chemistry, AIMMS, Queen's University Belfast",
   "journal": "Biochemical Society transactions",
   "description": "The constitutive activity of the viral-encoded G protein-coupled receptor US28 supports a complex signalling network contributing to cancer developmentUS28 is a viral G protein-coupled receptor (GPCR) encoded by the human cytomegalovirus (HCMV). This receptor, expressed both during lytic replication and viral latency, is required for latency. US28 is binding to a wide variety of chemokines but also exhibits a particularly high constitutive activity robustly modulating a wide network of cellular pathways altering the host cell environment to benefit HCMV infection. Several studies suggest that US28-mediated signalling may contribute to cancer progression. In this review, we discuss the unique structural characteristics that US28 acquired through evolution that confer a robust constitutive activity to this viral receptor. We also describe the wide downstream signalling network activated by this constitutive activation of US28 and discuss how these signalling pathways may promote and support important cellular aspects of cancer."
+ },
+ "https://doi.org/10.1093/gbe/evaa171": {
+  "month": "9",
+  "pub_date": "Sep 2020",
+  "year": 2020,
+  "early_online": "28 Aug 2020",
+  "title": "Iso",
+  "contributors": "Ayad, L. A., Dourou, A. M., Arhondakis, S., Pissis, S. P.",
+  "corresponding": null,
+  "organisations": "Bioinformatics, AIMMS, Bio Informatics (IBIVU), King's College London, Bioinformatics and Computational Science (BioCoS)",
+  "journal": "Genome Biology and Evolution",
+  "description": "IsoXpressor: A Tool to Assess Transcriptional Activity within IsochoresGenomes are characterized by large regions of homogeneous base compositions known as isochores. The latter are divided into GC-poor and GC-rich classes linked to distinct functional and structural properties. Several studies have addressed how isochores shape function and structure. To aid in this important subject, we present IsoXpressor, a tool designed for the analysis of the functional property of transcription within isochores. IsoXpressor allows users to process RNA-Seq data in relation to the isochores, and it can be employed to investigate any biological question of interest for any species. The results presented herein as proof of concept are focused on the preimplantation process in Homo sapiens (human) and Macaca mulatta (rhesus monkey)."
  },
  "https://doi.org/10.3390/BIOMEDICINES8090297": {
   "month": "9",
@@ -2219,17 +2267,41 @@
   "journal": "Science and Education",
   "description": "Scientific Perspectivism in Secondary-School Chemistry Education: Integrating Concepts and Skills in Chemical ThinkingThe importance of learning chemical ways of thinking is widely recognized. Various frameworks have been developed to address the essence of chemistry and chemical thinking. However, very few studies have focused on how chemical ways of thinking can be defined. To elaborate chemical ways of thinking, this paper draws on scientific perspectivism (Giere 2010; Wimsatt 2007; Thagard 2012). Scientific perspectivism states that, within each general domain, several broadly accepted theoretical models exist side by side. These general theoretical models, or theoretical perspectives, determine which research questions are generated, which types of models are developed, and which criteria are important for evaluating models. A theoretical perspective can be captured in a core reasoning that embodies the fundamental relationship between model and the \u201creal world.\u201d Starting with their most basic form, perspectives can be used in learning how to reason about all types of ill-structured problems, directing and organizing knowledge development, and integrating knowledge and skills. The study is part of a research project on how perspectivism can be applied to the design of secondary-school chemistry education. This particular study concerns the identification, elaboration, and validation of four chemical perspectives for secondary-school chemistry education. We use these perspectives to indicate the consequences of taking a perspectivism approach to a curriculum framework. We conclude with discussing the consequences for secondary chemistry curriculum."
  },
- "https://doi.org/10.1016/j.aquatox.2020.105613": {
-  "month": "9",
-  "pub_date": "Nov 2020",
+ "https://doi.org/10.1002/etc.4846": {
+  "month": "11",
+  "pub_date": "1 Nov 2020",
   "year": 2020,
-  "early_online": "6 Sep 2020",
-  "title": "Neurobehavioral effects of cyanobacterial biomass field extracts on zebrafish embryos and potential role of retinoids",
-  "contributors": "P\u00edpal, M., Legradi, J., Smutn\u00e1, M., Ko\u010d\u00ed, T., Priebojov\u00e1, J., Bl\u00e1hov\u00e1, L., Krauss, M., Hilscherov\u00e1, K.",
-  "corresponding": "Hilscherov\u00e1, K.",
-  "organisations": "E&H: Environmental Health and Toxicology, AIMMS, Masaryk University, Helmholtz Centre for Environmental Research",
-  "journal": "Aquatic Toxicology",
-  "description": "Neurobehavioral effects of cyanobacterial biomass field extracts on zebrafish embryos and potential role of retinoidsCyanobacteria are known for their ability to produce and release mixtures of up to thousands of compounds into the environment. Recently, the production of novel metabolites, retinoids, was reported for some cyanobacterial species along with teratogenic effects of samples containing these compounds. Retinoids are natural endogenous substances derived from vitamin A that play a crucial role in early vertebrate development. Disruption of retinoid signalling- especially during the early development of the nervous system- might lead to major malfunctions and malformations. In this study, the toxicity of cyanobacterial biomass samples from the field containing retinoids was characterized by in vivo and in vitro bioassays with a focus on the potential hazards towards nervous system development and function. Additionally, in order to identify the compounds responsible for the observed in vitro and in vivo effects the complex cyanobacterial extracts were fractionated (C18 column, water-methanol gradient) and the twelve obtained fractions were tested in bioassays. In all bioassays, all-trans retinoic acid (ATRA) was tested along with the environmental samples as a positive control. Retinoid-like activity (mediated via the retinoic acid receptor, RAR) was measured in the transgenic cell line p19/A15. The in vitro assay showed retinoid-like activity by specific interaction with RAR for the biomass samples. Neurotoxic effects of selected samples were studied on zebrafish (Danio rerio) embryos using the light/dark transition test (Viewpoint, ZebraLab system) with 120 hpf larvae. In the behavioural assay, the cyanobacterial extracts caused significant hyperactivity in zebrafish at 120 hpf after acute exposure (3 h prior to the measurement) at concentrations below the teratogenicity LOEC (0.2 g dw L\u22121). Similar effect was observed after exposure to fractions of the extracts with detected retinoid-like activity and additive effect was observed after combining the fractions. However, the effect on behaviour was not observed after exposure to ATRA only. To provide additional insight into the behavioural effects and describe the underlying mechanism gene expression of selected biomarkers was measured. We evaluated an array of 28 genes related to general toxicity, neurodevelopment, retinoid and thyroid signalling. We detected several affected genes, most notably, the Cyp26 enzymes that control endogenous ATRA concentration, which documents an effect on retinoid signalling."
+  "early_online": "11 Aug 2020",
+  "title": "Improving the Environmental Risk Assessment of Substances of Unknown or Variable Composition, Complex Reaction Products, or Biological Materials",
+  "contributors": "Salvito, D., Fernandez, M., Jenner, K., Lyon, D. Y., de Knecht, J., Mayer, P., MacLeod, M., Eisenreich, K., Leonards, P., Cesnaitis, R., Le\u00f3n-Paumen, M., Embry, M., D\u00e9glin, S. E.",
+  "corresponding": "D\u00e9glin, S. E.",
+  "organisations": "E&H: Environmental Bioanalytical Chemistry, AIMMS, Research Institute for Fragrance Materials Inc., Environment and Climate Change Canada, Givaudan, Shell Oil, National Institute of Public Health and the Environment, Technical University of Denmark, Stockholm University, United States Environmental Protection Agency, European Chemicals Agency, ExxonMobil Biomedical Sciences Inc., Health and Environmental Sciences Institute",
+  "journal": "Environmental toxicology and chemistry",
+  "description": "Improving the Environmental Risk Assessment of Substances of Unknown or Variable Composition, Complex Reaction Products, or Biological MaterialsSubstances of unknown or variable composition, complex reaction products, or biological materials (UVCBs) pose unique risk assessment challenges to regulators and to product registrants. These substances can contain many constituents, sometimes partially unknown and/or variable, depending on fluctuations in their source material and/or manufacturing process. International regulatory agencies have highlighted the difficulties in characterizing UVCBs and assessing their toxicity and environmental fate. Several industrial sectors have attempted to address these issues by developing frameworks and characterization methods. Based on the output of a 2016 workshop, this critical review examines current practices for UVCB risk assessment and reveals a need for a multipronged and transparent approach integrating whole-substance and constituent-based information. In silico tools or empirical measurements can provide information on discrete and/or blocks of UVCB constituents with similar hazard properties. Read-across and/or whole-substance toxicity and fate testing using adapted emerging methods can provide whole-substance information. Continued collaboration of stakeholders representing government, industry, and academia will facilitate the development of practical testing strategies and guidelines for addressing regulatory requirements for UVCBs. Environ Toxicol Chem 2020;39:2097\u20132108."
+ },
+ "https://doi.org/10.1103/PhysRevA.102.032806": {
+  "month": "9",
+  "pub_date": "8 Sep 2020",
+  "year": 2020,
+  "early_online": null,
+  "title": "Comparative metathermodynamic description of thermal and correlation electron effects",
+  "contributors": "Gritsenko, O. V.",
+  "corresponding": null,
+  "organisations": "Theoretical Chemistry, AIMMS",
+  "journal": "Physical Review A",
+  "description": "Comparative metathermodynamic description of thermal and correlation electron effectsUnified metathermodynamic description of thermal and correlation electron effects is proposed. It is based on the temperature-dependent populations of the common for all temperatures basis states of the (formally accurate) configuration interaction (CI) expansion of the components of the canonical ensemble. These populations are incorporated into the effective ensemble of the metathermodynamic approach through the partial effective tem- peratures. The extended temperature Te is introduced as the statistical average of those temperatures. The absolute zero of the Te scale represents a \"no-correlation\"Hartree-Fock state, while elevated Te describes the increase of the \"correlation motion\"and the conventional thermal motion. The diagonal double configuration interaction (DDCI) approximation is considered, in which the proposed metathermodynamic description of thermal and correlation electron effects is based on the temperature-dependent orbital populations."
+ },
+ "https://doi.org/10.1103/PhysRevA.102.032815": {
+  "month": "9",
+  "pub_date": "15 Sep 2020",
+  "year": 2020,
+  "early_online": null,
+  "title": "Combining density-based dynamical correlation with a reduced-density-matrix strong-correlation description",
+  "contributors": "Van Meer, R., Gritsenko, O., Chai, J. D.",
+  "corresponding": null,
+  "organisations": "Theoretical Chemistry, AIMMS, National Taiwan University",
+  "journal": "Physical Review A",
+  "description": "Combining density-based dynamical correlation with a reduced-density-matrix strong-correlation descriptionA combined density and density-matrix functional method is proposed for the calculation of potential energy curves of molecular multibond dissociation. Its density-matrix part, a pair-density functional, efficiently approximates the ab initio pair density of the complete active space (CAS) method. The corresponding approximate on-top pair density \u03a0 is employed to correct for double counting in the correlation energy functional. The proposed ELS+ method, which augments the extended L\u00f6wdin-Shull (ELS) density-matrix functional with the \u03a0-based scaled density functional, closely reproduces potential curves of the paradigmatic multibond dissociation in N2, H2O, and H2CO molecules calculated with the recently proposed CAS\u03a0DFT [CAS augmented with the \u03a0-based scaled correlation correction of density functional theory (DFT)] method. Furthermore, with the additional correction for the intrafragment correlation between the broken-bond electrons, ELS++ reproduces well the benchmark potential curve of the N2 molecule by Lie and Clementi."
  },
  "https://doi.org/10.1002/chem.202002077": {
   "month": "9",
@@ -2255,6 +2327,78 @@
   "journal": "Nature Communications",
   "description": "The atypical chemokine receptor 3 interacts with Connexin 43 inhibiting astrocytic gap junctional intercellular communicationThe atypical chemokine receptor 3 (ACKR3) plays a pivotal role in directing the migration of various cellular populations and its over-expression in tumors promotes cell proliferation and invasiveness. The intracellular signaling pathways transducing ACKR3-dependent effects remain poorly characterized, an issue we addressed by identifying the interactome of ACKR3. Here, we report that recombinant ACKR3 expressed in HEK293T cells recruits the gap junction protein Connexin 43 (Cx43). Cx43 and ACKR3 are co-expressed in mouse brain astrocytes and human glioblastoma cells and form a complex in embryonic mouse brain. Functional in vitro studies show enhanced ACKR3 interaction with Cx43 upon ACKR3 agonist stimulation. Furthermore, ACKR3 activation promotes \u03b2-arrestin2- and dynamin-dependent Cx43 internalization to inhibit gap junctional intercellular communication in primary astrocytes. These results demonstrate a functional link between ACKR3 and gap junctions that might be of pathophysiological relevance."
  },
+ "https://doi.org/10.1016/j.scitotenv.2020.142566": {
+  "month": "9",
+  "pub_date": "10 Feb 2021",
+  "year": 2021,
+  "early_online": "29 Sep 2020",
+  "title": "Hazardous compounds in recreational and urban recycled surfaces made from crumb rubber. Compliance with current regulation and future perspectives",
+  "contributors": "Celeiro, M., Armada, D., Dagnac, T., de Boer, J., Llompart, M.",
+  "corresponding": "Llompart, M.",
+  "organisations": "Environment and Health, AIMMS, University of Santiago de Compostela, Agronomic Research Centre (AGACAL-CIAM) \u2013 Unit of Organic Contaminants",
+  "journal": "Science of the Total Environment",
+  "description": "Hazardous compounds in recreational and urban recycled surfaces made from crumb rubber. Compliance with current regulation and future perspectivesCrumb rubber obtained from scrap tires is greatly employed for the construction of different facilities for sport, recreational and other uses. However, in recent years the concern about their safety and the related adult and children exposure to these surfaces is growing. This study aims a thorough chemical characterization encompassing 42 hazardous compounds, including polycyclic aromatic hydrocarbons (PAHs), phthalates, adipates, antioxidants and vulcanization agents in a wide range of crumb rubber from different surfaces. For the extraction of the target compounds, a method based on ultrasound-assisted extraction followed by gas chromatography-tandem mass spectrometry (UAE-GC\u2013MS/MS) has been validated. Forty crumb rubber samples coming from synthetic turf football pitches, outdoor and indoor playgrounds, urban pavements, commercial tiles and granulates, and scrap tires, were analyzed. In addition, green alternative materials, such as sand and artificial turf based on cork granulate infill were included to compare the levels of the target compounds with those of crumb rubber. Most of the analyzed recycled surfaces meet the recent limits proposed by the European Commission for rubber granulates and mulches, although they exceed in several cases the maximum levels allowed for rubber consumer products. Besides, most of the other target compounds, including several of them considered as endocrine disruptors, were detected in the analyzed samples, reaching parts per million concentrations."
+ },
+ "https://doi.org/10.1021/acs.orglett.0c02773": {
+  "month": "9",
+  "pub_date": "29 Sep 2020",
+  "year": 2020,
+  "early_online": "29 Sep 2020",
+  "title": "Probing Halogen-\u03c0versus CH-\u03c0Interactions in Molecular Balance",
+  "contributors": "Jian, J., Poater, J., White, P. B., Mckenzie, C. J., Bickelhaupt, F. M., Mecinovi\u0107, J.",
+  "corresponding": null,
+  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, University of Southern Denmark, Radboud University Nijmegen",
+  "journal": "Organic letters",
+  "description": "Probing Halogen-\u03c0versus CH-\u03c0Interactions in Molecular BalanceMolecular balances based on the dibenzobicyclo[3.2.2]nonane template enable probing of the competition between halogen-\u03c0and CH-\u03c0interactions. Structural, NMR spectroscopic, and computational analyses revealed that the \u03c0system can favorably interact both with C-X or C-H functionalities, depending on the size of the functional group."
+ },
+ "https://doi.org/10.1371/journal.pbio.3000874": {
+  "month": "9",
+  "pub_date": "30 Sep 2020",
+  "year": 2020,
+  "early_online": null,
+  "title": "Posttranslational insertion of small membrane proteins by the bacterial signal recognition particle",
+  "contributors": "Steinberg, R., Origi, A., Natriashvili, A., Sarmah, P., Licheva, M., Walker, P. M., Kraft, C., High, S., Luirink, J., Shi, W. Q., Helmst\u00e4dter, M., Ulbrich, M. H., Koch, H. G.",
+  "corresponding": "Koch, H. G.",
+  "organisations": "AIMMS, Molecular Microbiology, University of Freiburg, Ball State University, University of Manchester",
+  "journal": "PloS Biology",
+  "description": "Posttranslational insertion of small membrane proteins by the bacterial signal recognition particleSmall membrane proteins represent a largely unexplored yet abundant class of proteins in pro- and eukaryotes. They essentially consist of a single transmembrane domain and are associated with stress response mechanisms in bacteria. How these proteins are inserted into the bacterial membrane is unknown. Our study revealed that in Escherichia coli, the 27- amino-acid-long model protein YohP is recognized by the signal recognition particle (SRP), as indicated by in vivo and in vitro site-directed cross-linking. Cross-links to SRP were also observed for a second small membrane protein, the 33-amino-acid-long YkgR. However, in contrast to the canonical cotranslational recognition by SRP, SRP was found to bind to YohP posttranslationally. In vitro protein transport assays in the presence of a SecY inhibitor and proteoliposome studies demonstrated that SRP and its receptor FtsY are essential for the posttranslational membrane insertion of YohP by either the SecYEG translocon or by the YidC insertase. Furthermore, our data showed that the yohP mRNA localized preferentially and translation-independently to the bacterial membrane in vivo. In summary, our data revealed that YohP engages an unique SRP-dependent posttranslational insertion pathway that is likely preceded by an mRNA targeting step. This further highlights the enormous plasticity of bacterial protein transport machineries. "
+ },
+ "https://doi.org/10.1039/d0cp03433a": {
+  "month": "9",
+  "pub_date": "30 Sep 2020",
+  "year": 2020,
+  "early_online": null,
+  "title": "Understanding alkali metal cation affinities of multi-layer guanine quadruplex DNATo gain better understanding of the stabilizing interactions between metal ions and DNA quadruplexes, dispersion-corrected density functional theory (DFT-D) based calculations were performed on double-, triple- and four-layer guanine tetrads interacting with alkali metal cations. All computations were performed in aqueous solution that mimics artificial supramolecular conditions where guanine bases assemble into stacked quartets as well as biological environments in which telomeric quadruplexes are formed. To facilitate the computations on these significant larger systems, optimization of the DFT description was performed first by evaluating the performance of partial reduced basis sets. Analysis of the stabilizing interactions between alkali cations and the DNA bases in double and triple-layer guanine quadruplex DNA reproduced the experimental affinity trend of the order Li+< Rb+ < Na+ < K+. The desolvation and the size of alkali metal cations are thought to be responsible for the order of affinity. Nevertheless, for the alkali metal cation species individually, the magnitude of the bond energy stays equal for binding as first, second or third cation in double, triple and four-layer guanine quadruplexes, respectively. This is the result of an interplay between a decreasingly stabilizing interaction energy and increasingly stabilizing solvation effects, along the consecutive binding events. This diminished interaction energy is the result of destabilizing electrostatic repulsion between the hosted alkali metal cations. This work emphasizes the stabilizing effect of aqueous solvent on large highly charged biomolecules.General information",
+  "contributors": "Nieuwland, C., Zaccaria, F., Fonseca Guerra, C.",
+  "corresponding": null,
+  "organisations": "AIMMS, Theoretical Chemistry",
+  "journal": "Physical chemistry chemical physics : PCCP",
+  "description": "Understanding alkali metal cation affinities of multi-layer guanine quadruplex DNATo gain better understanding of the stabilizing interactions between metal ions and DNA quadruplexes, dispersion-corrected density functional theory (DFT-D) based calculations were performed on double-, triple- and four-layer guanine tetrads interacting with alkali metal cations. All computations were performed in aqueous solution that mimics artificial supramolecular conditions where guanine bases assemble into stacked quartets as well as biological environments in which telomeric quadruplexes are formed. To facilitate the computations on these significant larger systems, optimization of the DFT description was performed first by evaluating the performance of partial reduced basis sets. Analysis of the stabilizing interactions between alkali cations and the DNA bases in double and triple-layer guanine quadruplex DNA reproduced the experimental affinity trend of the order Li+< Rb+ < Na+ < K+. The desolvation and the size of alkali metal cations are thought to be responsible for the order of affinity. Nevertheless, for the alkali metal cation species individually, the magnitude of the bond energy stays equal for binding as first, second or third cation in double, triple and four-layer guanine quadruplexes, respectively. This is the result of an interplay between a decreasingly stabilizing interaction energy and increasingly stabilizing solvation effects, along the consecutive binding events. This diminished interaction energy is the result of destabilizing electrostatic repulsion between the hosted alkali metal cations. This work emphasizes the stabilizing effect of aqueous solvent on large highly charged biomolecules."
+ },
+ "https://doi.org/10.1016/j.aquatox.2020.105613": {
+  "month": "11",
+  "pub_date": "Nov 2020",
+  "year": 2020,
+  "early_online": "6 Sep 2020",
+  "title": "Neurobehavioral effects of cyanobacterial biomass field extracts on zebrafish embryos and potential role of retinoids",
+  "contributors": "P\u00edpal, M., Legradi, J., Smutn\u00e1, M., Ko\u010d\u00ed, T., Priebojov\u00e1, J., Bl\u00e1hov\u00e1, L., Krauss, M., Hilscherov\u00e1, K.",
+  "corresponding": "Hilscherov\u00e1, K.",
+  "organisations": "E&H: Environmental Health and Toxicology, AIMMS, Masaryk University, Helmholtz Centre for Environmental Research",
+  "journal": "Aquatic Toxicology",
+  "description": "Neurobehavioral effects of cyanobacterial biomass field extracts on zebrafish embryos and potential role of retinoidsCyanobacteria are known for their ability to produce and release mixtures of up to thousands of compounds into the environment. Recently, the production of novel metabolites, retinoids, was reported for some cyanobacterial species along with teratogenic effects of samples containing these compounds. Retinoids are natural endogenous substances derived from vitamin A that play a crucial role in early vertebrate development. Disruption of retinoid signalling- especially during the early development of the nervous system- might lead to major malfunctions and malformations. In this study, the toxicity of cyanobacterial biomass samples from the field containing retinoids was characterized by in vivo and in vitro bioassays with a focus on the potential hazards towards nervous system development and function. Additionally, in order to identify the compounds responsible for the observed in vitro and in vivo effects the complex cyanobacterial extracts were fractionated (C18 column, water-methanol gradient) and the twelve obtained fractions were tested in bioassays. In all bioassays, all-trans retinoic acid (ATRA) was tested along with the environmental samples as a positive control. Retinoid-like activity (mediated via the retinoic acid receptor, RAR) was measured in the transgenic cell line p19/A15. The in vitro assay showed retinoid-like activity by specific interaction with RAR for the biomass samples. Neurotoxic effects of selected samples were studied on zebrafish (Danio rerio) embryos using the light/dark transition test (Viewpoint, ZebraLab system) with 120 hpf larvae. In the behavioural assay, the cyanobacterial extracts caused significant hyperactivity in zebrafish at 120 hpf after acute exposure (3 h prior to the measurement) at concentrations below the teratogenicity LOEC (0.2 g dw L\u22121). Similar effect was observed after exposure to fractions of the extracts with detected retinoid-like activity and additive effect was observed after combining the fractions. However, the effect on behaviour was not observed after exposure to ATRA only. To provide additional insight into the behavioural effects and describe the underlying mechanism gene expression of selected biomarkers was measured. We evaluated an array of 28 genes related to general toxicity, neurodevelopment, retinoid and thyroid signalling. We detected several affected genes, most notably, the Cyp26 enzymes that control endogenous ATRA concentration, which documents an effect on retinoid signalling."
+ },
+ "https://doi.org/10.1080/21505594.2020.1825908": {
+  "month": "10",
+  "pub_date": "5 Oct 2020",
+  "year": 2020,
+  "early_online": null,
+  "title": "Exploring metal availability in the natural niche of Streptococcus pneumoniae to discover potential vaccine antigens",
+  "contributors": "van Beek, L. F., Surmann, K., van den Berg van Saparoea, H. B., Houben, D., Jong, W. S., Hentschker, C., Ederveen, T. H., Mitsi, E., Ferreira, D. M., van Opzeeland, F., van der Gaast\u2013de Jongh, C. E., Joosten, I., V\u00f6lker, U., Schmidt, F., Luirink, J., Diavatopoulos, D. A., de Jonge, M. I.",
+  "corresponding": "van Beek, L. F.",
+  "organisations": "Molecular Microbiology, AIMMS, LaserLaB - Molecular Biophysics, Radboud Institute for Molecular Life Sciences, Radboud Center for Infectious Diseases, University of Greifswald, Radboud University Nijmegen, Liverpool School of Tropical Medicine, Weill Cornell Medical College in Qatar",
+  "journal": "Virulence",
+  "description": "Exploring metal availability in the natural niche of Streptococcus pneumoniae to discover potential vaccine antigensNasopharyngeal colonization by Streptococcus pneumoniae is a prerequisite for pneumococcal transmission and disease. Current vaccines protect only against disease and colonization caused by a limited number of serotypes, consequently allowing serotype replacement and transmission. Therefore, the development of a broadly protective vaccine against colonization, transmission and disease is desired but requires a better understanding of pneumococcal adaptation to its natural niche. Hence, we measured the levels of free and protein-bound transition metals in human nasal fluid, to determine the effect of metal concentrations on the growth and proteome of S. pneumoniae. Pneumococci cultured in medium containing metal levels comparable to nasal fluid showed a highly distinct proteomic profile compared to standard culture conditions, including the increased abundance of nine conserved, putative surface-exposed proteins. AliA, an oligopeptide binding protein, was identified as the strongest protective antigen, demonstrated by the significantly reduced bacterial load in a murine colonization and a lethal mouse pneumonia model, highlighting its potential as vaccine antigen."
+ },
  "https://doi.org/https://doi.org/10.1007/s11192-020-03707-y": {
   "month": "10",
   "pub_date": "10 Oct 2020",
@@ -2263,8 +2407,44 @@
   "title": "Innovation in pharmaceutical R&D: mapping the research landscape",
   "contributors": "Romasanta, A. K., van der Sijde, P., van Muijlwijk-Koezen, J. E.",
   "corresponding": "Romasanta, A. K.",
-  "organisations": "Innovations in Human Health & Life Sciences, AIMMS, Organization & Processes of Organizing in Society (OPOS), Network Institute, Organization Sciences",
+  "organisations": "Innovations in Human Health & Life Sciences, AIMMS, Organization & Processes of Organizing in Society (OPOS), Network Institute, Organization Sciences, Vrije Universiteit Amsterdam",
   "journal": null,
   "description": "Innovation in pharmaceutical R&D: mapping the research landscapeIn response to the increasing number and breadth of innovation studies on the pharmaceutical industry, we mapped the literature to show the trends in recent research and to indicate areas for further research. In the first phase, we analyzed articles on the pharmaceutical industry published in innovation journals. We used these articles\u2019 textual and citation data and applied hybrid cluster analysis. Three main clusters were produced based on the level of analysis innovation scholars had used to investigate the industry: macro, meso and micro. We describe the research topics within these clusters and show that, overall, innovation scholars increasingly focus on the meso-level, analyzing the relationships across different firms. This shift in interest toward the collaborative nature of drug discovery and development was also apparent in macro- and micro-level studies. To explore how this literature is used by scientists in the industry, our second phase involved analysis of the citing articles published in pharmaceutical journals. Using our findings, we propose research areas that can be further explored in order to create an engaged and better-integrated literature on pharmaceutical innovation."
+ },
+ "https://doi.org/10.1007/s10915-020-01325-7": {
+  "month": "11",
+  "pub_date": "1 Nov 2020",
+  "year": 2020,
+  "early_online": "19 Oct 2020",
+  "title": "An Optimal Transport Approach for the Schr\u00f6dinger Bridge Problem and Convergence of Sinkhorn Algorithm",
+  "contributors": "Marino, S. D., Gerolin, A.",
+  "corresponding": "Gerolin, A.",
+  "organisations": "Theoretical Chemistry, AIMMS, Scuola Normale Superiore di Pisa, University of Genoa",
+  "journal": "Journal of Scientific Computing",
+  "description": "An Optimal Transport Approach for the Schr\u00f6dinger Bridge Problem and Convergence of Sinkhorn AlgorithmThis paper exploit the equivalence between the Schr\u00f6dinger Bridge problem (L\u00e9onard in J Funct Anal 262:1879\u20131920, 2012; Nelson in Phys Rev 150:1079, 1966; Schr\u00f6dinger in \u00dcber die umkehrung der naturgesetze. Verlag Akademie der wissenschaften in kommission bei Walter de Gruyter u, Company, 1931) and the entropy penalized optimal transport (Cuturi in: Advances in neural information processing systems, pp 2292\u20132300, 2013; Galichon and Salani\u00e9 in: Matching with trade-offs: revealed preferences over competing characteristics. CEPR discussion paper no. DP7858, 2010) in order to find a different approach to the duality, in the spirit of optimal transport. This approach results in a priori estimates which are consistent in the limit when the regularization parameter goes to zero. In particular, we find a new proof of the existence of maximizing entropic-potentials and therefore, the existence of a solution of the Schr\u00f6dinger system. Our method extends also when we have more than two marginals: the main new result is the proof that the Sinkhorn algorithm converges even in the continuous multi-marginal case. This provides also an alternative proof of the convergence of the Sinkhorn algorithm in two marginals."
+ },
+ "https://doi.org/10.1038/s41467-020-19224-8": {
+  "month": "11",
+  "pub_date": "1 Nov 2020",
+  "year": 2020,
+  "early_online": null,
+  "title": "A protein tertiary structure mimetic modulator of the Hippo signalling pathway",
+  "contributors": "Adihou, H., Gopalakrishnan, R., F\u00f6rster, T., Gu\u00e9ret, S. M., Gasper, R., Geschwindner, S., Carrillo Garc\u00eda, C., Karatas, H., Pobbati, A. V., Vazquez\u2010Chantada, M., Davey, P., Wassvik, C. M., Pang, J. K. S., Soh, B. S., Hong, W., Chiarparin, E., Schade, D., Plowright, A. T., Valeur, E., Lemurell, M., Grossmann, T. N., Waldmann, H.",
+  "corresponding": "Waldmann, H.",
+  "organisations": "Organic Chemistry, AIMMS, AstraZeneca Sweden, AstraZeneca, Max Planck Institute of Molecular Physiology, Kiel University, Agency for Science, Technology and Research, National University of Singapore, Guangzhou Medical College, Dortmund University",
+  "journal": "Nature Communications",
+  "description": "A protein tertiary structure mimetic modulator of the Hippo signalling pathwayTranscription factors are key protein effectors in the regulation of gene transcription, and in many cases their activity is regulated via a complex network of protein\u2013protein interactions (PPI). The chemical modulation of transcription factor activity is a long-standing goal in drug discovery but hampered by the difficulties associated with the targeting of PPIs, in particular when extended and flat protein interfaces are involved. Peptidomimetics have been applied to inhibit PPIs, however with variable success, as for certain interfaces the mimicry of a single secondary structure element is insufficient to obtain high binding affinities. Here, we describe the design and characterization of a stabilized protein tertiary structure that acts as an inhibitor of the interaction between the transcription factor TEAD and its co-repressor VGL4, both playing a central role in the Hippo signalling pathway. Modification of the inhibitor with a cell-penetrating entity yielded a cell-permeable proteomimetic that activates cell proliferation via regulation of the Hippo pathway, highlighting the potential of protein tertiary structure mimetics as an emerging class of PPI modulators."
+ },
+ "https://doi.org/10.1002/qua.26111": {
+  "month": "11",
+  "pub_date": "1 Nov 2020",
+  "year": 2020,
+  "early_online": "11 Dec 2019",
+  "title": "Is it worthwhile to go beyond the local-density approximation in subsystem density functional theory?",
+  "contributors": "Grimmel, S. A., Teodoro, T. Q., Visscher, L.",
+  "corresponding": "Visscher, L.",
+  "organisations": "Theoretical Chemistry, AIMMS, Vrije Universiteit Amsterdam, Vrije Universiteit Amsterdam",
+  "journal": "International Journal of Quantum Chemistry",
+  "description": "Is it worthwhile to go beyond the local-density approximation in subsystem density functional theory?Frozen density embedding (FDE) theory is one of the major techniques aiming to bring modeling of extended chemical systems into the realm of high accuracy calculations. To improve its accuracy it is of interest to develop kinetic energy density functional approximations specifically for FDE applications. In the study reported here we focused on optimizing parameters of a generalized gradient approximation-like kinetic energy functional with the purpose of better describing electron excitation energies. We found that our optimized parametrizations, named excPBE and excPBE-3 (as these are derived from a Perdew-Burke-Ernzerhof-like parametrization), could not yield improvements over available functionals when applied on a test set of systems designed to probe solvatochromic shifts. Moreover, as several different functionals yielded very similar errors to the simple local-density approximation (LDA), it is questionable whether it is worthwhile to go beyond the LDA in this context."
  }
 }
