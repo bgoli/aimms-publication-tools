@@ -4,7 +4,8 @@
 # data_file = 'AIMMS_research_2020-28_09_20.xls'
 # data_file = 'AIMMS_research_2020-12_10_20.xls'
 # data_file = 'AIMMS_research_2020-26_10_20.xls'
-data_file = 'AIMMS_research_2020-9_11_20.xls'
+# data_file = 'AIMMS_research_2020-9_11_20.xls'
+data_file = 'AIMMS_research_2020-29_11_20.xls'
 
 import os
 import time
@@ -13,6 +14,8 @@ import re
 import json
 import CBNetDB
 import xlrd
+
+assert os.environ['CONDA_DEFAULT_ENV'] == 'sandbox', 'Guess what ...'
 
 ctime = time.strftime('%Y-%m-%d')
 cdir = os.path.dirname(os.path.abspath(os.sys.argv[0]))

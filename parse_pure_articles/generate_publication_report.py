@@ -8,6 +8,8 @@ import json
 
 # import numpy
 
+assert os.environ['CONDA_DEFAULT_ENV'] == 'sandbox', 'Guess what ...'
+
 DO_ALL = False
 
 ctime = time.strftime('%Y-%m-%d')
