@@ -5,7 +5,8 @@
 # data_file = 'AIMMS_research_2020-12_10_20.xls'
 # data_file = 'AIMMS_research_2020-26_10_20.xls'
 # data_file = 'AIMMS_research_2020-9_11_20.xls'
-data_file = 'AIMMS_research_2020-29_11_20.xls'
+# data_file = 'AIMMS_research_2020-29_11_20.xls'
+data_file = 'AIMMS_research_2020-4_01_21.xls'
 
 import os
 import time
@@ -17,9 +18,23 @@ import xlrd
 
 assert os.environ['CONDA_DEFAULT_ENV'] == 'sandbox', 'Guess what ...'
 
+# this sets the current year and month to search until
+CURRENT_YEAR = int(time.strftime('%Y'))
+CURRENT_MONTH = int(time.strftime('%m'))
+# manual override for specific month/year
+# CURRENT_YEAR = 2020
+# CURRENT_MONTH = 12
+
+# set up current env.
 ctime = time.strftime('%Y-%m-%d')
 cdir = os.path.dirname(os.path.abspath(os.sys.argv[0]))
 data_dir = os.path.join(cdir, 'data')
+
+# set up database env.
+# default DB name: 'aimmsDB.sqlite'
+DB_FILE_NAME = 'aimmsDB.sqlite'
+# default table name: 'publications'
+DB_ACTIVE_TABLE = 'publications'
 
 # using excel file directly
 data = {}
@@ -64,7 +79,7 @@ re_descript = re.compile(r"^(.*?)General information")
 parsed_data = {}
 parsed_data_nodoi = {}
 data_keys = []
-for m in [str(a + 1) for a in range(int(time.strftime('%m')))]:
+for m in [str(a + 1) for a in range(CURRENT_MONTH)]:
     cntr = 1
     for p in data[m]:
         NODOI = False
@@ -95,7 +110,7 @@ for m in [str(a + 1) for a in range(int(time.strftime('%m')))]:
             parsed_data[key]['pub_date'] = pub_date_match.groups()[0]
             parsed_data[key]['year'] = int(parsed_data[key]['pub_date'].split(' ')[-1])
         else:
-            parsed_data[key]['year'] = time.strftime('%Y')
+            parsed_data[key]['year'] = CURRENT_YEAR
         if early_date_match is not None:
             # print(m, cntr, title_match.groups()[0])
             parsed_data[key]['early_online'] = early_date_match.groups()[0]
@@ -152,24 +167,24 @@ _ = [table_cols.append('{} TEXT'.format(a)) for a in data_keys]
 print(table_cols)
 
 aimmsDB = CBNetDB.DBTools()
-aimmsDB.connectSQLiteDB('aimmsDB.sqlite', work_dir=cdir)
-test = aimmsDB.getTable('publications')
-if aimmsDB.getTable('publications') is None:
-    aimmsDB.createDBTable('publications', table_cols)
-table_pub = aimmsDB.getTable('publications')
+aimmsDB.connectSQLiteDB(DB_FILE_NAME, work_dir=cdir)
+test = aimmsDB.getTable(DB_ACTIVE_TABLE)
+if aimmsDB.getTable(DB_ACTIVE_TABLE) is None:
+    aimmsDB.createDBTable(DB_ACTIVE_TABLE, table_cols)
+table_pub = aimmsDB.getTable(DB_ACTIVE_TABLE)
 
 new_data = []
 for doi in parsed_data:
-    if len(aimmsDB.getRow('publications', 'doi', doi)) == 0:
+    if len(aimmsDB.getRow(DB_ACTIVE_TABLE, 'doi', doi)) == 0:
         dta = parsed_data[doi].copy()
         dta['doi'] = doi
         dta['newdata'] = 'True'
-        aimmsDB.insertData('publications', dta, commit=False)
+        aimmsDB.insertData(DB_ACTIVE_TABLE, dta, commit=False)
         new_data.append(doi)
         print('New data inserted for DOI: {}'.format(doi))
     else:
         aimmsDB.updateData(
-            'publications', 'doi', doi, {'newdata': 'False'}, commit=False
+            DB_ACTIVE_TABLE, 'doi', doi, {'newdata': 'False'}, commit=False
         )
 aimmsDB.commitDB()
 aimmsDB.closeDB()
