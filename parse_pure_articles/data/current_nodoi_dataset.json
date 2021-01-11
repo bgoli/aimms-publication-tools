@@ -1,14 +1,1 @@
-{
- "11675": {
-  "month": "10",
-  "pub_date": "27 Oct 2020",
-  "year": 2020,
-  "early_online": null,
-  "title": "MMP activation associated Aminopeptidase N reveals a bivalent 14-3-3 binding motif",
-  "contributors": "Kiehstaller, S., Ottmann, C., Hennig, S.",
-  "corresponding": null,
-  "organisations": "Organic Chemistry, AIMMS, Eindhoven University of Technology",
-  "journal": null,
-  "description": "MMP activation associated Aminopeptidase N reveals a bivalent 14-3-3 binding motifAminopeptidase N (APN, CD13) is a trans-membrane ectopeptidase involved in many crucial cellular functions. Besides its role as a peptidase, APN also mediates signal transduction, and is involved in the activation of Matrix Metalloproteinases (MMPs). MMPs function in tissue remodeling within the extracellular space and are therefore involved in many human diseases such as fibrosis, rheumatoid arthritis, tumor angiogenesis and metastasis as well as viral infections. However, the exact mechanism that leads to APN driven MMP activation is unclear. It was previously shown that extracellular 14-3-3 adapter proteins binding APN induces the transcription of MMPs. As a first step, we sought to identify potential 14\u20113\u20113 binding sites in the APN sequence. We constructed a set of phosphorylated peptides derived from APN to probe for interactions. We identified and characterized a canonical 14-3-3 binding site (site 1) within the flexible, structurally unresolved N-terminal APN region using direct binding Fluorescence Polarization (FP) assays and thermodynamic analysis (ITC). In addition, we identified a secondary, non-canonical binding site (site 2), which enhances the binding affinity in combination with site 1 by many orders of magnitude. Finally, we solved crystal structures of 14\u20113\u20113\u03c3 bound to mono- and bis\u2011phosphorylated APN derived peptides, which revealed atomic details of the binding mode of mono- and bivalent 14-3-3 interactions. Therefore, our findings shed some light on the first steps of APN-mediated MMP activation and opens the field for further investigation of this important signaling pathway."
- }
-}
+{}
