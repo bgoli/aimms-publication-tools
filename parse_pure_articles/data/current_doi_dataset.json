@@ -11,6 +11,18 @@
   "journal": "Ambio",
   "description": "A schematic sampling protocol for contaminant monitoring in raptorsBirds of prey, owls and falcons are widely used as sentinel species in raptor biomonitoring programmes. A major current challenge is to facilitate large-scale biomonitoring by coordinating contaminant monitoring activities and by building capacity across countries. This requiressharing, dissemination and adoption of best practices addressed by theNetworking Programme Research and Monitoring for and with Raptors in Europe (EURAPMON) and now being advanced by the ongoing international COST Action European Raptor Biomonitoring Facility. The present perspective introduces a schematic sampling protocol for contaminant monitoring in raptors. We provide guidance on sample collection with a view to increasing sampling capacity across countries, ensuring appropriate quality of samples and facilitating harmonization of procedures to maximize the reliability, comparability and interoperability of data. The here presented protocol can be used by professionals and volunteers as a standard guide to ensure harmonised sampling methods for contaminant monitoring in raptors."
  },
+ "https://doi.org/10.1002/bit.27565": {
+  "month": "1",
+  "pub_date": "Jan 2021",
+  "year": 2021,
+  "early_online": "14 Sep 2020",
+  "title": "Dynamic co-culture metabolic models reveal the fermentation dynamics, metabolic capacities and interplays of cheese starter cultures",
+  "contributors": "\u00d6zcan, E., Seven, M., \u015eirin, B., \u00c7ak\u0131r, T., Nikerel, E., Teusink, B., Toksoy \u00d6ner, E.",
+  "corresponding": "Teusink, B.",
+  "organisations": "Systems Bioinformatics, AIMMS, Systems Bioinformatics, Vrije Universiteit Amsterdam, Marmara University, Yeditepe University, Gebze Technical University",
+  "journal": "Biotechnology and Bioengineering",
+  "description": "Dynamic co-culture metabolic models reveal the fermentation dynamics, metabolic capacities and interplays of cheese starter culturesIn this study, we have investigated the cheese starter culture as a microbial community through a question: can the metabolic behaviour of a co-culture be explained by the characterized individual organism that constituted the co-culture? To address this question, the dairy-origin lactic acid bacteria Lactococcus lactis subsp. cremoris, Lactococcus lactis subsp. lactis, Streptococcus thermophilusand Leuconostoc mesenteroides, commonly used in cheese starter cultures, were grown in pure and four different co-cultures. We used a dynamic metabolic modelling approach based on the integration of the genome-scale metabolic networks of the involved organisms to simulate the co-cultures. The strain-specific kinetic parameters of dynamic models were estimated using the pure culture experimentsand they were subsequently applied to co-culture models. Biomass, carbon source, lactic acid and most of the amino acid concentration profiles simulated by the co-culture models fit closely to the experimental resultsand the co-culture models explained the mechanisms behind the dynamic microbial abundance. We then applied the co-culture models to estimate further information on the co-cultures that could not be obtained by the experimental method used. This includes estimation of the profile of various metabolites in the co-culture medium such as flavour compounds producedand the individual organism level metabolic exchange flux profiles, which revealed the potential metabolic interactions between organisms in the co-cultures."
+ },
  "https://doi.org/10.1016/j.envint.2020.106191": {
   "month": "1",
   "pub_date": "Jan 2021",
