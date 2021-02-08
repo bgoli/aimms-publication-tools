@@ -23,6 +23,18 @@
   "journal": "Biotechnology and Bioengineering",
   "description": "Dynamic co-culture metabolic models reveal the fermentation dynamics, metabolic capacities and interplays of cheese starter culturesIn this study, we have investigated the cheese starter culture as a microbial community through a question: can the metabolic behaviour of a co-culture be explained by the characterized individual organism that constituted the co-culture? To address this question, the dairy-origin lactic acid bacteria Lactococcus lactis subsp. cremoris, Lactococcus lactis subsp. lactis, Streptococcus thermophilusand Leuconostoc mesenteroides, commonly used in cheese starter cultures, were grown in pure and four different co-cultures. We used a dynamic metabolic modelling approach based on the integration of the genome-scale metabolic networks of the involved organisms to simulate the co-cultures. The strain-specific kinetic parameters of dynamic models were estimated using the pure culture experimentsand they were subsequently applied to co-culture models. Biomass, carbon source, lactic acid and most of the amino acid concentration profiles simulated by the co-culture models fit closely to the experimental resultsand the co-culture models explained the mechanisms behind the dynamic microbial abundance. We then applied the co-culture models to estimate further information on the co-cultures that could not be obtained by the experimental method used. This includes estimation of the profile of various metabolites in the co-culture medium such as flavour compounds producedand the individual organism level metabolic exchange flux profiles, which revealed the potential metabolic interactions between organisms in the co-cultures."
  },
+ "https://doi.org/10.1039/d0ew00776e": {
+  "month": "1",
+  "pub_date": "Jan 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Influence of short- And long-term exposure on the biodegradation capacity of activated sludge microbial communities in ready biodegradability tests",
+  "contributors": "Dalmijn, J. A., Poursat, B. A., Van Spanning, R. J., Brandt, B. W., De Voogt, P., Parsons, J. R.",
+  "corresponding": "Poursat, B. A.",
+  "organisations": "Systems Bioinformatics, AIMMS, Bioinformatics, University of Amsterdam, Wageningen University & Research, KWR Water Research Institute",
+  "journal": "Environmental Science: Water Research and Technology",
+  "description": "Influence of short- And long-term exposure on the biodegradation capacity of activated sludge microbial communities in ready biodegradability testsReady biodegradability tests (RBTs) are extensively used to screen the potential of chemicals to be biodegraded. The use of RBT protocols often results in large variations of test results that may lead to wrong interpretations. The present study aims to obtain a fundamental understanding of this variability. For this, we subjected the compounds 4-chloroaniline (4CA), carbamazepine (CBZ), metformin (MET), and N-methylpiperazine (NMP) to a variety of different test conditions. Inocula from five local wastewater treatment plants (WWTPs) were used in an attempt to enhance the Organisation for Economic Co-operation and Development (OECD) 310 biodegradability tests. The biodegradation capacity in RBTs, community composition and adaptation of the communities were compared after one week of pre-exposure in batch and four months exposure in chemostat. The results confirm that none of the test compounds is readily biodegradable in the standard OECD 310 RBT. However, when pre-exposure under either batch or chemostat conditions was included, 4CA was degraded in some cases and less variability among different inocula was observed for the transformation of MET. Bacterial communities from the five locations were found to be significantly different in composition from one another. In addition, pre-treatment performed before the RBT significantly changed the composition of each community. Results of this experiment show that short-term pre-exposure may increase the absolute number of degraders and deserves to be further investigated as a potential method to reduce the outcome variability of RBTs."
+ },
  "https://doi.org/10.1016/j.envint.2020.106191": {
   "month": "1",
   "pub_date": "Jan 2021",
@@ -46,6 +58,18 @@
   "organisations": "BioAnalytical Chemistry, AIMMS, University of Amsterdam, Center for Analytical Sciences Amsterdam, DSM Food Specialties",
   "journal": "Journal of Chromatography A",
   "description": "Asymmetrical flow field-flow fractionation to probe the dynamic association equilibria of \u03b2-D-galactosidaseProtein dynamics play a significant role in many aspects of enzyme activity. Monitoring of structural changes and aggregation of biotechnological enzymes under native conditions is important to safeguard their properties and function. In this work, the potential of asymmetrical flow field-flow fractionation (AF4) to study the dynamic association equilibria of the enzyme \u03b2-D-galactosidase (\u03b2-D-Gal) was evaluated. Three commercial products of \u03b2-D-Gal were investigated using carrier liquids containing sodium chloride or ammonium acetate, and the effect of adding magnesium (II) chloride to the carrier liquid was assessed. Preservation of protein structural integrity during AF4 analysis was essential and the influence of several parameters, such as the focusing step (including use of frit-inlet), cross flow, and injected amount, was studied. Size-exclusion chromatography (SEC) and dynamic light scattering (DLS) were used to corroborate the in-solution enzyme oligomerization observed with AF4. In contrast to SEC, AF4 provided sufficiently mild separation conditions to monitor protein conformations without disturbing the dynamic association equilibria. AF4 analysis showed that ammonium acetate concentrations above 40 mM led to further association of the dimers (\u201ctetramerization\u201d) of \u03b2-D-Gal. Magnesium ions, which are needed to activate \u03b2-D-Gal, appeared to induce dimer association, raising justifiable questions about the role of divalent metal ions in protein oligomerization and on whether tetramers or dimers are the most active form of \u03b2-D-Gal."
+ },
+ "https://doi.org/10.1016/j.toxlet.2020.12.020": {
+  "month": "1",
+  "pub_date": "1 Apr 2021",
+  "year": 2021,
+  "early_online": "4 Jan 2021",
+  "title": "Critique of the \u201cComment\u201d etitled \u201cPyrethroid exposure: Not so harmless after all\u201d by Demeneix et al. (2020) published in the lancet diabetes endocrinology",
+  "contributors": "Barile, F. A., Berry, S. C., Blaauboer, B., Boobis, A., Bolt, H., Borgert, C. J., Dekant, W., Dietrich, D., Domingo, J. L., Gori, G. B., Greim, H., Hengstler, J., Kacew, S., Marquardt, H., Pelkonen, O., Savolainen, K., Heslop-Harrison, P., Tsatsakis, A., Vermeulen, N. P.",
+  "corresponding": "Greim, H.",
+  "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, St. John's University, Queen Mary University of London, Utrecht University, Imperial College London, Dortmund University, Applied Pharmacology and Toxicology, Inc. Gainesville, University of W\u00fcrzburg, University of Konstanz, Pere Virgili Health Research Institute, The Health Policy Center, Technical University of Munich, University of Ottawa, Toxicology, University of Oulu, Finnish Institute of Occupational Health, University of Leicester, University of Crete",
+  "journal": "Toxicology Letters",
+  "description": "Critique of the \u201cComment\u201d etitled \u201cPyrethroid exposure: Not so harmless after all\u201d by Demeneix et al. (2020) published in the lancet diabetes endocrinology"
  },
  "https://doi.org/10.1016/j.chroma.2020.461740": {
   "month": "1",
@@ -71,6 +95,18 @@
   "journal": "Journal of Chromatography A",
   "description": "Reducing the influence of geometry-induced gradient deformation in liquid chromatographic retention modellingRapid optimization of gradient liquid chromatographic (LC) separations often utilizes analyte retention modelling to predict retention times as function of eluent composition. However, due to the dwell volume and technical imperfections, the actual gradient may deviate from the set gradient in a fashion unique to the employed instrument. This makes accurate retention modelling for gradient LC challenging, in particular when very fast separations are pursued. Although gradient deformation has been addressed in method-transfer situations, it is rarely taken into account when reporting analyte retention parameters obtained from gradient LC data, hampering the comparison of data from various sources. In this study, a response-function-based algorithm was developed to determine analyte retention parameters corrected for geometry-induced deformations by specific LC instruments. Out of a number of mathematical distributions investigated as response-functions, the so-called \u201cstable function\u201d was found to describe the formed gradient most accurately. The four parameters describing the model resemble the statistical moments of the distribution and are related to chromatographic parameters, such as dwell volume and flow rate. The instrument-specific response function can then be used to predict the actual shape of any other gradient programmed on that instrument. To incorporate the predicted gradient in the retention modelling of the analytes, the model was extended to facilitate an unlimited number of linear gradient steps to solve the equations numerically. The significance and impact of distinct gradient deformation for fast gradients was demonstrated using three different LC instruments. As a proof of principle, the algorithm and retention parameters obtained on a specific instrument were used to predict the retention times on different instruments. The relative error in the predicted retention times went down from an average of 9.8% and 12.2% on the two other instruments when using only a dwell-volume correction to 2.1% and 6.5%, respectively, when using the proposed algorithm. The corrected retention parameters are less dependent on geometry-induced instrument effects."
  },
+ "https://doi.org/10.1016/j.ymben.2020.12.005": {
+  "month": "1",
+  "pub_date": "Mar 2021",
+  "year": 2021,
+  "early_online": "5 Jan 2021",
+  "title": "Serial propagation in water-in-oil emulsions selects for Saccharomyces cerevisiae strains with a reduced cell size or an increased biomass yield on glucose",
+  "contributors": "van Tatenhove-Pel, R. J., Zwering, E., Boreel, D. F., Falk, M., van Heerden, J. H., Kes, M. B., Kranenburg, C. I., Botman, D., Teusink, B., Bachmann, H.",
+  "corresponding": "Bachmann, H.",
+  "organisations": "AIMMS, Systems Bioinformatics, Systems Bioinformatics, Vrije Universiteit Amsterdam",
+  "journal": "Metabolic Engineering",
+  "description": "Serial propagation in water-in-oil emulsions selects for Saccharomyces cerevisiae strains with a reduced cell size or an increased biomass yield on glucoseIn S. cerevisiae and many other micro-organisms an increase in metabolic efficiency (i.e. ATP yield on carbon) is accompanied by a decrease in growth rate. From a fundamental point of view, studying these yield-rate trade-offs provides insight in for example microbial evolution and cellular regulation. From a biotechnological point of view, increasing the ATP yield on carbon might increase the yield of anabolic products. We here aimed to select S. cerevisiae mutants with an increased biomass yield. Serial propagation of individual cells in water-in-oil emulsions previously enabled the selection of lactococci with increased biomass yields, and adapting this protocol for yeast allowed us to enrich an engineered Crabtree-negative S. cerevisiae strain with a high biomass yield on glucose. When we started the selection with an S. cerevisiae deletion collection, serial propagation in emulsion enriched hxk2\u0394 and reg1\u0394 strains with an increased biomass yield on glucose. Surprisingly, a tps1\u0394 strain was highly abundant in both emulsion- and suspension-propagated populations. In a separate experiment we propagated a chemically mutagenized S. cerevisiae population in emulsion, which resulted in mutants with a higher cell number yield on glucose, but no significantly changed biomass yield. Genome analyses indicate that genes involved in glucose repression and cell cycle processes play a role in the selected phenotypes. The repeated identification of mutations in genes involved in glucose-repression indicates that serial propagation in emulsion is a valuable tool to study metabolic efficiency in S. cerevisiae."
+ },
  "https://doi.org/10.1016/j.tcs.2020.11.020": {
   "month": "1",
   "pub_date": "8 Jan 2021",
@@ -82,5 +118,77 @@
   "organisations": "Bioinformatics, AIMMS, Bio Informatics (IBIVU), King's College London, University of Nebraska-Lincoln",
   "journal": "Theoretical Computer Science",
   "description": "Influence maximization in the presence of vulnerable nodes: A ratio perspectiveInfluence maximization is a key problem seeking to identify users who will diffuse information to influence the largest number of other users in a social network. A drawback of the influence maximization problem is that it could be socially irresponsible to influence users many of whom would be harmed, due to their demographics, health conditions, or socioeconomic characteristics (e.g., predominantly overweight people influenced to buy junk food). Motivated by this drawback and by the fact that some of these vulnerable users will be influenced inadvertently, we introduce the problem of finding a set of users (seeds) that limits the influence to vulnerable users while maximizing the influence to the non-vulnerable users. We define a measure that captures the quality of a set of seeds as an additively smoothed ratio (ASR) between the expected number of influenced non-vulnerable users and the expected number of influenced vulnerable users. Then, we develop methods which aim to find a set of seeds that maximizes the measure: greedy heuristics, an approximation algorithm, as well as several variations of the approximation algorithm. We evaluate our methods on synthetic and real-world datasets and demonstrate they substantially outperform a state-of-the-art competitor in terms of both effectiveness and efficiency. We also demonstrate that the variations of our approximation algorithm offer different trade-offs between effectiveness and efficiency."
+ },
+ "https://doi.org/10.1093/nar/gkaa895": {
+  "month": "1",
+  "pub_date": "8 Jan 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "KLIFS: an overhaul after the first 5 years of supporting kinase research",
+  "contributors": "Kanev, G. K., de Graaf, C., Westerman, B. A., de Esch, I. J., Kooistra, A. J.",
+  "corresponding": null,
+  "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, Vrije Universiteit Amsterdam, Amsterdam, Department of Neurosurgery, Amsterdam University Medical Centers, Sosei Heptares, University of Copenhagen",
+  "journal": "Nucleic acids research",
+  "description": "KLIFS: an overhaul after the first 5 years of supporting kinase researchKinases are a prime target of drug development efforts with >60 drug approvals in the past two decades. Due to the research into this protein family, a wealth of data has been accumulated that keeps on growing. KLIFS-Kinase-Ligand Interaction Fingerprints and Structures-is a structural database focusing on how kinase inhibitors interact with their targets. The aim of KLIFS is to support (structure-based) kinase research through the systematic collection, annotation, and processing of kinase structures. Now,5years after releasing the initial KLIFS website, the database has undergone a complete overhaul with a new website, new logo, and new functionalities. In this article, we start by looking back at how KLIFS has been used by the research community, followed by a description of the renewed KLIFS, and conclude with showcasing the functionalities of KLIFS. Major changes include the integration of approved drugs and inhibitors in clinical trials, extension of the coverage to atypical kinases, and a RESTful API for programmatic access. KLIFS is available at the new domain https://klifs.net."
+ },
+ "https://doi.org/10.1016/j.patter.2020.100177": {
+  "month": "1",
+  "pub_date": "8 Jan 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Unlocking Elementary Conversion Modes: ecmtool Unveils All Capabilities of Metabolic Networks",
+  "contributors": "Clement, T. J., Baalhuis, E. B., Teusink, B., Bruggeman, F. J., Planqu\u00e9, R., de Groot, D. H.",
+  "corresponding": "Clement, T. J.",
+  "organisations": "Systems Bioinformatics, AIMMS, Systems Bioinformatics, Mathematics, Vrije Universiteit Amsterdam",
+  "journal": "Patterns",
+  "description": "Unlocking Elementary Conversion Modes: ecmtool Unveils All Capabilities of Metabolic NetworksThe metabolic capabilities of cells determine their biotechnological potential, fitness in ecosystems, pathogenic threat levels, and function in multicellular organisms. Their comprehensive experimental characterization is generally not feasible, particularly for unculturable organisms. In principle, the full range of metabolic capabilities can be computed from an organism's annotated genome using metabolic network reconstruction. However, current computational methods cannot deal with genome-scale metabolic networks. Part of the problem is that these methods aim to enumerate all metabolic pathways, while computation of all (elementally balanced) conversions between nutrients and products would suffice. Indeed, the elementary conversion modes (ECMs, defined by Urbanczik and Wagner) capture the full metabolic capabilities of a network, but the use of ECMs has not been accessible until now. We explain and extend the theory of ECMs, implement their enumeration in ecmtool, and illustrate their applicability. This work contributes to the elucidation of the full metabolic footprint of any cell."
+ },
+ "https://doi.org/10.1016/j.scitotenv.2020.142566": {
+  "month": "2",
+  "pub_date": "10 Feb 2021",
+  "year": 2021,
+  "early_online": "29 Sep 2020",
+  "title": "Hazardous compounds in recreational and urban recycled surfaces made from crumb rubber. Compliance with current regulation and future perspectives",
+  "contributors": "Celeiro, M., Armada, D., Dagnac, T., de Boer, J., Llompart, M.",
+  "corresponding": "Llompart, M.",
+  "organisations": "Environment and Health, AIMMS, University of Santiago de Compostela, Agronomic Research Centre (AGACAL-CIAM) \u2013 Unit of Organic Contaminants",
+  "journal": "Science of the Total Environment",
+  "description": "Hazardous compounds in recreational and urban recycled surfaces made from crumb rubber. Compliance with current regulation and future perspectivesCrumb rubber obtained from scrap tires is greatly employed for the construction of different facilities for sport, recreational and other uses. However, in recent years the concern about their safety and the related adult and children exposure to these surfaces is growing. This study aims a thorough chemical characterization encompassing 42 hazardous compounds, including polycyclic aromatic hydrocarbons (PAHs), phthalates, adipates, antioxidants and vulcanization agents in a wide range of crumb rubber from different surfaces. For the extraction of the target compounds, a method based on ultrasound-assisted extraction followed by gas chromatography-tandem mass spectrometry (UAE-GC\u2013MS/MS) has been validated. Forty crumb rubber samples coming from synthetic turf football pitches, outdoor and indoor playgrounds, urban pavements, commercial tiles and granulates, and scrap tires, were analyzed. In addition, green alternative materials, such as sand and artificial turf based on cork granulate infill were included to compare the levels of the target compounds with those of crumb rubber. Most of the analyzed recycled surfaces meet the recent limits proposed by the European Commission for rubber granulates and mulches, although they exceed in several cases the maximum levels allowed for rubber consumer products. Besides, most of the other target compounds, including several of them considered as endocrine disruptors, were detected in the analyzed samples, reaching parts per million concentrations."
+ },
+ "https://doi.org/10.1016/j.jcss.2020.07.003": {
+  "month": "2",
+  "pub_date": "Feb 2021",
+  "year": 2021,
+  "early_online": "29 Jul 2020",
+  "title": "Circular pattern matching with k mismatches",
+  "contributors": "Charalampopoulos, P., Kociumaka, T., Pissis, S. P., Radoszewski, J., Rytter, W., Straszy\u0144ski, J., Wale\u0144, T., Zuba, W.",
+  "corresponding": "Pissis, S. P.",
+  "organisations": "Bioinformatics, AIMMS, Bio Informatics (IBIVU), King's College London, University of Warsaw, Bar-Ilan University",
+  "journal": "Journal of Computer and System Sciences",
+  "description": "Circular pattern matching with k mismatchesWe consider the circular pattern matching with k mismatches (k-CPM) problem in which one is to compute the minimal Hamming distance of every length-m substring of T and any cyclic rotation of P, if this distance is no more than k. It is a variation of the well-studied k-mismatch problem. A multitude of papers has been devoted to solving the k-CPM problem, but only average-case upper bounds are known. In this paper, we present the first non-trivial worst-case upper bounds for this problem. Specifically, we show an O(nk)-time algorithm and an [Formula presented]-time algorithm. The latter algorithm applies in an extended way a technique that was very recently developed for the k-mismatch problem Bringmann et al. (2019) [10]. A preliminary version of this work appeared at FCT 2019 [35]. In this version we improve the time complexity of the second algorithm from [Formula presented] to [Formula presented]."
+ },
+ "https://doi.org/10.1016/j.coemr.2020.10.005": {
+  "month": "2",
+  "pub_date": "Feb 2021",
+  "year": 2021,
+  "early_online": "26 Oct 2020",
+  "title": "G protein-coupled receptors as promising targets in cancer",
+  "contributors": "Perez Almeria, C. V., Setiawan, I. M., Siderius, M., Smit, M. J.",
+  "corresponding": "Smit, M. J.",
+  "organisations": "AIMMS, Medicinal chemistry",
+  "journal": "Current Opinion in Endocrine and Metabolic Research",
+  "description": "G protein-coupled receptors as promising targets in cancerG protein-coupled receptors (GPCRs) control diverse cellular functions, and their dysregulation is involved in a plethora of diseases including tumorigenesis. In the last decade, the association of GPCRs with cancer has become apparent and offers new opportunities to target GPCRs in oncology. GPCR overexpression and mutations lead to aberrant activation of pro-oncogenic pathways inducing tumor progression. In this review, we describe how GPCRs activate some main signaling pathways that contribute to different cancer hallmarks, including cell transformation, proliferative signaling, immune evasion, angiogenesis, and metastasis. Thereafter, we highlight different approaches to target GPCRs, including small molecules and biologics (e.g. monoclonal antibodies and nanobodies) and combinatorial (immuno)therapies that are emerging with promising effects for cancer treatment."
+ },
+ "https://doi.org/10.1038/s41564-020-00816-5": {
+  "month": "2",
+  "pub_date": "Feb 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Metabolic cooperation and spatiotemporal niche partitioning in a kefir microbial community",
+  "contributors": "Blasche, S., Kim, Y., Mars, R. A., Machado, D., Maansson, M., Kafkia, E., Milanese, A., Zeller, G., Teusink, B., Nielsen, J., Benes, V., Neves, R., Sauer, U., Patil, K. R.",
+  "corresponding": "Patil, K. R.",
+  "organisations": "Systems Bioinformatics, AIMMS, Systems Bioinformatics, European Molecular Biology Laboratory, Swiss Federal Institute of Technology Zurich, Chr. Hansen AS, University of Cambridge, Chalmers University of Technology",
+  "journal": "NATURE MICROBIOLOGY",
+  "description": "Metabolic cooperation and spatiotemporal niche partitioning in a kefir microbial communityMicrobial communities often undergo intricate compositional changes yet also maintain stable coexistence of diverse species. The mechanisms underlying long-term coexistence remain unclear as system-wide studies have been largely limited to engineered communities, ex situ adapted cultures or synthetic assemblies. Here, we show how kefir, a natural milk-fermenting community of prokaryotes (predominantly lactic and acetic acid bacteria) and yeasts (family Saccharomycetaceae), realizes stable coexistence through spatiotemporal orchestration of species and metabolite dynamics. During milk fermentation, kefir grains (a polysaccharide matrix synthesized by kefir microorganisms) grow in mass but remain unchanged in composition. In contrast, the milk is colonized in a sequential manner in which early members open the niche for the followers by making available metabolites such as amino acids and lactate. Through metabolomics, transcriptomics and large-scale mapping of inter-species interactions, we show how microorganisms poorly suited for milk survive in\u2014and even dominate\u2014the community, through metabolic cooperation and uneven partitioning between grain and milk. Overall, our findings reveal how inter-species interactions partitioned in space and time lead to stable coexistence."
  }
 }
