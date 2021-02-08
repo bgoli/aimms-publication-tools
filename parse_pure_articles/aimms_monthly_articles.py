@@ -1,3 +1,55 @@
+__doc__ = """
+## Generating AIMMS manuscript reports
+
+There is a two stage process to create the AIMMS paper report
+
+### Generate a custom report in PURE
+You need to create an Excel report in PURE. To do this you need elevated user rights to the AIMMS contex and the correct report format. Get this from  Brett).
+
+### Parse data and update database
+This code use a sql database to store publication reports. There are two things that are important here, the first being the normal run and the second database maintenance.
+
+#### Normal operation
+This is what you do on a regular basis, first copy the Excel spreadsheet you generated from PURE into the `\data` directory. Next add a line of code that loads that file.
+
+```python
+data_file = 'AIMMS_research_2021-8_02_21.xls'
+```
+
+Save the file and run this script from a terminal
+```bash
+python aimms_monthly_articles.py
+````
+
+This will update the database and JSON index files.
+
+#### Database update (each new year)
+The database *aimmsDB.sqlite* is set up to use the table *publications* for the current years results. At the begining of a calendar year simply rename
+the *publications* table to the previous year, for example, 2020. In this way a history of AIMMS publications is maintained.
+
+### Report generation
+
+Next you can generate the report using
+
+```bash
+python generate_publication_report.py
+```
+This will result in two Word documents:
+
+```bash
+AIMMS_publication_report-2021-02-08.docx
+AIMMS_publications_for_newsletter-2021-02-08.docx
+```
+A detailed list of new publications and a shortened version suitable for publication in the newsletter.
+
+
+### Author
+Author: Brett G. Olivier (b.g.olivier@vu.nl)
+Licence: BSD 3 clause
+
+"""
+__version__ = 1.2
+
 # data_file = 'AIMMS_research_2020-7_08_20.xls'
 # data_file = 'AIMMS_research_2020-31_08_20.xls'
 # data_file = 'AIMMS_research_2020-14_09_20.xls'
