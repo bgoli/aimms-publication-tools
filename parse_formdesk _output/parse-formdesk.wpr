@@ -6,7 +6,13 @@
 [project attributes]
 proj.directory-list = [{'dirloc': loc('.'),
                         'excludes': (),
-                        'filter': u'All Source Files',
+                        'filter': u'*',
+                        'include_hidden': False,
+                        'recursive': True,
+                        'watch_for_changes': True},
+                       {'dirloc': loc('../noupload/parse_formdesk _output'),
+                        'excludes': (),
+                        'filter': u'*',
                         'include_hidden': False,
                         'recursive': True,
                         'watch_for_changes': True}]
