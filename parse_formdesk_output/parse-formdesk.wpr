@@ -4,7 +4,7 @@
 # Wing project file                                              #
 ##################################################################
 [project attributes]
-proj.directory-list = [{'dirloc': loc('.'),
+proj.directory-list = [{'dirloc': loc('../parse_formdesk _output'),
                         'excludes': (),
                         'filter': u'*',
                         'include_hidden': False,
