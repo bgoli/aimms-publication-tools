@@ -4,16 +4,17 @@
 # Wing project file                                              #
 ##################################################################
 [project attributes]
-proj.directory-list = [{'dirloc': loc('../parse_formdesk _output'),
+proj.directory-list = [{'dirloc': loc('../noupload/parse_formdesk_output'),
                         'excludes': (),
-                        'filter': u'*',
+                        'filter': '*',
                         'include_hidden': False,
                         'recursive': True,
                         'watch_for_changes': True},
-                       {'dirloc': loc('../noupload/parse_formdesk _output'),
+                       {'dirloc': loc('.'),
                         'excludes': (),
                         'filter': u'*',
                         'include_hidden': False,
                         'recursive': True,
                         'watch_for_changes': True}]
+proj.file-list = [loc('parse_form.py')]
 proj.file-type = 'shared'
