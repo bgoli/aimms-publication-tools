@@ -1,14 +1,14 @@
 {
- "240611": {
-  "month": "2",
-  "pub_date": "10 Feb 2021",
+ "262001": {
+  "month": "3",
+  "pub_date": "18 Mar 2021",
   "year": 2021,
-  "early_online": "10 Dec 2020",
-  "title": "Protein cost allocation explains metabolic strategies in Escherichia coli",
-  "contributors": "Grigaitis, P., Olivier, B. G., Fiedler, T., Teusink, B., Kummer, U., Veith, N.",
+  "early_online": null,
+  "title": "A Computational Odyssey into Microbial Communities Across Ecosystems",
+  "contributors": "Melkonian, C.",
   "corresponding": null,
-  "organisations": "Systems Bioinformatics, AIMMS, Systems Bioinformatics, Rostock University Medical Center, Department of General Internal Medicine and Psychosomatics, Heidelberg University Hospital, Heidelberg University, Heidelberg, Germany.",
-  "journal": "Journal of Biotechnology",
-  "description": "Protein cost allocation explains metabolic strategies in Escherichia coliIn-depth understanding of microbial growth is crucial for the development of new advances in biotechnology and for combating microbial pathogens. Condition-specific proteome expression is central to microbial physiology and growth. A multitude of processes are dependent on the protein expression, thus, whole-cell analysis of microbial metabolism using genome-scale metabolic models is an attractive toolset to investigate the behaviour of microorganisms and their communities. However, genome-scale models that incorporate macromolecular expression are still inhibitory complex: the conceptual and computational complexity of these models severely limits their potential applications. In the need for alternatives, here we revisit some of the previous attempts to create genome-scale models of metabolism and macromolecular expression to develop a novel framework for integrating protein abundance and turnover costs to conventional genome-scale models. We show that such a model of Escherichia coli successfully reproduces experimentally determined adaptations of metabolism in a growth condition-dependent manner. Moreover, the model can be used as means of investigating underutilization of the protein machinery among different growth settings. Notably, we obtained strongly improved predictions of flux distributions, considering the costs of protein translation explicitly. This finding in turn suggests protein translation being the main regulation hub for cellular growth."
+  "organisations": "AIMMS, Systems Bioinformatics",
+  "journal": null,
+  "description": null
  }
 }

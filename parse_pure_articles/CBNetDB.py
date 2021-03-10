@@ -26,13 +26,15 @@ Last edit: $Author: bgoli $ ($Id: CBNetDB.py 710 2020-04-27 14:22:34Z bgoli $)
 # preparing for Python 3 port
 from __future__ import division, print_function
 from __future__ import absolute_import
-#from __future__ import unicode_literals
+
+# from __future__ import unicode_literals
 
 import os
 import time
 import re
 import webbrowser
 import csv
+
 try:
     from urllib2 import quote as urlquote
     from urllib2 import unquote as urlunquote
@@ -45,11 +47,13 @@ HAVE_SQLITE3 = False
 
 try:
     import sqlite3 as sqlite3
+
     HAVE_SQLITE3 = True
 except ImportError:
     HAVE_SQLITE3 = False
     try:
         from pysqlite2 import dbapi2 as sqlite2
+
         HAVE_SQLITE2 = True
     except ImportError:
         HAVE_SQLITE2 = False
@@ -127,7 +131,6 @@ class DBTools(NetDBbase):
         except:
             return False
 
-
     def createDBTable(self, table, sqlcols):
         """
         Create a database table if it does not exist:
@@ -172,7 +175,9 @@ class DBTools(NetDBbase):
                 valstr += '?, '
                 vals.append(data[d])
         except AttributeError:
-            print('\n\nWARNING: data now uses a dictionary as input please update your code - see docstring for details\n')
+            print(
+                '\n\nWARNING: data now uses a dictionary as input please update your code - see docstring for details\n'
+            )
             time.sleep(3)
             for d in data:
                 colstr += '%s, ' % d[0]
@@ -228,13 +233,15 @@ class DBTools(NetDBbase):
         - *rid* the row to search for
 
         """
-        self.db_cursor.execute("SELECT count(*) FROM {} WHERE {}=\"{}\"".format(table, col, rid))
+        self.db_cursor.execute(
+            "SELECT count(*) FROM {} WHERE {}=\"{}\"".format(table, col, rid)
+        )
         data = self.db_cursor.fetchone()[0]
         if data == 0:
-            #print('There is no component named {}'.format(rid))
+            # print('There is no component named {}'.format(rid))
             return False
         else:
-            #print('Component {} found in {} row(s)'.format(rid, data))
+            # print('Component {} found in {} row(s)'.format(rid, data))
             return True
 
     def executeSQL(self, sql):
@@ -295,7 +302,11 @@ class DBTools(NetDBbase):
         try:
             data = self.db_cursor.execute(sql).fetchall()
             if len(data) > 1:
-                print('INFO: getRow is returning multiple rows for query id: {}'.format(rid))
+                print(
+                    'INFO: getRow is returning multiple rows for query id: {}'.format(
+                        rid
+                    )
+                )
             for r_ in data:
                 dout.append([str(d) for d in r_])
             del data
@@ -362,6 +373,7 @@ class DBTools(NetDBbase):
         data, head = self.getTable(table, colOut=True)
         data.insert(0, head)
         from .CBTools import exportLabelledLinkedList
+
         exportLabelledLinkedList(data, fname=filename, names=None, sep='\t')
 
     def dumpTableToCSV(self, table, filename):
@@ -408,6 +420,7 @@ class KeGGTools(object):
 
     def __init__(self, url):
         import suds
+
         self.Kclient = suds.client.Client(url)
 
     def fetchSeqfromKeGG(self, k_gene):
@@ -419,7 +432,11 @@ class KeGGTools(object):
         try:
             g = self.Kclient.service.bget("-f -n n %s" % k_gene)
             if g == None:
-                print('\n*****\nWARNING: potential naming error in gene: {}!!\n*****\n'.format(k_gene))
+                print(
+                    '\n*****\nWARNING: potential naming error in gene: {}!!\n*****\n'.format(
+                        k_gene
+                    )
+                )
             g2 = g.split('(N)')[1].replace('\n', '')
         except AttributeError as ex:
             print('\nGene sequence get exception ({})!\n'.format(k_gene))
@@ -427,7 +444,11 @@ class KeGGTools(object):
         try:
             p = self.Kclient.service.bget("-f -n a %s" % k_gene)
             if p == None:
-                print('\n*****\nWARNING: potential naming error in gene: {}!!\n*****\n'.format(k_gene))
+                print(
+                    '\n*****\nWARNING: potential naming error in gene: {}!!\n*****\n'.format(
+                        k_gene
+                    )
+                )
             p2 = p.split('(A)')[1].replace('\n', '')
         except AttributeError as ex:
             print('\nProtein sequence get exception ({})!\n'.format(k_gene))
@@ -448,42 +469,65 @@ class KeGGSequenceTools(object):
         self.DB.connectSQLiteDB(db_name, work_dir)
         self.KEGG = KeGGTools(url)
 
-    def buildGeneDatabase(self, genes, tablename, UPDATE_IF_EXISTS=False, default_length=0):
+    def buildGeneDatabase(
+        self, genes, tablename, UPDATE_IF_EXISTS=False, default_length=0
+    ):
         cntr = 1
         cntr2 = 1
 
         for ecg in genes:
             print('Processing gene {} of {}'.format(cntr, len(genes)))
             entry_exists = False
-            testg = self.DB.db_cursor.execute('SELECT * FROM %s WHERE gene="%s" ' % (tablename, ecg)).fetchall()
+            testg = self.DB.db_cursor.execute(
+                'SELECT * FROM %s WHERE gene="%s" ' % (tablename, ecg)
+            ).fetchall()
             if len(testg) > 0:
                 entry_exists = True
 
             # if ecg in ['eco:b1898','eco:b1899','eco:b3692','eco:b3111','eco:b4228','eco:b2978',\
-                # 'eco:b1416','eco:b3112','eco:b1417','eco:b3768','eco:b3767','eco:b4229']:
-                # raw_input(testg)
+            # 'eco:b1416','eco:b3112','eco:b1417','eco:b3768','eco:b3767','eco:b4229']:
+            # raw_input(testg)
 
             tstart = time.time()
             if not entry_exists:
                 print('\tadding gene {}'.format(ecg), end=" ")
                 gene2, prot2 = self.KEGG.fetchSeqfromKeGG(ecg)
                 if gene2 != 'None' and prot2 != 'None':
-                    self.DB.db_cursor.execute("INSERT INTO %s (gene, aa_seq, nuc_seq, aa_len, nuc_len) VALUES (?, ?, ?, ?, ?)" % tablename,
-                                              (str(ecg), str(prot2), str(gene2), int(len(prot2)), int(len(gene2))))
+                    self.DB.db_cursor.execute(
+                        "INSERT INTO %s (gene, aa_seq, nuc_seq, aa_len, nuc_len) VALUES (?, ?, ?, ?, ?)"
+                        % tablename,
+                        (
+                            str(ecg),
+                            str(prot2),
+                            str(gene2),
+                            int(len(prot2)),
+                            int(len(gene2)),
+                        ),
+                    )
                 else:
-                    print('\nGene {} cannot be found and is probably an incorrect annotation assigning length: {}\n'.format(ecg, default_length))
-                    self.DB.db_cursor.execute("INSERT INTO %s (gene, aa_seq, nuc_seq, aa_len, nuc_len) VALUES (?, ?, ?, ?, ?)" % tablename,
-                                              (str(ecg), 'None', 'None', default_length, default_length))
+                    print(
+                        '\nGene {} cannot be found and is probably an incorrect annotation assigning length: {}\n'.format(
+                            ecg, default_length
+                        )
+                    )
+                    self.DB.db_cursor.execute(
+                        "INSERT INTO %s (gene, aa_seq, nuc_seq, aa_len, nuc_len) VALUES (?, ?, ?, ?, ?)"
+                        % tablename,
+                        (str(ecg), 'None', 'None', default_length, default_length),
+                    )
             elif entry_exists and UPDATE_IF_EXISTS:
                 print('\tupdating gene {}'.format(ecg), end=" ")
                 gene2, prot2 = self.KEGG.fetchSeqfromKeGG(ecg)
-                self.DB.db_cursor.execute('UPDATE %s SET aa_seq="%s", nuc_seq="%s", aa_len="%s", nuc_len="%s" WHERE gene="%s"' % (tablename, prot2, gene2, int(len(prot2)), int(len(gene2)), ecg))
+                self.DB.db_cursor.execute(
+                    'UPDATE %s SET aa_seq="%s", nuc_seq="%s", aa_len="%s", nuc_len="%s" WHERE gene="%s"'
+                    % (tablename, prot2, gene2, int(len(prot2)), int(len(gene2)), ecg)
+                )
             else:
                 print('\tskipping gene {}'.format(ecg), end=" ")
             tend = time.time()
             print(' ... done ({}).'.format(tend - tstart))
             #  if cntr == 6:
-                #  break
+            #  break
             cntr += 1
             cntr2 += 1
             if cntr2 == 21:
@@ -495,7 +539,9 @@ class KeGGSequenceTools(object):
         for G in genes:
             print(G)
             ##  Glen = self.cursor.execute('SELECT aa_len FROM gene_data WHERE gene="%s"' % G).fetchall()[0][0]
-            Glen = self.DB.fetchAll('SELECT aa_len FROM gene_data WHERE gene="%s"' % G)[0][0]
+            Glen = self.DB.fetchAll('SELECT aa_len FROM gene_data WHERE gene="%s"' % G)[
+                0
+            ][0]
             print(Glen)
             gene_peplen.update({G.replace(keg_prefix, ''): Glen})
         return gene_peplen
@@ -505,11 +551,14 @@ class RESTClient(NetDBbase):
     """
     Class that provides the basis for application specific connectors to REST web services
     """
+
     site_root = None
     conn = None
     history = ''
     CONNECTED = False
-    USER_AGENT = 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:13.0) Gecko/20100101 Firefox/13.0'
+    USER_AGENT = (
+        'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:13.0) Gecko/20100101 Firefox/13.0'
+    )
 
     def __init__(self):
         self.urllib2 = urllib2
@@ -603,6 +652,7 @@ class SemanticSBML(RESTClient, MIRIAMTools):
     REST client for connecting to SemanticSBML services
 
     """
+
     data = None
     item_re = re.compile('<item>.+?</item>')
 
@@ -651,4 +701,7 @@ class SemanticSBML(RESTClient, MIRIAMTools):
          - *xml* XML returns from SemanticSBML
 
         """
-        return [i.replace('<item>', '').replace('</item>', '').strip() for i in re.findall(self.item_re, xml)]
+        return [
+            i.replace('<item>', '').replace('</item>', '').strip()
+            for i in re.findall(self.item_re, xml)
+        ]
