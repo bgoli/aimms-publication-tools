@@ -1,13 +1,25 @@
 __doc__ = """
-## Auto generate poster programme
-
+## Generating a poster program from formdesk output
 
 ### Author
 Author: Brett G. Olivier (b.g.olivier@vu.nl)
-Licence: BSD 3 clause
+Licence: GNU GPL v3
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 """
-__version__ = 0.1
+__version__ = 0.2
 
 data_file = 'AIMMSannualmeeting2021_exportforBrett.xlsx'
 
@@ -79,6 +91,8 @@ DB_COLS = [
     'author TEXT',
     'abstract TEXT',
     'borrel INT',
+    'pnumber TEXT',
+    'participant INT',
 ]
 
 posterDB = None
@@ -108,10 +122,14 @@ print(data_file)
 exl_wb = openpyxl.load_workbook(filename=data_file)
 exl_sh = exl_wb[exl_wb.sheetnames[0]]
 
-
+# get max numbers
+pRegMax = pNumMax = len(posterDB.getColumns(DB_ACTIVE_TABLE, ['pid'])[0])
+pNumMax = posterDB.getColumns(DB_ACTIVE_TABLE, ['poster'])[0].count('1')
+print(pRegMax, pNumMax)
 for row in range(2, exl_sh.max_row + 1):
     pid = int(exl_sh['B{}'.format(row)].value)
     if not posterDB.checkEntryInColumn(DB_ACTIVE_TABLE, 'pid', pid):
+        pRegMax += 1
         dta = {
             'pid': pid,
             'status': int(
@@ -129,7 +147,11 @@ for row in range(2, exl_sh.max_row + 1):
             'author': exl_sh['V{}'.format(row)].value,
             'abstract': exl_sh['W{}'.format(row)].value,
             'borrel': int(exl_sh['X{}'.format(row)].value),
+            'participant': pRegMax,
         }
+        if dta['poster']:
+            pNumMax += 1
+            dta['pnumber'] = 'P{0:03d}'.format(pNumMax)
         posterDB.insertData(DB_ACTIVE_TABLE, dta, commit=False)
         print('Adding row with ID \"{}\".'.format(pid))
         # pprint.pprint(dta)
