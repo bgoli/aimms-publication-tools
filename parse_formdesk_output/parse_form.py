@@ -163,36 +163,56 @@ posterDB.commitDB()
 pRegMax = len(posterDB.getColumns(DB_ACTIVE_TABLE, ['pid'])[0])
 
 
-Dx = docx.Document()
-
-
-def add_participant(p, table, row):
+def add_participant(D, table, row):
     data = posterDB.getRow(table, 'participant', row)[0]
+    p = D.add_paragraph()
     if data[3] == 'None':
-        p.add_run('{}) {} {}, '.format(row, data[2], data[4])).bold = False
+        p.add_run('{} {} ({})\n'.format(data[2], data[4], data[8]))
     else:
-        p.add_run('{}) {} {} {}, '.format(row, data[2], data[3], data[4])).bold = False
-    # p.add_run('{} ({})'.format(data[5], data[8]))
+        p.add_run('{} {} {} ({})\n'.format(data[2], data[3], data[4]), data[8])
     p.add_run('{}'.format(data[5]))
-    print(data[9])
-    if int(data[9]):
-        p.add_run(', ')
-        p.add_run('Poster {}\n'.format(data[14])).italic = True
-    else:
-        p.add_run('\n')
+    if data[9] == '1':
+        p.add_run('\nPoster: {}'.format(data[14]))
+    # if data[13] == '1':
+    #     p.add_run('\nBorrel: {}'.format(data[13] == '1'))
+
+
+def add_poster(D, table, row):
+    data = posterDB.getRow(table, 'participant', row)[0]
+    if data[9] == '1':
+        p = D.add_paragraph()
+        p.add_run('{}: '.format(data[14])).bold = True
+        p.add_run('{}\n'.format(data[10])).bold = True
+        names = str(data[11])
+        names = names.replace('\n', ',')
+        names = [a.strip() for a in names.split(',')]
+        r = p.add_run('{}\n'.format(', '.join(names)))
+        r.italic = True
+        r = p.add_run('{}\n'.format(data[12]))
+        r.font.size = docx.shared.Pt(11)
+
+    # if data[3] == 'None':
+    # p.add_run('{} {} ({})\n'.format(data[2], data[4], data[8]))
+    # else:
+    # p.add_run('{} {} {} ({})\n'.format(data[2], data[3], data[4]), data[8])
+    # p.add_run('{}'.format(data[5]))
 
 
 # build document
+Dx = docx.Document()
+_ = Dx.add_heading('AIMMS Day Poster Session v{}'.format(ctime), level=1)
+_ = Dx.add_heading('Participant list ({})'.format(pRegMax), level=2)
 
-_ = Dx.add_heading('AIMMS Day Poster Session {}'.format(CURRENT_YEAR), level=1)
-_ = Dx.add_heading('Participant list ({})'.format(ctime), level=2)
-
-p_participants = Dx.add_paragraph()
 
 for p_ in range(1, pRegMax + 1):
-    add_participant(p_participants, DB_ACTIVE_TABLE, p_)
+    add_participant(Dx, DB_ACTIVE_TABLE, p_)
+
+_ = Dx.add_heading('Poster list', level=2)
+
+for p_ in range(1, pRegMax + 1):
+    add_poster(Dx, DB_ACTIVE_TABLE, p_)
 
 
 posterDB.closeDB()
-Dx.save('AIMMSday-{}.docx'.format(CURRENT_YEAR))
+Dx.save(os.path.join(out_dir, 'AIMMSday-{}.docx'.format(CURRENT_YEAR)))
 # time.sleep(2)
