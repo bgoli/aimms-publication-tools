@@ -123,7 +123,7 @@ exl_wb = openpyxl.load_workbook(filename=data_file)
 exl_sh = exl_wb[exl_wb.sheetnames[0]]
 
 # get max numbers
-pRegMax = pNumMax = len(posterDB.getColumns(DB_ACTIVE_TABLE, ['pid'])[0])
+pRegMax = len(posterDB.getColumns(DB_ACTIVE_TABLE, ['pid'])[0])
 pNumMax = posterDB.getColumns(DB_ACTIVE_TABLE, ['poster'])[0].count('1')
 print(pRegMax, pNumMax)
 for row in range(2, exl_sh.max_row + 1):
@@ -157,7 +157,42 @@ for row in range(2, exl_sh.max_row + 1):
         # pprint.pprint(dta)
     else:
         print('Skipping existing ID \"{}\".'.format(pid))
-
-
 posterDB.commitDB()
+
+
+pRegMax = len(posterDB.getColumns(DB_ACTIVE_TABLE, ['pid'])[0])
+
+
+Dx = docx.Document()
+
+
+def add_participant(p, table, row):
+    data = posterDB.getRow(table, 'participant', row)[0]
+    if data[3] == 'None':
+        p.add_run('{}) {} {}, '.format(row, data[2], data[4])).bold = False
+    else:
+        p.add_run('{}) {} {} {}, '.format(row, data[2], data[3], data[4])).bold = False
+    # p.add_run('{} ({})'.format(data[5], data[8]))
+    p.add_run('{}'.format(data[5]))
+    print(data[9])
+    if int(data[9]):
+        p.add_run(', ')
+        p.add_run('Poster {}\n'.format(data[14])).italic = True
+    else:
+        p.add_run('\n')
+
+
+# build document
+
+_ = Dx.add_heading('AIMMS Day Poster Session {}'.format(CURRENT_YEAR), level=1)
+_ = Dx.add_heading('Participant list ({})'.format(ctime), level=2)
+
+p_participants = Dx.add_paragraph()
+
+for p_ in range(1, pRegMax + 1):
+    add_participant(p_participants, DB_ACTIVE_TABLE, p_)
+
+
 posterDB.closeDB()
+Dx.save('AIMMSday-{}.docx'.format(CURRENT_YEAR))
+# time.sleep(2)
