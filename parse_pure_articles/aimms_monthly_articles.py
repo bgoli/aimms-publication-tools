@@ -45,10 +45,23 @@ A detailed list of new publications and a shortened version suitable for publica
 
 ### Author
 Author: Brett G. Olivier (b.g.olivier@vu.nl)
-Licence: BSD 3 clause
+Licence: GNU GPL v3
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 """
-__version__ = 1.2
+__version__ = 1.3
 
 # data_file = 'AIMMS_research_2020-7_08_20.xls'
 # data_file = 'AIMMS_research_2020-31_08_20.xls'

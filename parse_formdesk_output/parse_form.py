@@ -152,6 +152,9 @@ for row in range(2, exl_sh.max_row + 1):
         if dta['poster']:
             pNumMax += 1
             dta['pnumber'] = 'P{0:03d}'.format(pNumMax)
+            dta['author'] = str(dta['author']).replace('\n', ',')
+            dta['author'] = ', '.join([a.strip() for a in dta['author'].split(',')])
+
         posterDB.insertData(DB_ACTIVE_TABLE, dta, commit=False)
         print('Adding row with ID \"{}\".'.format(pid))
         # pprint.pprint(dta)
@@ -167,17 +170,19 @@ def add_participant(D, table, row):
     data = posterDB.getRow(table, 'participant', row)[0]
     p = D.add_paragraph()
     if data[3] == 'None':
-        p.add_run('{} {} ({})\n'.format(data[2], data[4], data[8]))
+        p.add_run('{} {} ({})'.format(data[2], data[4], data[8]))
     else:
-        p.add_run('{} {} {} ({})\n'.format(data[2], data[3], data[4]), data[8])
-    p.add_run('{}'.format(data[5]))
+        p.add_run('{} {} {} ({})'.format(data[2], data[3], data[4]), data[8])
     if data[9] == '1':
-        p.add_run('\nPoster: {}'.format(data[14]))
-    # if data[13] == '1':
-    #     p.add_run('\nBorrel: {}'.format(data[13] == '1'))
+        p.add_run(' - {}'.format(data[14]))
+    p.add_run('\n{}'.format(data[5]))
 
 
-def add_poster(D, table, row):
+#     if data[13] == '1':
+#         p.add_run('\nBorrel: {}'.format(data[13] == '1'))
+
+
+def add_poster_long(D, table, row):
     data = posterDB.getRow(table, 'participant', row)[0]
     if data[9] == '1':
         p = D.add_paragraph()
@@ -191,28 +196,53 @@ def add_poster(D, table, row):
         r = p.add_run('{}\n'.format(data[12]))
         r.font.size = docx.shared.Pt(11)
 
-    # if data[3] == 'None':
-    # p.add_run('{} {} ({})\n'.format(data[2], data[4], data[8]))
-    # else:
-    # p.add_run('{} {} {} ({})\n'.format(data[2], data[3], data[4]), data[8])
-    # p.add_run('{}'.format(data[5]))
+
+def add_to_table(t, crd, max_col, table, row):
+    data = posterDB.getRow(table, 'participant', row)[0]
+    if crd[1] == max_col:
+        t.add_row()
+        crd[0] = crd[0] + 1
+        crd[1] = 0
+    if data[9] == '1':
+        if data[3] == 'None':
+            name = '{} {}'.format(data[2], data[4])
+        else:
+            name = '{} {} {}'.format(data[2], data[3], data[4])
+
+        t.cell(crd[0], crd[1]).text = '{}\n{}'.format(data[14], name)
+        crd[1] = crd[1] + 1
+
+
+#     else:
+#         t.cell(crd[0], crd[1]).text = '{}, {}'.format(crd[0], crd[1])
+#         crd[1] = crd[1] + 1
 
 
 # build document
 Dx = docx.Document()
 _ = Dx.add_heading('AIMMS Day Poster Session v{}'.format(ctime), level=1)
+
+_ = Dx.add_heading('Poster table', level=2)
+Dx_tbl_max_col = 5
+Dx_tbl = Dx.add_table(1, Dx_tbl_max_col)
+cell_coord = [0, 0]
+for p_ in range(1, pRegMax + 1):
+    add_to_table(Dx_tbl, cell_coord, Dx_tbl_max_col, DB_ACTIVE_TABLE, p_)
+
+Dx_tbl.style = 'Light Shading Accent 1'
+Dx_tbl.autofit = True
+
+_ = Dx.add_heading('Poster list long', level=2)
+for p_ in range(1, pRegMax + 1):
+    add_poster_long(Dx, DB_ACTIVE_TABLE, p_)
+
+Dx.add_page_break()
+
 _ = Dx.add_heading('Participant list ({})'.format(pRegMax), level=2)
-
-
 for p_ in range(1, pRegMax + 1):
     add_participant(Dx, DB_ACTIVE_TABLE, p_)
 
-_ = Dx.add_heading('Poster list', level=2)
-
-for p_ in range(1, pRegMax + 1):
-    add_poster(Dx, DB_ACTIVE_TABLE, p_)
-
 
 posterDB.closeDB()
-Dx.save(os.path.join(out_dir, 'AIMMSday-{}.docx'.format(CURRENT_YEAR)))
+Dx.save(os.path.join(out_dir, 'AIMMSday-{}.docx'.format(time.strftime('%H%M%S'))))
 # time.sleep(2)
