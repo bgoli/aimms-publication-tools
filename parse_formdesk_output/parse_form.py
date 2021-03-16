@@ -21,7 +21,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>
 """
 __version__ = 0.2
 
-data_file = 'AIMMSannualmeeting2021_exportforBrett.xlsx'
+# data_file = 'AIMMSannualmeeting2021_exportforBrett.xlsx'
+data_file = 'AIMMSannualmeeting2021_withoutaddressses.xlsx'
 
 DB_FILE_NAME = 'aimmsday_posters.sqlite'
 # DATA_COLUMNS = [
@@ -151,7 +152,7 @@ for row in range(2, exl_sh.max_row + 1):
         }
         if dta['poster']:
             pNumMax += 1
-            dta['pnumber'] = 'P{0:03d}'.format(pNumMax)
+            dta['pnumber'] = 'P{0:02d}'.format(pNumMax)
             dta['author'] = str(dta['author']).replace('\n', ',')
             dta['author'] = ', '.join([a.strip() for a in dta['author'].split(',')])
 
@@ -172,10 +173,20 @@ def add_participant(D, table, row):
     if data[3] == 'None':
         p.add_run('{} {} ({})'.format(data[2], data[4], data[8]))
     else:
-        p.add_run('{} {} {} ({})'.format(data[2], data[3], data[4]), data[8])
+        p.add_run('{} {} {} ({})'.format(data[2], data[3], data[4], data[8]))
     if data[9] == '1':
         p.add_run(' - {}'.format(data[14]))
-    p.add_run('\n{}'.format(data[5]))
+    if data[5].strip() == 'Other':
+        if data[7] != 'None':
+            p.add_run('\n{}'.format(data[7]))
+        else:
+            p.add_run('\n{}'.format(' '))
+    elif data[5].strip() == 'choose one of the groups below:':
+        p.add_run('\n{}'.format(' '))
+    elif data[5].strip() == 'None':
+        p.add_run('\n{}'.format(' '))
+    else:
+        p.add_run('\n{}'.format(data[5]))
 
 
 #     if data[13] == '1':
@@ -191,7 +202,19 @@ def add_poster_long(D, table, row):
         names = str(data[11])
         names = names.replace('\n', ',')
         names = [a.strip() for a in names.split(',')]
-        r = p.add_run('{}\n'.format(', '.join(names)))
+        print(names)
+        if data[3] == 'None':
+            name = '{} {}'.format(data[2], data[4])
+        else:
+            name = '{} {} {}'.format(data[2], data[3], data[4])
+
+        if name in names:
+            r = p.add_run('{}'.format(names.pop(names.index(name))))
+            r.underline = True
+            r.italic = True
+            r = p.add_run(', {}\n'.format(', '.join(names)))
+        else:
+            r = p.add_run('{}\n'.format(', '.join(names)))
         r.italic = True
         r = p.add_run('{}\n'.format(data[12]))
         r.font.size = docx.shared.Pt(11)
@@ -210,6 +233,9 @@ def add_to_table(t, crd, max_col, table, row):
             name = '{} {} {}'.format(data[2], data[3], data[4])
 
         t.cell(crd[0], crd[1]).text = '{}\n{}'.format(data[14], name)
+        t.cell(crd[0], crd[1]).paragraphs[
+            0
+        ].paragraph_format.alignment = docx.enum.text.WD_PARAGRAPH_ALIGNMENT.CENTER
         crd[1] = crd[1] + 1
 
 
@@ -223,13 +249,13 @@ Dx = docx.Document()
 _ = Dx.add_heading('AIMMS Day Poster Session v{}'.format(ctime), level=1)
 
 _ = Dx.add_heading('Poster table', level=2)
-Dx_tbl_max_col = 5
+Dx_tbl_max_col = 3
 Dx_tbl = Dx.add_table(1, Dx_tbl_max_col)
 cell_coord = [0, 0]
 for p_ in range(1, pRegMax + 1):
     add_to_table(Dx_tbl, cell_coord, Dx_tbl_max_col, DB_ACTIVE_TABLE, p_)
 
-Dx_tbl.style = 'Light Shading Accent 1'
+Dx_tbl.style = 'Table Grid'
 Dx_tbl.autofit = True
 
 _ = Dx.add_heading('Poster list long', level=2)
@@ -239,8 +265,16 @@ for p_ in range(1, pRegMax + 1):
 Dx.add_page_break()
 
 _ = Dx.add_heading('Participant list ({})'.format(pRegMax), level=2)
-for p_ in range(1, pRegMax + 1):
-    add_participant(Dx, DB_ACTIVE_TABLE, p_)
+
+name_map = posterDB.getColumns(DB_ACTIVE_TABLE, ['lname', 'participant'])
+name_map = dict(
+    [(name_map[0][r], int(name_map[1][r])) for r in range(len(name_map[0]))]
+)
+names = list(name_map.keys())
+names.sort()
+print(name_map)
+for name in names:
+    add_participant(Dx, DB_ACTIVE_TABLE, name_map[name])
 
 
 posterDB.closeDB()
