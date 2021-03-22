@@ -141,6 +141,7 @@ re_early_date = re.compile(r"Early online date:(.*?)Publication")
 re_contrib = re.compile(r"Contributors:(.*?)(?:Number|Publication)")
 re_corresp = re.compile(r"Corresponding author:(.*?)Contributors")
 re_journal = re.compile(r"Journal:(.*?)Volume")
+# need to make the URL parsing deal with PURE duplicate DOI's.
 re_doi = re.compile(r"DOIs:(.*?)URLs")
 re_orgs = re.compile(r"Organisations:(.*?)(?:Contributors|Corresponding)")
 re_title = re.compile(r"^(.*?[a-z\?])[A-Z]")
@@ -222,6 +223,9 @@ for m in [str(a + 1) for a in range(CURRENT_MONTH)]:
             parsed_data_nodoi[key] = parsed_data.pop(key)
 
 pprint.pprint(parsed_data)
+
+os.sys.exit(1)
+
 pprint.pprint(parsed_data_nodoi)
 for k in parsed_data:
     print(k)

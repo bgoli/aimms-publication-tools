@@ -19,10 +19,11 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 """
-__version__ = 0.2
+__version__ = 0.3
 
 # data_file = 'AIMMSannualmeeting2021_exportforBrett.xlsx'
-data_file = 'AIMMSannualmeeting2021_withoutaddressses.xlsx'
+# data_file = 'AIMMSannualmeeting2021_withoutaddressses.xlsx'
+data_file = '2103022_AIMMSannualmeeting2021_withoutaddresssesFinal.xlsx'
 
 DB_FILE_NAME = 'aimmsday_posters.sqlite'
 # DATA_COLUMNS = [
@@ -56,6 +57,7 @@ import os
 import time
 import pprint
 import json
+import csv
 import CBNetDB
 import openpyxl
 import docx
@@ -123,6 +125,10 @@ print(data_file)
 exl_wb = openpyxl.load_workbook(filename=data_file)
 exl_sh = exl_wb[exl_wb.sheetnames[0]]
 
+# initialize guestlist
+guest_list = []
+
+
 # get max numbers
 pRegMax = len(posterDB.getColumns(DB_ACTIVE_TABLE, ['pid'])[0])
 pNumMax = posterDB.getColumns(DB_ACTIVE_TABLE, ['poster'])[0].count('1')
@@ -147,7 +153,7 @@ for row in range(2, exl_sh.max_row + 1):
             'title': exl_sh['U{}'.format(row)].value,
             'author': exl_sh['V{}'.format(row)].value,
             'abstract': exl_sh['W{}'.format(row)].value,
-            'borrel': int(exl_sh['X{}'.format(row)].value),
+            'borrel': 0,  # int(exl_sh['X{}'.format(row)].value)
             'participant': pRegMax,
         }
         if dta['poster']:
@@ -161,6 +167,18 @@ for row in range(2, exl_sh.max_row + 1):
         # pprint.pprint(dta)
     else:
         print('Skipping existing ID \"{}\".'.format(pid))
+    if exl_sh['H{}'.format(row)].value is None:
+        name = '{} {}'.format(
+            exl_sh['G{}'.format(row)].value, exl_sh['I{}'.format(row)].value
+        )
+    else:
+        name = '{} {} {}'.format(
+            exl_sh['G{}'.format(row)].value,
+            exl_sh['H{}'.format(row)].value,
+            exl_sh['I{}'.format(row)].value,
+        )
+    guest_list.append([exl_sh['S{}'.format(row)].value, name])
+
 posterDB.commitDB()
 
 
@@ -280,3 +298,8 @@ for name in names:
 posterDB.closeDB()
 Dx.save(os.path.join(out_dir, 'AIMMSday-{}.docx'.format(time.strftime('%H%M%S'))))
 # time.sleep(2)
+
+# write guest list
+with open(os.path.join(out_dir, 'AIMMSday_guestlist.csv'), 'w', newline='') as F:
+    csvw = csv.writer(F)
+    csvw.writerows(guest_list)
