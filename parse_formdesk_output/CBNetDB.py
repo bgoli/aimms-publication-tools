@@ -215,7 +215,7 @@ class DBTools(NetDBbase):
             sql += '{}=\"{}\", '.format(d, str(data[d]).replace('\"', '\''))
         sql = sql[:-2] + ' WHERE {}=\"{}\"'.format(col, rid)
 
-        print(sql)
+        #         print(sql)
         try:
             self.db_cursor.execute(sql)
             if commit:
