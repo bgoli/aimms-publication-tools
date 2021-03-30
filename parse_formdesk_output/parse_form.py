@@ -19,18 +19,18 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 """
-__version__ = 0.5
+__version__ = 0.6
 
 # data_file = 'AIMMSannualmeeting2021_exportforBrett.xlsx'
 # data_file = 'AIMMSannualmeeting2021_withoutaddressses.xlsx'
 # data_file = '2103022_AIMMSannualmeeting2021_withoutaddresssesFinal.xlsx'
-data_file = 'AIMMSannualmeeting2021_final_no_homeaddresses.xlsx'
+data_file = 'AIMMSannualmeeting2021_final_no_homeaddresses_2.xlsx'
 
 WRITE_DB = False
 WRITE_DOC = False
 WRITE_GUESTLIST = True
 
-GUEST_LIST_FILENAME = 'AIMMSday_guestlist_final.csv'
+GUEST_LIST_FILENAME = 'AIMMSday_guestlist_final_4.csv'
 DB_FILE_NAME = 'aimmsday_posters.sqlite'
 # DATA_COLUMNS = [
 # "_fd_id",
@@ -314,12 +314,19 @@ if WRITE_DOC:
 
 # write guest list
 if WRITE_GUESTLIST:
-    # initialize guestlist
+    # initialize guestlist with the space manager
     guest_list = [
         ['email', 'name', ''],
         ['data@aimms.vu.nl', 'Brett Olivier', ''],
         ['b.g.olivier@vu.nl', 'Brett Olivier', ''],
     ]
+
+    # add lastminute guests
+    guest_list.append(['mj.smit@vu.nl', 'Martine Smit', ''])
+    guest_list.append(['jeff@createscapes.com', 'Jeff Povlo', ''])
+    guest_list.append(['p.van.hoorn@vu.nl', 'Peter van Hoorn', ''])
+    guest_list.append(['s.m.anbuhl@vu.nl', 'Stephanie Anbuhl', ''])
+    guest_list.append(['f.m.paulussen@vu.nl', 'F.M. Paulussen', ''])
 
     # load details from excel spreadsheet
     for row in range(2, exl_sh.max_row + 1):
