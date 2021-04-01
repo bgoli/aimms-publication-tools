@@ -327,6 +327,9 @@ if WRITE_GUESTLIST:
     guest_list.append(['p.van.hoorn@vu.nl', 'Peter van Hoorn', ''])
     guest_list.append(['s.m.anbuhl@vu.nl', 'Stephanie Anbuhl', ''])
     guest_list.append(['f.m.paulussen@vu.nl', 'F.M. Paulussen', ''])
+    guest_list.append(['a.e.idemudia@student.vu.nl', 'Alison Idemudia', ''])
+    guest_list.append(['timo.hamers@vu.nl', 'Timo Hamers', ''])
+    guest_list.append(['t.a.hagel@student.vu.nl', 'Thomas Hagel', ''])
 
     # load details from excel spreadsheet
     for row in range(2, exl_sh.max_row + 1):

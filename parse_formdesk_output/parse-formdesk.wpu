@@ -543,14 +543,14 @@ guimgr.overall-gui-state = {'windowing-policy': 'combined-window',
                                 'zoom': 0L}),
                               (loc('parse_form.py'),
                                {'attrib-starts': [],
-                                'code-line': "    guest_list.append(['mj.smi"\
-        "t@vu.nl', 'Martine Smit', ''])\n",
+                                'code-line': "    guest_list.append(['a.e.id"\
+        "emudia@student.vu.nl', 'Alison Idemudia', ''])\n",
                                 'first-line': 311L,
                                 'folded-linenos': [],
-                                'sel-line': 324L,
-                                'sel-line-start': 10208L,
-                                'selection_end': 10248L,
-                                'selection_start': 10248L,
+                                'sel-line': 329L,
+                                'sel-line-start': 10541L,
+                                'selection_end': 10610L,
+                                'selection_start': 10595L,
                                 'zoom': 0L})],
         'has-focus': True,
         'locked': False},
@@ -577,7 +577,7 @@ guimgr.overall-gui-state = {'windowing-policy': 'combined-window',
         'window-alloc': (2,
                          0,
                          1582,
-                         1398)}]}
+                         1405)}]}
 guimgr.recent-documents = [loc('parse_form.py'),
                            loc('CBNetDB.py')]
 guimgr.visual-state = {loc('../../../Anaconda3/envs/sandbox/Lib/site-packages/docx/__init__.py'): {'a'\
