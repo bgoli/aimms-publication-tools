@@ -76,7 +76,8 @@ __version__ = 1.3
 # data_file = 'AIMMS_research_2021-8_02_21.xls'
 # data_file = 'AIMMS_research_2021-22_02_21.xls'
 # data_file = 'AIMMS_research_2021-8_03_21.xls'
-data_file = 'AIMMS_research_2021-22_03_21.xls'
+# data_file = 'AIMMS_research_2021-22_03_21.xls'
+data_file = 'AIMMS_research_2021-12_04_21.xls'
 
 import os
 import time
@@ -140,7 +141,7 @@ re_pub_data = re.compile(r"Publication date:(.*?)Handle")
 re_early_date = re.compile(r"Early online date:(.*?)Publication")
 re_contrib = re.compile(r"Contributors:(.*?)(?:Number|Publication)")
 re_corresp = re.compile(r"Corresponding author:(.*?)Contributors")
-re_journal = re.compile(r"Journal:(.*?)Volume")
+re_journal = re.compile(r"Journal:(.*?)(Volume|ISSN|Original)")
 # need to make the URL parsing deal with PURE duplicate DOI's.
 re_doi = re.compile(r"DOIs:(.*?)URLs")
 re_orgs = re.compile(r"Organisations:(.*?)(?:Contributors|Corresponding)")
@@ -165,12 +166,27 @@ for m in [str(a + 1) for a in range(CURRENT_MONTH)]:
         title_match = re_title.search(pclean)
         descript_match = re_descript.search(pclean)
 
-        print('Processing record: {} ...'.format(cntr))
+        print('\nProcessing record: {} ...'.format(cntr))
+
+        if journal_match is None and 'Research output: PhD Thesis' in p:
+            print('PHD thesis --> NODOI')
+            NODOI = True
+        elif journal_match is None:
+            print('No journal: \"{}\"'.format(p[:40]))
+
         if doi_match is not None:
-            # print(m, cntr, 'https://doi.org/'+doi_match.groups()[0])
-            key = 'https://doi.org/' + doi_match.groups()[0]
+            key = doi_match.groups()[0].strip()
+            if 'https://doi.org/' in key:
+                print('URLkey: {}'.format(key))
+                if key.count(key[-4:]) > 1:
+                    key = key.split(key[-4:])[0] + key[-4:]
+                    print('FIXkey', key)
+            else:
+                key = 'https://doi.org/' + key
+                print('DOIkey: {}'.format(key))
         else:
-            key = str(time.monotonic()).split('.')[0]
+            key = str(time.time())
+            print('NOkey', key)
             NODOI = True
 
         parsed_data[key] = {}
@@ -222,9 +238,9 @@ for m in [str(a + 1) for a in range(CURRENT_MONTH)]:
         if NODOI:
             parsed_data_nodoi[key] = parsed_data.pop(key)
 
-pprint.pprint(parsed_data)
+# pprint.pprint(parsed_data)
 
-os.sys.exit(1)
+# os.sys.exit(1)
 
 pprint.pprint(parsed_data_nodoi)
 for k in parsed_data:

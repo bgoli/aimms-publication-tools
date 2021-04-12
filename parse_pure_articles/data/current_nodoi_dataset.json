@@ -1,5 +1,53 @@
 {
- "241153": {
+ "1618226127.5408854": {
+  "month": "1",
+  "pub_date": "21 Jan 2021",
+  "year": 2021,
+  "early_online": "21 Jan 2021",
+  "title": "Different resource allocation in a Bacillus subtilis population displaying bimodal motility",
+  "contributors": "Hamoen, L. W., Wang, B., Staal, J., Gao, Y., Kort, R., Syvertsson, S.Pages:2021.01.21.427716",
+  "corresponding": null,
+  "organisations": "Bioinformatics, Molecular Cell Physiology, AIMMS, UvA, Amsterdam",
+  "journal": "bioRxiv",
+  "description": "Different resource allocation in a Bacillus subtilis population displaying bimodal motilityTo cope with sudden changes in their environment, bacteria can use a bet-hedging strategy by dividing the population into cells with different properties. This so-called bimodal or bistable cellular differentiation is generally controlled by positive feedback regulation of transcriptional activators. Due to the continuous increase in cell volume, it is difficult for these activators to reach an activation threshold concentration when cells are growing exponentially. This is one reason why bimodal differentiation is primarily observed from the onset of the stationary phase when exponential growth ceases. An exception is the bimodal induction of motility in Bacillus subtilis, which occurs early during exponential growth. Several mechanisms have been put forward to explain this, including double negative-feedback regulation and the stability of the mRNA molecules involved. In this study, we used fluorescence-assisted cell sorting to compare the transcriptome of motile and non-motile cells and noted that expression of ribosomal genes is lower in motile cells. This was confirmed using an unstable GFP reporter fused to the strong ribosomal rpsD promoter. We propose that the reduction in ribosomal gene expression in motile cells is the result of a diversion of cellular resources to the synthesis of the chemotaxis and motility systems. In agreement, single-cell microscopic analysis showed that motile cells are slightly shorter than non-motile cells, an indication of slower growth. We speculate that this growth rate reduction can contribute to the bimodal induction of motility during exponential growth."
+ },
+ "1618226127.5438774": {
+  "month": "2",
+  "pub_date": "18 Feb 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "From recipe to research: introducing undergraduate students to the nature of science using a hybrid practical course centred on drug discovery for neglected diseases",
+  "contributors": "Wijtmans, M., Edink, E., van Linden, O., Zheng, Y., Blaazer, T., Siderius, M. H., van Muijlwijk-Koezen, J. E.",
+  "corresponding": "van Muijlwijk-Koezen, J. E.",
+  "organisations": "AIMMS, Medicinal chemistry, Innovations in Human Health & Life Sciences, InHolland University of Applied Sciences",
+  "journal": "Drug Discovery Today",
+  "description": "From recipe to research: introducing undergraduate students to the nature of science using a hybrid practical course centred on drug discovery for neglected diseasesHighlights\u2022A hybrid undergraduate laboratory course combines laboratory skills and exposure to research.\u2022Students experience the nature of science first-hand by synthesising hit derivatives.\u2022A neglected disease drug discovery project is well suited as research topic.\u2022A daily interactive session fosters scientific discussion amongst students.A hybrid practical course in synthetic medicinal chemistry was designed for second-year undergraduate students. The first half focused on techniques and skills, while the second half addressed a drug discovery setting in a research project on neglected diseases. A daily interactive plenary session allowed for thorough discussions among the students. Over four years, 187 students participated, and 68 pure compounds (many of which novel) were isolated and biologically tested. Evaluations by students and teachers were positive. The success of the hybrid practical course demonstrates how undergraduate students can be meaningfully engaged in the nature of science through a drug discovery project."
+ },
+ "1618226127.5448744": {
+  "month": "2",
+  "pub_date": "5 Mar 2021",
+  "year": 2021,
+  "early_online": "9 Feb 2021",
+  "title": "Site-Specific N-Linked Glycosylation Analysis of Human Carcinoembryonic Antigen by Sheathless Capillary Electrophoresis-Tandem Mass Spectrometry",
+  "contributors": "Pont, L., Kuzyk, V., Benavente, F., Sanz-Nebot, V., Mayboroda, O. A., Wuhrer, M., Lageveen-Kammeijer, G. S. M.",
+  "corresponding": "Benavente, F., Lageveen-Kammeijer, G. S. M.",
+  "organisations": "BioAnalytical Chemistry, AIMMS, University of Barcelona, Leiden University Medical Center",
+  "journal": "Journal of Proteome Research",
+  "description": "Site-Specific N-Linked Glycosylation Analysis of Human Carcinoembryonic Antigen by Sheathless Capillary Electrophoresis-Tandem Mass SpectrometryWith 28 potential N-glycosylation sites, human carcinoembryonic antigen (CEA) bears an extreme amount of N-linked glycosylation, and approximately 60% of its molecular mass can be attributed to its carbohydrates. CEA is often overexpressed and released by many solid tumors, including colorectal carcinomas. CEA displays an impressive heterogeneity and variability in sugar content; however, site-specific distribution of carbohydrate structures has not been reported so far. The present study investigated CEA samples purified from human colon carcinoma and human liver metastases and enabled the characterization of 21 out of 28 potential N-glycosylation sites with respect to their occupancy. The coverage was achieved by a multienzymatic digestion approach with specific enzymes, such as trypsin, endoproteinase Glu-C, and the nonspecific enzyme, Pronase, followed by analysis using sheathless CE-MS/MS. In total, 893 different N-glycopeptides and 128 unique N-glycan compositions were identified. Overall, a great heterogeneity was found both within (micro) and in between (macro) individual N-glycosylation sites. Moreover, notable differences were found on certain N-glycosylation sites between primary adenocarcinoma and metastatic tumor in regard to branching, bisection, sialylation, and fucosylation. Those features, if further investigated in a targeted manner, may pave the way toward improved diagnostics and monitoring of colorectal cancer progression and recurrence. Raw mass spectrometric data and Skyline processed data files that support the findings of this study are available in the MassIVE repository with the identifier MSV000086774 [DOI: 10.25345/C5Z50X]."
+ },
+ "1618226127.545872": {
+  "month": "3",
+  "pub_date": "11 Mar 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Calibration of next generation first-principle derived polarizable force fields",
+  "contributors": "Visscher, K. M.",
+  "corresponding": null,
+  "organisations": "AIMMS, Molecular and Computational Toxicology",
+  "journal": null,
+  "description": null
+ },
+ "1618226127.547867": {
   "month": "3",
   "pub_date": "18 Mar 2021",
   "year": 2021,
@@ -10,5 +58,17 @@
   "organisations": "AIMMS, Systems Bioinformatics",
   "journal": null,
   "description": null
+ },
+ "1618226127.548864": {
+  "month": "3",
+  "pub_date": "29 Mar 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Bicyclic \u03b2-sheet mimetics that target the transcriptional coactivator \u03b2-catenin and inhibit Wnt signaling",
+  "contributors": "Wendt, M., Bellavita, R., Gerber, A., Efr\u00e9m, N., van Ramshorst, T., Pearce, N. M., Davey, P. R. J., Everard, I., Vazquez-Chantada, M., Chiarpari, E., Grieco, P., Hennig, S., Grossmann, T. N.",
+  "corresponding": null,
+  "organisations": "Organic Chemistry, AIMMS, Vrije Universiteit, VU, Amsterdam, AstraZeneca, University of Naples Federico II: Universita degli Studi di Napoli Federico II",
+  "journal": "Angewandte Chemie. International Edition",
+  "description": "Bicyclic \u03b2-sheet mimetics that target the transcriptional coactivator \u03b2-catenin and inhibit Wnt signalingProtein complexes are defined by the three-dimensional structure of participating binding partners. Knowledge about these structures can facilitate the design of peptidomimetics which have been applied e.g. as inhibitors of protein-protein interactions (PPIs). Even though \u03b2-sheets participate widely in PPIs, they have only rarely served as the basis for peptidomimetic PPI inhibitors, in particular when addressing intracellular targets. Here, we present the structure-based design of \u03b2-sheet mimetics targeting the intracellular protein \u03b2-catenin, a central component of the Wnt signaling pathway. Based on a protein binding partner of \u03b2-catenin, a macrocyclic peptide was designed and its crystal structure in complex with \u03b2-catenin obtained. Using this structure, we designed a library of bicyclic \u03b2-sheet mimetics employing a late-stage diversification strategy. Several mimetics were identified that compete with transcription factor binding to \u03b2-catenin and inhibit Wnt signaling in cells. The presented design strategy can support the development of inhibitors for other \u03b2-sheet-mediated PPIs."
  }
 }

@@ -71,18 +71,6 @@
   "journal": "Journal of Chromatography A",
   "description": "Asymmetrical flow field-flow fractionation to probe the dynamic association equilibria of \u03b2-D-galactosidaseProtein dynamics play a significant role in many aspects of enzyme activity. Monitoring of structural changes and aggregation of biotechnological enzymes under native conditions is important to safeguard their properties and function. In this work, the potential of asymmetrical flow field-flow fractionation (AF4) to study the dynamic association equilibria of the enzyme \u03b2-D-galactosidase (\u03b2-D-Gal) was evaluated. Three commercial products of \u03b2-D-Gal were investigated using carrier liquids containing sodium chloride or ammonium acetate, and the effect of adding magnesium (II) chloride to the carrier liquid was assessed. Preservation of protein structural integrity during AF4 analysis was essential and the influence of several parameters, such as the focusing step (including use of frit-inlet), cross flow, and injected amount, was studied. Size-exclusion chromatography (SEC) and dynamic light scattering (DLS) were used to corroborate the in-solution enzyme oligomerization observed with AF4. In contrast to SEC, AF4 provided sufficiently mild separation conditions to monitor protein conformations without disturbing the dynamic association equilibria. AF4 analysis showed that ammonium acetate concentrations above 40 mM led to further association of the dimers (\u201ctetramerization\u201d) of \u03b2-D-Gal. Magnesium ions, which are needed to activate \u03b2-D-Gal, appeared to induce dimer association, raising justifiable questions about the role of divalent metal ions in protein oligomerization and on whether tetramers or dimers are the most active form of \u03b2-D-Gal."
  },
- "https://doi.org/10.1016/j.toxlet.2020.12.020": {
-  "month": "1",
-  "pub_date": "1 Apr 2021",
-  "year": 2021,
-  "early_online": "4 Jan 2021",
-  "title": "Critique of the \u201cComment\u201d etitled \u201cPyrethroid exposure: Not so harmless after all\u201d by Demeneix et al. (2020) published in the lancet diabetes endocrinology",
-  "contributors": "Barile, F. A., Berry, S. C., Blaauboer, B., Boobis, A., Bolt, H., Borgert, C. J., Dekant, W., Dietrich, D., Domingo, J. L., Gori, G. B., Greim, H., Hengstler, J., Kacew, S., Marquardt, H., Pelkonen, O., Savolainen, K., Heslop-Harrison, P., Tsatsakis, A., Vermeulen, N. P.",
-  "corresponding": "Greim, H.",
-  "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, St. John's University, Queen Mary University of London, Utrecht University, Imperial College London, Dortmund University, Applied Pharmacology and Toxicology, Inc. Gainesville, University of W\u00fcrzburg, University of Konstanz, Pere Virgili Health Research Institute, The Health Policy Center, Technical University of Munich, University of Ottawa, Toxicology, University of Oulu, Finnish Institute of Occupational Health, University of Leicester, University of Crete",
-  "journal": "Toxicology Letters",
-  "description": "Critique of the \u201cComment\u201d etitled \u201cPyrethroid exposure: Not so harmless after all\u201d by Demeneix et al. (2020) published in the lancet diabetes endocrinology"
- },
  "https://doi.org/10.1016/j.chroma.2020.461740": {
   "month": "1",
   "pub_date": "4 Jan 2021",
@@ -155,17 +143,17 @@
   "journal": "Patterns",
   "description": "Unlocking Elementary Conversion Modes: ecmtool Unveils All Capabilities of Metabolic NetworksThe metabolic capabilities of cells determine their biotechnological potential, fitness in ecosystems, pathogenic threat levels, and function in multicellular organisms. Their comprehensive experimental characterization is generally not feasible, particularly for unculturable organisms. In principle, the full range of metabolic capabilities can be computed from an organism's annotated genome using metabolic network reconstruction. However, current computational methods cannot deal with genome-scale metabolic networks. Part of the problem is that these methods aim to enumerate all metabolic pathways, while computation of all (elementally balanced) conversions between nutrients and products would suffice. Indeed, the elementary conversion modes (ECMs, defined by Urbanczik and Wagner) capture the full metabolic capabilities of a network, but the use of ECMs has not been accessible until now. We explain and extend the theory of ECMs, implement their enumeration in ecmtool, and illustrate their applicability. This work contributes to the elucidation of the full metabolic footprint of any cell."
  },
- "https://doi.org/10.1088/2058-9565/abd334": {
+ "https://doi.org/10.1021/jacs.0c10916": {
   "month": "1",
-  "pub_date": "Apr 2021",
+  "pub_date": "13 Jan 2021",
   "year": 2021,
-  "early_online": "13 Jan 2021",
-  "title": "A state-averaged orbital-optimized hybrid quantum\u2013classical algorithm for a democratic description of ground and excited states",
-  "contributors": "Yalouz, S., Senjean, B., G\u00fcnther, J., Buda, F., O'Brien, T. E., Visscher, L.",
-  "corresponding": "Yalouz, S.",
-  "organisations": "AIMMS, Theoretical Chemistry, Vrije Universiteit Amsterdam, Leiden University, Alphabet Inc., Leiden University",
-  "journal": "Quantum Science and Technology",
-  "description": "A state-averaged orbital-optimized hybrid quantum\u2013classical algorithm for a democratic description of ground and excited statesIn the noisy intermediate-scale quantum (NISQ) era, solving the electronic structure problem from chemistry is considered as the \u2018killer application\u2019 for near-term quantum devices. In spite of the success of variational hybrid quantum/classical algorithms in providing accurate energy profiles for small molecules, careful considerations are still required for the description of complicated features of potential energy surfaces. Because the current quantum resources are very limited, it is common to focus on a restricted part of the Hilbert space (determined by the set of active orbitals). While physically motivated, this approximation can severely impact the description of these complicated features. A perfect example is that of conical intersections (i.e. a singular point of degeneracy between electronic states), which are of primary importance to understand many prominent reactions. Designing active spaces so that the improved accuracy from a quantum computer is not rendered useless is key to finding useful applications of these promising devices within the field of chemistry. To answer this issue, we introduce a NISQ-friendly method called \u2018state-averaged orbital-optimized variational quantum eigensolver\u2019 which combines two algorithms: (1) a state-averaged orbital-optimizer, and (2) a state-averaged VQE. To demonstrate the success of the method, we classically simulate it on a minimal Schiff base model (namely the formaldimine molecule CH2NH) relevant also for the photoisomerization in rhodopsin\u2014a crucial step in the process of vision mediated by the presence of a conical intersection. We show that merging both algorithms fulfil the necessary condition to describe the molecule\u2019s conical intersection, i.e. the ability to treat degenerate (or quasi-degenerate) states on the same footing."
+  "early_online": null,
+  "title": "Halide Perovskite-Lead Chalcohalide Nanocrystal Heterostructures",
+  "contributors": "Imran, M., Peng, L., Pianetti, A., Pinchetti, V., Ramade, J., Zito, J., Di Stasio, F., Buha, J., Toso, S., Song, J., Infante, I., Bals, S., Brovelli, S., Manna, L.",
+  "corresponding": "Song, J., Infante, I., Bals, S., Brovelli, S., Manna, L.",
+  "organisations": "AIMMS, Theoretical Chemistry, Italian Institute of Technology, Shenzhen University, University of Milan - Bicocca, University of Antwerp, University of Genoa, Catholic University of the Sacred Heart",
+  "journal": "Journal of the American Chemical Society",
+  "description": "Halide Perovskite-Lead Chalcohalide Nanocrystal HeterostructuresWe report the synthesis of colloidal CsPbX3-Pb4S3Br2 (X = Cl, Br, I) nanocrystal heterostructures, providing an example of a sharp and atomically resolved epitaxial interface between a metal halide perovskite and a non-perovskite lattice. The CsPbBr3-Pb4S3Br2 nanocrystals are prepared by a two-step direct synthesis using preformed subnanometer CsPbBr3 clusters. Density functional theory calculations indicate the creation of a quasi-type II alignment at the heterointerface as well as the formation of localized trap states, promoting ultrafast separation of photogenerated excitons and carrier trapping, as confirmed by spectroscopic experiments. Postsynthesis reaction with either Cl- or I- ions delivers the corresponding CsPbCl3-Pb4S3Br2 and CsPbI3-Pb4S3Br2 heterostructures, thus enabling anion exchange only in the perovskite domain. An increased structural rigidity is conferred to the perovskite lattice when it is interfaced with the chalcohalide lattice. This is attested by the improved stability of the metastable \u03b3phase (or \"black\"phase) of CsPbI3 in the CsPbI3-Pb4S3Br2 heterostructure. "
  },
  "https://doi.org/10.3389/fchem.2020.608030": {
   "month": "1",
@@ -191,6 +179,18 @@
   "journal": "European Journal of Organic Chemistry",
   "description": "On the Origin of Regioselectivity in Palladium-Catalyzed Oxidation of GlucosidesThe palladium-catalyzed oxidation of glucopyranosides has been investigated using relativistic density functional theory (DFT) at ZORA-BLYP\u2212D3(BJ)/TZ2P. The complete Gibbs free energy profiles for the oxidation of secondary hydroxy groups at C2, C3, and C4 were computed for methyl \u03b2-glucoside and methyl carba-\u03b2-glucoside. Both computations and oxidation experiments on carba-glucosides demonstrate the crucial role of the ring oxygen in the C3 regioselectivity observed during the oxidation of glucosides. Analysis of the model systems for oxidized methyl \u03b2-glucoside shows that the C3 oxidation product is intrinsically favored in the presence of the ring oxygen. Subsequent energy decomposition analysis (EDA) and Hirschfeld charge analysis reveal the role of the ring oxygen: it positively polarizes C1/C5 by inductive effects and disfavors any subsequent buildup of positive charge at neighboring carbon atoms, rendering C3 the most favored site for the \u03b2-hydride elimination."
  },
+ "https://doi.org/10.1007/s00128-021-03121-x": {
+  "month": "2",
+  "pub_date": "Feb 2021",
+  "year": 2021,
+  "early_online": "29 Jan 2021",
+  "title": "An Environmental Dilemma for China During the COVID-19 Pandemic: The Explosion of Disposable Plastic Wastes",
+  "contributors": "Liu, J., Vethaak, A. D., An, L., Liu, Q., Yang, Y., Ding, J.",
+  "corresponding": "Liu, J.",
+  "organisations": "AIMMS, Environment and Health, Jiangnan University, Chinese Research Academy of Environmental Sciences, Nagoya University, Jiangsu Provincial Academy of Environmental Science, Deltares",
+  "journal": "Bulletin of Environmental Contamination and Toxicology",
+  "description": "An Environmental Dilemma for China During the COVID-19 Pandemic: The Explosion of Disposable Plastic WastesPlastic pollution control has been on top of the political agenda in China. In January 2020, China announced a phased ban on the production and usage of various types of single-use plastics as a solution to environmental pollution problems. However, the outbreak of COVID-19 seems to be a new obstacle to the ban on single-use plastic products. To basically satisfied the daily necessities and contain the spread of SARS-CoV-2 under the background of the regular epidemic prevention and control in China, online ordering, contactless delivery and wearing mask have become an important and feasible way of daily life. However, the unrestrained use of disposable plastic bags, lunch boxes and masks within the nationwide quarantine leads to hundreds of millions of plastics wastes every day. The potential environmental pollution caused by the use of disposable plastic products during the pandemic should arouse social concern. The Chinese government should manage environmental protection in parallel with anti-pandemic endeavors as the situation of the pandemic evolves."
+ },
  "https://doi.org/10.1007/s00204-020-02970-5": {
   "month": "2",
   "pub_date": "Feb 2021",
@@ -214,6 +214,30 @@
   "organisations": "AIMMS, Systems Bioinformatics, Systems Bioinformatics, Vrije Universiteit Amsterdam",
   "journal": "Metabolic Engineering",
   "description": "Serial propagation in water-in-oil emulsions selects for Saccharomyces cerevisiae strains with a reduced cell size or an increased biomass yield on glucoseIn S. cerevisiae and many other micro-organisms an increase in metabolic efficiency (i.e. ATP yield on carbon) is accompanied by a decrease in growth rate. From a fundamental point of view, studying these yield-rate trade-offs provides insight in for example microbial evolution and cellular regulation. From a biotechnological point of view, increasing the ATP yield on carbon might increase the yield of anabolic products. We here aimed to select S. cerevisiae mutants with an increased biomass yield. Serial propagation of individual cells in water-in-oil emulsions previously enabled the selection of lactococci with increased biomass yields, and adapting this protocol for yeast allowed us to enrich an engineered Crabtree-negative S. cerevisiae strain with a high biomass yield on glucose. When we started the selection with an S. cerevisiae deletion collection, serial propagation in emulsion enriched hxk2\u0394 and reg1\u0394 strains with an increased biomass yield on glucose. Surprisingly, a tps1\u0394 strain was highly abundant in both emulsion- and suspension-propagated populations. In a separate experiment we propagated a chemically mutagenized S. cerevisiae population in emulsion, which resulted in mutants with a higher cell number yield on glucose, but no significantly changed biomass yield. Genome analyses indicate that genes involved in glucose repression and cell cycle processes play a role in the selected phenotypes. The repeated identification of mutations in genes involved in glucose-repression indicates that serial propagation in emulsion is a valuable tool to study metabolic efficiency in S. cerevisiae."
+ },
+ "https://doi.org/10.1088/2058-9565/abd334": {
+  "month": "4",
+  "pub_date": "Apr 2021",
+  "year": 2021,
+  "early_online": "13 Jan 2021",
+  "title": "A state-averaged orbital-optimized hybrid quantum\u2013classical algorithm for a democratic description of ground and excited states",
+  "contributors": "Yalouz, S., Senjean, B., G\u00fcnther, J., Buda, F., O'Brien, T. E., Visscher, L.",
+  "corresponding": "Yalouz, S.",
+  "organisations": "AIMMS, Theoretical Chemistry, Vrije Universiteit Amsterdam, Leiden University, Alphabet Inc., Leiden University",
+  "journal": "Quantum Science and Technology",
+  "description": "A state-averaged orbital-optimized hybrid quantum\u2013classical algorithm for a democratic description of ground and excited statesIn the noisy intermediate-scale quantum (NISQ) era, solving the electronic structure problem from chemistry is considered as the \u2018killer application\u2019 for near-term quantum devices. In spite of the success of variational hybrid quantum/classical algorithms in providing accurate energy profiles for small molecules, careful considerations are still required for the description of complicated features of potential energy surfaces. Because the current quantum resources are very limited, it is common to focus on a restricted part of the Hilbert space (determined by the set of active orbitals). While physically motivated, this approximation can severely impact the description of these complicated features. A perfect example is that of conical intersections (i.e. a singular point of degeneracy between electronic states), which are of primary importance to understand many prominent reactions. Designing active spaces so that the improved accuracy from a quantum computer is not rendered useless is key to finding useful applications of these promising devices within the field of chemistry. To answer this issue, we introduce a NISQ-friendly method called \u2018state-averaged orbital-optimized variational quantum eigensolver\u2019 which combines two algorithms: (1) a state-averaged orbital-optimizer, and (2) a state-averaged VQE. To demonstrate the success of the method, we classically simulate it on a minimal Schiff base model (namely the formaldimine molecule CH2NH) relevant also for the photoisomerization in rhodopsin\u2014a crucial step in the process of vision mediated by the presence of a conical intersection. We show that merging both algorithms fulfil the necessary condition to describe the molecule\u2019s conical intersection, i.e. the ability to treat degenerate (or quasi-degenerate) states on the same footing."
+ },
+ "https://doi.org/10.1016/j.toxlet.2020.12.020": {
+  "month": "4",
+  "pub_date": "1 Apr 2021",
+  "year": 2021,
+  "early_online": "4 Jan 2021",
+  "title": "Critique of the \u201cComment\u201d etitled \u201cPyrethroid exposure: Not so harmless after all\u201d by Demeneix et al. (2020) published in the lancet diabetes endocrinology",
+  "contributors": "Barile, F. A., Berry, S. C., Blaauboer, B., Boobis, A., Bolt, H., Borgert, C. J., Dekant, W., Dietrich, D., Domingo, J. L., Gori, G. B., Greim, H., Hengstler, J., Kacew, S., Marquardt, H., Pelkonen, O., Savolainen, K., Heslop-Harrison, P., Tsatsakis, A., Vermeulen, N. P.",
+  "corresponding": "Greim, H.",
+  "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, St. John's University, Queen Mary University of London, Utrecht University, Imperial College London, Dortmund University, Applied Pharmacology and Toxicology, Inc. Gainesville, University of W\u00fcrzburg, University of Konstanz, Pere Virgili Health Research Institute, The Health Policy Center, Technical University of Munich, University of Ottawa, Toxicology, University of Oulu, Finnish Institute of Occupational Health, University of Leicester, University of Crete",
+  "journal": "Toxicology Letters",
+  "description": "Critique of the \u201cComment\u201d etitled \u201cPyrethroid exposure: Not so harmless after all\u201d by Demeneix et al. (2020) published in the lancet diabetes endocrinology"
  },
  "https://doi.org/10.1016/j.jcss.2020.07.003": {
   "month": "2",
@@ -263,7 +287,19 @@
   "journal": "ISME Journal",
   "description": "Temporal tracking of quantum-dot apatite across in vitro mycorrhizal networks shows how host demand can influence fungal nutrient transfer strategiesArbuscular mycorrhizal fungi function as conduits for underground nutrient transport. While the fungal partner is dependent on the plant host for its carbon (C) needs, the amount of nutrients that the fungus allocates to hosts can vary with context. Because fungal allocation patterns to hosts can change over time, they have historically been difficult to quantify accurately. We developed a technique to tag rock phosphorus (P) apatite with fluorescent quantum-dot (QD) nanoparticles of three different colors, allowing us to study nutrient transfer in an in vitro fungal network formed between two host roots of different ages and different P demands over a 3-week period. Using confocal microscopy and raster image correlation spectroscopy, we could distinguish between P transfer from the hyphae to the roots and P retention in the hyphae. By tracking QD-apatite from its point of origin, we found that the P demands of the younger root influenced both: (1) how the fungus distributed nutrients among different root hosts and (2) the storage patterns in the fungus itself. Our work highlights that fungal trade strategies are highly dynamic over time to local conditions, and stresses the need for precise measurements of symbiotic nutrient transfer across both space and time."
  },
- "https://doi.org/https://doi.org/10.1016/j.scitotenv.2021.14507110.1016/j.scitotenv.2021.145071": {
+ "https://doi.org/10.1021/acs.joc.0c02955": {
+  "month": "2",
+  "pub_date": "4 Feb 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "How Lewis Acids Catalyze Ring-Openings of Cyclohexene Oxide",
+  "contributors": "Hansen, T., Vermeeren, P., Yoshisada, R., Filippov, D. V., Van Der Marel, G. A., Cod\u00e9e, J. D., Hamlin, T. A.",
+  "corresponding": "Hamlin, T. A.",
+  "organisations": "Chemistry and Pharmaceutical Sciences, Theoretical Chemistry, AIMMS, Leiden University",
+  "journal": "Journal of Organic Chemistry",
+  "description": "How Lewis Acids Catalyze Ring-Openings of Cyclohexene OxideWe have quantum chemically studied the Lewis acid-catalyzed epoxide ring-opening reaction of cyclohexene epoxide by MeZH (Z = O, S, and NH) using relativistic dispersion-corrected density functional theory. We found that the reaction barrier of the Lewis acid-catalyzed epoxide ring-opening reactions decreases upon ascending in group 1 along the series Cs+ > Rb+ > K+ > Na+ > Li+ > H+. Our activation strain and Kohn-Sham molecular orbital analyses reveal that the enhanced reactivity of the Lewis acid-catalyzed ring-opening reaction is caused by the reduced steric (Pauli) repulsion between the filled orbitals of the epoxide and the nucleophile, as the Lewis acid polarizes the filled orbitals of the epoxide more efficiently away from the incoming nucleophile. Furthermore, we established that the regioselectivity of these ring-opening reactions is, aside from the \"classical\"strain control, also dictated by a hitherto unknown mechanism, namely, the steric (Pauli) repulsion between the nucleophile and the substrate, which could be traced back to the asymmetric orbital density on the epoxide. In all, this work again demonstrates that the concept of Pauli-lowering catalysis is a general phenomenon. "
+ },
+ "https://doi.org/10.1016/j.scitotenv.2021.145071": {
   "month": "2",
   "pub_date": "10 Jun 2021",
   "year": 2021,
@@ -274,6 +310,18 @@
   "organisations": "E&H: Environmental Bioanalytical Chemistry, AIMMS, E&H: Environmental Chemistry and Toxicology, Environment and Health, Wageningen University & Research, Norwegian Institute for Water Research",
   "journal": "Science of the Total Environment",
   "description": "Results of WEPAL-QUASIMEME/NORMANs first global interlaboratory study on microplastics reveal urgent need for harmonizationTo survey the conformity and quality of results among laboratories for microplastics determination worldwide, an international laboratory intercomparison and development exercise was organized. The 34 participants were requested to determine the polymer type and number or mass of polymer particles in 12 samples, i.e. six samples containing of pre-production pellets, five dissolvable soda tablets containing different (smaller) polymer particles and one blank soda tablet. A novel method for providing the test materials in aluminium strips was used. Thirty laboratories (88%) submitted data using their own method of choice, resulting in a variety of identification and quantification methods (n = 7). The majority of the labs (53\u2013100%) correctly identified the type of polymer in all samples but one. The performance of the laboratories in quantifying and weighing the pellets was very good. The analysis of the number of the particles in the soda tablets varied considerably between laboratories (29\u201391%). The results of this study highlight the complexity of microplastics analysis and the need for harmonization of both reporting format and methods. Continued development and assessment of the comparability among analytical methods and laboratories are urgently needed to support monitoring programmes, research and decision-making."
+ },
+ "https://doi.org/10.1002/jcc.26489": {
+  "month": "4",
+  "pub_date": "15 Apr 2021",
+  "year": 2021,
+  "early_online": "5 Feb 2021",
+  "title": "Chalcogen bonds: Hierarchical ab initio benchmark and density functional theory performance study",
+  "contributors": "de Azevedo Santos, L., Ramalho, T. C., Hamlin, T. A., Bickelhaupt, F. M.",
+  "corresponding": "de Azevedo Santos, L., Ramalho, T. C., Hamlin, T. A., Bickelhaupt, F. M.",
+  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, Universidade Federal de Lavras, University of Hradec Kralove, Radboud University",
+  "journal": "Journal of Computational Chemistry",
+  "description": "Chalcogen bonds: Hierarchical ab initio benchmark and density functional theory performance studyWe have performed a hierarchical ab initio benchmark and DFT performance study of D2Ch\u2022\u2022\u2022A\u2212 chalcogen bonds (Ch = S, Se; D, A = F, Cl). The ab initio benchmark study is based on a series of ZORA-relativistic quantum chemical methods [HF, MP2, CCSD, CCSD(T)], and all-electron relativistically contracted variants of Karlsruhe basis sets (ZORA-def2-SVP, ZORA-def2-TZVPP, ZORA-def2-QZVPP) with and without diffuse functions. The highest-level ZORA-CCSD(T)/ma-ZORA-def2-QZVPP counterpoise-corrected complexation energies (\u0394ECPC) are converged within 1.1\u20133.4 kcal mol\u22121 and 1.5\u20133.1 kcal mol\u22121 with respect to the method and basis set, respectively. Next, we used the ZORA-CCSD(T)/ma-ZORA-def2-QZVPP (\u0394ECPC) as reference data for analyzing the performance of 13 different ZORA-relativistic DFT approaches in combination with the Slater-type QZ4P basis set. We find that the three-best performing functionals are M06-2X, B3LYP, and M06, with mean absolute errors (MAE) of 4.1, 4.2, and 4.3 kcal mol\u22121, respectively. The MAE for BLYP-D3(BJ) and PBE amount to 8.5 and 9.3 kcal mol\u22121, respectively."
  },
  "https://doi.org/10.1186/s12859-021-03983-2": {
   "month": "2",
@@ -311,7 +359,7 @@
   "journal": "Science of the Total Environment",
   "description": "Hazardous compounds in recreational and urban recycled surfaces made from crumb rubber. Compliance with current regulation and future perspectivesCrumb rubber obtained from scrap tires is greatly employed for the construction of different facilities for sport, recreational and other uses. However, in recent years the concern about their safety and the related adult and children exposure to these surfaces is growing. This study aims a thorough chemical characterization encompassing 42 hazardous compounds, including polycyclic aromatic hydrocarbons (PAHs), phthalates, adipates, antioxidants and vulcanization agents in a wide range of crumb rubber from different surfaces. For the extraction of the target compounds, a method based on ultrasound-assisted extraction followed by gas chromatography-tandem mass spectrometry (UAE-GC\u2013MS/MS) has been validated. Forty crumb rubber samples coming from synthetic turf football pitches, outdoor and indoor playgrounds, urban pavements, commercial tiles and granulates, and scrap tires, were analyzed. In addition, green alternative materials, such as sand and artificial turf based on cork granulate infill were included to compare the levels of the target compounds with those of crumb rubber. Most of the analyzed recycled surfaces meet the recent limits proposed by the European Commission for rubber granulates and mulches, although they exceed in several cases the maximum levels allowed for rubber consumer products. Besides, most of the other target compounds, including several of them considered as endocrine disruptors, were detected in the analyzed samples, reaching parts per million concentrations."
  },
- "https://doi.org/https://doi.org/10.1016/j.scitotenv.2021.14517410.1016/j.scitotenv.2021.145174": {
+ "https://doi.org/10.1016/j.scitotenv.2021.145174": {
   "month": "2",
   "pub_date": "20 Jun 2021",
   "year": 2021,
@@ -336,7 +384,7 @@
   "description": "Microplastics and human health: Knowledge gaps should be addressed to ascertain the health risks of microplastics"
  },
  "https://doi.org/10.1016/j.mce.2021.111194": {
-  "month": "2",
+  "month": "4",
   "pub_date": "15 Apr 2021",
   "year": 2021,
   "early_online": "13 Feb 2021",
@@ -379,7 +427,7 @@
   "title": "Tetrahydrophthalazinone inhibitor of phosphodiesterase with in vitro activity against intracellular trypanosomatids",
   "contributors": "De Ara\u00fajo, J. S., Peres, R. B., Da Silva, P. B., Batista, M. M., Sterk, G. J., Maes, L., Caljon, G., Leurs, R., De Koning, H. P., Kalejaiye, T. D., De Nazar\u00e9 Correia Soeiro, M.",
   "corresponding": "De Nazar\u00e9 Correia Soeiro, M.",
-  "organisations": "Medicinal chemistry, AIMMS, Funda\u00e7\u00e3o Oswaldo Cruz, University of Antwerp, University of Glasgow",
+  "organisations": "AIMMS, Medicinal chemistry, Funda\u00e7\u00e3o Oswaldo Cruz, University of Antwerp, University of Glasgow",
   "journal": "Antimicrobial agents and chemotherapy",
   "description": "Tetrahydrophthalazinone inhibitor of phosphodiesterase with in vitro activity against intracellular trypanosomatidsThe phosphodiesterase inhibitor tetrahydrophthalazinone NPD-008 was explored by phenotypic in vitro screening, target validation, and ultrastructural approaches against Trypanosoma cruzi. NPD-008 displayed activity against different forms and strains of T. cruzi (50% effective concentration [EC50], 6.6 to 39.5mM). NPD-008 increased cAMP levels of T. cruzi and its combination with benznidazole gave synergistic interaction. It was also moderately active against intracellular amastigotes of Leishmania amazonensis and Leishmania infantum, confirming a potential activity profile as an antitrypanosomatid drug candidate."
  },
@@ -395,6 +443,90 @@
   "journal": "Chemosphere",
   "description": "Optimization of a low flow sampler for improved assessment of gas and particle bound exposure to chlorinated paraffinsAn optimized low volume sampler was developed to determine both gas- and particle bound concentrations of short and medium-chain chlorinated paraffins (S/MCCPs). Background contamination was limited by the sampler design, providing method quantification limits (MQLs) at least two orders of magnitude lower than other studies within the gas (MQL: 500 pg (\u03a3SCCPs), 1.86 ng (\u03a3MCCPs)) and particle (MQL: 500 pg (\u03a3SCCPs), 1.72 ng (\u03a3MCCPs) phases. Good repeatability was observed between parallel indoor measurements (RSD \u2264 9.3% (gas), RSD \u2264 14% (particle)) with no breakthrough/saturation observed after a week of continuous sampling. For indoor air sampling, SCCPs were dominant within the gas phase (17 \u00b1 4.9 ng/m3) compared to MCCPs (2.7 \u00b1 0.8 ng/m3) while the opposite was observed in the particle bound fraction (0.28 \u00b1 0.11 ng/m3 (\u03a3SCCPs) vs. 2.7 \u00b1 1.0 ng/m3 (\u03a3MCCPs)). Only SCCPs in the gas phase could be detected reliably during outdoor sampling and were considerably lower compared to indoor concentrations (0.27 \u00b1 0.10 ng/m3). Separation of the gas and particle bound phase was found to be crucial in applying the appropriate response factors for quantification based on the deconvoluted S/MCCP sample profile, thus avoiding over- (gas phase) or underestimation (particle phase) of reported concentrations. Very short chain chlorinated paraffins (vSCCPs, C5-C9) were also detected at equal or higher abundance compared to SCCP congener groups (C10-C13) congener groups, indicating an additional human indoor inhalation risk."
  },
+ "https://doi.org/10.1021/acs.orglett.1c00136": {
+  "month": "3",
+  "pub_date": "19 Mar 2021",
+  "year": 2021,
+  "early_online": "26 Feb 2021",
+  "title": "1,1,4,4-Tetracyanobutadiene-Functionalized Anthracenes: Regioselectivity of Cycloadditions in the Synthesis of Small Near-IR Dyes",
+  "contributors": "Philippe, C., Bui, A. T., Batsongo-Boulingui, S., Pokladek, Z., Matczyszyn, K., Mongin, O., Lemi\u00e8gre, L., Paul, F., Hamlin, T. A., Trolez, Y.",
+  "corresponding": "Trolez, Y.",
+  "organisations": "Theoretical Chemistry, AIMMS, Universit\u00e9 de Rennes 1, Wroc\u0142aw University of Science and Technology",
+  "journal": "Organic letters",
+  "description": "1,1,4,4-Tetracyanobutadiene-Functionalized Anthracenes: Regioselectivity of Cycloadditions in the Synthesis of Small Near-IR DyesTwo small 1,1,4,4-tetracyanobutadiene-functionalized chromophores were obtained by careful leverage of the regioselectivity of the cycloaddition reaction of tetracyanoethylene with anthracene-ynamide derivatives, inducing either a [2 + 2] or a [4 + 2] Diels-Alder process. DFT calculations unraveled the mechanism of the [2 + 2] cycloaddition-retroelectrocyclization reaction sequence with ynamides and elucidated the differing mechanisms in the two substrates. The synthesized dyes presented panchromatic absorption extending into the near-IR and far-red/near-IR photoluminescence in the solid state up to 1550 nm. "
+ },
+ "https://doi.org/10.1038/s41380-019-0436-y": {
+  "month": "3",
+  "pub_date": "Mar 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Combined cellomics and proteomics analysis reveals shared neuronal morphology and molecular pathway phenotypes for multiple schizophrenia risk genes",
+  "contributors": "Rosato, M., Stringer, S., Gebuis, T., Paliukhovich, I., Li, K. W., Posthuma, D., Sullivan, P. F., Smit, A. B., van Kesteren, R. E.",
+  "corresponding": "van Kesteren, R. E.",
+  "organisations": "Molecular and Cellular Neurobiology, Complex Trait Genetics, AIMMS, Amsterdam Neuroscience - Cellular & Molecular Mechanisms, Amsterdam Neuroscience - Neurodegeneration, Amsterdam Neuroscience - Complex Trait Genetics, Center for Neurogenomics and Cognitive Research, University of North Carolina at Chapel Hill, Karolinska Institutet",
+  "journal": "Molecular Psychiatry",
+  "description": "Combined cellomics and proteomics analysis reveals shared neuronal morphology and molecular pathway phenotypes for multiple schizophrenia risk genesAn enigma in studies of neuropsychiatric disorders is how to translate polygenic risk into disease biology. For schizophrenia, where > 145 significant GWAS loci have been identified and only a few genes directly implicated, addressing this issue is a particular challenge. We used a combined cellomics and proteomics approach to show that polygenic risk can be disentangled by searching for shared neuronal morphology and cellular pathway phenotypes of candidate schizophrenia risk genes. We first performed an automated high-content cellular screen to characterize neuronal morphology phenotypes of 41 candidate schizophrenia risk genes. The transcription factors Tcf4 and Tbr1 and the RNA topoisomerase Top3b shared a neuronal phenotype marked by an early and progressive reduction in synapse numbers upon knockdown in mouse primary neuronal cultures. Proteomics analysis subsequently showed that these three genes converge onto the syntaxin-mediated neurotransmitter release pathway, which was previously implicated in schizophrenia, but for which genetic evidence was weak. We show that dysregulation of multiple proteins in this pathway may be due to the combined effects of schizophrenia risk genes Tcf4, Tbr1, and Top3b. Together, our data provide new biological functions for schizophrenia risk genes and support the idea that polygenic risk is the result of multiple small impacts on common neuronal signaling pathways."
+ },
+ "https://doi.org/10.3389/fenvs.2021.601300": {
+  "month": "3",
+  "pub_date": "Mar 2021",
+  "year": 2021,
+  "early_online": "4 Mar 2021",
+  "title": "Effect of Extreme Weather Events on Contaminant Transport From Urban Run-Off to a Fjord System",
+  "contributors": "Breedveld, G. D., Hansen, M. C., Hale, S. E., Allan, I. J., Hamers, T.",
+  "corresponding": "Breedveld, G. D.",
+  "organisations": "E&H: Environmental Health and Toxicology, AIMMS, Norwegian Geotechnical Institute, University of Oslo, Norwegian Institute for Water Research",
+  "journal": "Frontiers in Environmental Science",
+  "description": "Effect of Extreme Weather Events on Contaminant Transport From Urban Run-Off to a Fjord SystemUrbanization has resulted in increased contaminant run-off in densely populated areas. Climate change is expected to result in a higher frequency of extreme weather events including torrential rainfall and storms. The contaminant levels of polycyclic aromatic hydrocarbons (PAH), chlorinated paraffins (CPF) and selected metals, in a small urban river were monitored during snow-melting and rainfall events to quantify the contribution to the contamination load of receiving waters of the inner Oslo fjord, Norway. Suspended particulate matter (SPM) was characterized with respect to levels of contaminants as well as toxic response using a battery of bioassays. The contaminant flux from the river to the fjord was quantified and assessed relative to sediment data. Historic data for near-shore sediment samples from the fjord were used to document urban input. The results show a clear episodic response in contaminant load emitted from the river to the fjord. The main historic input to the fjord was found to be PAH from pyrogenic sources like coal and wood burning as well as traffic. A significant reduction in the level of PAH was observed since the 1980s. The measured flux of CPF is consistent with on-going societal use despite a ban on the use of short chain CPF imposed in Norway from 2002."
+ },
+ "https://doi.org/10.1093/femsre/fuaa049": {
+  "month": "3",
+  "pub_date": "Mar 2021",
+  "year": 2021,
+  "early_online": "16 Mar 2021",
+  "title": "Symposium on Lactic Acid Bacteria-reading while waiting for a meeting",
+  "contributors": "Teusink, B., Kuipers, O. P., Moineau, S.",
+  "corresponding": null,
+  "organisations": "Systems Bioinformatics, AIMMS, Systems Bioinformatics, University of Groningen, avenue de la M\u00e9decineUniversit\u00e9 Laval",
+  "journal": "FEMS Microbiology Reviews",
+  "description": "Symposium on Lactic Acid Bacteria-reading while waiting for a meeting"
+ },
+ "https://doi.org/10.1007/s00401-020-02261-4": {
+  "month": "3",
+  "pub_date": "Mar 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "The proteome of granulovacuolar degeneration and neurofibrillary tangles in Alzheimer\u2019s disease",
+  "contributors": "Hondius, D. C., Koopmans, F., Leistner, C., Pita-Illobre, D., Peferoen-Baert, R. M., Marbus, F., Paliukhovich, I., Li, K. W., Rozemuller, A. J., Hoozemans, J. J., Smit, A. B.",
+  "corresponding": "Hondius, D. C.",
+  "organisations": "Molecular and Cellular Neurobiology, Amsterdam Neuroscience - Cellular & Molecular Mechanisms, Amsterdam Neuroscience - Neurodegeneration, AIMMS, Center for Neurogenomics and Cognitive Research, Vrije Universiteit Amsterdam",
+  "journal": "Acta Neuropathologica",
+  "description": "The proteome of granulovacuolar degeneration and neurofibrillary tangles in Alzheimer\u2019s diseaseGranulovacuolar degeneration (GVD) is a common feature in Alzheimer\u2019s disease (AD). The occurrence of GVD is closely associated with that of neurofibrillary tangles (NFTs) and GVD is even considered to be a pre-NFT stage in the disease process of AD. Currently, the composition of GVD bodies, the mechanisms associated with GVD and how GVD exactly relates to NFTs is not well understood. By combining immunohistochemistry (IHC) and laser microdissection (LMD) we isolated neurons with GVD and those bearing tangles separately from human post-mortem AD hippocampus (n = 12) using their typical markers casein kinase (CK)1\u03b4 and phosphorylated tau (AT8). Control neurons were isolated from cognitively healthy cases (n = 12). 3000 neurons per sample were used for proteome analysis by label free LC\u2013MS/MS. In total 2596 proteins were quantified across samples and a significant change in abundance of 115 proteins in GVD and 197 in tangle bearing neurons was observed compared to control neurons. With IHC the presence of PPIA, TOMM34, HSP70, CHMP1A, TPPP and VXN was confirmed in GVD containing neurons. We found multiple proteins localizing specifically to the GVD bodies, with VXN and TOMM34 being the most prominent new protein markers for GVD bodies. In general, protein groups relatedto protein folding, proteasomal function, the endolysosomal pathway, microtubule and cytoskeletal related function, RNA processing and glycolysis were found to be changed in GVD neurons. In addition to these protein groups, tangle bearing neurons show a decrease in ribosomal proteins, as well as in various proteins related to protein folding. This study, for the first time, provides a comprehensive human based quantitative assessment of protein abundances in GVD and tangle bearing neurons. In line with previous functional data showing that tau pathology induces GVD, our data support the model that GVD is part of a pre-NFT stage representing a phase in which proteostasis and cellular homeostasis is disrupted. Elucidating the molecular mechanisms and cellular processes affected in GVD and its relation to the presence of tau pathology is highly relevant for the identification of new drug targets for therapy."
+ },
+ "https://doi.org/10.1002/chem.202004653": {
+  "month": "3",
+  "pub_date": "3 Mar 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Not Carbon s\u2013p Hybridization, but Coordination Number Determines C\u2212H and C\u2212C Bond Length",
+  "contributors": "Vermeeren, P., Zeist, W., Hamlin, T. A., Guerra, C. F., Bickelhaupt, F. M.",
+  "corresponding": null,
+  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences",
+  "journal": "Chemistry: A European Journal",
+  "description": "Not Carbon s\u2013p Hybridization, but Coordination Number Determines C\u2212H and C\u2212C Bond Length"
+ },
+ "https://doi.org/10.1021/acs.joc.0c02963": {
+  "month": "3",
+  "pub_date": "5 Mar 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "How the Lewis Base F\u2013 Catalyzes the 1,3-Dipolar Cycloaddition between Carbon Dioxide and Nitrilimines",
+  "contributors": "Svatunek, D., Hansen, T., Houk, K. N., Hamlin, T. A.",
+  "corresponding": null,
+  "organisations": "Theoretical Chemistry, Chemistry and Pharmaceutical Sciences, AIMMS",
+  "journal": "The Journal of organic chemistry",
+  "description": "How the Lewis Base F\u2013 Catalyzes the 1,3-Dipolar Cycloaddition between Carbon Dioxide and Nitrilimines"
+ },
  "https://doi.org/10.1016/j.jhazmat.2020.124245": {
   "month": "3",
   "pub_date": "5 Mar 2021",
@@ -406,5 +538,137 @@
   "organisations": "E&H: Environmental Bioanalytical Chemistry, AIMMS, University of Queensland, Dongguan University of Technology",
   "journal": "Journal of Hazardous Materials",
   "description": "In vitro biotransformation and evaluation of potential transformation products of chlorinated paraffins by high resolution accurate mass spectrometryChlorinated paraffins (CPs) are high production chemicals, which leads to their ubiquitous presence in the environment. To date, few studies have measured CPs in humans and typically at relatively low concentrations, despite indications that exposure may be high compared to various persistent organic pollutants. The aim of this study is to investigate the in vitro biotransformation of CPs by human liver fractions. We determined the changes of the CP concentrations after the enzymatic transformation with human liver microsomes using a two-tiered in vitro approach. CP concentrations decreased with human liver microsomes, with the decreases of 33\u201394% after incubating with different groups of enzymes for 2 h. The profiles of CP rapidly shifted after the incubation with human liver microsomes. In addition, the concentrations of CPs and the biotransformation products were tentatively measured using high-resolution mass spectrometric analysis, including very short CP (carbon chain length <10), alcohols, ketones, and carboxylic acids. C\u2012C bond cleavage is a potential transformation pathway for CPs, and ketones are potential products of CP biotransformation, especially for long-chain CPs (C>17). The ketone products may be investigated as CP exposure biomarker in biomonitoring studies."
+ },
+ "https://doi.org/10.1038/s42003-021-01809-8": {
+  "month": "3",
+  "pub_date": "8 Mar 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "A flat embedding method for transmission electron microscopy reveals an unknown mechanism of tetracycline",
+  "contributors": "Wenzel, M., Dekker, M. P., Wang, B., Burggraaf, M. J., Bitter, W., van Weering, J. R., Hamoen, L. W.",
+  "corresponding": null,
+  "organisations": "Functional Genomics, Molecular Microbiology, AIMMS, Bioinformatics, University of Amsterdam, Chalmers University of Technology",
+  "journal": "Communications biology",
+  "description": "A flat embedding method for transmission electron microscopy reveals an unknown mechanism of tetracyclineTransmission electron microscopy of cell sample sections is a popular technique in microbiology. Currently, ultrathin sectioning is done on resin-embedded cell pellets, which consumes milli- to deciliters of culture and results in sections of randomly orientated cells. This is problematic for rod-shaped bacteria and often precludes large-scale quantification of morphological phenotypes due to the lack of sufficient numbers of longitudinally cut cells. Here we report a flat embedding method that enables observation of thousands of longitudinally cut cells per single section and only requires microliter culture volumes. We successfully applied this technique to Bacillus subtilis, Escherichia coli, Mycobacterium bovis, and Acholeplasma laidlawii. To assess the potential of the technique to quantify morphological phenotypes, we monitored antibiotic-induced changes in B. subtilis cells. Surprisingly, we found that the ribosome inhibitor tetracycline causes membrane deformations. Further investigations showed that tetracycline disturbs membrane organization and localization of the peripheral membrane proteins MinD, MinC, and MreB. These observations are not the result of ribosome inhibition but constitute a secondary antibacterial activity of tetracycline that so far has defied discovery."
+ },
+ "https://doi.org/10.1002/anie.202015514": {
+  "month": "3",
+  "pub_date": "15 Mar 2021",
+  "year": 2021,
+  "early_online": "14 Dec 2020",
+  "title": "Bismuth Amides Mediate Facile and Highly Selective Pn\u2013Pn Radical-Coupling Reactions (Pn=N, P, As)The controlled release of well-defined radical species under mild conditions for subsequent use in selective reactions is an important and challenging task in synthetic chemistry. We show here that simple bismuth amide species [Bi(NAr2)3] readily release aminyl radicals [NAr2]. at ambient temperature in solution. These reactions yield the corresponding hydrazines, Ar2N\u2212NAr2, as a result of highly selective N\u2212N coupling. The exploitation of facile homolytic Bi\u2212Pn bond cleavage for Pn\u2212Pn bond formation was extended to higher homologues of the pnictogens (Pn=N\u2013As): homoleptic bismuth amides mediate the highly selective dehydrocoupling of HPn",
+  "contributors": "Oberdorf, K., Hanft, A., Ramler, J., Krummenacher, I., Bickelhaupt, F. M., Poater, J., Lichtenberg, C.",
+  "corresponding": "Lichtenberg, C.",
+  "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, Theoretical Chemistry, University of W\u00fcrzburg",
+  "journal": "Angewandte Chemie - International Edition",
+  "description": "Bismuth Amides Mediate Facile and Highly Selective Pn\u2013Pn Radical-Coupling Reactions (Pn=N, P, As)The controlled release of well-defined radical species under mild conditions for subsequent use in selective reactions is an important and challenging task in synthetic chemistry. We show here that simple bismuth amide species [Bi(NAr2)3] readily release aminyl radicals [NAr2]. at ambient temperature in solution. These reactions yield the corresponding hydrazines, Ar2N\u2212NAr2, as a result of highly selective N\u2212N coupling. The exploitation of facile homolytic Bi\u2212Pn bond cleavage for Pn\u2212Pn bond formation was extended to higher homologues of the pnictogens (Pn=N\u2013As): homoleptic bismuth amides mediate the highly selective dehydrocoupling of HPnR2 to give R2Pn\u2212PnR2. Analyses by NMR and EPR spectroscopy, single-crystal X-ray diffraction, and DFT calculations reveal low Bi\u2212N homolytic bond-dissociation energies, suggest radical coupling in the coordination sphere of bismuth, and reveal electronic and steric parameters as effective tools to control these reactions."
+ },
+ "https://doi.org/10.1002/chem.202004496": {
+  "month": "3",
+  "pub_date": "17 Mar 2021",
+  "year": 2021,
+  "early_online": "10 Nov 2020",
+  "title": "Bifunctional Hydrogen Bond Donor-Catalyzed Diels\u2013Alder Reactions: Origin of Stereoselectivity and Rate Enhancement",
+  "contributors": "Vermeeren, P., Hamlin, T. A., Bickelhaupt, F. M., Fern\u00e1ndez, I.",
+  "corresponding": "Hamlin, T. A.",
+  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, Complutense University",
+  "journal": "Chemistry - A European Journal",
+  "description": "Bifunctional Hydrogen Bond Donor-Catalyzed Diels\u2013Alder Reactions: Origin of Stereoselectivity and Rate EnhancementThe selectivity and rate enhancement of bifunctional hydrogen bond donor-catalyzed Diels\u2013Alder reactions between cyclopentadiene and acrolein were quantum chemically studied using density functional theory in combination with coupled-cluster theory. (Thio)ureas render the studied Diels\u2013Alder cycloaddition reactions exo selective and induce a significant acceleration of this process by lowering the reaction barrier by up to 7 kcal mol\u22121. Our activation strain and Kohn\u2013Sham molecular orbital analyses uncover that these organocatalysts enhance the Diels\u2013Alder reactivity by reducing the Pauli repulsion between the closed-shell filled \u03c0-orbitals of the diene and dienophile, by polarizing the \u03c0-orbitals away from the reactive center and not by making the orbital interactions between the reactants stronger. In addition, we establish that the unprecedented exo selectivity of the hydrogen bond donor-catalyzed Diels\u2013Alder reactions is directly related to the larger degree of asynchronicity along this reaction pathway, which is manifested in a relief of destabilizing activation strain and Pauli repulsion."
+ },
+ "https://doi.org/10.1016/j.envint.2021.106511": {
+  "month": "3",
+  "pub_date": "24 Mar 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "An annotation database for chemicals of emerging concern in exposome research: Environmental exposures are a key contributor to disease and premature death (Landrigan et al., 2018). Yet, only a fraction of chemicals produced in significant amounts with potential to enter the environment have sufficient information to characterize human exposure levels and toxicity.Chemicals of Emerging Concern (CECs) include a very wide group of chemicals that are suspected to be responsible for adverse effects on health, but for which very limited information is available.General information",
+  "contributors": "Lamoree, M., Hamers, T., Meijer, J., Antignac, J. P., Hutinet, S., Debrauwer, L., Covaci, A., Huber, C., von Krauss, M. K., Walker, D. I., Walker, D. I., Schymanski, E. L., Vermeulen, R., Vlaanderen, J.",
+  "corresponding": null,
+  "organisations": "E&H: Environmental Chemistry and Toxicology, AIMMS, E&H: Environmental Health and Toxicology, Institute for Risk Assessment Sciences (IRAS), INRAE, \u00c9cole nationale v\u00e9t\u00e9rinaire, agroalimentaire et de l'alimentation, Nantes-Atlantique, UFZ \u2013 Helmholtz Centre for Environmental Research, Department of Environmental Medicine and Public Health, INRAE, Universit\u00e9 de Toulouse, Toxicological Centre, University of Antwerp, Toxicological Center, Helmholtz Centre for Environmental Research, University of Luxembourg, Division of Environmental Epidemiology, Utrecht University",
+  "journal": "Elsevier",
+  "description": "An annotation database for chemicals of emerging concern in exposome research: Environmental exposures are a key contributor to disease and premature death (Landrigan et al., 2018). Yet, only a fraction of chemicals produced in significant amounts with potential to enter the environment have sufficient information to characterize human exposure levels and toxicity.Chemicals of Emerging Concern (CECs) include a very wide group of chemicals that are suspected to be responsible for adverse effects on health, but for which very limited information is available."
+ },
+ "https://doi.org/10.1021/acs.accounts.1c00016": {
+  "month": "3",
+  "pub_date": "24 Mar 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "The Pauli Repulsion-Lowering Concept in Catalysis",
+  "contributors": "Hamlin, T. A., Bickelhaupt, F. M., Fern\u00e1ndez, I.",
+  "corresponding": null,
+  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences",
+  "journal": "Accounts of Chemical Research",
+  "description": "The Pauli Repulsion-Lowering Concept in Catalysis"
+ },
+ "https://doi.org/10.1101/2021.03.15.21253665": {
+  "month": "3",
+  "pub_date": "25 Mar 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Model selection reveals the butyrate-producing gut bacterium Coprococcus eutactus as predictor for language development in three-year-old rural Ugandan children",
+  "contributors": "Kort, R., Schl\u00f6sser, J., Vazquez, A. R., Atukunda, P., Muhoozi, G. K., Wacoo, A. P., Sybesma, W. F., Westerberg, A. C., Iversen, P. O., Schoen, E. D.",
+  "corresponding": null,
+  "organisations": "Molecular Cell Physiology, AIMMS",
+  "journal": "medRxiv",
+  "description": "Model selection reveals the butyrate-producing gut bacterium Coprococcus eutactus as predictor for language development in three-year-old rural Ugandan childrenIntroduction The metabolic activity of the gut microbiota plays a pivotal role in the gut-brain axis through the effects of bacterial metabolites on brain function and development. In this study we investigated the association of gut microbiota composition with language development of three-year-old rural Ugandan children.Methods We studied the language ability in 139 children of 36 months in our controlled maternal education intervention trial to stimulate children\u2019s growth and development. The dataset includes 1170 potential predictors, including anthropometric and cognitive parameters at 24 months, 542 composition parameters of the children\u2019s gut microbiota at 24 months and 621 of these parameters at 36 months. We applied a novel computationally efficient version of the all-subsets regression methodology and identified predictors of language ability of 36-months-old children scored according to the Bayley Scales of Infant and Toddler Development (BSID-III).Results The best three-term model, selected from more than 266 million models, includes the predictors Coprococcus eutactus at 24 months of age, Bifidobacterium at 36 months of age, and language development at 24 months. The top 20 four-term models, selected from more than 77 billion models, consistently include Coprococcus eutactus abundance at 24 months, while 14 of these models include the other two predictors as well. Mann-Whitney U tests further suggest that the abundance of gut bacteria in language non-impaired children (n = 78) differs from that in language impaired children (n = 61) at 24 months. While obligate anaerobic butyrate-producers, including Coprococcus eutactus, Faecalibacterium prausnitzii, Holdemanella biformis, Roseburia hominis are less abundant, facultative anaerobic bacteria, including Granulicatella elegans, Escherichia/Shigella and Campylobacter coli, are more abundant in language impaired children. The overall predominance of oxygen tolerant species in the gut microbiota of Ugandan children at the age 24 months, expressed as the Metagenomic Aerotolerant Predominance Index (MAPI), was slightly higher in the language impaired group than in the non-impaired group (P = 0.09).Conclusions Application of the all-subsets regression methodology to microbiota data established a correlation between the relative abundance of the anaerobic butyrate-producing gut bacterium Coprococcus eutactus and language development in Ugandan children. We propose that the gut redox potential and the overall bacterial butyrate-producing capacity could be factors of importance as gut microbiota members with a positive correlation to language development are mostly strictly anaerobic butyrate-producers, while microbiota members that correlate negatively, are predominantly oxygen tolerant with a variety of known adverse effects."
+ },
+ "https://doi.org/10.1002/chem.202004732": {
+  "month": "3",
+  "pub_date": "26 Mar 2021",
+  "year": 2021,
+  "early_online": "30 Dec 2020",
+  "title": "Do Sulfonamides Interact with Aromatic Rings?",
+  "contributors": "Jian, J., Hammink, R., McKenzie, C. J., Bickelhaupt, F. M., Poater, J., Mecinovi\u0107, J.",
+  "corresponding": "Mecinovi\u0107, J.",
+  "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, Theoretical Chemistry, University of Southern Denmark, Radboud University Nijmegen",
+  "journal": "Chemistry - A European Journal",
+  "description": "Do Sulfonamides Interact with Aromatic Rings?Aromatic rings form energetically favorable interactions with many polar groups in chemical and biological systems. Recent molecular studies have shown that sulfonamides can chelate metal ions and form hydrogen bonds, however, it is presently not established whether the polar sulfonamide functionality also interacts with aromatic rings. Here, synthetic, spectroscopic, structural, and quantum chemical analyses on 2,6-diarylbenzenesulfonamides are reported, in which two flanking aromatic rings are positioned close to the central sulfonamide moiety. Fine-tuning the aromatic character by substituents on the flanking rings leads to linear trends in acidity and proton affinity of sulfonamides. This physical-organic chemistry study demonstrates that aromatic rings have a capacity to stabilize sulfonamides via through-space NH\u2013\u03c0 interactions. These results have implications in rational drug design targeting electron-rich aromatic rings in proteins."
+ },
+ "https://doi.org/10.1002/chem.202004906": {
+  "month": "3",
+  "pub_date": "26 Mar 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "How Oriented External Electric Fields Modulate Reactivity",
+  "contributors": "Yu, S., Vermeeren, P., Hamlin, T. A., Bickelhaupt, F. M.",
+  "corresponding": null,
+  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences",
+  "journal": "Chemistry: A European Journal",
+  "description": "How Oriented External Electric Fields Modulate Reactivity"
+ },
+ "https://doi.org/10.1128/AAC.01445-20": {
+  "month": "4",
+  "pub_date": "Apr 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Heterologous Expression of eth",
+  "contributors": "Ho, V. Q., Verboom, T., Rong, M. K., Habjan, E., Bitter, W., Speer, A.",
+  "corresponding": "Speer, A.",
+  "organisations": "Organic Chemistry, AIMMS, Molecular Microbiology, Vrije Universiteit Amsterdam",
+  "journal": "Antimicrobial agents and chemotherapy",
+  "description": "Heterologous Expression of ethA and katG in Mycobacterium marinum Enables the Rapid Identification of New Prodrugs Active against Mycobacterium tuberculosisScreening strategies for antituberculosis compounds using Mycobacterium tuberculosis are time consuming and require biosafety level 3 (BSL3) facilities, which makes the development of high-throughput assays difficult and expensive. Mycobacterium marinum, a close genetic relative of M. tuberculosis, possesses several advantages as a suitable model for tuberculosis drug screening. However, despite the high genetic similarity, there are some obvious differences in susceptibility to some tuberculosis drugs between these two species, especially for the prodrugs ethionamide and isoniazid. In this study, we aimed to improve M. marinum as a model for antituberculosis drug identification by heterologous expression of two common drug activators, EthA and KatG. These two activators were overexpressed in M. marinum, and the strains were tested against ethionamide, isoniazid, and a library of established antimycobacterial compounds from TB Alliance to compare drug susceptibility. Both in vitro and in vivo using zebrafish larvae, these genetically modified M. marinum strains showed significantly higher susceptibility against ethionamide and isoniazid, which require activation by EthA and KatG. More importantly, a strain overexpressing both ethA and katG was potentially more susceptible to approximately 20% of the antituberculosis hit compounds from the TB Alliance library. Most of these compounds were activated by EthA in M. marinum. Four of these compounds were selected for further analysis, and three of them showed obvious EthA-dependent activity against M. tuberculosis. Overall, our developed M. marinum strains are valuable tools for high-throughput discovery of potential novel antituberculosis prodrugs."
+ },
+ "https://doi.org/10.1002/cphc.202100090": {
+  "month": "4",
+  "pub_date": "7 Apr 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "The Gauche Effect in XCH 2 CH 2 X Revisited",
+  "contributors": "Silva, D. R., Santos, L. A., Hamlin, T. A., Guerra, C. F., Freitas, M. P., Bickelhaupt, F. M.",
+  "corresponding": null,
+  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences",
+  "journal": "ChemPhysChem",
+  "description": "The Gauche Effect in XCH 2 CH 2 X Revisited"
+ },
+ "https://doi.org/10.1002/open.202000323": {
+  "month": "4",
+  "pub_date": "17 Apr 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "A Quantitative Molecular Orbital Perspective of the Chalcogen Bond",
+  "contributors": "Santos, L. A., Lubbe, S. C. C., Hamlin, T. A., Ramalho, T. C., Bickelhaupt, F. M.",
+  "corresponding": null,
+  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences",
+  "journal": "ChemistryOpen",
+  "description": "A Quantitative Molecular Orbital Perspective of the Chalcogen Bond"
  }
 }
