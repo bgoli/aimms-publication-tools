@@ -1,5 +1,5 @@
 {
- "1618226127.5408854": {
+ "1618822461.766915": {
   "month": "1",
   "pub_date": "21 Jan 2021",
   "year": 2021,
@@ -11,19 +11,19 @@
   "journal": "bioRxiv",
   "description": "Different resource allocation in a Bacillus subtilis population displaying bimodal motilityTo cope with sudden changes in their environment, bacteria can use a bet-hedging strategy by dividing the population into cells with different properties. This so-called bimodal or bistable cellular differentiation is generally controlled by positive feedback regulation of transcriptional activators. Due to the continuous increase in cell volume, it is difficult for these activators to reach an activation threshold concentration when cells are growing exponentially. This is one reason why bimodal differentiation is primarily observed from the onset of the stationary phase when exponential growth ceases. An exception is the bimodal induction of motility in Bacillus subtilis, which occurs early during exponential growth. Several mechanisms have been put forward to explain this, including double negative-feedback regulation and the stability of the mRNA molecules involved. In this study, we used fluorescence-assisted cell sorting to compare the transcriptome of motile and non-motile cells and noted that expression of ribosomal genes is lower in motile cells. This was confirmed using an unstable GFP reporter fused to the strong ribosomal rpsD promoter. We propose that the reduction in ribosomal gene expression in motile cells is the result of a diversion of cellular resources to the synthesis of the chemotaxis and motility systems. In agreement, single-cell microscopic analysis showed that motile cells are slightly shorter than non-motile cells, an indication of slower growth. We speculate that this growth rate reduction can contribute to the bimodal induction of motility during exponential growth."
  },
- "1618226127.5438774": {
+ "1618822461.7679126": {
   "month": "2",
-  "pub_date": "18 Feb 2021",
+  "pub_date": "10 Feb 2021",
   "year": 2021,
-  "early_online": null,
-  "title": "From recipe to research: introducing undergraduate students to the nature of science using a hybrid practical course centred on drug discovery for neglected diseases",
-  "contributors": "Wijtmans, M., Edink, E., van Linden, O., Zheng, Y., Blaazer, T., Siderius, M. H., van Muijlwijk-Koezen, J. E.",
-  "corresponding": "van Muijlwijk-Koezen, J. E.",
-  "organisations": "AIMMS, Medicinal chemistry, Innovations in Human Health & Life Sciences, InHolland University of Applied Sciences",
-  "journal": "Drug Discovery Today",
-  "description": "From recipe to research: introducing undergraduate students to the nature of science using a hybrid practical course centred on drug discovery for neglected diseasesHighlights\u2022A hybrid undergraduate laboratory course combines laboratory skills and exposure to research.\u2022Students experience the nature of science first-hand by synthesising hit derivatives.\u2022A neglected disease drug discovery project is well suited as research topic.\u2022A daily interactive session fosters scientific discussion amongst students.A hybrid practical course in synthetic medicinal chemistry was designed for second-year undergraduate students. The first half focused on techniques and skills, while the second half addressed a drug discovery setting in a research project on neglected diseases. A daily interactive plenary session allowed for thorough discussions among the students. Over four years, 187 students participated, and 68 pure compounds (many of which novel) were isolated and biologically tested. Evaluations by students and teachers were positive. The success of the hybrid practical course demonstrates how undergraduate students can be meaningfully engaged in the nature of science through a drug discovery project."
+  "early_online": "10 Dec 2020",
+  "title": "Protein cost allocation explains metabolic strategies in Escherichia coli",
+  "contributors": "Grigaitis, P., Olivier, B. G., Fiedler, T., Teusink, B., Kummer, U., Veith, N.",
+  "corresponding": null,
+  "organisations": "Systems Bioinformatics, AIMMS, Systems Bioinformatics, Rostock University Medical Center, Department of General Internal Medicine and Psychosomatics, Heidelberg University Hospital, Heidelberg University, Heidelberg, Germany.",
+  "journal": "Journal of Biotechnology",
+  "description": "Protein cost allocation explains metabolic strategies in Escherichia coliIn-depth understanding of microbial growth is crucial for the development of new advances in biotechnology and for combating microbial pathogens. Condition-specific proteome expression is central to microbial physiology and growth. A multitude of processes are dependent on the protein expression, thus, whole-cell analysis of microbial metabolism using genome-scale metabolic models is an attractive toolset to investigate the behaviour of microorganisms and their communities. However, genome-scale models that incorporate macromolecular expression are still inhibitory complex: the conceptual and computational complexity of these models severely limits their potential applications. In the need for alternatives, here we revisit some of the previous attempts to create genome-scale models of metabolism and macromolecular expression to develop a novel framework for integrating protein abundance and turnover costs to conventional genome-scale models. We show that such a model of Escherichia coli successfully reproduces experimentally determined adaptations of metabolism in a growth condition-dependent manner. Moreover, the model can be used as means of investigating underutilization of the protein machinery among different growth settings. Notably, we obtained strongly improved predictions of flux distributions, considering the costs of protein translation explicitly. This finding in turn suggests protein translation being the main regulation hub for cellular growth."
  },
- "1618226127.5448744": {
+ "1618822461.7689102": {
   "month": "2",
   "pub_date": "5 Mar 2021",
   "year": 2021,
@@ -35,19 +35,7 @@
   "journal": "Journal of Proteome Research",
   "description": "Site-Specific N-Linked Glycosylation Analysis of Human Carcinoembryonic Antigen by Sheathless Capillary Electrophoresis-Tandem Mass SpectrometryWith 28 potential N-glycosylation sites, human carcinoembryonic antigen (CEA) bears an extreme amount of N-linked glycosylation, and approximately 60% of its molecular mass can be attributed to its carbohydrates. CEA is often overexpressed and released by many solid tumors, including colorectal carcinomas. CEA displays an impressive heterogeneity and variability in sugar content; however, site-specific distribution of carbohydrate structures has not been reported so far. The present study investigated CEA samples purified from human colon carcinoma and human liver metastases and enabled the characterization of 21 out of 28 potential N-glycosylation sites with respect to their occupancy. The coverage was achieved by a multienzymatic digestion approach with specific enzymes, such as trypsin, endoproteinase Glu-C, and the nonspecific enzyme, Pronase, followed by analysis using sheathless CE-MS/MS. In total, 893 different N-glycopeptides and 128 unique N-glycan compositions were identified. Overall, a great heterogeneity was found both within (micro) and in between (macro) individual N-glycosylation sites. Moreover, notable differences were found on certain N-glycosylation sites between primary adenocarcinoma and metastatic tumor in regard to branching, bisection, sialylation, and fucosylation. Those features, if further investigated in a targeted manner, may pave the way toward improved diagnostics and monitoring of colorectal cancer progression and recurrence. Raw mass spectrometric data and Skyline processed data files that support the findings of this study are available in the MassIVE repository with the identifier MSV000086774 [DOI: 10.25345/C5Z50X]."
  },
- "1618226127.545872": {
-  "month": "3",
-  "pub_date": "11 Mar 2021",
-  "year": 2021,
-  "early_online": null,
-  "title": "Calibration of next generation first-principle derived polarizable force fields",
-  "contributors": "Visscher, K. M.",
-  "corresponding": null,
-  "organisations": "AIMMS, Molecular and Computational Toxicology",
-  "journal": null,
-  "description": null
- },
- "1618226127.547867": {
+ "1618822461.7699072": {
   "month": "3",
   "pub_date": "18 Mar 2021",
   "year": 2021,
@@ -59,7 +47,7 @@
   "journal": null,
   "description": null
  },
- "1618226127.548864": {
+ "1618822461.772933": {
   "month": "3",
   "pub_date": "29 Mar 2021",
   "year": 2021,

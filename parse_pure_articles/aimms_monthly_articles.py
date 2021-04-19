@@ -61,7 +61,7 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 """
-__version__ = 1.3
+__version__ = 1.4
 
 # data_file = 'AIMMS_research_2020-7_08_20.xls'
 # data_file = 'AIMMS_research_2020-31_08_20.xls'
@@ -77,7 +77,7 @@ __version__ = 1.3
 # data_file = 'AIMMS_research_2021-22_02_21.xls'
 # data_file = 'AIMMS_research_2021-8_03_21.xls'
 # data_file = 'AIMMS_research_2021-22_03_21.xls'
-data_file = 'AIMMS_research_2021-12_04_21.xls'
+data_file = 'AIMMS_research_2021-19_04_21.xls'
 
 import os
 import time

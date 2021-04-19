@@ -311,18 +311,6 @@
   "journal": "Science of the Total Environment",
   "description": "Results of WEPAL-QUASIMEME/NORMANs first global interlaboratory study on microplastics reveal urgent need for harmonizationTo survey the conformity and quality of results among laboratories for microplastics determination worldwide, an international laboratory intercomparison and development exercise was organized. The 34 participants were requested to determine the polymer type and number or mass of polymer particles in 12 samples, i.e. six samples containing of pre-production pellets, five dissolvable soda tablets containing different (smaller) polymer particles and one blank soda tablet. A novel method for providing the test materials in aluminium strips was used. Thirty laboratories (88%) submitted data using their own method of choice, resulting in a variety of identification and quantification methods (n = 7). The majority of the labs (53\u2013100%) correctly identified the type of polymer in all samples but one. The performance of the laboratories in quantifying and weighing the pellets was very good. The analysis of the number of the particles in the soda tablets varied considerably between laboratories (29\u201391%). The results of this study highlight the complexity of microplastics analysis and the need for harmonization of both reporting format and methods. Continued development and assessment of the comparability among analytical methods and laboratories are urgently needed to support monitoring programmes, research and decision-making."
  },
- "https://doi.org/10.1002/jcc.26489": {
-  "month": "4",
-  "pub_date": "15 Apr 2021",
-  "year": 2021,
-  "early_online": "5 Feb 2021",
-  "title": "Chalcogen bonds: Hierarchical ab initio benchmark and density functional theory performance study",
-  "contributors": "de Azevedo Santos, L., Ramalho, T. C., Hamlin, T. A., Bickelhaupt, F. M.",
-  "corresponding": "de Azevedo Santos, L., Ramalho, T. C., Hamlin, T. A., Bickelhaupt, F. M.",
-  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, Universidade Federal de Lavras, University of Hradec Kralove, Radboud University",
-  "journal": "Journal of Computational Chemistry",
-  "description": "Chalcogen bonds: Hierarchical ab initio benchmark and density functional theory performance studyWe have performed a hierarchical ab initio benchmark and DFT performance study of D2Ch\u2022\u2022\u2022A\u2212 chalcogen bonds (Ch = S, Se; D, A = F, Cl). The ab initio benchmark study is based on a series of ZORA-relativistic quantum chemical methods [HF, MP2, CCSD, CCSD(T)], and all-electron relativistically contracted variants of Karlsruhe basis sets (ZORA-def2-SVP, ZORA-def2-TZVPP, ZORA-def2-QZVPP) with and without diffuse functions. The highest-level ZORA-CCSD(T)/ma-ZORA-def2-QZVPP counterpoise-corrected complexation energies (\u0394ECPC) are converged within 1.1\u20133.4 kcal mol\u22121 and 1.5\u20133.1 kcal mol\u22121 with respect to the method and basis set, respectively. Next, we used the ZORA-CCSD(T)/ma-ZORA-def2-QZVPP (\u0394ECPC) as reference data for analyzing the performance of 13 different ZORA-relativistic DFT approaches in combination with the Slater-type QZ4P basis set. We find that the three-best performing functionals are M06-2X, B3LYP, and M06, with mean absolute errors (MAE) of 4.1, 4.2, and 4.3 kcal mol\u22121, respectively. The MAE for BLYP-D3(BJ) and PBE amount to 8.5 and 9.3 kcal mol\u22121, respectively."
- },
  "https://doi.org/10.1186/s12859-021-03983-2": {
   "month": "2",
   "pub_date": "Dec 2021",
@@ -383,18 +371,6 @@
   "journal": "Science",
   "description": "Microplastics and human health: Knowledge gaps should be addressed to ascertain the health risks of microplastics"
  },
- "https://doi.org/10.1016/j.mce.2021.111194": {
-  "month": "4",
-  "pub_date": "15 Apr 2021",
-  "year": 2021,
-  "early_online": "13 Feb 2021",
-  "title": "Computational modelling of the \u03944 and \u03945 adrenal steroidogenic pathways provides insight into hypocortisolism",
-  "contributors": "Louw, C., van Schalkwyk, E. J., Conradie, R., Louw, R., Engelbrecht, Y., Storbeck, K. H., Swart, A. C., van Niekerk, D. D., Snoep, J. L., Swart, P.",
-  "corresponding": "Swart, P.",
-  "organisations": "AIMMS, Molecular Cell Physiology, University of Stellenbosch, Stellenbosch University",
-  "journal": "Molecular and cellular endocrinology",
-  "description": "Computational modelling of the \u03944 and \u03945 adrenal steroidogenic pathways provides insight into hypocortisolismThis study demonstrates the application of a mathematical steroidogenic model, constructed with individual in vitro enzyme characterisations, to simulate in vivo steroidogenesis in a diseased state. This modelling approach was applied to the South African Angora goat, that suffers from hypocortisolism caused by altered adrenal function. These animals are extremely vulnerable to cold stress, leading to substantial monetary loss in the mohair industry. The Angora goat has increased CYP17A1 17,20-lyase enzyme activity in comparison with hardy livestock species. Determining the effect of this altered adrenal function on adrenal steroidogenesis during a cold stress response is difficult. We developed a model describing adrenal steroidogenesis under control conditions, and under altered steroidogenic conditions where the animal suffers from hypocortisolism. The model is parameterised with experimental data from in vitro enzyme characterisations of a hardy control species. The increased 17,20-lyase activity of the Angora goat CYP17A1 enzyme was subsequently incorporated into the model and the response to physiological stress is simulated under both control and altered adrenal steroidogenic conditions."
- },
  "https://doi.org/10.1002/asia.202001201": {
   "month": "2",
   "pub_date": "15 Feb 2021",
@@ -431,6 +407,18 @@
   "journal": "Antimicrobial agents and chemotherapy",
   "description": "Tetrahydrophthalazinone inhibitor of phosphodiesterase with in vitro activity against intracellular trypanosomatidsThe phosphodiesterase inhibitor tetrahydrophthalazinone NPD-008 was explored by phenotypic in vitro screening, target validation, and ultrastructural approaches against Trypanosoma cruzi. NPD-008 displayed activity against different forms and strains of T. cruzi (50% effective concentration [EC50], 6.6 to 39.5mM). NPD-008 increased cAMP levels of T. cruzi and its combination with benznidazole gave synergistic interaction. It was also moderately active against intracellular amastigotes of Leishmania amazonensis and Leishmania infantum, confirming a potential activity profile as an antitrypanosomatid drug candidate."
  },
+ "https://doi.org/10.1016/j.chemosphere.2021.130076": {
+  "month": "2",
+  "pub_date": "Aug 2021",
+  "year": 2021,
+  "early_online": "23 Feb 2021",
+  "title": "Analysis of recycled rubber: Development of an analytical method and determination of polycyclic aromatic hydrocarbons and heterocyclic aromatic compounds in rubber matrices",
+  "contributors": "Skoczy\u0144ska, E., Leonards, P. E., Llompart, M., de Boer, J.",
+  "corresponding": "Skoczy\u0144ska, E.",
+  "organisations": "E&H: Environmental Bioanalytical Chemistry, AIMMS, Environment and Health, University of Santiago de Compostela",
+  "journal": "Chemosphere",
+  "description": "Analysis of recycled rubber: Development of an analytical method and determination of polycyclic aromatic hydrocarbons and heterocyclic aromatic compounds in rubber matricesRecycled crumb rubber (CR) is rich in compounds with unrecognized toxic potency; this study aims at the development of an analytical method that would allow identification and quantification of a very wide range of organic compounds extractable from the complex rubber matrix. The analytical set-up includes target analysis of polycyclic aromatic hydrocarbons (PAHs) and methyl-PAHs and suspect screening of raw extracts to tentatively identify primary organic compounds present, but not included in the standard target analysis of recycled rubber, followed by analytical method development and target analysis of identified compounds. Analyzed samples included weathered and new CR originating from football turf granulates, rubber mats, and end-of-life car tires (ELTs). The developed analytical method involves sonication extraction, followed by solid phase extraction (SPE) fractionation that enables simple and efficient separation of analytes with broad polarity scale. The application of SPE fractionation resolves coelution problems and simplifies the chromatograms. This analytical approach allowed to identify and quantify 46 sample specific compounds, including several heterocyclic PAHs like 2-methylthiobenzothiazole, benzonapthothiophenes, benzonaphthofuranes and aromatic amines like diphenylamine and N-phenyl-2-naphthylamine, which to our knowledge were not determined before. The PAHs concentrations determined in CR tiles purchased in Dutch and Spanish shops exceed the EU limits for articles marketed for use by the public. Furthermore, sets of methylated PAHs, dibenzothiazoles and aromatic amines were identified and quantified, and several other compounds were tentatively identified. The obtained results stress the need for expanding the list of target compounds analyzed in CR and the need for longitudinal studies on weathering processes taking place in CR."
+ },
  "https://doi.org/10.1016/j.chemosphere.2021.130066": {
   "month": "2",
   "pub_date": "Jul 2021",
@@ -454,6 +442,42 @@
   "organisations": "Theoretical Chemistry, AIMMS, Universit\u00e9 de Rennes 1, Wroc\u0142aw University of Science and Technology",
   "journal": "Organic letters",
   "description": "1,1,4,4-Tetracyanobutadiene-Functionalized Anthracenes: Regioselectivity of Cycloadditions in the Synthesis of Small Near-IR DyesTwo small 1,1,4,4-tetracyanobutadiene-functionalized chromophores were obtained by careful leverage of the regioselectivity of the cycloaddition reaction of tetracyanoethylene with anthracene-ynamide derivatives, inducing either a [2 + 2] or a [4 + 2] Diels-Alder process. DFT calculations unraveled the mechanism of the [2 + 2] cycloaddition-retroelectrocyclization reaction sequence with ynamides and elucidated the differing mechanisms in the two substrates. The synthesized dyes presented panchromatic absorption extending into the near-IR and far-red/near-IR photoluminescence in the solid state up to 1550 nm. "
+ },
+ "https://doi.org/10.1039/d0sc05987k": {
+  "month": "3",
+  "pub_date": "28 Mar 2021",
+  "year": 2021,
+  "early_online": "18 Feb 2021",
+  "title": "How metallylenes activate small molecules",
+  "contributors": "Vermeeren, P., Doppert, M. T., Bickelhaupt, F. M., Hamlin, T. A.",
+  "corresponding": "Hamlin, T. A.",
+  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, Vrije Universiteit Amsterdam",
+  "journal": "Chemical Science",
+  "description": "How metallylenes activate small moleculesWe have studied the activation of dihydrogen by metallylenes using relativistic density functional theory (DFT). Our detailed activation strain and Kohn-Sham molecular orbital analyses have quantified the physical factors behind the decreased reactivity of the metallylene on going down Group 14, from carbenes to stannylenes. Along this series, the reactivity decreases due to a worsening of the back-donation interaction between the filled lone-pair orbital of the metallylene and the \u03c3*-orbital of H2, which, therefore, reduces the metallylene-substrate interaction and increases the reaction barrier. As the metallylene ligand is varied from nitrogen to phosphorus to arsenic a significant rate enhancement is observed for the activation of H2due to (i) a reduced steric (Pauli) repulsion between the metallylene and the substrate; and (ii) less activation strain, as the metallylene becomes increasingly more predistorted. Using a rationally designed metallylene with an optimal Group 14 atom and ligand combination, we show that a number of small molecules (i.e.HCN, CO2, H2, NH3) may also be readily activated. For the first time, we show the ability of our H2activated designer metallylenes to hydrogenate unsaturated hydrocarbons. The results presented herein will serve as a guide for the rational design of metallylenes toward the activation of small molecules and subsequent reactions."
+ },
+ "https://doi.org/10.1002/jcc.26489": {
+  "month": "4",
+  "pub_date": "15 Apr 2021",
+  "year": 2021,
+  "early_online": "5 Feb 2021",
+  "title": "Chalcogen bonds: Hierarchical ab initio benchmark and density functional theory performance study",
+  "contributors": "de Azevedo Santos, L., Ramalho, T. C., Hamlin, T. A., Bickelhaupt, F. M.",
+  "corresponding": "de Azevedo Santos, L., Ramalho, T. C., Hamlin, T. A., Bickelhaupt, F. M.",
+  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, Universidade Federal de Lavras, University of Hradec Kralove, Radboud University",
+  "journal": "Journal of Computational Chemistry",
+  "description": "Chalcogen bonds: Hierarchical ab initio benchmark and density functional theory performance studyWe have performed a hierarchical ab initio benchmark and DFT performance study of D2Ch\u2022\u2022\u2022A\u2212 chalcogen bonds (Ch = S, Se; D, A = F, Cl). The ab initio benchmark study is based on a series of ZORA-relativistic quantum chemical methods [HF, MP2, CCSD, CCSD(T)], and all-electron relativistically contracted variants of Karlsruhe basis sets (ZORA-def2-SVP, ZORA-def2-TZVPP, ZORA-def2-QZVPP) with and without diffuse functions. The highest-level ZORA-CCSD(T)/ma-ZORA-def2-QZVPP counterpoise-corrected complexation energies (\u0394ECPC) are converged within 1.1\u20133.4 kcal mol\u22121 and 1.5\u20133.1 kcal mol\u22121 with respect to the method and basis set, respectively. Next, we used the ZORA-CCSD(T)/ma-ZORA-def2-QZVPP (\u0394ECPC) as reference data for analyzing the performance of 13 different ZORA-relativistic DFT approaches in combination with the Slater-type QZ4P basis set. We find that the three-best performing functionals are M06-2X, B3LYP, and M06, with mean absolute errors (MAE) of 4.1, 4.2, and 4.3 kcal mol\u22121, respectively. The MAE for BLYP-D3(BJ) and PBE amount to 8.5 and 9.3 kcal mol\u22121, respectively."
+ },
+ "https://doi.org/10.1016/j.mce.2021.111194": {
+  "month": "4",
+  "pub_date": "15 Apr 2021",
+  "year": 2021,
+  "early_online": "13 Feb 2021",
+  "title": "Computational modelling of the \u03944 and \u03945 adrenal steroidogenic pathways provides insight into hypocortisolism",
+  "contributors": "Louw, C., van Schalkwyk, E. J., Conradie, R., Louw, R., Engelbrecht, Y., Storbeck, K. H., Swart, A. C., van Niekerk, D. D., Snoep, J. L., Swart, P.",
+  "corresponding": "Swart, P.",
+  "organisations": "AIMMS, Molecular Cell Physiology, University of Stellenbosch, Stellenbosch University",
+  "journal": "Molecular and cellular endocrinology",
+  "description": "Computational modelling of the \u03944 and \u03945 adrenal steroidogenic pathways provides insight into hypocortisolismThis study demonstrates the application of a mathematical steroidogenic model, constructed with individual in vitro enzyme characterisations, to simulate in vivo steroidogenesis in a diseased state. This modelling approach was applied to the South African Angora goat, that suffers from hypocortisolism caused by altered adrenal function. These animals are extremely vulnerable to cold stress, leading to substantial monetary loss in the mohair industry. The Angora goat has increased CYP17A1 17,20-lyase enzyme activity in comparison with hardy livestock species. Determining the effect of this altered adrenal function on adrenal steroidogenesis during a cold stress response is difficult. We developed a model describing adrenal steroidogenesis under control conditions, and under altered steroidogenic conditions where the animal suffers from hypocortisolism. The model is parameterised with experimental data from in vitro enzyme characterisations of a hardy control species. The increased 17,20-lyase activity of the Angora goat CYP17A1 enzyme was subsequently incorporated into the model and the response to physiological stress is simulated under both control and altered adrenal steroidogenic conditions."
  },
  "https://doi.org/10.1038/s41380-019-0436-y": {
   "month": "3",
@@ -627,13 +651,37 @@
   "month": "3",
   "pub_date": "26 Mar 2021",
   "year": 2021,
-  "early_online": null,
+  "early_online": "7 Dec 2020",
   "title": "How Oriented External Electric Fields Modulate Reactivity",
   "contributors": "Yu, S., Vermeeren, P., Hamlin, T. A., Bickelhaupt, F. M.",
-  "corresponding": null,
+  "corresponding": "Hamlin, T. A.",
   "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences",
   "journal": "Chemistry: A European Journal",
-  "description": "How Oriented External Electric Fields Modulate Reactivity"
+  "description": "How Oriented External Electric Fields Modulate ReactivityA judiciously oriented external electric field (OEEF) can catalyze a wide range of reactions and can even induce endo/exo stereoselectivity of cycloaddition reactions. The Diels\u2013Alder reaction between cyclopentadiene and maleic anhydride is studied by using quantitative activation strain and Kohn\u2013Sham molecular orbital theory to pinpoint the origin of these catalytic and stereoselective effects. Our quantitative model reveals that an OEEF along the reaction axis induces an enhanced electrostatic and orbital interaction between the reactants, which in turn lowers the reaction barrier. The stronger electrostatic interaction originates from an increased electron density difference between the reactants at the reactive center, and the enhanced orbital interaction arises from the promoted normal electron demand donor\u2013acceptor interaction driven by the OEEF. An OEEF perpendicular to the plane of the reaction axis solely stabilizes the exo pathway of this reaction, whereas the endo pathway remains unaltered and efficiently steers the endo/exo stereoselectivity. The influence of the OEEF on the inverse electron demand Diels\u2013Alder reaction is also investigated; unexpectedly, it inhibits the reaction, as the electric field now suppresses the critical inverse electron demand donor\u2013acceptor interaction."
+ },
+ "https://doi.org/10.1124/pharmrev.120.000186": {
+  "month": "4",
+  "pub_date": "1 Apr 2021",
+  "year": 2021,
+  "early_online": "10 Mar 2021",
+  "title": "Viral G Protein-Coupled Receptors: Attractive Targets for Herpesvirus-Associated Diseases",
+  "contributors": "De Groof, T. W., Elder, E. G., Siderius, M., Heukers, R., Sinclair, J. H., Smit, M. J.",
+  "corresponding": null,
+  "organisations": "Medicinal chemistry, AIMMS, Vrije Universiteit Brussel",
+  "journal": "Pharmacological reviews",
+  "description": "Viral G Protein-Coupled Receptors: Attractive Targets for Herpesvirus-Associated DiseasesHerpesviruses are ubiquitous pathogens that establish lifelong, latent infections in their host. Spontaneous reactivation of herpesviruses is often asymptomatic or clinically manageable in healthy individuals, but reactivation events in immunocompromised or immunosuppressed individuals can lead to severe morbidity and mortality. Moreover, herpesvirus infections have been associated with multiple proliferative cardiovascular and post-transplant diseases. Herpesviruses encode viral G protein-coupled receptors (vGPCRs) that alter the host cell by hijacking cellular pathways and play important roles in the viral life cycle and these different disease settings. In this review, we discuss the pharmacological and signaling properties of these vGPCRs, their role in the viral life cycle, and their contribution in different diseases. Because of their prominent role, vGPCRs have emerged as promising drug targets, and the potential of vGPCR-targeting therapeutics is being explored. Overall, these vGPCRs can be considered as attractive targets moving forward in the development of antiviral, cancer, and/or cardiovascular disease treatments. SIGNIFICANCE STATEMENT: In the last decade, herpesvirus-encoded G protein-coupled receptors (GPCRs) have emerged as interesting drug targets with the growing understanding of their critical role in the viral life cycle and in different disease settings. This review presents the pharmacological properties of these viral receptors, their role in the viral life cycle and different diseases, and the emergence of therapeutics targeting viral GPCRs."
+ },
+ "https://doi.org/10.1055/s-0040-1707284": {
+  "month": "4",
+  "pub_date": "Apr 2021",
+  "year": 2021,
+  "early_online": "9 Oct 2020",
+  "title": "Designing Rh(I)-Half-Sandwich Catalysts for Alkyne [2+2+2] Cycloadditions",
+  "contributors": "Orian, L., Bickelhaupt, F. M.",
+  "corresponding": "Orian, L.",
+  "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, University of Padova",
+  "journal": "Synlett",
+  "description": "Designing Rh(I)-Half-Sandwich Catalysts for Alkyne [2+2+2] CycloadditionsMetal-mediated [2+2+2] cycloadditions of unsaturated molecules to cyclic and polycyclic organic compounds are a versatile synthetic route affording good yields and selectivity under mild conditions. In the last two decades, in silico investigations have unveiled important details about the mechanism and the energetics of the whole catalytic cycle. Particularly, a number of computational studies address the topic of half-sandwich catalysts which, due to their structural fluxionality, have been widely employed, since the 1980s. In these organometallic species, the metal is coordinated to an aromatic ring, typically the ubiquitous cyclopentadienyl anion, C 5H 5-(Cp) or to the Cp moiety of a larger polycyclic aromatic ligand (Cp\u2032). During the catalytic process, the metal continuously 'slips' on the ring, changing its hapticity. This phenomenon of metal slippage and its implications for the catalyst's performance are discussed in this work, referring to the most important computational mechanistic studies reported in literature for Rh(I) half-metallocenes, with the purpose of providing hints for a rational design of this class of compounds. 1 Introduction 2 Mechanism of Metal-Catalyzed Acetylene [2+2+2] Cycloaddition to Benzene and the Problem of the Indenyl Effect 2.1 Acetylene-Acetonitrile [2+2+2] Co-cycloaddition to 2-Methylpyridine: Evidence of the Indenyl Effect 2.2 Heteroaromatic Catalysts and the Evidence of a Reverse Indenyl Effect 2.3 Booth's Mechanistic Hypothesis and the Evidence of the Indenyl Effect 3 Structure-Reactivity Correlation: The Slippage-Span Model 4 Conclusions and Perspectives."
  },
  "https://doi.org/10.1128/AAC.01445-20": {
   "month": "4",
@@ -647,13 +695,25 @@
   "journal": "Antimicrobial agents and chemotherapy",
   "description": "Heterologous Expression of ethA and katG in Mycobacterium marinum Enables the Rapid Identification of New Prodrugs Active against Mycobacterium tuberculosisScreening strategies for antituberculosis compounds using Mycobacterium tuberculosis are time consuming and require biosafety level 3 (BSL3) facilities, which makes the development of high-throughput assays difficult and expensive. Mycobacterium marinum, a close genetic relative of M. tuberculosis, possesses several advantages as a suitable model for tuberculosis drug screening. However, despite the high genetic similarity, there are some obvious differences in susceptibility to some tuberculosis drugs between these two species, especially for the prodrugs ethionamide and isoniazid. In this study, we aimed to improve M. marinum as a model for antituberculosis drug identification by heterologous expression of two common drug activators, EthA and KatG. These two activators were overexpressed in M. marinum, and the strains were tested against ethionamide, isoniazid, and a library of established antimycobacterial compounds from TB Alliance to compare drug susceptibility. Both in vitro and in vivo using zebrafish larvae, these genetically modified M. marinum strains showed significantly higher susceptibility against ethionamide and isoniazid, which require activation by EthA and KatG. More importantly, a strain overexpressing both ethA and katG was potentially more susceptible to approximately 20% of the antituberculosis hit compounds from the TB Alliance library. Most of these compounds were activated by EthA in M. marinum. Four of these compounds were selected for further analysis, and three of them showed obvious EthA-dependent activity against M. tuberculosis. Overall, our developed M. marinum strains are valuable tools for high-throughput discovery of potential novel antituberculosis prodrugs."
  },
+ "https://doi.org/10.3390/ijms22073702": {
+  "month": "4",
+  "pub_date": "1 Apr 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Analysis of missense variants in the human histamine receptor family reveals increased constitutive activity of e4106.30\u00d730k variant in the histamine h1 receptor",
+  "contributors": "Ma, X., Segura, M. A., Zarzycka, B., Vischer, H. F., Leurs, R.",
+  "corresponding": "Leurs, R.",
+  "organisations": "Medicinal chemistry, AIMMS",
+  "journal": "International Journal of Molecular Sciences",
+  "description": "Analysis of missense variants in the human histamine receptor family reveals increased constitutive activity of e4106.30\u00d730k variant in the histamine h1 receptorThe Exome Aggregation Consortium has collected the protein-encoding DNA sequences of almost 61,000 unrelated humans. Analysis of this dataset for G protein-coupled receptor (GPCR) proteins (available at GPCRdb) revealed a total of 463 naturally occurring genetic missense variations in the histamine receptor family. In this research, we have analyzed the distribution of these missense variations in the four histamine receptor subtypes concerning structural segments and sites important for GPCR function. Four missense variants R1273.52\u00d752H, R13934.57\u00d757H, R4096.29\u00d729H, and E4106.30\u00d730 K, were selected for the histamine H1 receptor (H1R) that were hypothesized to affect receptor activity by interfering with the interaction pattern of the highly conserved D(E)RY motif, the so-called ionic lock. The E4106.30\u00d730 K missense variant displays higher constitutive activity in G protein signaling as compared to wild-type H1R, whereas the opposite was observed for R1273.52\u00d752H, R13934.57\u00d757H, and R4096.29\u00d729H. The E4106.30\u00d730 K missense variant displays a higher affinity for the endogenous agonist histamine than wild-type H1R, whereas antagonist affinity was not affected. These data support the hypothesis that the E4106.30\u00d730 K mutation shifts the equilibrium towards active conformations. The study of these selected missense variants gives additional insight into the structural basis of H1R activation and, moreover, highlights that missense variants can result in pharmacologically different behavior as compared to wild-type receptors and should consequently be considered in the drug discovery process."
+ },
  "https://doi.org/10.1002/cphc.202100090": {
   "month": "4",
   "pub_date": "7 Apr 2021",
   "year": 2021,
   "early_online": null,
   "title": "The Gauche Effect in XCH 2 CH 2 X Revisited",
-  "contributors": "Silva, D. R., Santos, L. A., Hamlin, T. A., Guerra, C. F., Freitas, M. P., Bickelhaupt, F. M.",
+  "contributors": "Silva, D. R., Santos, L. A., Hamlin, T. A., Guerra, C. F., Freitas, M. P., Bickelhaupt, F. M.Pages:641-648",
   "corresponding": null,
   "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences",
   "journal": "ChemPhysChem",
