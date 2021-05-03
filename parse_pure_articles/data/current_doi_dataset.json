@@ -155,6 +155,18 @@
   "journal": "Journal of the American Chemical Society",
   "description": "Halide Perovskite-Lead Chalcohalide Nanocrystal HeterostructuresWe report the synthesis of colloidal CsPbX3-Pb4S3Br2 (X = Cl, Br, I) nanocrystal heterostructures, providing an example of a sharp and atomically resolved epitaxial interface between a metal halide perovskite and a non-perovskite lattice. The CsPbBr3-Pb4S3Br2 nanocrystals are prepared by a two-step direct synthesis using preformed subnanometer CsPbBr3 clusters. Density functional theory calculations indicate the creation of a quasi-type II alignment at the heterointerface as well as the formation of localized trap states, promoting ultrafast separation of photogenerated excitons and carrier trapping, as confirmed by spectroscopic experiments. Postsynthesis reaction with either Cl- or I- ions delivers the corresponding CsPbCl3-Pb4S3Br2 and CsPbI3-Pb4S3Br2 heterostructures, thus enabling anion exchange only in the perovskite domain. An increased structural rigidity is conferred to the perovskite lattice when it is interfaced with the chalcohalide lattice. This is attested by the improved stability of the metastable \u03b3phase (or \"black\"phase) of CsPbI3 in the CsPbI3-Pb4S3Br2 heterostructure. "
  },
+ "https://doi.org/10.1080/00268976.2020.1811908": {
+  "month": "1",
+  "pub_date": "17 Jan 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "High-resolution infrared spectroscopy of naphthalene and acenaphthene dimers",
+  "contributors": "Lemmens, A. K., Chopra, P., Garg, D., Steber, A. L., Schnell, M., Buma, W. J., Rijs, A. M.",
+  "corresponding": null,
+  "organisations": "BioAnalytical Chemistry, AIMMS",
+  "journal": "Molecular Physics",
+  "description": "High-resolution infrared spectroscopy of naphthalene and acenaphthene dimers"
+ },
  "https://doi.org/10.3389/fchem.2020.608030": {
   "month": "1",
   "pub_date": "21 Jan 2021",
@@ -431,6 +443,18 @@
   "journal": "Chemosphere",
   "description": "Optimization of a low flow sampler for improved assessment of gas and particle bound exposure to chlorinated paraffinsAn optimized low volume sampler was developed to determine both gas- and particle bound concentrations of short and medium-chain chlorinated paraffins (S/MCCPs). Background contamination was limited by the sampler design, providing method quantification limits (MQLs) at least two orders of magnitude lower than other studies within the gas (MQL: 500 pg (\u03a3SCCPs), 1.86 ng (\u03a3MCCPs)) and particle (MQL: 500 pg (\u03a3SCCPs), 1.72 ng (\u03a3MCCPs) phases. Good repeatability was observed between parallel indoor measurements (RSD \u2264 9.3% (gas), RSD \u2264 14% (particle)) with no breakthrough/saturation observed after a week of continuous sampling. For indoor air sampling, SCCPs were dominant within the gas phase (17 \u00b1 4.9 ng/m3) compared to MCCPs (2.7 \u00b1 0.8 ng/m3) while the opposite was observed in the particle bound fraction (0.28 \u00b1 0.11 ng/m3 (\u03a3SCCPs) vs. 2.7 \u00b1 1.0 ng/m3 (\u03a3MCCPs)). Only SCCPs in the gas phase could be detected reliably during outdoor sampling and were considerably lower compared to indoor concentrations (0.27 \u00b1 0.10 ng/m3). Separation of the gas and particle bound phase was found to be crucial in applying the appropriate response factors for quantification based on the deconvoluted S/MCCP sample profile, thus avoiding over- (gas phase) or underestimation (particle phase) of reported concentrations. Very short chain chlorinated paraffins (vSCCPs, C5-C9) were also detected at equal or higher abundance compared to SCCP congener groups (C10-C13) congener groups, indicating an additional human indoor inhalation risk."
  },
+ "https://doi.org/10.1021/acscentsci.0c01028": {
+  "month": "2",
+  "pub_date": "24 Feb 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Validating Differential Volatilome Profiles in Parkinson\u2019s Disease",
+  "contributors": "Sinclair, E., Walton-Doyle, C., Sarkar, D., Hollywood, K. A., Milne, J., Lim, S. H., Kunath, T., Rijs, A. M., Bie, R. M. A. D., Silverdale, M., Trivedi, D. K., Barran, P.",
+  "corresponding": null,
+  "organisations": "BioAnalytical Chemistry, AIMMS",
+  "journal": "ACS Central Science",
+  "description": "Validating Differential Volatilome Profiles in Parkinson\u2019s Disease"
+ },
  "https://doi.org/10.1021/acs.orglett.1c00136": {
   "month": "3",
   "pub_date": "19 Mar 2021",
@@ -454,6 +478,18 @@
   "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, Vrije Universiteit Amsterdam",
   "journal": "Chemical Science",
   "description": "How metallylenes activate small moleculesWe have studied the activation of dihydrogen by metallylenes using relativistic density functional theory (DFT). Our detailed activation strain and Kohn-Sham molecular orbital analyses have quantified the physical factors behind the decreased reactivity of the metallylene on going down Group 14, from carbenes to stannylenes. Along this series, the reactivity decreases due to a worsening of the back-donation interaction between the filled lone-pair orbital of the metallylene and the \u03c3*-orbital of H2, which, therefore, reduces the metallylene-substrate interaction and increases the reaction barrier. As the metallylene ligand is varied from nitrogen to phosphorus to arsenic a significant rate enhancement is observed for the activation of H2due to (i) a reduced steric (Pauli) repulsion between the metallylene and the substrate; and (ii) less activation strain, as the metallylene becomes increasingly more predistorted. Using a rationally designed metallylene with an optimal Group 14 atom and ligand combination, we show that a number of small molecules (i.e.HCN, CO2, H2, NH3) may also be readily activated. For the first time, we show the ability of our H2activated designer metallylenes to hydrogenate unsaturated hydrocarbons. The results presented herein will serve as a guide for the rational design of metallylenes toward the activation of small molecules and subsequent reactions."
+ },
+ "https://doi.org/10.1002/cphc.202100090": {
+  "month": "4",
+  "pub_date": "7 Apr 2021",
+  "year": 2021,
+  "early_online": "8 Feb 2021",
+  "title": "The Gauche Effect in XCH2CH2X Revisited",
+  "contributors": "Rodrigues Silva, D., de Azevedo Santos, L., Hamlin, T. A., Fonseca Guerra, C., Freitas, M. P., Bickelhaupt, F. M.",
+  "corresponding": "Fonseca Guerra, C.",
+  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, Universidade Federal de Lavras",
+  "journal": "ChemPhysChem",
+  "description": "The Gauche Effect in XCH2CH2X RevisitedWe have quantum chemically investigated the rotational isomerism of 1,2-dihaloethanes XCH2CH2X (X = F, Cl, Br, I) at ZORA-BP86-D3(BJ)/QZ4P. Our Kohn-Sham molecular orbital (KS-MO) analyses reveal that hyperconjugative orbital interactions favor the gauche conformation in all cases (X = F\u2212I), not only for X = F as in the current model of this so-called gauche effect. We show that, instead, it is the interplay of hyperconjugation with Pauli repulsion between lone-pair-type orbitals on the halogen substituents that constitutes the causal mechanism for the gauche effect. Thus, only in the case of the relatively small fluorine atoms, steric Pauli repulsion is too weak to overrule the gauche preference of the hyperconjugative orbital interactions. For the larger halogens, X\u22c5\u22c5\u22c5X steric Pauli repulsion becomes sufficiently destabilizing to shift the energetic preference from gauche to anti, despite the opposite preference of hyperconjugation."
  },
  "https://doi.org/10.1002/jcc.26489": {
   "month": "4",
@@ -575,6 +611,18 @@
   "journal": "Communications biology",
   "description": "A flat embedding method for transmission electron microscopy reveals an unknown mechanism of tetracyclineTransmission electron microscopy of cell sample sections is a popular technique in microbiology. Currently, ultrathin sectioning is done on resin-embedded cell pellets, which consumes milli- to deciliters of culture and results in sections of randomly orientated cells. This is problematic for rod-shaped bacteria and often precludes large-scale quantification of morphological phenotypes due to the lack of sufficient numbers of longitudinally cut cells. Here we report a flat embedding method that enables observation of thousands of longitudinally cut cells per single section and only requires microliter culture volumes. We successfully applied this technique to Bacillus subtilis, Escherichia coli, Mycobacterium bovis, and Acholeplasma laidlawii. To assess the potential of the technique to quantify morphological phenotypes, we monitored antibiotic-induced changes in B. subtilis cells. Surprisingly, we found that the ribosome inhibitor tetracycline causes membrane deformations. Further investigations showed that tetracycline disturbs membrane organization and localization of the peripheral membrane proteins MinD, MinC, and MreB. These observations are not the result of ribosome inhibition but constitute a secondary antibacterial activity of tetracycline that so far has defied discovery."
  },
+ "https://doi.org/10.3390/cells10030618": {
+  "month": "3",
+  "pub_date": "11 Mar 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Differential Involvement of ACKR3 C-Tail in \u03b2-Arrestin Recruitment, Trafficking and Internalization",
+  "contributors": "Zarca, A., Perez, C., van den Bor, J., Bebelman, J. P., Heuninck, J., de Jonker, R. J., Durroux, T., Vischer, H. F., Siderius, M., Smit, M. J.",
+  "corresponding": null,
+  "organisations": "Medicinal chemistry, AIMMS, Vrije Universiteit Amsterdam, Universit\u00e9 de Montpellier",
+  "journal": "Cells",
+  "description": "Differential Involvement of ACKR3 C-Tail in \u03b2-Arrestin Recruitment, Trafficking and InternalizationBackground: The atypical chemokine receptor 3 (ACKR3) belongs to the superfamily of G protein-coupled receptors (GPCRs). Unlike classical GPCRs, this receptor does not activate G proteins in most cell types but recruits \u03b2-arrestins upon activation. ACKR3 plays an important role in cancer and vascular diseases. As recruitment of \u03b2-arrestins is triggered by phosphorylation of the C-terminal tail of GPCRs, we studied the role of different potential phosphorylation sites within the ACKR3 C-tail to further delineate the molecular mechanism of internalization and trafficking of this GPCR. Methods: We used various bioluminescence and fluorescence resonance energy transfer-based sensors and techniques in Human Embryonic Kidney (HEK) 293T cells expressing WT or phosphorylation site mutants of ACKR3 to measure CXCL12-induced recruitment of \u03b2-arrestins and G-protein-coupled receptor kinases (GRKs), receptor internalization and trafficking. Results: Upon CXCL12 stimulation, ACKR3 recruits both \u03b2-arrestin 1 and 2 with equivalent kinetic profiles. We identified interactions with GRK2, 3 and 5, with GRK2 and 3 being important for \u03b2-arrestin recruitment. Upon activation, ACKR3 internalizes and recycles back to the cell membrane. We demonstrate that \u03b2-arrestin recruitment to the receptor is mainly determined by a single cluster of phosphorylated residues on the C-tail of ACKR3, and that residue T352 and in part S355 are important residues for \u03b2-arrestin1 recruitment. Phosphorylation of the C-tail appears essential for ligand-induced internalization and important for differential \u03b2-arrestin recruitment. GRK2 and 3 play a key role in receptor internalization. Moreover, ACKR3 can still internalize when \u03b2-arrestin recruitment is impaired or in the absence of \u03b2-arrestins, using alternative internalization pathways. Our data indicate that distinct residues within the C-tail of ACKR3 differentially regulate CXCL12-induced \u03b2-arrestin recruitment, ACKR3 trafficking and internalization."
+ },
  "https://doi.org/10.1002/anie.202015514": {
   "month": "3",
   "pub_date": "15 Mar 2021",
@@ -599,17 +647,29 @@
   "journal": "Chemistry - A European Journal",
   "description": "Bifunctional Hydrogen Bond Donor-Catalyzed Diels\u2013Alder Reactions: Origin of Stereoselectivity and Rate EnhancementThe selectivity and rate enhancement of bifunctional hydrogen bond donor-catalyzed Diels\u2013Alder reactions between cyclopentadiene and acrolein were quantum chemically studied using density functional theory in combination with coupled-cluster theory. (Thio)ureas render the studied Diels\u2013Alder cycloaddition reactions exo selective and induce a significant acceleration of this process by lowering the reaction barrier by up to 7 kcal mol\u22121. Our activation strain and Kohn\u2013Sham molecular orbital analyses uncover that these organocatalysts enhance the Diels\u2013Alder reactivity by reducing the Pauli repulsion between the closed-shell filled \u03c0-orbitals of the diene and dienophile, by polarizing the \u03c0-orbitals away from the reactive center and not by making the orbital interactions between the reactants stronger. In addition, we establish that the unprecedented exo selectivity of the hydrogen bond donor-catalyzed Diels\u2013Alder reactions is directly related to the larger degree of asynchronicity along this reaction pathway, which is manifested in a relief of destabilizing activation strain and Pauli repulsion."
  },
+ "https://doi.org/10.1016/j.bioorg.2021.104832": {
+  "month": "3",
+  "pub_date": "Jun 2021",
+  "year": 2021,
+  "early_online": "19 Mar 2021",
+  "title": "Controlling the selectivity of aminergic GPCR ligands from the extracellular vestibule",
+  "contributors": "Egyed, A., Kelemen, \u00c1. A., Vass, M., Visegr\u00e1dy, A., Thee, S. A., Wang, Z., de Graaf, C., Brea, J., Loza, M. I., Leurs, R., Keser\u0171, G. M.",
+  "corresponding": "Keser\u0171, G. M.",
+  "organisations": "Medicinal chemistry, AIMMS, E\u00f6tv\u00f6s Lor\u00e1nd Research Network, Gedeon, University of Santiago de Compostela",
+  "journal": "Bioorganic Chemistry",
+  "description": "Controlling the selectivity of aminergic GPCR ligands from the extracellular vestibuleIn addition to the orthosteric binding pocket (OBP) of GPCRs, recent structural studies have revealed that there are several allosteric sites available for pharmacological intervention. The secondary binding pocket (SBP) of aminergic GPCRs is located in the extracellular vestibule of these receptors, and it has been suggested to be a potential selectivity pocket for bitopic ligands. Here, we applied a virtual screening protocol based on fragment docking to the SBP of the orthosteric ligand-receptor complex. This strategy was employed for a number of aminergic receptors. First, we designed dopamine D3 preferring bitopic compounds from a D2 selective orthosteric ligand. Next, we designed 5-HT2B selective bitopic compounds starting from the 5-HT1B preferring ergoline core of LSD. Comparing the serotonergic profiles of the new derivatives to that of LSD, we found that these derivatives became significantly biased towards the desired 5-HT2B receptor target. Finally, addressing the known limitations of H1 antihistamines, our protocol was successfully used to eliminate the well-known side effects related to the muscarinic M1 activity of amitriptyline while preserving H1 potency in some of the designed bitopic compounds. These applications highlight the usefulness of our new virtual screening protocol and offer a powerful strategy towards bitopic GPCR ligands with designed receptor profiles."
+ },
  "https://doi.org/10.1016/j.envint.2021.106511": {
   "month": "3",
-  "pub_date": "24 Mar 2021",
+  "pub_date": "Jul 2021",
   "year": 2021,
-  "early_online": null,
-  "title": "An annotation database for chemicals of emerging concern in exposome research: Environmental exposures are a key contributor to disease and premature death (Landrigan et al., 2018). Yet, only a fraction of chemicals produced in significant amounts with potential to enter the environment have sufficient information to characterize human exposure levels and toxicity.Chemicals of Emerging Concern (CECs) include a very wide group of chemicals that are suspected to be responsible for adverse effects on health, but for which very limited information is available.General information",
-  "contributors": "Lamoree, M., Hamers, T., Meijer, J., Antignac, J. P., Hutinet, S., Debrauwer, L., Covaci, A., Huber, C., von Krauss, M. K., Walker, D. I., Walker, D. I., Schymanski, E. L., Vermeulen, R., Vlaanderen, J.",
-  "corresponding": null,
-  "organisations": "E&H: Environmental Chemistry and Toxicology, AIMMS, E&H: Environmental Health and Toxicology, Institute for Risk Assessment Sciences (IRAS), INRAE, \u00c9cole nationale v\u00e9t\u00e9rinaire, agroalimentaire et de l'alimentation, Nantes-Atlantique, UFZ \u2013 Helmholtz Centre for Environmental Research, Department of Environmental Medicine and Public Health, INRAE, Universit\u00e9 de Toulouse, Toxicological Centre, University of Antwerp, Toxicological Center, Helmholtz Centre for Environmental Research, University of Luxembourg, Division of Environmental Epidemiology, Utrecht University",
-  "journal": "Elsevier",
-  "description": "An annotation database for chemicals of emerging concern in exposome research: Environmental exposures are a key contributor to disease and premature death (Landrigan et al., 2018). Yet, only a fraction of chemicals produced in significant amounts with potential to enter the environment have sufficient information to characterize human exposure levels and toxicity.Chemicals of Emerging Concern (CECs) include a very wide group of chemicals that are suspected to be responsible for adverse effects on health, but for which very limited information is available."
+  "early_online": "24 Mar 2021",
+  "title": "An annotation database for chemicals of emerging concern in exposome research",
+  "contributors": "Meijer, J., Lamoree, M., Hamers, T., Antignac, J. P., Hutinet, S., Debrauwer, L., Covaci, A., Huber, C., Krauss, M., Walker, D. I., Schymanski, E. L., Vermeulen, R., Vlaanderen, J.",
+  "corresponding": "Vlaanderen, J.",
+  "organisations": "E&H: Environmental Chemistry and Toxicology, AIMMS, E&H: Environmental Health and Toxicology, \u00c9cole nationale v\u00e9t\u00e9rinaire, agroalimentaire et de l'alimentation, Nantes-Atlantique, INRAE, INRAE, University of Antwerp, Helmholtz Centre for Environmental Research, Icahn School of Medicine at Mount Sinai, University of Luxembourg, Utrecht University",
+  "journal": "Environment International",
+  "description": "An annotation database for chemicals of emerging concern in exposome researchBackground: Chemicals of Emerging Concern (CECs) include a very wide group of chemicals that are suspected to be responsible for adverse effects on health, but for which very limited information is available. Chromatographic techniques coupled with high-resolution mass spectrometry (HRMS) can be used for non-targeted screening and detection of CECs, by using comprehensive annotation databases. Establishing a database focused on the annotation of CECs in human samples will provide new insight into the distribution and extent of exposures to a wide range of CECs in humans. Objectives: This study describes an approach for the aggregation and curation of an annotation database (CECscreen) for the identification of CECs in human biological samples. Methods: The approach consists of three main parts. First, CECs compound lists from various sources were aggregated and duplications and inorganic compounds were removed. Subsequently, the list was curated by standardization of structures to create \u201cMS-ready\u201d and \u201cQSAR-ready\u201d SMILES, as well as calculation of exact masses (monoisotopic and adducts) and molecular formulas. The second step included the simulation of Phase I metabolites. The third and final step included the calculation of QSAR predictions related to physicochemical properties, environmental fate, toxicity and Absorption, Distribution, Metabolism, Excretion (ADME) processes and the retrieval of information from the US EPA CompTox Chemicals Dashboard. Results: All CECscreen database and property files are publicly available (DOI: https://doi.org/10.5281/zenodo.3956586). In total, 145,284 entries were aggregated from various CECs data sources. After elimination of duplicates and curation, the pipeline produced 70,397 unique \u201cMS-ready\u201d structures and 66,071 unique QSAR-ready structures, corresponding with 69,526 CAS numbers. Simulation of Phase I metabolites resulted in 306,279 unique metabolites. QSAR predictions could be performed for 64,684 of the QSAR-ready structures, whereas information was retrieved from the CompTox Chemicals Dashboard for 59,739 CAS numbers out of 69,526 inquiries. CECscreen is incorporated in the in silico fragmentation approach MetFrag. Discussion: The CECscreen database can be used to prioritize annotation of CECs measured in non-targeted HRMS, facilitating the large-scale detection of CECs in human samples for exposome research. Large-scale detection of CECs can be further improved by integrating the present database with resources that contain CECs (metabolites) and meta-data measurements, further expansion towards in silico and experimental (e.g., MassBank) generation of MS/MS spectra, and development of bioinformatics approaches capable of using correlation patterns in the measured chemical features."
  },
  "https://doi.org/10.1021/acs.accounts.1c00016": {
   "month": "3",
@@ -659,6 +719,30 @@
   "journal": "Chemistry: A European Journal",
   "description": "How Oriented External Electric Fields Modulate ReactivityA judiciously oriented external electric field (OEEF) can catalyze a wide range of reactions and can even induce endo/exo stereoselectivity of cycloaddition reactions. The Diels\u2013Alder reaction between cyclopentadiene and maleic anhydride is studied by using quantitative activation strain and Kohn\u2013Sham molecular orbital theory to pinpoint the origin of these catalytic and stereoselective effects. Our quantitative model reveals that an OEEF along the reaction axis induces an enhanced electrostatic and orbital interaction between the reactants, which in turn lowers the reaction barrier. The stronger electrostatic interaction originates from an increased electron density difference between the reactants at the reactive center, and the enhanced orbital interaction arises from the promoted normal electron demand donor\u2013acceptor interaction driven by the OEEF. An OEEF perpendicular to the plane of the reaction axis solely stabilizes the exo pathway of this reaction, whereas the endo pathway remains unaltered and efficiently steers the endo/exo stereoselectivity. The influence of the OEEF on the inverse electron demand Diels\u2013Alder reaction is also investigated; unexpectedly, it inhibits the reaction, as the electric field now suppresses the critical inverse electron demand donor\u2013acceptor interaction."
  },
+ "https://doi.org/10.1016/j.chemosphere.2021.130383": {
+  "month": "3",
+  "pub_date": "Sep 2021",
+  "year": 2021,
+  "early_online": "27 Mar 2021",
+  "title": "Conventional and high resolution chemical characterization to assess refinery effluent treatment performance",
+  "contributors": "Hjort, M., den Haan, K. H., Whale, G., Koekkoek, J., Leonards, P. E., Redman, A. D., Vaiopoulou, E.",
+  "corresponding": "Hjort, M.",
+  "organisations": "E&H: Environmental Chemistry and Toxicology, AIMMS, E&H: Environmental Bioanalytical Chemistry, Concawe, Klaas den Haan E&S Consulting, Shell Health Risk Science Team, ExxonMobil Petroleum and Chemical",
+  "journal": "Chemosphere",
+  "description": "Conventional and high resolution chemical characterization to assess refinery effluent treatment performanceRefinery effluents represent an emission source of hydrocarbons (HCs) and other constituents to the environment. Thus, characterisation of effluent quality in terms of concentrations of key parameters relative to permitted standards is important and for total petroleum hydrocarbons (TPH), the specific composition of the HC mixture can affect its toxicity to aquatic organisms. Therefore, this study was designed to analyse TPH, benzene, toluene, ethyl benzene, xylenes (BTEX), polycyclic aromatic hydrocarbons (PAHs), (bio) chemical oxygen demand, total nitrogen, total suspended solids and selected metals before, and after, treatment steps to demonstrate removal efficiencies across 13 refineries with variable wastewater treatment systems. Final discharge concentrations of the measured parameters were by 97% within the so called Best Available Technique Associated Emission Levels (BAT-AELs). Further, TPH composition was characterised using high-resolution two-dimensional gas chromatography (GCxGC) analysis to understand the mass distribution by carbon number and specific chemical class. Measurements were compared to SimpleTreat model predictions for validation. SimpleTreat successfully predicted the shape of the effluent composition since it is essentially a removal constant applied to the influent composition. The predictions were of similar magnitude as, or were greater than, the effluent concentrations since SimpleTreat is based on typical performance and is intended to be conservative. This was especially true for aromatic constituents. Reduction in potential HC exposures also coincided with a decrease in predicted toxicity using a mechanistic oil toxicity model, PETROTOX. Overall, the results indicate that EU petroleum refineries are likely to achieve a high performance level regarding effluent treatment."
+ },
+ "https://doi.org/10.1038/s41598-021-86373-1": {
+  "month": "3",
+  "pub_date": "31 Mar 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Genome-wide data implicate terminal fusion automixis in king cobra facultative parthenogenesis",
+  "contributors": "Card, D. C., Vonk, F. J., Smalbrugge, S., Casewell, N. R., W\u00fcster, W., Castoe, T. A., Schuett, G. W., Booth, W.",
+  "corresponding": "Booth, W.",
+  "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, University of Texas at Arlington, Harvard University, Wageningen University & Research, Liverpool School of Tropical Medicine, Bangor University, Chiricahua Desert Museum, Georgia State University, University of Tulsa",
+  "journal": "Scientific Reports",
+  "description": "Genome-wide data implicate terminal fusion automixis in king cobra facultative parthenogenesisFacultative parthenogenesis (FP) is widespread in the animal kingdom. In vertebrates it was first described in poultry nearly 70years ago, and since then reports involving other taxa have increased considerably. In the last two decades, numerous reports of FP have emerged in elasmobranch fishes and squamate reptiles (lizards and snakes), including documentation in wild populations of both clades. When considered in concert with recent evidence of reproductive competence, the accumulating data suggest that the significance of FP in vertebrate evolution has been largely underestimated. Several fundamental questions regarding developmental mechanisms, nonetheless, remain unanswered. Specifically, what is the type of automixis that underlies the production of progeny and how does this impact the genomic diversity of the resulting parthenogens? Here, we addressed these questions through the application of next-generation sequencing to investigate a suspected case of parthenogenesis in a king cobra (Ophiophagus hannah). Our results provide the first evidence of FP in this species, and provide novel evidence that rejects gametic duplication and supports terminal fusion as a mechanism underlying parthenogenesis in snakes. Moreover, we precisely estimated heterozygosity in parthenogenetic offspring and found appreciable retained genetic diversity that suggests that FP in vertebrates has underappreciated evolutionary significance."
+ },
  "https://doi.org/10.1124/pharmrev.120.000186": {
   "month": "4",
   "pub_date": "1 Apr 2021",
@@ -707,28 +791,76 @@
   "journal": "International Journal of Molecular Sciences",
   "description": "Analysis of missense variants in the human histamine receptor family reveals increased constitutive activity of e4106.30\u00d730k variant in the histamine h1 receptorThe Exome Aggregation Consortium has collected the protein-encoding DNA sequences of almost 61,000 unrelated humans. Analysis of this dataset for G protein-coupled receptor (GPCR) proteins (available at GPCRdb) revealed a total of 463 naturally occurring genetic missense variations in the histamine receptor family. In this research, we have analyzed the distribution of these missense variations in the four histamine receptor subtypes concerning structural segments and sites important for GPCR function. Four missense variants R1273.52\u00d752H, R13934.57\u00d757H, R4096.29\u00d729H, and E4106.30\u00d730 K, were selected for the histamine H1 receptor (H1R) that were hypothesized to affect receptor activity by interfering with the interaction pattern of the highly conserved D(E)RY motif, the so-called ionic lock. The E4106.30\u00d730 K missense variant displays higher constitutive activity in G protein signaling as compared to wild-type H1R, whereas the opposite was observed for R1273.52\u00d752H, R13934.57\u00d757H, and R4096.29\u00d729H. The E4106.30\u00d730 K missense variant displays a higher affinity for the endogenous agonist histamine than wild-type H1R, whereas antagonist affinity was not affected. These data support the hypothesis that the E4106.30\u00d730 K mutation shifts the equilibrium towards active conformations. The study of these selected missense variants gives additional insight into the structural basis of H1R activation and, moreover, highlights that missense variants can result in pharmacologically different behavior as compared to wild-type receptors and should consequently be considered in the drug discovery process."
  },
- "https://doi.org/10.1002/cphc.202100090": {
+ "https://doi.org/10.1002/open.202100066": {
   "month": "4",
-  "pub_date": "7 Apr 2021",
-  "year": 2021,
-  "early_online": null,
-  "title": "The Gauche Effect in XCH 2 CH 2 X Revisited",
-  "contributors": "Silva, D. R., Santos, L. A., Hamlin, T. A., Guerra, C. F., Freitas, M. P., Bickelhaupt, F. M.Pages:641-648",
-  "corresponding": null,
-  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences",
-  "journal": "ChemPhysChem",
-  "description": "The Gauche Effect in XCH 2 CH 2 X Revisited"
- },
- "https://doi.org/10.1002/open.202000323": {
-  "month": "4",
-  "pub_date": "17 Apr 2021",
+  "pub_date": "1 Apr 2021",
   "year": 2021,
   "early_online": null,
   "title": "A Quantitative Molecular Orbital Perspective of the Chalcogen Bond",
-  "contributors": "Santos, L. A., Lubbe, S. C. C., Hamlin, T. A., Ramalho, T. C., Bickelhaupt, F. M.",
+  "contributors": "de Azevedo Santos, L., van der Lubbe, S. C., Hamlin, T. A., Ramalho, T. C., Matthias Bickelhaupt, F.",
   "corresponding": null,
-  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences",
+  "organisations": "Theoretical Chemistry, AIMMS, Universidade Federal de Lavras, University of Hradec Kralove, Vrije Universiteit Amsterdam, Radboud University Nijmegen",
   "journal": "ChemistryOpen",
-  "description": "A Quantitative Molecular Orbital Perspective of the Chalcogen Bond"
+  "description": "A Quantitative Molecular Orbital Perspective of the Chalcogen BondInvited for this month's cover are the groups of Prof. Dr. Teodorico C. Ramalho (Federal University of Lavras and University Hradec Kralove) and Prof. Dr. F. Matthias Bickelhaupt (Vrije Universiteit Amsterdam and Radboud University). The cover picture shows the key message of their work, that is, the covalency of the chalcogen bonds, in an elegantly simple and attractive manner. To that end, the chalcogen bonds are represented by schematic 3D structures of the bond donor D2 Ch and the bond acceptor A- , and their attractive interaction in green. Then, a colorful molecular orbital (MO) diagram where the HOMO-LUMO mixing is represented by the mixing of red (HOMO) and blue (LUMO) into purple (MO) is presented. Read the full text of their Full Paper at 10.1002/open.202000323."
+ },
+ "https://doi.org/10.1016/j.envint.2021.106536": {
+  "month": "4",
+  "pub_date": "Aug 2021",
+  "year": 2021,
+  "early_online": "1 Apr 2021",
+  "title": "Characterisation of (anti-)progestogenic and (anti-)androgenic activities in surface and wastewater using high resolution effectdirected analysis",
+  "contributors": "Houtman, C. J., Brewster, K., ten Broek, R., Duijve, B., van Oorschot, Y., Rosielle, M., Lamoree, M. H., Steen, R. J.",
+  "corresponding": "Lamoree, M. H.",
+  "organisations": "E&H: Environmental Chemistry and Toxicology, AIMMS, The Water Laboratory",
+  "journal": "Environment International",
+  "description": "Characterisation of (anti-)progestogenic and (anti-)androgenic activities in surface and wastewater using high resolution effectdirected analysisThe quality of surface waters is threatened by pollution with low concentrations of bioactive chemicals, among which those interfering with steroid hormone systems. Induced by reports of anti-progestogenic activity in surface waters, a two-year four-weekly survey of (anti-)progestogenic activity was performed at three surface water locations in the Netherlands that serve as abstraction points for the production of drinking water. As certain endogenous and synthetic progestogenic compounds are also potent (anti-)androgens, these activities were also investigated. Anti-progestogenic and anti-androgenic activities were detected in the majority of the monitoring samples, sometimes in concentrations exceeding effect-based trigger values, indicating the need for further research. To characterize the compounds responsible for the activities, a high resolution Effect-Directed Analysis (hr-EDA) panel was combined with PR and AR CALUX bioassays, performed in agonistic and antagonistic modes. The influent and effluent of a domestic wastewater treatment plant (WWTP) were included as effluent is a possible emission source of active compounds. As drivers for androgenic and progestogenic activities several native and synthetic steroid hormones were identified in the WWTP samples, namely androstenedione, testosterone, DHT, levonorgestrel and cyproterone acetate. The pesticides metolachlor and cyazofamid were identified as contributors to both the anti-progestogenic and anti-androgenic activities in surface water. In addition, epiconazole contributed to the anti-progestogenic activities in the rivers Rhine and Enclosed Meuse. This study showed the strength of hr-EDA for the identification of bioactive compounds in environmental samples and shed light on the drivers of (anti-)progestogenic and (anti-)androgenic activities in the aquatic environment."
+ },
+ "https://doi.org/10.15252/msb.202010093": {
+  "month": "4",
+  "pub_date": "1 Apr 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Proteome constraints reveal targets for improving microbial fitness in nutrient-rich environments",
+  "contributors": "Chen, Y., van Pelt-KleinJan, E., van Olst, B., Douwenga, S., Boeren, S., Bachmann, H., Molenaar, D., Nielsen, J., Teusink, B.",
+  "corresponding": null,
+  "organisations": "Systems Bioinformatics, AIMMS, Systems Bioinformatics, Chalmers University of Technology, Wageningen University & Research, Vrije Universiteit Amsterdam, Technical University of Denmark, Copenhagen University",
+  "journal": "Molecular Systems Biology",
+  "description": "Proteome constraints reveal targets for improving microbial fitness in nutrient-rich environmentsCells adapt to different conditions via gene expression that tunes metabolism for maximal fitness. Constraints on cellular proteome may limit such expression strategies and introduce trade-offs. Resource allocation under proteome constraints has explained regulatory strategies in bacteria. It is unclear, however, to what extent these constraints can predict evolutionary changes, especially for microorganisms that evolved under nutrient-rich conditions, i.e., multiple available nitrogen sources, such as Lactococcus lactis. Here, we present a proteome-constrained genome-scale metabolic model of L.lactis (pcLactis) to interpret growth on multiple nutrients. Through integration of proteomics and flux data, in glucose-limited chemostats, the model predicted glucose and arginine uptake as dominant constraints at low growth rates. Indeed, glucose and arginine catabolism were found upregulated in evolved mutants. At high growth rates, pcLactis correctly predicted the observed shutdown of arginine catabolism because limited proteome availability favored lactate for ATP production. Thus, our model-based analysis is able to identify and explain the proteome constraints that limit growth rate in nutrient-rich environments and thus form targets of fitness improvement."
+ },
+ "https://doi.org/10.3390/biom11040555": {
+  "month": "4",
+  "pub_date": "9 Apr 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Short\u2010 and long\u2010term social recognition memory are differentially modulated by neuronal histamine",
+  "contributors": "Rani, B., Silva\u2010marques, B., Leurs, R., Passani, M. B., Blandina, P., Provensi, G.",
+  "corresponding": "Provensi, G.",
+  "organisations": "Medicinal chemistry, AIMMS, University of Florence, Universidade Federal de S\u00e3o Carlos",
+  "journal": "Biomolecules",
+  "description": "Short\u2010 and long\u2010term social recognition memory are differentially modulated by neuronal histamineThe ability of recognizing familiar conspecifics is essential for many forms of social interaction including reproduction, establishment of dominance hierarchies, and pair bond formation in monogamous species. Many hormones and neurotransmitters have been suggested to play key roles in social discrimination. Here we demonstrate that disruption or potentiation of histaminergic neu-rotransmission differentially affects short (STM) and long\u2010term (LTM) social recognition memory. Impairments of LTM, but not STM, were observed in histamine\u2010deprived animals, either chronically (Hdc\u2212/\u2212 mice lacking the histamine\u2010synthesizing enzyme histidine decarboxylase) or acutely (mice treated with the HDC irreversible inhibitor \u03b1\u2010fluoromethylhistidine). On the contrary, restriction of histamine release induced by stimulation of the H3R agonist (VUF16839) impaired both STM and LTM. H3R agonism\u2010induced amnesic effect was prevented by pre\u2010treatment with donepezil, an ac-etylcholinesterase inhibitor. The blockade of the H3R with ciproxifan, which in turn augmented histamine release, resulted in a procognitive effect. In keeping with this hypothesis, the procognitive effect of ciproxifan was absent in both Hdc\u2212/\u2212 and \u03b1FMH\u2010treated mice. Our results suggest that brain histamine is essential for the consolidation of LTM but not STM in the social recognition test. STM impairments observed after H3R stimulation are probably related to their function as heterorecep-tors on cholinergic neurons."
+ },
+ "https://doi.org/10.1016/j.chemosphere.2020.128610": {
+  "month": "5",
+  "pub_date": "May 2021",
+  "year": 2021,
+  "early_online": "19 Oct 2020",
+  "title": "Evaluation of chemicals of environmental concern in crumb rubber and water leachates from several types of synthetic turf football pitches",
+  "contributors": "Celeiro, M., Armada, D., Ratola, N., Dagnac, T., de Boer, J., Llompart, M.",
+  "corresponding": "Llompart, M.",
+  "organisations": "Environment and Health, AIMMS, University of Santiago de Compostela, University of Porto, Agronomic Research Centre (AGACAL-CIAM) \u2013 Unit of Organic Contaminants",
+  "journal": "Chemosphere",
+  "description": "Evaluation of chemicals of environmental concern in crumb rubber and water leachates from several types of synthetic turf football pitchesNowadays concern exists about the safety for both football players and the environment of recycled tire rubber used as infill in synthetic turf football pitches. In this study 40 target compounds, including polycyclic aromatic hydrocarbons (PAHs), plasticizers, antioxidants and vulcanization agents were determined in 50 synthetic football pitches of diverse characteristics to estimate environmental risks. This is the first study of crumb rubber sport facilities in Portugal. Analyses were performed by ultrasound-assisted extraction followed by gas chromatography-tandem mass spectrometry (UAE-GC-MS/MS). To evaluate the transfer of the target chemicals from the crumb rubber to the runoff water, water leachates collected from several football pitches were analyzed by solid-phase microextraction (SPME-GC-MS/MS). In addition, lab-scale runoff simulation experiments were performed to assess whether a persistent inflow of the target compounds from the football pitches into the runoff water wcould exist. Results revealed the presence of most of the target PAHs in crumb rubber at total concentrations up to 57 \u03bcg g\u22121, next to a high number of plasticizers and vulcanization agents. Runoff water collected from the football pitches contained up to 13 PAHs as well as other chemicals of environmental concern. In addition, continuous leaching of chemicals from the crumb rubber to the surrounding water was demonstrated. The transfer of target chemicals into the runoff water poses a potential risk for the aquatic environment."
+ },
+ "https://doi.org/10.1016/j.toxlet.2021.01.021": {
+  "month": "5",
+  "pub_date": "1 May 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Bioactivation of trichloroethylene to three regioisomeric glutathione conjugates by liver fractions and recombinant human glutathione transferases: Species differences and implications for human risk assessment",
+  "contributors": "Capinha, L., Jennings, P., Commandeur, J. N.",
+  "corresponding": null,
+  "organisations": "Molecular and Computational Toxicology, AIMMS",
+  "journal": "Toxicology Letters",
+  "description": "Bioactivation of trichloroethylene to three regioisomeric glutathione conjugates by liver fractions and recombinant human glutathione transferases: Species differences and implications for human risk assessmentEnzymatic conjugation of glutathione (GSH) to trichloroethylene (TCE) followed by catabolism to the corresponding cysteine-conjugate, S-(dichlorovinyl)-L-cysteine (DCVC), and subsequent bioactivation by renal cysteine conjugate beta-lyases is considered to play an important role in the nephrotoxic effects observed in TCE-exposed rat and human. In this study, it is shown for the first time that three regioisomers of GSH-conjugates of TCE are formed by rat and human liver fractions, namely S-(1,2-trans-dichlorovinyl)-glutathione (1,2-trans-DCVG), S-(1,2-cis-dichlorovinyl)-glutathione (1,2-cis-DCVG) and S-(2,2-dichlorovinyl)-glutathione (2,2-DCVG). In incubations of TCE with rat liver fractions their amounts decreased in order of 1,2-cis-DCVG > 1,2-trans-DCVG > 2,2-DCVG. Human liver cytosol showed a more than 10-fold lower activity of GSH-conjugation, with amounts of regioisomers decreasing in order 2,2-DCVG > 1,2-trans-DCVG > 1,2-cis-DCVG. Incubations with recombinant human GSTs suggest that GSTA1-1 and GSTA2-2 play the most important role in human liver cytosol. GSTP1-1, which produces regioisomers in order 1,2-trans-DCVG > 2,2-cis-DCVG > 1,2-cis-DCVG, is likely to contribute to extrahepatic GSH-conjugation of TCE. Analysis of the products formed by a beta-lyase mimetic model showed that both 1,2-trans-DCVC and 1,2-cis-DCVC are converted to reactive products that form cross-links between the model nucleophile 4-(4-nitrobenzyl)-pyridine (NBP) and thiol-species. No NBP-alkylation was observed with 2,2-DCVC corresponding to its low cytotoxicity and mutagenicity. The lower activity of GSH-conjugation of TCE by human liver fractions, in combination with the lower fraction of potential nephrotoxic and mutagenic 1,2-DCVG-isomers, suggest that humans are at much lower risk for TCE-associated nephrotoxic effects than rats."
  }
 }
