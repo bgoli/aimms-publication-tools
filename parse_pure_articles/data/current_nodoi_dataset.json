@@ -1,5 +1,5 @@
 {
- "1620040606.675395": {
+ "1622446750.1539621": {
   "month": "1",
   "pub_date": "21 Jan 2021",
   "year": 2021,
@@ -11,19 +11,7 @@
   "journal": "bioRxiv",
   "description": "Different resource allocation in a Bacillus subtilis population displaying bimodal motilityTo cope with sudden changes in their environment, bacteria can use a bet-hedging strategy by dividing the population into cells with different properties. This so-called bimodal or bistable cellular differentiation is generally controlled by positive feedback regulation of transcriptional activators. Due to the continuous increase in cell volume, it is difficult for these activators to reach an activation threshold concentration when cells are growing exponentially. This is one reason why bimodal differentiation is primarily observed from the onset of the stationary phase when exponential growth ceases. An exception is the bimodal induction of motility in Bacillus subtilis, which occurs early during exponential growth. Several mechanisms have been put forward to explain this, including double negative-feedback regulation and the stability of the mRNA molecules involved. In this study, we used fluorescence-assisted cell sorting to compare the transcriptome of motile and non-motile cells and noted that expression of ribosomal genes is lower in motile cells. This was confirmed using an unstable GFP reporter fused to the strong ribosomal rpsD promoter. We propose that the reduction in ribosomal gene expression in motile cells is the result of a diversion of cellular resources to the synthesis of the chemotaxis and motility systems. In agreement, single-cell microscopic analysis showed that motile cells are slightly shorter than non-motile cells, an indication of slower growth. We speculate that this growth rate reduction can contribute to the bimodal induction of motility during exponential growth."
  },
- "1620040606.6846623": {
-  "month": "2",
-  "pub_date": "10 Feb 2021",
-  "year": 2021,
-  "early_online": "10 Dec 2020",
-  "title": "Protein cost allocation explains metabolic strategies in Escherichia coli",
-  "contributors": "Grigaitis, P., Olivier, B. G., Fiedler, T., Teusink, B., Kummer, U., Veith, N.",
-  "corresponding": null,
-  "organisations": "Systems Bioinformatics, AIMMS, Systems Bioinformatics, Rostock University Medical Center, Department of General Internal Medicine and Psychosomatics, Heidelberg University Hospital, Heidelberg University, Heidelberg, Germany.",
-  "journal": "Journal of Biotechnology",
-  "description": "Protein cost allocation explains metabolic strategies in Escherichia coliIn-depth understanding of microbial growth is crucial for the development of new advances in biotechnology and for combating microbial pathogens. Condition-specific proteome expression is central to microbial physiology and growth. A multitude of processes are dependent on the protein expression, thus, whole-cell analysis of microbial metabolism using genome-scale metabolic models is an attractive toolset to investigate the behaviour of microorganisms and their communities. However, genome-scale models that incorporate macromolecular expression are still inhibitory complex: the conceptual and computational complexity of these models severely limits their potential applications. In the need for alternatives, here we revisit some of the previous attempts to create genome-scale models of metabolism and macromolecular expression to develop a novel framework for integrating protein abundance and turnover costs to conventional genome-scale models. We show that such a model of Escherichia coli successfully reproduces experimentally determined adaptations of metabolism in a growth condition-dependent manner. Moreover, the model can be used as means of investigating underutilization of the protein machinery among different growth settings. Notably, we obtained strongly improved predictions of flux distributions, considering the costs of protein translation explicitly. This finding in turn suggests protein translation being the main regulation hub for cellular growth."
- },
- "1620040606.687363": {
+ "1622446750.154929": {
   "month": "2",
   "pub_date": "18 Feb 2021",
   "year": 2021,
@@ -35,31 +23,7 @@
   "journal": "Drug Discovery Today",
   "description": "From recipe to research: introducing undergraduate students to the nature of science using a hybrid practical course centred on drug discovery for neglected diseasesHighlights\u2022A hybrid undergraduate laboratory course combines laboratory skills and exposure to research.\u2022Students experience the nature of science first-hand by synthesising hit derivatives.\u2022A neglected disease drug discovery project is well suited as research topic.\u2022A daily interactive session fosters scientific discussion amongst students.A hybrid practical course in synthetic medicinal chemistry was designed for second-year undergraduate students. The first half focused on techniques and skills, while the second half addressed a drug discovery setting in a research project on neglected diseases. A daily interactive plenary session allowed for thorough discussions among the students. Over four years, 187 students participated, and 68 pure compounds (many of which novel) were isolated and biologically tested. Evaluations by students and teachers were positive. The success of the hybrid practical course demonstrates how undergraduate students can be meaningfully engaged in the nature of science through a drug discovery project."
  },
- "1620040606.6883602": {
-  "month": "2",
-  "pub_date": "5 Mar 2021",
-  "year": 2021,
-  "early_online": "9 Feb 2021",
-  "title": "Site-Specific N-Linked Glycosylation Analysis of Human Carcinoembryonic Antigen by Sheathless Capillary Electrophoresis-Tandem Mass Spectrometry",
-  "contributors": "Pont, L., Kuzyk, V., Benavente, F., Sanz-Nebot, V., Mayboroda, O. A., Wuhrer, M., Lageveen-Kammeijer, G. S. M.",
-  "corresponding": "Benavente, F., Lageveen-Kammeijer, G. S. M.",
-  "organisations": "BioAnalytical Chemistry, AIMMS, University of Barcelona, Leiden University Medical Center",
-  "journal": "Journal of Proteome Research",
-  "description": "Site-Specific N-Linked Glycosylation Analysis of Human Carcinoembryonic Antigen by Sheathless Capillary Electrophoresis-Tandem Mass SpectrometryWith 28 potential N-glycosylation sites, human carcinoembryonic antigen (CEA) bears an extreme amount of N-linked glycosylation, and approximately 60% of its molecular mass can be attributed to its carbohydrates. CEA is often overexpressed and released by many solid tumors, including colorectal carcinomas. CEA displays an impressive heterogeneity and variability in sugar content; however, site-specific distribution of carbohydrate structures has not been reported so far. The present study investigated CEA samples purified from human colon carcinoma and human liver metastases and enabled the characterization of 21 out of 28 potential N-glycosylation sites with respect to their occupancy. The coverage was achieved by a multienzymatic digestion approach with specific enzymes, such as trypsin, endoproteinase Glu-C, and the nonspecific enzyme, Pronase, followed by analysis using sheathless CE-MS/MS. In total, 893 different N-glycopeptides and 128 unique N-glycan compositions were identified. Overall, a great heterogeneity was found both within (micro) and in between (macro) individual N-glycosylation sites. Moreover, notable differences were found on certain N-glycosylation sites between primary adenocarcinoma and metastatic tumor in regard to branching, bisection, sialylation, and fucosylation. Those features, if further investigated in a targeted manner, may pave the way toward improved diagnostics and monitoring of colorectal cancer progression and recurrence. Raw mass spectrometric data and Skyline processed data files that support the findings of this study are available in the MassIVE repository with the identifier MSV000086774 [DOI: 10.25345/C5Z50X]."
- },
- "1620040606.6953416": {
-  "month": "3",
-  "pub_date": "5 Mar 2021",
-  "year": 2021,
-  "early_online": "9 Feb 2021",
-  "title": "Site-Specific N-Linked Glycosylation Analysis of Human Carcinoembryonic Antigen by Sheathless Capillary Electrophoresis-Tandem Mass Spectrometry",
-  "contributors": "Pont, L., Kuzyk, V., Benavente, F., Sanz-Nebot, V., Mayboroda, O. A., Wuhrer, M., Lageveen-Kammeijer, G. S. M.",
-  "corresponding": "Benavente, F., Lageveen-Kammeijer, G. S. M.",
-  "organisations": "BioAnalytical Chemistry, AIMMS, University of Barcelona, Leiden University Medical Center",
-  "journal": "Journal of Proteome Research",
-  "description": "Site-Specific N-Linked Glycosylation Analysis of Human Carcinoembryonic Antigen by Sheathless Capillary Electrophoresis-Tandem Mass SpectrometryWith 28 potential N-glycosylation sites, human carcinoembryonic antigen (CEA) bears an extreme amount of N-linked glycosylation, and approximately 60% of its molecular mass can be attributed to its carbohydrates. CEA is often overexpressed and released by many solid tumors, including colorectal carcinomas. CEA displays an impressive heterogeneity and variability in sugar content; however, site-specific distribution of carbohydrate structures has not been reported so far. The present study investigated CEA samples purified from human colon carcinoma and human liver metastases and enabled the characterization of 21 out of 28 potential N-glycosylation sites with respect to their occupancy. The coverage was achieved by a multienzymatic digestion approach with specific enzymes, such as trypsin, endoproteinase Glu-C, and the nonspecific enzyme, Pronase, followed by analysis using sheathless CE-MS/MS. In total, 893 different N-glycopeptides and 128 unique N-glycan compositions were identified. Overall, a great heterogeneity was found both within (micro) and in between (macro) individual N-glycosylation sites. Moreover, notable differences were found on certain N-glycosylation sites between primary adenocarcinoma and metastatic tumor in regard to branching, bisection, sialylation, and fucosylation. Those features, if further investigated in a targeted manner, may pave the way toward improved diagnostics and monitoring of colorectal cancer progression and recurrence. Raw mass spectrometric data and Skyline processed data files that support the findings of this study are available in the MassIVE repository with the identifier MSV000086774 [DOI: 10.25345/C5Z50X]."
- },
- "1620040606.696339": {
+ "1622446750.155926": {
   "month": "3",
   "pub_date": "11 Mar 2021",
   "year": 2021,
@@ -71,7 +35,7 @@
   "journal": null,
   "description": null
  },
- "1620040606.6983335": {
+ "1622446750.1569233": {
   "month": "3",
   "pub_date": "18 Mar 2021",
   "year": 2021,
@@ -83,40 +47,28 @@
   "journal": null,
   "description": null
  },
- "1620040606.7023225": {
+ "1622446750.158918": {
   "month": "3",
-  "pub_date": "29 Mar 2021",
+  "pub_date": "31 Mar 2021",
   "year": 2021,
   "early_online": null,
-  "title": "Bicyclic \u03b2-sheet mimetics that target the transcriptional coactivator \u03b2-catenin and inhibit Wnt signaling",
-  "contributors": "Wendt, M., Bellavita, R., Gerber, A., Efr\u00e9m, N., van Ramshorst, T., Pearce, N. M., Davey, P. R. J., Everard, I., Vazquez-Chantada, M., Chiarpari, E., Grieco, P., Hennig, S., Grossmann, T. N.",
+  "title": "Chlorinated paraffins and tris (1-chloro-2-propyl) phosphate in spray polyurethane foams \u2013 A source for indoor exposure? Chlorinated paraffins",
+  "contributors": "Brandsma, S., Brits, M., de Boer, J., Leonards, P.",
   "corresponding": null,
-  "organisations": "Organic Chemistry, AIMMS, Vrije Universiteit, VU, Amsterdam, AstraZeneca, University of Naples Federico II: Universita degli Studi di Napoli Federico II",
-  "journal": "Angewandte Chemie. International Edition",
-  "description": "Bicyclic \u03b2-sheet mimetics that target the transcriptional coactivator \u03b2-catenin and inhibit Wnt signalingProtein complexes are defined by the three-dimensional structure of participating binding partners. Knowledge about these structures can facilitate the design of peptidomimetics which have been applied e.g. as inhibitors of protein-protein interactions (PPIs). Even though \u03b2-sheets participate widely in PPIs, they have only rarely served as the basis for peptidomimetic PPI inhibitors, in particular when addressing intracellular targets. Here, we present the structure-based design of \u03b2-sheet mimetics targeting the intracellular protein \u03b2-catenin, a central component of the Wnt signaling pathway. Based on a protein binding partner of \u03b2-catenin, a macrocyclic peptide was designed and its crystal structure in complex with \u03b2-catenin obtained. Using this structure, we designed a library of bicyclic \u03b2-sheet mimetics employing a late-stage diversification strategy. Several mimetics were identified that compete with transcription factor binding to \u03b2-catenin and inhibit Wnt signaling in cells. The presented design strategy can support the development of inhibitors for other \u03b2-sheet-mediated PPIs."
+  "organisations": "AIMMS, E&H: Environmental Bioanalytical Chemistry, Environment and Health, National Metrology Institute of South Africa (NMISA), CSIR Campus, Meiring Naude Road, Pretoria, 0040, South Africa.",
+  "journal": "Journal of Hazardous Materials",
+  "description": "Chlorinated paraffins and tris (1-chloro-2-propyl) phosphate in spray polyurethane foams \u2013 A source for indoor exposure? Chlorinated paraffinsTris (1-chloro-2-propyl) phosphateOne-component foam (OCF)Spray polyurethane foam (SPF)Dermal exposureIn this study, we investigated chemical additives present in new and used spray polyurethane foams (SPFs) and assessed the dermal transfer through direct contact."
  },
- "1620040606.7103014": {
-  "month": "4",
-  "pub_date": "23 Apr 2021",
-  "year": 2021,
-  "early_online": null,
-  "title": "Online biophysical predictions for SARS-Co",
-  "contributors": "Kagami, L., Roca-Mart\u00ednez, J., Gavald\u00e1-Garc\u00eda, J., Ramasamy, P., Feenstra, K. A., Vranken, W. F.Pages:23",
-  "corresponding": null,
-  "organisations": "Bioinformatics, AIMMS, Integrative Bioinformatics, Interuniversity Institute of Bioinformatics in Brussels",
-  "journal": "BMC Molecular and Cell Biology",
-  "description": "Online biophysical predictions for SARS-CoV-2 proteinsBACKGROUND: The SARS-CoV-2 virus, the causative agent of COVID-19, consists of an assembly of proteins that determine its infectious and immunological behavior, as well as its response to therapeutics. Major structural biology efforts on these proteins have already provided essential insights into the mode of action of the virus, as well as avenues for structure-based drug design. However, not all of the SARS-CoV-2 proteins, or regions thereof, have a well-defined three-dimensional structure, and as such might exhibit ambiguous, dynamic behaviour that is not evident from static structure representations, nor from molecular dynamics simulations using these structures. MAIN: We present a website ( https://bio2byte.be/sars2/ ) that provides protein sequence-based predictions of the backbone and side-chain dynamics and conformational propensities of these proteins, as well as derived early folding, disorder, \u03b2-sheet aggregation, protein-protein interaction and epitope propensities. These predictions attempt to capture the inherent biophysical propensities encoded in the sequence, rather than context-dependent behaviour such as the final folded state. In addition, we provide the biophysical variation that is observed in homologous proteins, which gives an indication of the limits of their functionally relevant biophysical behaviour.CONCLUSION: The https://bio2byte.be/sars2/ website provides a range of protein sequence-based predictions for 27 SARS-CoV-2 proteins, enabling researchers to form hypotheses about their possible functional modes of action."
- },
- "1620040606.7112987": {
+ "1622446750.1599152": {
   "month": "5",
   "pub_date": "May 2021",
   "year": 2021,
   "early_online": null,
-  "title": "In Search of the Quality of Micro and Nano Plastics Analysis and Reference Materials.The environmental monitoring of plastics is positioned high on the agenda of countries and international organisations worldwide. Large scale national and regional monitoring programs are however hampered by the lack of urgently needed harmonised analytical methods and reference materials for QA/QC of these methods. Data on the presence of plastics in the environment varies largely regarding quality and comparability. Robust and validated harmonised methods and QA/QC tools still missing. Interlaboratory studies are an efficient way to achieve this and both gather information on the state of the art, can be used to validate the methods in terms of uncertainty and to select candidate reference materials. Here we will present the result of two ILS studies of which one is currently on-going and the approach of the new EU project EUROq",
-  "contributors": "van Bavel, B., van Mourik, L., Crum, S., Martinez-Frances, E., Leslie, H., de Boer, J., Cofino, W., Lusher, A.",
+  "title": "Structure and dynamics of a mycobacterial type",
+  "contributors": "Bunduc, C. M., Fahrenkamp, D., Wald, J., Ummels, R., Bitter, W., Houben, E. N. G., Marlovits, T. C.",
   "corresponding": null,
-  "organisations": "E&H: Environmental Bioanalytical Chemistry, AIMMS, E&H: Environmental Chemistry and Toxicology, Environment and Health, Norwegian Institute for Water Research, QUASIMEME Laboratory Performance Studies, Wageningen University & Research",
-  "journal": null,
-  "description": "In Search of the Quality of Micro and Nano Plastics Analysis and Reference Materials.The environmental monitoring of plastics is positioned high on the agenda of countries and international organisations worldwide. Large scale national and regional monitoring programs are however hampered by the lack of urgently needed harmonised analytical methods and reference materials for QA/QC of these methods. Data on the presence of plastics in the environment varies largely regarding quality and comparability. Robust and validated harmonised methods and QA/QC tools still missing. Interlaboratory studies are an efficient way to achieve this and both gather information on the state of the art, can be used to validate the methods in terms of uncertainty and to select candidate reference materials. Here we will present the result of two ILS studies of which one is currently on-going and the approach of the new EU project EUROqCHARM which will focus on the harmonisation of analytical methods for nano-, micro- and macro plastic in environmental samples and the production of reference material."
+  "organisations": "Molecular Microbiology, AIMMS, Centre for Structural Systems Biology, Amsterdam Infection and Immunity Institute",
+  "journal": "Nature",
+  "description": "Structure and dynamics of a mycobacterial typeVII secretion systemMycobacterium tuberculosis is the cause of one of the most important infectious diseases in humans, which leads to 1.4 million deaths every year1. Specialized protein transport systems-known as type VII secretion systems (T7SSs)-are central to the virulence of this pathogen, and are also crucial for nutrient and metabolite transport across the mycobacterial cell envelope2,3. Here we present the structure of an intact T7SS inner-membrane complex of M. tuberculosis. We show how the 2.32-MDa ESX-5 assembly, which contains 165 transmembrane helices, is restructured and stabilized as a trimer of dimers by the MycP5 protease. A trimer of MycP5 caps a central periplasmic dome-like chamber that is formed by three EccB5 dimers, with the proteolytic sites of MycP5 facing towards the cavity. This chamber suggests a central secretion and processing conduit. Complexes without MycP5 show disruption of the EccB5 periplasmic assembly and increased flexibility, which highlights the importance of MycP5 for complex integrity. Beneath the EccB5-MycP5 chamber, dimers of the EccC5 ATPase assemble into three bundles of four transmembrane helices each, which together seal the potential central secretion channel. Individual cytoplasmic EccC5 domains adopt two distinctive conformations that probably reflect different secretion states. Our work suggests a previously undescribed mechanism of protein transport and provides a structural scaffold to aid in the development of drugs against this major human pathogen."
  }
 }

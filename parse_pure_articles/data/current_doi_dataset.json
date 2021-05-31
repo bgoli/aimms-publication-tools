@@ -155,18 +155,6 @@
   "journal": "Journal of the American Chemical Society",
   "description": "Halide Perovskite-Lead Chalcohalide Nanocrystal HeterostructuresWe report the synthesis of colloidal CsPbX3-Pb4S3Br2 (X = Cl, Br, I) nanocrystal heterostructures, providing an example of a sharp and atomically resolved epitaxial interface between a metal halide perovskite and a non-perovskite lattice. The CsPbBr3-Pb4S3Br2 nanocrystals are prepared by a two-step direct synthesis using preformed subnanometer CsPbBr3 clusters. Density functional theory calculations indicate the creation of a quasi-type II alignment at the heterointerface as well as the formation of localized trap states, promoting ultrafast separation of photogenerated excitons and carrier trapping, as confirmed by spectroscopic experiments. Postsynthesis reaction with either Cl- or I- ions delivers the corresponding CsPbCl3-Pb4S3Br2 and CsPbI3-Pb4S3Br2 heterostructures, thus enabling anion exchange only in the perovskite domain. An increased structural rigidity is conferred to the perovskite lattice when it is interfaced with the chalcohalide lattice. This is attested by the improved stability of the metastable \u03b3phase (or \"black\"phase) of CsPbI3 in the CsPbI3-Pb4S3Br2 heterostructure. "
  },
- "https://doi.org/10.1080/00268976.2020.1811908": {
-  "month": "1",
-  "pub_date": "17 Jan 2021",
-  "year": 2021,
-  "early_online": null,
-  "title": "High-resolution infrared spectroscopy of naphthalene and acenaphthene dimers",
-  "contributors": "Lemmens, A. K., Chopra, P., Garg, D., Steber, A. L., Schnell, M., Buma, W. J., Rijs, A. M.",
-  "corresponding": null,
-  "organisations": "BioAnalytical Chemistry, AIMMS",
-  "journal": "Molecular Physics",
-  "description": "High-resolution infrared spectroscopy of naphthalene and acenaphthene dimers"
- },
  "https://doi.org/10.3389/fchem.2020.608030": {
   "month": "1",
   "pub_date": "21 Jan 2021",
@@ -448,12 +436,36 @@
   "pub_date": "24 Feb 2021",
   "year": 2021,
   "early_online": null,
-  "title": "Validating Differential Volatilome Profiles in Parkinson\u2019s Disease",
-  "contributors": "Sinclair, E., Walton-Doyle, C., Sarkar, D., Hollywood, K. A., Milne, J., Lim, S. H., Kunath, T., Rijs, A. M., Bie, R. M. A. D., Silverdale, M., Trivedi, D. K., Barran, P.",
-  "corresponding": null,
-  "organisations": "BioAnalytical Chemistry, AIMMS",
+  "title": "Validating differential volatilome profiles in Parkinson's disease",
+  "contributors": "Sinclair, E., Walton-Doyle, C., Sarkar, D., Hollywood, K. A., Milne, J., Lim, S. H., Kunath, T., Rijs, A. M., de Bie, R. M., Silverdale, M., Trivedi, D. K., Barran, P.",
+  "corresponding": "Barran, P.",
+  "organisations": "BioAnalytical Chemistry, AIMMS, University of Manchester, University of Edinburgh, VU University Medical Center",
   "journal": "ACS Central Science",
-  "description": "Validating Differential Volatilome Profiles in Parkinson\u2019s Disease"
+  "description": "Validating differential volatilome profiles in Parkinson's diseaseParkinson's disease (PD) is a progressive neurodegenerative disorder that does not currently have a robust clinical diagnostic test. Nonmotor symptoms such as skin disorders have long since been associated with the disease, and more recently a characteristic odor emanating from the skin of people with Parkinson's has been identified. Here, dynamic head space (DHS) thermal desorption (TD) gas chromatography-mass spectrometry (GC-MS) is implemented to directly measure the volatile components of sebum on swabs sampled from people with Parkinson's-both drug na\u00efve and those on PD medications (n = 100) and control subjects (n = 29). Supervised multivariate analyses of data showed 84.4% correct classification of PD cases using all detected volatile compounds. Variable importance in projection (VIP) scores were generated from these data, which revealed eight features with VIP > 1 and p < 0.05 which all presented a downregulation within the control cohorts. Purified standards based on previously annotated analytes of interest eicosane and octadecanal did not match to patient sample data, although multiple metabolite features are annotated with these compounds all with high spectral matches indicating the presence of a series of similar structured species. DHS-TD-GC-MS analysis of a range of lipid standards has revealed the presence of common hydrocarbon species rather than differentiated intact compounds which are hypothesized to be breakdown products of lipids. This replication study validates that a differential volatile profile between control and PD cohorts can be measured using an analytical method that measures volatile compounds directly from skin swabs."
+ },
+ "https://doi.org/10.1021/acs.joc.0c02963": {
+  "month": "3",
+  "pub_date": "5 Mar 2021",
+  "year": 2021,
+  "early_online": "12 Feb 2021",
+  "title": "How the Lewis Base F-Catalyzes the 1,3-Dipolar Cycloaddition between Carbon Dioxide and Nitrilimines",
+  "contributors": "Svatunek, D., Hansen, T., Houk, K. N., Hamlin, T. A.",
+  "corresponding": "Hamlin, T. A.",
+  "organisations": "Theoretical Chemistry, Chemistry and Pharmaceutical Sciences, AIMMS, University of California at Los Angeles",
+  "journal": "The Journal of organic chemistry",
+  "description": "How the Lewis Base F-Catalyzes the 1,3-Dipolar Cycloaddition between Carbon Dioxide and NitriliminesThe mechanism of the Lewis base F- catalyzed 1,3-dipolar cycloaddition between CO2 and nitrilimines is interrogated using DFT calculations. F- activates the nitrilimine, not CO2 as proposed in the literature, and imparts a significant rate enhancement for the cycloaddition. The origin of this catalysis is in the strength of the primary orbital interactions between the reactants. The Lewis base activated nitrilimine-F- has high-lying filled FMOs. The smaller FMO-LUMO gap promotes a rapid nucleophilic attack and overall cycloaddition with CO2. "
+ },
+ "https://doi.org/10.1021/acs.jctc.0c00964": {
+  "month": "3",
+  "pub_date": "9 Mar 2021",
+  "year": 2021,
+  "early_online": "8 Feb 2021",
+  "title": "Generalization of Intrinsic Orbitals to Kramers-Paired Quaternion Spinors, Molecular Fragments, and Valence Virtual Spinors",
+  "contributors": "Senjean, B., Sen, S., Repisky, M., Knizia, G., Visscher, L.",
+  "corresponding": "Senjean, B.",
+  "organisations": "Theoretical Chemistry, AIMMS, UiT The Arctic University of Norway, Pennsylvania State University",
+  "journal": "Journal of chemical theory and computation",
+  "description": "Generalization of Intrinsic Orbitals to Kramers-Paired Quaternion Spinors, Molecular Fragments, and Valence Virtual SpinorsLocalization of molecular orbitals finds its importance in the representation of chemical bonding (and antibonding) and in the local correlation treatments beyond mean-field approximation. In this paper, we generalize the intrinsic atomic and bonding orbitals [G. Knizia, J. Chem. Theory Comput. 2013, 9, 11, 4834-4843] to relativistic applications using complex and quaternion spinors, as well as to molecular fragments instead of atomic fragments only. By performing a singular value decomposition, we show how localized valence virtual orbitals can be expressed on this intrinsic minimal basis. We demonstrate our method on systems of increasing complexity, starting from simple cases such as benzene, acrylic acid, and ferrocene molecules, and then demonstrate the use of molecular fragments and inclusion of relativistic effects for complexes containing heavy elements such as tellurium, iridium, and astatine. The aforementioned scheme is implemented into a standalone program interfaced with several different quantum chemistry packages."
  },
  "https://doi.org/10.1021/acs.orglett.1c00136": {
   "month": "3",
@@ -478,6 +490,18 @@
   "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, Vrije Universiteit Amsterdam",
   "journal": "Chemical Science",
   "description": "How metallylenes activate small moleculesWe have studied the activation of dihydrogen by metallylenes using relativistic density functional theory (DFT). Our detailed activation strain and Kohn-Sham molecular orbital analyses have quantified the physical factors behind the decreased reactivity of the metallylene on going down Group 14, from carbenes to stannylenes. Along this series, the reactivity decreases due to a worsening of the back-donation interaction between the filled lone-pair orbital of the metallylene and the \u03c3*-orbital of H2, which, therefore, reduces the metallylene-substrate interaction and increases the reaction barrier. As the metallylene ligand is varied from nitrogen to phosphorus to arsenic a significant rate enhancement is observed for the activation of H2due to (i) a reduced steric (Pauli) repulsion between the metallylene and the substrate; and (ii) less activation strain, as the metallylene becomes increasingly more predistorted. Using a rationally designed metallylene with an optimal Group 14 atom and ligand combination, we show that a number of small molecules (i.e.HCN, CO2, H2, NH3) may also be readily activated. For the first time, we show the ability of our H2activated designer metallylenes to hydrogenate unsaturated hydrocarbons. The results presented herein will serve as a guide for the rational design of metallylenes toward the activation of small molecules and subsequent reactions."
+ },
+ "https://doi.org/10.1002/open.202000323": {
+  "month": "4",
+  "pub_date": "Apr 2021",
+  "year": 2021,
+  "early_online": "17 Feb 2021",
+  "title": "A Quantitative Molecular Orbital Perspective of the Chalcogen Bond",
+  "contributors": "de Azevedo Santos, L., van der Lubbe, S. C., Hamlin, T. A., Ramalho, T. C., Bickelhaupt, F. M.",
+  "corresponding": "Bickelhaupt, F. M.",
+  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, Universidade Federal de Lavras, University of Hradec Kralove",
+  "journal": "ChemistryOpen",
+  "description": "A Quantitative Molecular Orbital Perspective of the Chalcogen BondWe have quantum chemically analyzed the structure and stability of archetypal chalcogen-bonded model complexes D2Ch\u22c5\u22c5\u22c5A\u2212 (Ch = O, S, Se, Te; D, A = F, Cl, Br) using relativistic density functional theory at ZORA-M06/QZ4P. Our purpose is twofold: (i) to compute accurate trends in chalcogen-bond strength based on a set of consistent data; and (ii) to rationalize these trends in terms of detailed analyses of the bonding mechanism based on quantitative Kohn-Sham molecular orbital (KS-MO) theory in combination with a canonical energy decomposition analysis (EDA). At odds with the commonly accepted view of chalcogen bonding as a predominantly electrostatic phenomenon, we find that chalcogen bonds, just as hydrogen and halogen bonds, have a significant covalent character stemming from strong HOMO\u2212LUMO interactions. Besides providing significantly to the bond strength, these orbital interactions are also manifested by the structural distortions they induce as well as the associated charge transfer from A\u2212 to D2Ch."
  },
  "https://doi.org/10.1002/cphc.202100090": {
   "month": "4",
@@ -575,18 +599,6 @@
   "journal": "Chemistry: A European Journal",
   "description": "Not Carbon s\u2013p Hybridization, but Coordination Number Determines C\u2212H and C\u2212C Bond Length"
  },
- "https://doi.org/10.1021/acs.joc.0c02963": {
-  "month": "3",
-  "pub_date": "5 Mar 2021",
-  "year": 2021,
-  "early_online": null,
-  "title": "How the Lewis Base F\u2013 Catalyzes the 1,3-Dipolar Cycloaddition between Carbon Dioxide and Nitrilimines",
-  "contributors": "Svatunek, D., Hansen, T., Houk, K. N., Hamlin, T. A.",
-  "corresponding": null,
-  "organisations": "Theoretical Chemistry, Chemistry and Pharmaceutical Sciences, AIMMS",
-  "journal": "The Journal of organic chemistry",
-  "description": "How the Lewis Base F\u2013 Catalyzes the 1,3-Dipolar Cycloaddition between Carbon Dioxide and Nitrilimines"
- },
  "https://doi.org/10.1016/j.jhazmat.2020.124245": {
   "month": "3",
   "pub_date": "5 Mar 2021",
@@ -671,18 +683,6 @@
   "journal": "Environment International",
   "description": "An annotation database for chemicals of emerging concern in exposome researchBackground: Chemicals of Emerging Concern (CECs) include a very wide group of chemicals that are suspected to be responsible for adverse effects on health, but for which very limited information is available. Chromatographic techniques coupled with high-resolution mass spectrometry (HRMS) can be used for non-targeted screening and detection of CECs, by using comprehensive annotation databases. Establishing a database focused on the annotation of CECs in human samples will provide new insight into the distribution and extent of exposures to a wide range of CECs in humans. Objectives: This study describes an approach for the aggregation and curation of an annotation database (CECscreen) for the identification of CECs in human biological samples. Methods: The approach consists of three main parts. First, CECs compound lists from various sources were aggregated and duplications and inorganic compounds were removed. Subsequently, the list was curated by standardization of structures to create \u201cMS-ready\u201d and \u201cQSAR-ready\u201d SMILES, as well as calculation of exact masses (monoisotopic and adducts) and molecular formulas. The second step included the simulation of Phase I metabolites. The third and final step included the calculation of QSAR predictions related to physicochemical properties, environmental fate, toxicity and Absorption, Distribution, Metabolism, Excretion (ADME) processes and the retrieval of information from the US EPA CompTox Chemicals Dashboard. Results: All CECscreen database and property files are publicly available (DOI: https://doi.org/10.5281/zenodo.3956586). In total, 145,284 entries were aggregated from various CECs data sources. After elimination of duplicates and curation, the pipeline produced 70,397 unique \u201cMS-ready\u201d structures and 66,071 unique QSAR-ready structures, corresponding with 69,526 CAS numbers. Simulation of Phase I metabolites resulted in 306,279 unique metabolites. QSAR predictions could be performed for 64,684 of the QSAR-ready structures, whereas information was retrieved from the CompTox Chemicals Dashboard for 59,739 CAS numbers out of 69,526 inquiries. CECscreen is incorporated in the in silico fragmentation approach MetFrag. Discussion: The CECscreen database can be used to prioritize annotation of CECs measured in non-targeted HRMS, facilitating the large-scale detection of CECs in human samples for exposome research. Large-scale detection of CECs can be further improved by integrating the present database with resources that contain CECs (metabolites) and meta-data measurements, further expansion towards in silico and experimental (e.g., MassBank) generation of MS/MS spectra, and development of bioinformatics approaches capable of using correlation patterns in the measured chemical features."
  },
- "https://doi.org/10.1021/acs.accounts.1c00016": {
-  "month": "3",
-  "pub_date": "24 Mar 2021",
-  "year": 2021,
-  "early_online": null,
-  "title": "The Pauli Repulsion-Lowering Concept in Catalysis",
-  "contributors": "Hamlin, T. A., Bickelhaupt, F. M., Fern\u00e1ndez, I.",
-  "corresponding": null,
-  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences",
-  "journal": "Accounts of Chemical Research",
-  "description": "The Pauli Repulsion-Lowering Concept in Catalysis"
- },
  "https://doi.org/10.1101/2021.03.15.21253665": {
   "month": "3",
   "pub_date": "25 Mar 2021",
@@ -755,6 +755,54 @@
   "journal": "Pharmacological reviews",
   "description": "Viral G Protein-Coupled Receptors: Attractive Targets for Herpesvirus-Associated DiseasesHerpesviruses are ubiquitous pathogens that establish lifelong, latent infections in their host. Spontaneous reactivation of herpesviruses is often asymptomatic or clinically manageable in healthy individuals, but reactivation events in immunocompromised or immunosuppressed individuals can lead to severe morbidity and mortality. Moreover, herpesvirus infections have been associated with multiple proliferative cardiovascular and post-transplant diseases. Herpesviruses encode viral G protein-coupled receptors (vGPCRs) that alter the host cell by hijacking cellular pathways and play important roles in the viral life cycle and these different disease settings. In this review, we discuss the pharmacological and signaling properties of these vGPCRs, their role in the viral life cycle, and their contribution in different diseases. Because of their prominent role, vGPCRs have emerged as promising drug targets, and the potential of vGPCR-targeting therapeutics is being explored. Overall, these vGPCRs can be considered as attractive targets moving forward in the development of antiviral, cancer, and/or cardiovascular disease treatments. SIGNIFICANCE STATEMENT: In the last decade, herpesvirus-encoded G protein-coupled receptors (GPCRs) have emerged as interesting drug targets with the growing understanding of their critical role in the viral life cycle and in different disease settings. This review presents the pharmacological properties of these viral receptors, their role in the viral life cycle and different diseases, and the emergence of therapeutics targeting viral GPCRs."
  },
+ "https://doi.org/10.1021/acs.jctc.1c00102": {
+  "month": "4",
+  "pub_date": "13 Apr 2021",
+  "year": 2021,
+  "early_online": "10 Mar 2021",
+  "title": "Dispersion without Many-Body Density Distortion: Assessment on Atoms and Small Molecules",
+  "contributors": "Kooi, D. P., Weckman, T., Gori-Giorgi, P.",
+  "corresponding": "Kooi, D. P.",
+  "organisations": "Theoretical Chemistry, AIMMS",
+  "journal": "Journal of chemical theory and computation",
+  "description": "Dispersion without Many-Body Density Distortion: Assessment on Atoms and Small MoleculesThe \"fixed diagonal matrices\"(FDM) dispersion formalism [ Kooi, D. P.; et al. J. Phys. Chem. Lett. 2019, 10, 1537 ] is based on a supramolecular wave function constrained to leave the diagonal of the many-body density matrix of each monomer unchanged, reducing dispersion to a balance between kinetic energy and monomer-monomer interaction. The corresponding variational optimization leads to expressions for the dispersion energy in terms of the ground-state pair densities of the isolated monomers only, providing a framework to build new approximations without the need for polarizabilities or virtual orbitals. Despite the underlying microscopic real space mechanism being incorrect, as in the exact case there is density relaxation, the formalism has been shown to give extremely accurate (or even exact) dispersion coefficients for H and He. The question we answer in this work is how accurate the FDM expressions can be for isotropic and anisotropic C6 dispersion coefficients when monomer pair densities are used from different levels of theory, namely Hartree-Fock, MP2, and CCSD. For closed-shell systems, FDM with CCSD monomer pair densities yield a mean average percent error for isotropic C6 dispersion coefficients of about 7% and a maximum absolute error within 18%, with a similar accuracy for anisotropies. The performance for open-shell systems is less satisfactory, with CCSD pair densities performing sometimes worse than Hartree-Fock or MP2. In the present implementation, the computational cost on top of the monomer's ground-state calculations is O(N4). The results show little sensitivity to the basis set used in the monomer's calculations."
+ },
+ "https://doi.org/10.1021/acs.accounts.1c00016": {
+  "month": "4",
+  "pub_date": "20 Apr 2021",
+  "year": 2021,
+  "early_online": "24 Mar 2021",
+  "title": "The Pauli Repulsion-Lowering Concept in Catalysis",
+  "contributors": "Hamlin, T. A., Bickelhaupt, F. M., Fern\u00e1ndez, I.",
+  "corresponding": "Bickelhaupt, F. M.",
+  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, Complutense University",
+  "journal": "Accounts of Chemical Research",
+  "description": "The Pauli Repulsion-Lowering Concept in CatalysisConspectusOrganic chemistry has undoubtedly had a profound impact on humanity. Day in and day out, we find ourselves constantly surrounded by organic compounds. Pharmaceuticals, plastics, fuels, cosmetics, detergents, and agrochemicals, to name a few, are all synthesized by organic reactions. Very often, these reactions require a catalyst in order to proceed in a timely and selective manner. Lewis acids and organocatalysts are commonly employed to catalyze organic reactions and are considered to enhance the frontier molecular orbital (FMO) interactions. A vast number of textbooks and primary literature sources suggest that the binding of a Lewis acid or an iminium catalyst to a reactant (R1) stabilizes its LUMO and leads to a smaller HOMO(R2)-LUMO(R1) energy gap with the other reactant (R2), thus resulting in a faster reaction. This forms the basis for the so-called LUMO-lowering catalysis concept. Despite the simplicity and popularity of FMO theory, a number of deficiencies have emerged over the years, as a consequence of these FMOs not being the operative factor in the catalysis. LUMO-lowering catalysis is ultimately incomplete and is not always operative in catalyzed organic reactions. Our groups have recently undertaken a concerted effort to generate a unified framework to rationalize and predict chemical reactivity using a causal model that is rooted in quantum mechanics. In this Account, we propose the concept of Pauli repulsion-lowering catalysis to understand the catalysis in fundamental processes in organic chemistry. Our findings emerge from state-of-the-art computational methods, namely, the activation strain model (ASM) of reactivity in conjunction with quantitative Kohn-Sham molecular orbital theory (KS-MO) and a matching energy decomposition analysis (EDA). The binding of the catalyst to the substrate not only leads to a stabilization of its LUMO but also induces a significant reduction of the two-orbital, four-electron Pauli repulsion involving the key molecular orbitals of both reactants. This repulsion-lowering originates, for the textbook Lewis acid-catalyzed Diels-Alder reaction, from the catalyst polarizing the occupied \u03c0orbital of the dienophile away from the carbon atoms that form new bonds with the diene. This polarization of the occupied dienophile \u03c0orbital reduces the occupied orbital overlap with the diene and constitutes the ultimate physical factor responsible for the acceleration of the catalyzed process as compared to the analogous uncatalyzed reaction. We show that this physical mechanism is generally applicable regardless of the type of reaction (Diels-Alder and Michael addition reactions) and the way the catalyst is bonded to the reactants (i.e., from pure covalent or dative bonds to weaker hydrogen or halogen bonds). We envisage that the insights emerging from our analysis will guide future experimental developments toward the design of more efficient catalytic transformations. "
+ },
+ "https://doi.org/10.1039/d1sc00856k": {
+  "month": "5",
+  "pub_date": "7 May 2021",
+  "year": 2021,
+  "early_online": "18 Mar 2021",
+  "title": "A bifunctional iminophosphorane squaramide catalyzed enantioselective synthesis of hydroquinazolines: Via intramolecular aza-Michael reaction to \u03b1,\u03b2-unsaturated esters",
+  "contributors": "Su, G., Thomson, C. J., Yamazaki, K., Rozsar, D., Christensen, K. E., Hamlin, T. A., Dixon, D. J.",
+  "corresponding": "Dixon, D. J.",
+  "organisations": "Chemistry and Pharmaceutical Sciences, Theoretical Chemistry, AIMMS, University of Oxford",
+  "journal": "Chemical Science",
+  "description": "A bifunctional iminophosphorane squaramide catalyzed enantioselective synthesis of hydroquinazolines: Via intramolecular aza-Michael reaction to \u03b1,\u03b2-unsaturated estersAn efficient synthesis of enantioenriched hydroquinazoline cores via a novel bifunctional iminophosphorane squaramide catalyzed intramolecular aza-Michael reaction of urea-linked \u03b1,\u03b2-unsaturated esters is described. The methodology exhibits a high degree of functional group tolerance around the forming hydroquinazoline aryl core and wide structural variance on the nucleophilic N atom of the urea moiety. Excellent yields (up to 99%) and high enantioselectivities (up to 97\u2009:\u20093 er) using both aromatic and less acidic aliphatic ureas were realized. The potential industrial applicability of the transformation was demonstrated in a 20 mmol scale-up experiment using an adjusted catalyst loading of 2 mol%. The origin of enantioselectivity and reactivity enhancement provided by the squaramide motif has been uncovered computationally using density functional theory (DFT) calculations, combined with the activation strain model (ASM) and energy decomposition analysis (EDA). "
+ },
+ "https://doi.org/10.1002/open.202100066": {
+  "month": "4",
+  "pub_date": "Apr 2021",
+  "year": 2021,
+  "early_online": "1 Apr 2021",
+  "title": "A Quantitative Molecular Orbital Perspective of the Chalcogen Bond",
+  "contributors": "de Azevedo Santos, L., van der Lubbe, S. C., Hamlin, T. A., Ramalho, T. C., Bickelhaupt, F. M.",
+  "corresponding": null,
+  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, Universidade Federal de Lavras, University of Hradec Kralove",
+  "journal": "ChemistryOpen",
+  "description": "A Quantitative Molecular Orbital Perspective of the Chalcogen BondInvited for this month's cover are the groups of Prof. Dr. Teodorico C. Ramalho (Federal University of Lavras and University Hradec Kralove) and Prof. Dr. F. Matthias Bickelhaupt (Vrije Universiteit Amsterdam and Radboud University). The cover picture shows the key message of their work, that is, the covalency of the chalcogen bonds, in an elegantly simple and attractive manner. To that end, the chalcogen bonds are represented by schematic 3D structures of the bond donor D2 Ch and the bond acceptor A- , and their attractive interaction in green. Then, a colorful molecular orbital (MO) diagram where the HOMO-LUMO mixing is represented by the mixing of red (HOMO) and blue (LUMO) into purple (MO) is presented. Read the full text of their Full Paper at 10.1002/open.202000323."
+ },
  "https://doi.org/10.1055/s-0040-1707284": {
   "month": "4",
   "pub_date": "Apr 2021",
@@ -779,6 +827,30 @@
   "journal": "Antimicrobial agents and chemotherapy",
   "description": "Heterologous Expression of ethA and katG in Mycobacterium marinum Enables the Rapid Identification of New Prodrugs Active against Mycobacterium tuberculosisScreening strategies for antituberculosis compounds using Mycobacterium tuberculosis are time consuming and require biosafety level 3 (BSL3) facilities, which makes the development of high-throughput assays difficult and expensive. Mycobacterium marinum, a close genetic relative of M. tuberculosis, possesses several advantages as a suitable model for tuberculosis drug screening. However, despite the high genetic similarity, there are some obvious differences in susceptibility to some tuberculosis drugs between these two species, especially for the prodrugs ethionamide and isoniazid. In this study, we aimed to improve M. marinum as a model for antituberculosis drug identification by heterologous expression of two common drug activators, EthA and KatG. These two activators were overexpressed in M. marinum, and the strains were tested against ethionamide, isoniazid, and a library of established antimycobacterial compounds from TB Alliance to compare drug susceptibility. Both in vitro and in vivo using zebrafish larvae, these genetically modified M. marinum strains showed significantly higher susceptibility against ethionamide and isoniazid, which require activation by EthA and KatG. More importantly, a strain overexpressing both ethA and katG was potentially more susceptible to approximately 20% of the antituberculosis hit compounds from the TB Alliance library. Most of these compounds were activated by EthA in M. marinum. Four of these compounds were selected for further analysis, and three of them showed obvious EthA-dependent activity against M. tuberculosis. Overall, our developed M. marinum strains are valuable tools for high-throughput discovery of potential novel antituberculosis prodrugs."
  },
+ "https://doi.org/10.1002/cplu.202000660": {
+  "month": "4",
+  "pub_date": "Apr 2021",
+  "year": 2021,
+  "early_online": "9 Nov 2020",
+  "title": "Proton Transfer and SN2 Reactions as Steps of Fast Selenol and Thiol Oxidation in Proteins: A Model Molecular Study Based on GPx",
+  "contributors": "Dalla Tiezza, M., Bickelhaupt, F. M., Floh\u00e9, L., Orian, L.",
+  "corresponding": "Orian, L.",
+  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, University of Padova, Universidad de la Rep\u00fablica",
+  "journal": "ChemPlusChem",
+  "description": "Proton Transfer and SN2 Reactions as Steps of Fast Selenol and Thiol Oxidation in Proteins: A Model Molecular Study Based on GPxThe so-called peroxidatic cysteines and selenocysteines in proteins reduce hydroperoxides through a dual attack to the peroxide bond in a two-step mechanism. First, a proton dislocation from the thiol/selenol to a close residue of the enzymatic pocket occurs. Then, a nucleophilic attack of the anionic cysteine/selenocysteine to one O atom takes place, while the proton is shuttled back to the second O atom, promoting the formation of a water molecule. In this computational study, we use a molecular model of GPx to demonstrate that the enzymatic environment significantly lowers the barrier of the latter SN2 step. Particularly, in our Se-based model the energy barriers for the two steps are 29.82 and 2.83 kcal mol\u22121, both higher than the corresponding barriers computed in the enzymatic cluster, i. e., 21.60 and null, respectively. Our results, obtained at SMD-B3LYP-D3(BJ)/6-311+G(d,p), cc-pVTZ//B3LYP-D3(BJ)/6-311G(d,p), cc-pVTZ level of theory, show that the mechanistic details can be well reproduced using an oversimplified model, but the energetics is definitively more favorable in the GPx active site. In addition, we pinpoint the role of the chalcogen in the peroxide reduction process, rooting the advantages of the presence of selenium in its acidic and nucleophilic properties."
+ },
+ "https://doi.org/10.3389/fchem.2021.608438": {
+  "month": "4",
+  "pub_date": "Apr 2021",
+  "year": 2021,
+  "early_online": "30 Apr 2021",
+  "title": "Structure Activity Relationship of N-Substituted Phenyldihydropyrazolones Against Trypanosoma cruzi Amastigotes",
+  "contributors": "Sijm, M., Maes, L., de Esch, I. J., Caljon, G., Sterk, G. J., Leurs, R.",
+  "corresponding": "Leurs, R.",
+  "organisations": "Medicinal chemistry, Chemistry and Pharmaceutical Sciences, AIMMS, University of Antwerp",
+  "journal": "Frontiers in Chemistry",
+  "description": "Structure Activity Relationship of N-Substituted Phenyldihydropyrazolones Against Trypanosoma cruzi AmastigotesCurrent drugs for Chagas disease have long treatment regimens with occurrence of adverse drug effects leading to poor treatment compliance. Novel and efficacious medications are therefore highly needed. We previously reported on the discovery of NPD-0227 (2-isopropyl-5-(4-methoxy-3-(pyridin-3-yl)phenyl)-4,4-dimethyl-2,4-dihydro-3H-pyrazol-3-one) as a potent in vitro inhibitor of Trypanosoma cruzi (pIC50 = 6.4) with 100-fold selectivity over human MRC-5 cells. The present work describes a SAR study on the exploration of substituents on the phenylpyrazolone nitrogen. Modifications were either done directly onto this pyrazolone nitrogen or alternatively by introducing a piperidine linker. Attention was pointed toward the selection of substituents with a cLogP preferably below NPD-0227s cLogP of 3.5. Generally the more apolar compounds showed better activities then molecules with cLogPs <2.0. Several new compounds were identified with potencies that are in the same range as NPD-0227 (pIC50 = 6.4) and promising selectivities. While the potency could not be improved, valuable SAR was obtained. Furthermore the introduction of a piperidine linker offers new opportunities for derivatization as valuable novel starting points for future T. cruzi drug discovery."
+ },
  "https://doi.org/10.3390/ijms22073702": {
   "month": "4",
   "pub_date": "1 Apr 2021",
@@ -790,18 +862,6 @@
   "organisations": "Medicinal chemistry, AIMMS",
   "journal": "International Journal of Molecular Sciences",
   "description": "Analysis of missense variants in the human histamine receptor family reveals increased constitutive activity of e4106.30\u00d730k variant in the histamine h1 receptorThe Exome Aggregation Consortium has collected the protein-encoding DNA sequences of almost 61,000 unrelated humans. Analysis of this dataset for G protein-coupled receptor (GPCR) proteins (available at GPCRdb) revealed a total of 463 naturally occurring genetic missense variations in the histamine receptor family. In this research, we have analyzed the distribution of these missense variations in the four histamine receptor subtypes concerning structural segments and sites important for GPCR function. Four missense variants R1273.52\u00d752H, R13934.57\u00d757H, R4096.29\u00d729H, and E4106.30\u00d730 K, were selected for the histamine H1 receptor (H1R) that were hypothesized to affect receptor activity by interfering with the interaction pattern of the highly conserved D(E)RY motif, the so-called ionic lock. The E4106.30\u00d730 K missense variant displays higher constitutive activity in G protein signaling as compared to wild-type H1R, whereas the opposite was observed for R1273.52\u00d752H, R13934.57\u00d757H, and R4096.29\u00d729H. The E4106.30\u00d730 K missense variant displays a higher affinity for the endogenous agonist histamine than wild-type H1R, whereas antagonist affinity was not affected. These data support the hypothesis that the E4106.30\u00d730 K mutation shifts the equilibrium towards active conformations. The study of these selected missense variants gives additional insight into the structural basis of H1R activation and, moreover, highlights that missense variants can result in pharmacologically different behavior as compared to wild-type receptors and should consequently be considered in the drug discovery process."
- },
- "https://doi.org/10.1002/open.202100066": {
-  "month": "4",
-  "pub_date": "1 Apr 2021",
-  "year": 2021,
-  "early_online": null,
-  "title": "A Quantitative Molecular Orbital Perspective of the Chalcogen Bond",
-  "contributors": "de Azevedo Santos, L., van der Lubbe, S. C., Hamlin, T. A., Ramalho, T. C., Matthias Bickelhaupt, F.",
-  "corresponding": null,
-  "organisations": "Theoretical Chemistry, AIMMS, Universidade Federal de Lavras, University of Hradec Kralove, Vrije Universiteit Amsterdam, Radboud University Nijmegen",
-  "journal": "ChemistryOpen",
-  "description": "A Quantitative Molecular Orbital Perspective of the Chalcogen BondInvited for this month's cover are the groups of Prof. Dr. Teodorico C. Ramalho (Federal University of Lavras and University Hradec Kralove) and Prof. Dr. F. Matthias Bickelhaupt (Vrije Universiteit Amsterdam and Radboud University). The cover picture shows the key message of their work, that is, the covalency of the chalcogen bonds, in an elegantly simple and attractive manner. To that end, the chalcogen bonds are represented by schematic 3D structures of the bond donor D2 Ch and the bond acceptor A- , and their attractive interaction in green. Then, a colorful molecular orbital (MO) diagram where the HOMO-LUMO mixing is represented by the mixing of red (HOMO) and blue (LUMO) into purple (MO) is presented. Read the full text of their Full Paper at 10.1002/open.202000323."
  },
  "https://doi.org/10.1016/j.envint.2021.106536": {
   "month": "4",
@@ -839,6 +899,90 @@
   "journal": "Biomolecules",
   "description": "Short\u2010 and long\u2010term social recognition memory are differentially modulated by neuronal histamineThe ability of recognizing familiar conspecifics is essential for many forms of social interaction including reproduction, establishment of dominance hierarchies, and pair bond formation in monogamous species. Many hormones and neurotransmitters have been suggested to play key roles in social discrimination. Here we demonstrate that disruption or potentiation of histaminergic neu-rotransmission differentially affects short (STM) and long\u2010term (LTM) social recognition memory. Impairments of LTM, but not STM, were observed in histamine\u2010deprived animals, either chronically (Hdc\u2212/\u2212 mice lacking the histamine\u2010synthesizing enzyme histidine decarboxylase) or acutely (mice treated with the HDC irreversible inhibitor \u03b1\u2010fluoromethylhistidine). On the contrary, restriction of histamine release induced by stimulation of the H3R agonist (VUF16839) impaired both STM and LTM. H3R agonism\u2010induced amnesic effect was prevented by pre\u2010treatment with donepezil, an ac-etylcholinesterase inhibitor. The blockade of the H3R with ciproxifan, which in turn augmented histamine release, resulted in a procognitive effect. In keeping with this hypothesis, the procognitive effect of ciproxifan was absent in both Hdc\u2212/\u2212 and \u03b1FMH\u2010treated mice. Our results suggest that brain histamine is essential for the consolidation of LTM but not STM in the social recognition test. STM impairments observed after H3R stimulation are probably related to their function as heterorecep-tors on cholinergic neurons."
  },
+ "https://doi.org/10.1038/s41598-021-87354-0": {
+  "month": "4",
+  "pub_date": "Dec 2021",
+  "year": 2021,
+  "early_online": "13 Apr 2021",
+  "title": "Cardiolipin enhances the enzymatic activity of cytochrome bd and cytochrome bo 3 solubilized in dodecyl-maltoside",
+  "contributors": "Asseri, A. H., Godoy-Hernandez, A., Goojani, H. G., Lill, H., Sakamoto, J., McMillan, D. G., Bald, D.",
+  "corresponding": "Bald, D.",
+  "organisations": "Structural Biology, AIMMS, Delft University of Technology, Kyushu Institute of Technology",
+  "journal": "Scientific Reports",
+  "description": "Cardiolipin enhances the enzymatic activity of cytochrome bd and cytochrome bo 3 solubilized in dodecyl-maltosideCardiolipin (CL) is a lipid that is found in the membranes of bacteria and the inner membranes of mitochondria. CL can increase the activity of integral membrane proteins, in particular components of respiratory pathways. We here report that CL activated detergent-solubilized cytochrome bd, a terminal oxidase from Escherichia coli. CL enhanced the oxygen consumption activity ~ twofold and decreased the apparent KM value for ubiquinol-1 as substrate from 95\u00b5M to 35\u00b5M. Activation by CL was also observed for cytochrome bd from two Gram-positive species, Geobacillus thermodenitrificans and Corynebacterium glutamicum, and for cytochrome bo3 from E. coli. Taken together, CL can enhance the activity of detergent-solubilized cytochrome bd and cytochrome bo3."
+ },
+ "https://doi.org/10.1186/s12860-021-00362-w": {
+  "month": "4",
+  "pub_date": "23 Apr 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Online biophysical predictions for SARS-Co",
+  "contributors": "Kagami, L., Roca-Mart\u00ednez, J., Gavald\u00e1-Garc\u00eda, J., Ramasamy, P., Feenstra, K. A., Vranken, W. F.",
+  "corresponding": "Vranken, W. F.",
+  "organisations": "Bioinformatics, AIMMS, Integrative Bioinformatics, Free Universities of Brussels, Vrije Universiteit Brussel, Flanders Institute for Biotechnology, Ghent University",
+  "journal": "BMC Molecular and Cell Biology",
+  "description": "Online biophysical predictions for SARS-CoV-2 proteinsBACKGROUND: The SARS-CoV-2 virus, the causative agent of COVID-19, consists of an assembly of proteins that determine its infectious and immunological behavior, as well as its response to therapeutics. Major structural biology efforts on these proteins have already provided essential insights into the mode of action of the virus, as well as avenues for structure-based drug design. However, not all of the SARS-CoV-2 proteins, or regions thereof, have a well-defined three-dimensional structure, and as such might exhibit ambiguous, dynamic behaviour that is not evident from static structure representations, nor from molecular dynamics simulations using these structures. MAIN: We present a website ( https://bio2byte.be/sars2/ ) that provides protein sequence-based predictions of the backbone and side-chain dynamics and conformational propensities of these proteins, as well as derived early folding, disorder, \u03b2-sheet aggregation, protein-protein interaction and epitope propensities. These predictions attempt to capture the inherent biophysical propensities encoded in the sequence, rather than context-dependent behaviour such as the final folded state. In addition, we provide the biophysical variation that is observed in homologous proteins, which gives an indication of the limits of their functionally relevant biophysical behaviour.CONCLUSION: The https://bio2byte.be/sars2/ website provides a range of protein sequence-based predictions for 27 SARS-CoV-2 proteins, enabling researchers to form hypotheses about their possible functional modes of action."
+ },
+ "https://doi.org/10.1016/j.toxlet.2021.03.008": {
+  "month": "4",
+  "pub_date": "1 Aug 2021",
+  "year": 2021,
+  "early_online": "24 Apr 2021",
+  "title": "Corrigendum to \u201cCritique of the \u201cComment\u201d etitled \u201cPyrethroid exposure: not so harmless after all\u201d by Demeniex et al. (2020) published in the lancet diabetes endocrinology\"The authors regret that the letter inaccurately refers to \u201cthe lancet diabetes endocrinology\u201d and \u201cThe Lancet\u201d while it should read: \u201cThe Lancet Diabetes & Endocrinology\u201d. The correct title of the letter should read: \u201cCritique of the \u201cComment\u201d entitled: \u201cPyrethroid exposure: Not so harmless after all\u201d by Demeneix et al. (2020) published in The Lancet Diabetes & Endocrinology\u201d. The authors wish to clarify that the comment was published in The Lancet Diabetes & Endocrinology and not The Lancet. The authors also wish to clarify that The Lancet Diabetes & Endocrinology chose not to publish their criticism of the article because the correspondence content published in The Lancet Diabetes & Endocrinology is only accepted within 8 weeks of publication of the original item.General information",
+  "contributors": "Barile, F. A., Berry, S. C., Blaauboer, B., Boobis, A., Bolt, H., Borgert, C. J., Dekant, W., Dietrich, D., Domingo, J. L., Gori, G. B., Greim, H., Hengstler, J., Kacew, S., Marquardt, H., Pelkonen, O., Savolainen, K., Heslop-Harrison, P., Tsatsakis, A., Vermeulen, N. P.",
+  "corresponding": "Greim, H.",
+  "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, St. John's University, Queen Mary University of London, Utrecht University, Imperial College London, Dortmund University, Inc, University of W\u00fcrzburg, University of Konstanz, Pere Virgili Health Research Institute, The Health Policy Center, Technical University of Munich, University of Ottawa, Toxicology, University of Oulu, Finnish Institute of Occupational Health, University of Leicester, University of Crete",
+  "journal": "Toxicology Letters",
+  "description": "Corrigendum to \u201cCritique of the \u201cComment\u201d etitled \u201cPyrethroid exposure: not so harmless after all\u201d by Demeniex et al. (2020) published in the lancet diabetes endocrinology\"The authors regret that the letter inaccurately refers to \u201cthe lancet diabetes endocrinology\u201d and \u201cThe Lancet\u201d while it should read: \u201cThe Lancet Diabetes & Endocrinology\u201d. The correct title of the letter should read: \u201cCritique of the \u201cComment\u201d entitled: \u201cPyrethroid exposure: Not so harmless after all\u201d by Demeneix et al. (2020) published in The Lancet Diabetes & Endocrinology\u201d. The authors wish to clarify that the comment was published in The Lancet Diabetes & Endocrinology and not The Lancet. The authors also wish to clarify that The Lancet Diabetes & Endocrinology chose not to publish their criticism of the article because the correspondence content published in The Lancet Diabetes & Endocrinology is only accepted within 8 weeks of publication of the original item."
+ },
+ "https://doi.org/10.1039/D1CP00898F": {
+  "month": "4",
+  "pub_date": "28 Apr 2021",
+  "year": 2021,
+  "early_online": "6 Apr 2021",
+  "title": "How does the composition of a PAH influence its microsolvation? A rotational spectroscopy study of the phenanthrene-water and phenanthridine-water clusters",
+  "contributors": "Loru, D., Steber, A. L., Pinacho, P., Gruet, S., Temelso, B., Rijs, A. M., P\u00e9rez, C., Schnell, M.",
+  "corresponding": "Loru, D.",
+  "organisations": "BioAnalytical Chemistry, AIMMS, German Electron Synchrotron, College of Charleston, Kiel University",
+  "journal": "Physical Chemistry Chemical Physics",
+  "description": "How does the composition of a PAH influence its microsolvation? A rotational spectroscopy study of the phenanthrene-water and phenanthridine-water clustersWe report on the noncovalent intermolecular interactions established between the polycyclic aromatic hydrocarbons phenanthrene and phenanthridine with water. Such noncovalent interactions involving extended aromatic systems and water molecules are ubiquitous in a variety of chemical and biological systems. Our study provides spectroscopic results on simple model systems to understand the impact that an extended aromatic surface and the presence of a heteroatom have on the nature of the noncovalent interactions established with the solvent. Microhydrated phenanthrene and phenanthridine clusters with up to three water molecules have been observed and unambiguously characterised by means of broadband rotational spectroscopy and quantum chemical calculations. The presence of a nitrogen atom in the backbone of phenanthridine remarkably affects the geometries of the water clusters and the interaction networks at play, with O-H\u22efN and C-H\u22efO interactions becoming preferred in the phenanthridine-water clusters over the O-H\u22ef\u03c0 interactions seen in the phenanthrene-water clusters. The presence of this heteroatom induces nuclear quadrupole coupling, which was used to understand the cooperativity effects found with increasing cluster size. Our results provide important insight to draw a more complete picture of the noncovalent interactions involving solvent molecules and aromatic systems larger than benzene, and they can be significant to enhance our understanding of the aromatic-polar interactions at play in a myriad of chemical and biological contexts."
+ },
+ "https://doi.org/10.1039/d1cp00854d": {
+  "month": "4",
+  "pub_date": "28 Apr 2021",
+  "year": 2021,
+  "early_online": "9 Apr 2021",
+  "title": "Vibrational circular dichroism studies of exceptionally strong chirality inducers in liquid crystals7,7\u2032-Disubstituted 2,2\u2032-methylenedioxy-1,1\u2032-binaphthyls are highly efficient chirality inducers in nematic liquid crystals. The absolute configuration of these compounds is, however, hard to determine as they only crystallize as racemic mixtures. In this work a Vibrational Circular Dichroism (VCD) study is reported that provides an unambiguous determination of the absolute configuration of these compounds. An in-depth General Coupled Oscillator (GCO) analysis of the source of the VCD signal reveals that the unusual structure of these binaphthyl compounds inherently leads to strong and robust VCD bands. Combined with linear transit calculations, our VCD studies allow for the determination of key structural parameters.General information",
+  "contributors": "Koenis, M. A., Nicu, V. P., Visscher, L., Kuehn, C., Bremer, M., Krier, M., Untenecker, H., Zhumaev, U., K\u00fcstner, B., Buma, W. J.",
+  "corresponding": "Buma, W. J.",
+  "organisations": "Theoretical Chemistry, AIMMS, University of Amsterdam, Lucian Blaga University of Sibiu, Merck KGaA, Radboud University Nijmegen",
+  "journal": "Physical Chemistry Chemical Physics",
+  "description": "Vibrational circular dichroism studies of exceptionally strong chirality inducers in liquid crystals7,7\u2032-Disubstituted 2,2\u2032-methylenedioxy-1,1\u2032-binaphthyls are highly efficient chirality inducers in nematic liquid crystals. The absolute configuration of these compounds is, however, hard to determine as they only crystallize as racemic mixtures. In this work a Vibrational Circular Dichroism (VCD) study is reported that provides an unambiguous determination of the absolute configuration of these compounds. An in-depth General Coupled Oscillator (GCO) analysis of the source of the VCD signal reveals that the unusual structure of these binaphthyl compounds inherently leads to strong and robust VCD bands. Combined with linear transit calculations, our VCD studies allow for the determination of key structural parameters."
+ },
+ "https://doi.org/10.3390/toxins13050302": {
+  "month": "5",
+  "pub_date": "May 2021",
+  "year": 2021,
+  "early_online": "23 Apr 2021",
+  "title": "Anticoagulant Activity of Naja nigricollis Venom Is Mediated by Phospholipase A2 Toxins and Inhibited by Varespladib",
+  "contributors": "Kazandjian, T. D., Arrahman, A., Still, K. B., Somsen, G. W., Vonk, F. J., Casewell, N. R., Wilkinson, M. C., Kool, J.",
+  "corresponding": null,
+  "organisations": "BioAnalytical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, Liverpool School of Tropical Medicine",
+  "journal": "Toxins",
+  "description": "Anticoagulant Activity of Naja nigricollis Venom Is Mediated by Phospholipase A2 Toxins and Inhibited by VarespladibBites from elapid snakes typically result in neurotoxic symptoms in snakebite victims. Neurotoxins are, therefore, often the focus of research relating to understanding the pathogenesis of elapid bites. However, recent evidence suggests that some elapid snake venoms contain anticoagulant toxins which may help neurotoxic components spread more rapidly. This study examines the effects of venom from the West African black-necked spitting cobra (Naja nigricollis) on blood coagulation and identifies potential coagulopathic toxins. An integrated RPLC-MS methodology, coupled with nanofractionation, was first used to separate venom components, followed by MS, proteomics and coagulopathic bioassays. Coagulation assays were performed on both crude and nanofractionated N. nigricollis venom toxins as well as PLA2s and 3FTx purified from the venom. Assays were then repeated with the addition of either the phospholipase A2 inhibitor varespladib or the snake venom metalloproteinase inhibitor marimastat to assess whether either toxin inhibitor is capable of neutralizing coagulopathic venom activity. Subsequent proteomic analysis was performed on nanofractionated bioactive venom toxins using tryptic digestion followed by nanoLC-MS/MS measurements, which were then identified using Swiss-Prot and species-specific database searches. Varespladib, but not marimastat, was found to significantly reduce the anticoagulant activity of N. nigricollis venom and MS and proteomics analyses confirmed that the anticoagulant venom components mostly consisted of PLA2 proteins. We, therefore, conclude that PLA2s are the most likely candidates responsible for anticoagulant effects stimulated by N. nigricollis venom."
+ },
+ "https://doi.org/10.3390/metabo11050257": {
+  "month": "5",
+  "pub_date": "May 2021",
+  "year": 2021,
+  "early_online": "21 Apr 2021",
+  "title": "Understanding FBA solutions under multiple nutrient limitations",
+  "contributors": "van Pelt-KleinJan, E., de Groot, D. H., Teusink, B.",
+  "corresponding": "Teusink, B.",
+  "organisations": "Systems Bioinformatics, AIMMS, Systems Bioinformatics",
+  "journal": "Metabolites",
+  "description": "Understanding FBA solutions under multiple nutrient limitationsGenome-scale stoichiometric modeling methods, in particular Flux Balance Analysis (FBA) and variations thereof, are widely used to investigate cell metabolism and to optimize biotechno-logical processes. Given (1) a metabolic network, which can be reconstructed from an organism\u2019s genome sequence, and (2) constraints on reaction rates, which may be based on measured nutrient uptake rates, FBA predicts which reactions maximize an objective flux, usually the production of cell components. Although FBA solutions may accurately predict the metabolic behavior of a cell, the actual flux predictions are often hard to interpret. This is especially the case for conditions with many constraints, such as for organisms growing in rich nutrient environments: it remains unclear why a certain solution was optimal. Here, we rationalize FBA solutions by explaining for which properties the optimal combination of metabolic strategies is selected. We provide a graphical formalism in which the selection of solutions can be visualized; we illustrate how this perspective provides a glimpse of the logic that underlies genome-scale modeling by applying our formalism to models of various sizes."
+ },
  "https://doi.org/10.1016/j.chemosphere.2020.128610": {
   "month": "5",
   "pub_date": "May 2021",
@@ -862,5 +1006,41 @@
   "organisations": "Molecular and Computational Toxicology, AIMMS",
   "journal": "Toxicology Letters",
   "description": "Bioactivation of trichloroethylene to three regioisomeric glutathione conjugates by liver fractions and recombinant human glutathione transferases: Species differences and implications for human risk assessmentEnzymatic conjugation of glutathione (GSH) to trichloroethylene (TCE) followed by catabolism to the corresponding cysteine-conjugate, S-(dichlorovinyl)-L-cysteine (DCVC), and subsequent bioactivation by renal cysteine conjugate beta-lyases is considered to play an important role in the nephrotoxic effects observed in TCE-exposed rat and human. In this study, it is shown for the first time that three regioisomers of GSH-conjugates of TCE are formed by rat and human liver fractions, namely S-(1,2-trans-dichlorovinyl)-glutathione (1,2-trans-DCVG), S-(1,2-cis-dichlorovinyl)-glutathione (1,2-cis-DCVG) and S-(2,2-dichlorovinyl)-glutathione (2,2-DCVG). In incubations of TCE with rat liver fractions their amounts decreased in order of 1,2-cis-DCVG > 1,2-trans-DCVG > 2,2-DCVG. Human liver cytosol showed a more than 10-fold lower activity of GSH-conjugation, with amounts of regioisomers decreasing in order 2,2-DCVG > 1,2-trans-DCVG > 1,2-cis-DCVG. Incubations with recombinant human GSTs suggest that GSTA1-1 and GSTA2-2 play the most important role in human liver cytosol. GSTP1-1, which produces regioisomers in order 1,2-trans-DCVG > 2,2-cis-DCVG > 1,2-cis-DCVG, is likely to contribute to extrahepatic GSH-conjugation of TCE. Analysis of the products formed by a beta-lyase mimetic model showed that both 1,2-trans-DCVC and 1,2-cis-DCVC are converted to reactive products that form cross-links between the model nucleophile 4-(4-nitrobenzyl)-pyridine (NBP) and thiol-species. No NBP-alkylation was observed with 2,2-DCVC corresponding to its low cytotoxicity and mutagenicity. The lower activity of GSH-conjugation of TCE by human liver fractions, in combination with the lower fraction of potential nephrotoxic and mutagenic 1,2-DCVG-isomers, suggest that humans are at much lower risk for TCE-associated nephrotoxic effects than rats."
+ },
+ "https://doi.org/10.1101/2020.11.19.390500v110.1093/bioinformatics/btab321": {
+  "month": "5",
+  "pub_date": "11 May 2021",
+  "year": 2021,
+  "early_online": "11 May 2021",
+  "title": "Se",
+  "contributors": "Hou, Q., Stringer, B., Waury, K., Capel, H., Haydarlou, R., Xue, F., Abeln, S., Heringa, J., Feenstra, K. A.",
+  "corresponding": null,
+  "organisations": "Computer Science, Bioinformatics, AIMMS, Integrative Bioinformatics, Bio Informatics (IBIVU), IBIVU - Center for Integrative Bioinformatics, Shandong University",
+  "journal": "Bioinformatics (Oxford, England)",
+  "description": "SeRenDIP-CE: Sequence-based Interface Prediction for Conformational EpitopesMOTIVATION: Antibodies play an important role in clinical research and biotechnology, with their specificity determined by the interaction with the antigen's epitope region, as a special type of protein-protein interaction (PPI) interface. The ubiquitous availability of sequence data, allows us to predict epitopes from sequence in order to focus time-consuming wet-lab experiments towards the most promising epitope regions. Here, we extend our previously developed sequence-based predictors for homodimer and heterodimer PPI interfaces to predict epitope residues that have the potential to bind an antibody.RESULTS: We collected and curated a high quality epitope dataset from the SAbDab database. Our generic PPI heterodimer predictor obtained an AUC-ROC of 0.666 when evaluated on the epitope test set. We then trained a random forest model specifically on the epitope dataset, reaching AUC 0.694. Further training on the combined heterodimer and epitope datasets, improves our final predictor to AUC 0.703 on the epitope test set. This is better than the best state-of-the-art sequence-based epitope predictor BepiPred-2.0. On one solved antibody-antigen structure of the COVID19 virus spike RNA binding domain, our predictor reaches AUC 0.778. We added the SeRenDIP-CE Conformational Epitope predictors to our webserver, which is simple to use and only requires a single antigen sequence as input, which will help make the method immediately applicable in a wide range of biomedical and biomolecular research.AVAILABILITY: Webserver, source code and datasets at www.ibi.vu.nl/programs/serendipwww/."
+ },
+ "https://doi.org/10.1016/j.reprotox.2021.04.004": {
+  "month": "5",
+  "pub_date": "Jun 2021",
+  "year": 2021,
+  "early_online": "13 May 2021",
+  "title": "Endocrine, metabolic and apical effects of in utero and lactational exposure to non-dioxin-like 2,2\u00b4,3,4,4\u00b4,5,5\u00b4-heptachlorobiphenyl (PCB 180): A postnatal follow-up study in rats",
+  "contributors": "Alarc\u00f3n, S., Esteban, J., Roos, R., Heikkinen, P., S\u00e1nchez-P\u00e9rez, I., Adamsson, A., Toppari, J., Koskela, A., Finnil\u00e4, M. A., Tuukkanen, J., Herlin, M., Hamscher, G., Leslie, H. A., Korkalainen, M., Halldin, K., Schrenk, D., H\u00e5kansson, H., Viluksela, M.",
+  "corresponding": "Esteban, J.",
+  "organisations": "E&H: Environmental Chemistry and Toxicology, AIMMS, Miguel Hern\u00e1ndez University, Karolinska Institutet, Finnish Institute for Health and Welfare, University of Turku, University of Oulu, Justus Liebig University Giessen, University of Kaiserslautern, University of Eastern Finland",
+  "journal": "Reproductive Toxicology",
+  "description": "Endocrine, metabolic and apical effects of in utero and lactational exposure to non-dioxin-like 2,2\u00b4,3,4,4\u00b4,5,5\u00b4-heptachlorobiphenyl (PCB 180): A postnatal follow-up study in ratsPCB 180 is a persistent and abundant non-dioxin-like PCB (NDL-PCB). We determined the developmental toxicity profile of ultrapure PCB 180 in developing offspring following in utero and lactational exposure with the focus on endocrine, metabolic and retinoid system alterations. Pregnant rats were given total doses of 0, 10, 30, 100, 300 or 1000 mg PCB 180/kg bw on gestational days 7-10 by oral gavage, and the offspring were sampled on postnatal days (PND) 7, 35 and 84. Decreased serum testosterone and triiodothyronine concentrations on PND 84, altered liver retinoid levels, increased liver weights and induced 7-pentoxyresorufin O-dealkylase (PROD) activity were the sensitive effects used for margin of exposure (MoE) calculations. Liver weights were increased together with induction of the metabolizing enzymes cytochrome P450 (CYP) 2B1, CYP3A1, and CYP1A1. Less sensitive effects included decreased serum estradiol and increased luteinizing hormone levels in females, decreased prostate and seminal vesicle weight and increased pituitary weight in males, increased cortical bone area and thickness of tibial diaphysis in females and decreased cortical bone mineral density in males. Developmental toxicity profiles were partly different in male and female offspring, males being more sensitive to increased liver weight, PROD induction and decreased thyroxine concentrations. MoE assessment indicated that the 95th percentile of current maternal PCB 180 concentrations do not exceed the estimated tolerable human lipid-based PCB 180 concentration. Although PCB 180 is much less potent than dioxin-like compounds, it shares several toxicological targets suggesting a potential for interactions."
+ },
+ "https://doi.org/10.1063/5.0053838": {
+  "month": "5",
+  "pub_date": "14 May 2021",
+  "year": 2021,
+  "early_online": "10 May 2021",
+  "title": "Erratum: \"Large coupling-strength expansion of the M\u00f8ller-Plesset adiabatic connection: From paradigmatic cases to variational expressions for the leading terms\" [J. Chem. Phys., 153, 214112 (2020)]We correct an error in Eq. (19) of the article, namely, a missing factor 1/2. The correct equation reads (Farmula Presenred) This is only a misprint in the article and does not affect any of the results, which were obtained from the correct equations.General information",
+  "contributors": "Daas, T. J., Grossi, J., Vuckovic, S., Musslimani, Z. H., Kooi, D. P., Seidl, M., Giesbertz, K. J., Gori-Giorgi, P.",
+  "corresponding": "Gori-Giorgi, P.",
+  "organisations": "Theoretical Chemistry, AIMMS, Vrije Universiteit Amsterdam",
+  "journal": "Journal of Chemical Physics",
+  "description": "Erratum: \"Large coupling-strength expansion of the M\u00f8ller-Plesset adiabatic connection: From paradigmatic cases to variational expressions for the leading terms\" [J. Chem. Phys., 153, 214112 (2020)]We correct an error in Eq. (19) of the article, namely, a missing factor 1/2. The correct equation reads (Farmula Presenred) This is only a misprint in the article and does not affect any of the results, which were obtained from the correct equations."
  }
 }
