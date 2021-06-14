@@ -1,29 +1,17 @@
 {
- "1622446750.1539621": {
-  "month": "1",
-  "pub_date": "21 Jan 2021",
-  "year": 2021,
-  "early_online": "21 Jan 2021",
-  "title": "Different resource allocation in a Bacillus subtilis population displaying bimodal motility",
-  "contributors": "Hamoen, L. W., Wang, B., Staal, J., Gao, Y., Kort, R., Syvertsson, S.Pages:2021.01.21.427716",
-  "corresponding": null,
-  "organisations": "Bioinformatics, Molecular Cell Physiology, AIMMS, UvA, Amsterdam",
-  "journal": "bioRxiv",
-  "description": "Different resource allocation in a Bacillus subtilis population displaying bimodal motilityTo cope with sudden changes in their environment, bacteria can use a bet-hedging strategy by dividing the population into cells with different properties. This so-called bimodal or bistable cellular differentiation is generally controlled by positive feedback regulation of transcriptional activators. Due to the continuous increase in cell volume, it is difficult for these activators to reach an activation threshold concentration when cells are growing exponentially. This is one reason why bimodal differentiation is primarily observed from the onset of the stationary phase when exponential growth ceases. An exception is the bimodal induction of motility in Bacillus subtilis, which occurs early during exponential growth. Several mechanisms have been put forward to explain this, including double negative-feedback regulation and the stability of the mRNA molecules involved. In this study, we used fluorescence-assisted cell sorting to compare the transcriptome of motile and non-motile cells and noted that expression of ribosomal genes is lower in motile cells. This was confirmed using an unstable GFP reporter fused to the strong ribosomal rpsD promoter. We propose that the reduction in ribosomal gene expression in motile cells is the result of a diversion of cellular resources to the synthesis of the chemotaxis and motility systems. In agreement, single-cell microscopic analysis showed that motile cells are slightly shorter than non-motile cells, an indication of slower growth. We speculate that this growth rate reduction can contribute to the bimodal induction of motility during exponential growth."
- },
- "1622446750.154929": {
+ "1623657570.0817077": {
   "month": "2",
-  "pub_date": "18 Feb 2021",
+  "pub_date": "10 Feb 2021",
   "year": 2021,
-  "early_online": null,
-  "title": "From recipe to research: introducing undergraduate students to the nature of science using a hybrid practical course centred on drug discovery for neglected diseases",
-  "contributors": "Wijtmans, M., Edink, E., van Linden, O., Zheng, Y., Blaazer, T., Siderius, M. H., van Muijlwijk-Koezen, J. E.",
-  "corresponding": "van Muijlwijk-Koezen, J. E.",
-  "organisations": "AIMMS, Medicinal chemistry, Innovations in Human Health & Life Sciences, InHolland University of Applied Sciences",
-  "journal": "Drug Discovery Today",
-  "description": "From recipe to research: introducing undergraduate students to the nature of science using a hybrid practical course centred on drug discovery for neglected diseasesHighlights\u2022A hybrid undergraduate laboratory course combines laboratory skills and exposure to research.\u2022Students experience the nature of science first-hand by synthesising hit derivatives.\u2022A neglected disease drug discovery project is well suited as research topic.\u2022A daily interactive session fosters scientific discussion amongst students.A hybrid practical course in synthetic medicinal chemistry was designed for second-year undergraduate students. The first half focused on techniques and skills, while the second half addressed a drug discovery setting in a research project on neglected diseases. A daily interactive plenary session allowed for thorough discussions among the students. Over four years, 187 students participated, and 68 pure compounds (many of which novel) were isolated and biologically tested. Evaluations by students and teachers were positive. The success of the hybrid practical course demonstrates how undergraduate students can be meaningfully engaged in the nature of science through a drug discovery project."
+  "early_online": "10 Dec 2020",
+  "title": "Protein cost allocation explains metabolic strategies in Escherichia coli",
+  "contributors": "Grigaitis, P., Olivier, B. G., Fiedler, T., Teusink, B., Kummer, U., Veith, N.",
+  "corresponding": null,
+  "organisations": "Systems Bioinformatics, AIMMS, Systems Bioinformatics, Rostock University Medical Center, Department of General Internal Medicine and Psychosomatics, Heidelberg University Hospital, Heidelberg University, Heidelberg, Germany.",
+  "journal": "Journal of Biotechnology",
+  "description": "Protein cost allocation explains metabolic strategies in Escherichia coliIn-depth understanding of microbial growth is crucial for the development of new advances in biotechnology and for combating microbial pathogens. Condition-specific proteome expression is central to microbial physiology and growth. A multitude of processes are dependent on the protein expression, thus, whole-cell analysis of microbial metabolism using genome-scale metabolic models is an attractive toolset to investigate the behaviour of microorganisms and their communities. However, genome-scale models that incorporate macromolecular expression are still inhibitory complex: the conceptual and computational complexity of these models severely limits their potential applications. In the need for alternatives, here we revisit some of the previous attempts to create genome-scale models of metabolism and macromolecular expression to develop a novel framework for integrating protein abundance and turnover costs to conventional genome-scale models. We show that such a model of Escherichia coli successfully reproduces experimentally determined adaptations of metabolism in a growth condition-dependent manner. Moreover, the model can be used as means of investigating underutilization of the protein machinery among different growth settings. Notably, we obtained strongly improved predictions of flux distributions, considering the costs of protein translation explicitly. This finding in turn suggests protein translation being the main regulation hub for cellular growth."
  },
- "1622446750.155926": {
+ "1623657570.0826674": {
   "month": "3",
   "pub_date": "11 Mar 2021",
   "year": 2021,
@@ -35,7 +23,7 @@
   "journal": null,
   "description": null
  },
- "1622446750.1569233": {
+ "1623657570.0846918": {
   "month": "3",
   "pub_date": "18 Mar 2021",
   "year": 2021,
@@ -47,19 +35,7 @@
   "journal": null,
   "description": null
  },
- "1622446750.158918": {
-  "month": "3",
-  "pub_date": "31 Mar 2021",
-  "year": 2021,
-  "early_online": null,
-  "title": "Chlorinated paraffins and tris (1-chloro-2-propyl) phosphate in spray polyurethane foams \u2013 A source for indoor exposure? Chlorinated paraffins",
-  "contributors": "Brandsma, S., Brits, M., de Boer, J., Leonards, P.",
-  "corresponding": null,
-  "organisations": "AIMMS, E&H: Environmental Bioanalytical Chemistry, Environment and Health, National Metrology Institute of South Africa (NMISA), CSIR Campus, Meiring Naude Road, Pretoria, 0040, South Africa.",
-  "journal": "Journal of Hazardous Materials",
-  "description": "Chlorinated paraffins and tris (1-chloro-2-propyl) phosphate in spray polyurethane foams \u2013 A source for indoor exposure? Chlorinated paraffinsTris (1-chloro-2-propyl) phosphateOne-component foam (OCF)Spray polyurethane foam (SPF)Dermal exposureIn this study, we investigated chemical additives present in new and used spray polyurethane foams (SPFs) and assessed the dermal transfer through direct contact."
- },
- "1622446750.1599152": {
+ "1623657570.0866847": {
   "month": "5",
   "pub_date": "May 2021",
   "year": 2021,
@@ -70,5 +46,17 @@
   "organisations": "Molecular Microbiology, AIMMS, Centre for Structural Systems Biology, Amsterdam Infection and Immunity Institute",
   "journal": "Nature",
   "description": "Structure and dynamics of a mycobacterial typeVII secretion systemMycobacterium tuberculosis is the cause of one of the most important infectious diseases in humans, which leads to 1.4 million deaths every year1. Specialized protein transport systems-known as type VII secretion systems (T7SSs)-are central to the virulence of this pathogen, and are also crucial for nutrient and metabolite transport across the mycobacterial cell envelope2,3. Here we present the structure of an intact T7SS inner-membrane complex of M. tuberculosis. We show how the 2.32-MDa ESX-5 assembly, which contains 165 transmembrane helices, is restructured and stabilized as a trimer of dimers by the MycP5 protease. A trimer of MycP5 caps a central periplasmic dome-like chamber that is formed by three EccB5 dimers, with the proteolytic sites of MycP5 facing towards the cavity. This chamber suggests a central secretion and processing conduit. Complexes without MycP5 show disruption of the EccB5 periplasmic assembly and increased flexibility, which highlights the importance of MycP5 for complex integrity. Beneath the EccB5-MycP5 chamber, dimers of the EccC5 ATPase assemble into three bundles of four transmembrane helices each, which together seal the potential central secretion channel. Individual cytoplasmic EccC5 domains adopt two distinctive conformations that probably reflect different secretion states. Our work suggests a previously undescribed mechanism of protein transport and provides a structural scaffold to aid in the development of drugs against this major human pathogen."
+ },
+ "1623657570.0876787": {
+  "month": "5",
+  "pub_date": "14 May 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Methods Included: Standardizing Computational Reuse and Portability with the Common Workflow Language A widely used standard for portable multilingual data analysis pipelines would enable considerable benefits to scholarly publication reuse, research/industry collaboration, regulatory cost control, and to the environment. Published research that used multiple computer languages for their analysis pipelines would include a complete and reusable description of that analysis that is runnable on a diverse set of computing environments. Researchers would be able to easier collaborate and reuse these pipelines, adding or exchanging components regardless of programming language used; collaborations with and within the industry would be easier; approval of new medical interventions that rely on such pipelines would be faster. Time will be saved and environmental impact would also be reduced, as these descriptions contain enough information for advanced optimization without user intervention. Workflows are widely used in data analysis pipelines, enabling innovation and decision-making for the modern society. In many domains the analysis components are numerous and written in multiple different computer languages by third parties. However, lacking a standard for reusable and portable multilingual workflows, then reusing published multilingual workflows, collaborating on open problems, and optimizing their execution would be severely hampered. Moreover, only a standard for multilingual data analysis pipelines that was widely used would enable considerable benefits to research-industry collaboration, regulatory cost control, and to preserving the environment. Prior to the start of the CWL project, there was no standard for describing multilingual analysis pipelines in a portable and reusable manner. Even today / currently, although there exist hundreds of single-vendor and other single-source systems that run workflows, none is a general, community-driven, and consensus-built standard. General information",
+  "contributors": "Crusoe, M. R., Abeln, S., Iosup, A., Amstutz, P., Chilton, J., Tijani\u0107, N., M\u00e9nager, H., Soiland-Reyes, S., Goble, C.",
+  "corresponding": null,
+  "organisations": "Computer Systems, Network Institute, Computer Systems, Bioinformatics, AIMMS, Integrative Bioinformatics, Massivizing Computer Systems",
+  "journal": "arXiv.org",
+  "description": "Methods Included: Standardizing Computational Reuse and Portability with the Common Workflow Language A widely used standard for portable multilingual data analysis pipelines would enable considerable benefits to scholarly publication reuse, research/industry collaboration, regulatory cost control, and to the environment. Published research that used multiple computer languages for their analysis pipelines would include a complete and reusable description of that analysis that is runnable on a diverse set of computing environments. Researchers would be able to easier collaborate and reuse these pipelines, adding or exchanging components regardless of programming language used; collaborations with and within the industry would be easier; approval of new medical interventions that rely on such pipelines would be faster. Time will be saved and environmental impact would also be reduced, as these descriptions contain enough information for advanced optimization without user intervention. Workflows are widely used in data analysis pipelines, enabling innovation and decision-making for the modern society. In many domains the analysis components are numerous and written in multiple different computer languages by third parties. However, lacking a standard for reusable and portable multilingual workflows, then reusing published multilingual workflows, collaborating on open problems, and optimizing their execution would be severely hampered. Moreover, only a standard for multilingual data analysis pipelines that was widely used would enable considerable benefits to research-industry collaboration, regulatory cost control, and to preserving the environment. Prior to the start of the CWL project, there was no standard for describing multilingual analysis pipelines in a portable and reusable manner. Even today / currently, although there exist hundreds of single-vendor and other single-source systems that run workflows, none is a general, community-driven, and consensus-built standard. "
  }
 }
