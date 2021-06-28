@@ -61,15 +61,17 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 """
-__version__ = 1.4
+__version__ = 1.5
 
 import os
 import time
+import shutil
 
 # import pprint
 import CBNetDB
 import docx
 import json
+
 
 # import numpy
 
@@ -122,6 +124,27 @@ for d in range(len(sldata[0])):
         other_new_papers.append(aimmsDB.getRow(DB_ACTIVE_TABLE, 'doi', sldata[0][d])[0])
 
 aimmsDB.closeDB()
+
+# backup database with all changes
+print(os.path.join(cdir, DB_FILE_NAME))
+print(
+    os.path.join(
+        cdir,
+        DB_FILE_NAME.replace(
+            '.sqlite', '-{}.sqlite.backup'.format(time.strftime('%Y%m%d'))
+        ),
+    )
+)
+shutil.copyfile(
+    os.path.join(cdir, DB_FILE_NAME),
+    os.path.join(
+        cdir,
+        DB_FILE_NAME.replace(
+            '.sqlite', '-{}.sqlite.backup'.format(time.strftime('%Y%m%d'))
+        ),
+    ),
+)
+
 
 del sldata
 

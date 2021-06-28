@@ -323,18 +323,6 @@
   "journal": "Science of the Total Environment",
   "description": "Hazardous compounds in recreational and urban recycled surfaces made from crumb rubber. Compliance with current regulation and future perspectivesCrumb rubber obtained from scrap tires is greatly employed for the construction of different facilities for sport, recreational and other uses. However, in recent years the concern about their safety and the related adult and children exposure to these surfaces is growing. This study aims a thorough chemical characterization encompassing 42 hazardous compounds, including polycyclic aromatic hydrocarbons (PAHs), phthalates, adipates, antioxidants and vulcanization agents in a wide range of crumb rubber from different surfaces. For the extraction of the target compounds, a method based on ultrasound-assisted extraction followed by gas chromatography-tandem mass spectrometry (UAE-GC\u2013MS/MS) has been validated. Forty crumb rubber samples coming from synthetic turf football pitches, outdoor and indoor playgrounds, urban pavements, commercial tiles and granulates, and scrap tires, were analyzed. In addition, green alternative materials, such as sand and artificial turf based on cork granulate infill were included to compare the levels of the target compounds with those of crumb rubber. Most of the analyzed recycled surfaces meet the recent limits proposed by the European Commission for rubber granulates and mulches, although they exceed in several cases the maximum levels allowed for rubber consumer products. Besides, most of the other target compounds, including several of them considered as endocrine disruptors, were detected in the analyzed samples, reaching parts per million concentrations."
  },
- "https://doi.org/10.1016/j.scitotenv.2021.145174": {
-  "month": "6",
-  "pub_date": "20 Jun 2021",
-  "year": 2021,
-  "early_online": "11 Feb 2021",
-  "title": "Decabromodiphenylether trends in the European environment: Bird eggs, sewage sludge and surficial sediments",
-  "contributors": "Leslie, H. A., Brandsma, S. H., Barber, J. L., Gabrielsen, G. W., Bersuder, P., Barry, J., Shore, R. F., Walker, L. A., de Boer, J.",
-  "corresponding": "de Boer, J.",
-  "organisations": "E&H: Environmental Chemistry and Toxicology, AIMMS, E&H: Environmental Bioanalytical Chemistry, Environment and Health, Centre for the Environment Fisheries and Aquaculture Science, Norwegian Polar Institute, Lancaster University",
-  "journal": "Science of the Total Environment",
-  "description": "Decabromodiphenylether trends in the European environment: Bird eggs, sewage sludge and surficial sedimentsConcern on relatively high levels and the potential bioaccumulation of decabromodiphenylether (BDE209) has led to a European 8-year monitoring program on trends in BDE209 concentrations in birds, sewage sludge and sediments from seven countries. BDE209 was analysed in four environmental matrices: sparrowhawk eggs (UK), glaucous gull eggs (Bear Island, Norway), sewage sludge (UK, Ireland and the Netherlands) and sediment (France, Germany, the Netherlands, UK and Ireland). BDE209 was detected in most of the glaucous gull and sparrow hawk eggs but neither increasing nor decreasing trends in these BDE209 levels were observed. An indication for debromination of BDE209 in sparrowhawk eggs was found. BDE209 concentrations in sediments ranged from very low ng/g (88 ng/g on an organic carbon (OC) basis) concentrations, in the rivers Elbe, Ems, Seine and the Outer Humber, to high \u03bcg/g (120 \u03bcg/g OC), in the Western Scheldt, Liverpool Bay and River Mersey. Apart from decreasing values in the Western Scheldt sediment no further decreases in BDE209 concentrations were observed over time, neither in sediment nor in sewage sludge showing that the voluntary emissions control program of the bromine industry only had a local effect. In contrast to the sewage sludge samples from the Netherlands (mean 355 ng/g dry weight (dw) or 1026 ng/g OC), the BDE209 concentrations in the UK increased at all sites from 2006 to 2011 (8092 ng/g dw or 22,367 ng/g OC). The BDE209 levels in several UK sediments and sewage sludge were still very high at the end of the program in 2012, most likely caused by frequent use of BDE209 in the textile industry. This may be indicative of the persistence of BDE209 and the limited degradation into lower brominated congeners in sediment, although it cannot be excluded that ongoing BDE209 emissions have played a role as well."
- },
  "https://doi.org/10.1126/science.abe5041": {
   "month": "2",
   "pub_date": "12 Feb 2021",
@@ -526,6 +514,18 @@
   "organisations": "E&H: Environmental Bioanalytical Chemistry, AIMMS, E&H: Environmental Chemistry and Toxicology, Environment and Health, Wageningen University & Research, Norwegian Institute for Water Research",
   "journal": "Science of the Total Environment",
   "description": "Results of WEPAL-QUASIMEME/NORMANs first global interlaboratory study on microplastics reveal urgent need for harmonizationTo survey the conformity and quality of results among laboratories for microplastics determination worldwide, an international laboratory intercomparison and development exercise was organized. The 34 participants were requested to determine the polymer type and number or mass of polymer particles in 12 samples, i.e. six samples containing of pre-production pellets, five dissolvable soda tablets containing different (smaller) polymer particles and one blank soda tablet. A novel method for providing the test materials in aluminium strips was used. Thirty laboratories (88%) submitted data using their own method of choice, resulting in a variety of identification and quantification methods (n = 7). The majority of the labs (53\u2013100%) correctly identified the type of polymer in all samples but one. The performance of the laboratories in quantifying and weighing the pellets was very good. The analysis of the number of the particles in the soda tablets varied considerably between laboratories (29\u201391%). The results of this study highlight the complexity of microplastics analysis and the need for harmonization of both reporting format and methods. Continued development and assessment of the comparability among analytical methods and laboratories are urgently needed to support monitoring programmes, research and decision-making."
+ },
+ "https://doi.org/10.1016/j.scitotenv.2021.145174": {
+  "month": "6",
+  "pub_date": "20 Jun 2021",
+  "year": 2021,
+  "early_online": "11 Feb 2021",
+  "title": "Decabromodiphenylether trends in the European environment: Bird eggs, sewage sludge and surficial sediments",
+  "contributors": "Leslie, H. A., Brandsma, S. H., Barber, J. L., Gabrielsen, G. W., Bersuder, P., Barry, J., Shore, R. F., Walker, L. A., de Boer, J.",
+  "corresponding": "de Boer, J.",
+  "organisations": "E&H: Environmental Chemistry and Toxicology, AIMMS, E&H: Environmental Bioanalytical Chemistry, Environment and Health, Centre for the Environment Fisheries and Aquaculture Science, Norwegian Polar Institute, Lancaster University",
+  "journal": "Science of the Total Environment",
+  "description": "Decabromodiphenylether trends in the European environment: Bird eggs, sewage sludge and surficial sedimentsConcern on relatively high levels and the potential bioaccumulation of decabromodiphenylether (BDE209) has led to a European 8-year monitoring program on trends in BDE209 concentrations in birds, sewage sludge and sediments from seven countries. BDE209 was analysed in four environmental matrices: sparrowhawk eggs (UK), glaucous gull eggs (Bear Island, Norway), sewage sludge (UK, Ireland and the Netherlands) and sediment (France, Germany, the Netherlands, UK and Ireland). BDE209 was detected in most of the glaucous gull and sparrow hawk eggs but neither increasing nor decreasing trends in these BDE209 levels were observed. An indication for debromination of BDE209 in sparrowhawk eggs was found. BDE209 concentrations in sediments ranged from very low ng/g (88 ng/g on an organic carbon (OC) basis) concentrations, in the rivers Elbe, Ems, Seine and the Outer Humber, to high \u03bcg/g (120 \u03bcg/g OC), in the Western Scheldt, Liverpool Bay and River Mersey. Apart from decreasing values in the Western Scheldt sediment no further decreases in BDE209 concentrations were observed over time, neither in sediment nor in sewage sludge showing that the voluntary emissions control program of the bromine industry only had a local effect. In contrast to the sewage sludge samples from the Netherlands (mean 355 ng/g dry weight (dw) or 1026 ng/g OC), the BDE209 concentrations in the UK increased at all sites from 2006 to 2011 (8092 ng/g dw or 22,367 ng/g OC). The BDE209 levels in several UK sediments and sewage sludge were still very high at the end of the program in 2012, most likely caused by frequent use of BDE209 in the textile industry. This may be indicative of the persistence of BDE209 and the limited degradation into lower brominated congeners in sediment, although it cannot be excluded that ongoing BDE209 emissions have played a role as well."
  },
  "https://doi.org/10.1038/s41380-019-0436-y": {
   "month": "3",
@@ -766,6 +766,18 @@
   "organisations": "Theoretical Chemistry, AIMMS",
   "journal": "Journal of chemical theory and computation",
   "description": "Dispersion without Many-Body Density Distortion: Assessment on Atoms and Small MoleculesThe \"fixed diagonal matrices\"(FDM) dispersion formalism [ Kooi, D. P.; et al. J. Phys. Chem. Lett. 2019, 10, 1537 ] is based on a supramolecular wave function constrained to leave the diagonal of the many-body density matrix of each monomer unchanged, reducing dispersion to a balance between kinetic energy and monomer-monomer interaction. The corresponding variational optimization leads to expressions for the dispersion energy in terms of the ground-state pair densities of the isolated monomers only, providing a framework to build new approximations without the need for polarizabilities or virtual orbitals. Despite the underlying microscopic real space mechanism being incorrect, as in the exact case there is density relaxation, the formalism has been shown to give extremely accurate (or even exact) dispersion coefficients for H and He. The question we answer in this work is how accurate the FDM expressions can be for isotropic and anisotropic C6 dispersion coefficients when monomer pair densities are used from different levels of theory, namely Hartree-Fock, MP2, and CCSD. For closed-shell systems, FDM with CCSD monomer pair densities yield a mean average percent error for isotropic C6 dispersion coefficients of about 7% and a maximum absolute error within 18%, with a similar accuracy for anisotropies. The performance for open-shell systems is less satisfactory, with CCSD pair densities performing sometimes worse than Hartree-Fock or MP2. In the present implementation, the computational cost on top of the monomer's ground-state calculations is O(N4). The results show little sensitivity to the basis set used in the monomer's calculations."
+ },
+ "https://doi.org/10.1021/acs.orglett.1c00785": {
+  "month": "4",
+  "pub_date": "16 Apr 2021",
+  "year": 2021,
+  "early_online": "31 Mar 2021",
+  "title": "Synthesis of Carbazoles by a Diverted Bischler-Napieralski Cascade Reaction",
+  "contributors": "Faltracco, M., Ortega-Rosales, S., Janssen, E., Cioc, R. C., Vande Velde, C. M., Ruijter, E.",
+  "corresponding": "Ruijter, E.",
+  "organisations": "Organic Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, Vrije Universiteit Amsterdam, University of Antwerp",
+  "journal": "Organic letters",
+  "description": "Synthesis of Carbazoles by a Diverted Bischler-Napieralski Cascade ReactionAn unforeseen twist in a seemingly trivial Bischler-Napieralski reaction led to the selective formation of an unexpected carbazole product. The reaction proved to be general, providing access to a range of diversely substituted carbazoles from readily available substrates. Judicious variation of substituents revealed a complex cascade mechanism comprising no less than 10 elementary steps, that could be diverted in multiple ways toward various other carbazole derivatives. "
  },
  "https://doi.org/10.1021/acs.accounts.1c00016": {
   "month": "4",
@@ -1091,6 +1103,18 @@
   "journal": "Journal of Chemical Physics",
   "description": "Erratum: \"Large coupling-strength expansion of the M\u00f8ller-Plesset adiabatic connection: From paradigmatic cases to variational expressions for the leading terms\" [J. Chem. Phys., 153, 214112 (2020)]We correct an error in Eq. (19) of the article, namely, a missing factor 1/2. The correct equation reads (Farmula Presenred) This is only a misprint in the article and does not affect any of the results, which were obtained from the correct equations."
  },
+ "https://doi.org/10.1021/acs.jpclett.1c01157": {
+  "month": "5",
+  "pub_date": "27 May 2021",
+  "year": 2021,
+  "early_online": "18 May 2021",
+  "title": "Noncovalent Interactions from Models for the M\u00f8ller-Plesset Adiabatic Connection",
+  "contributors": "Daas, T. J., Fabiano, E., Della Sala, F., Gori-Giorgi, P., Vuckovic, S.",
+  "corresponding": null,
+  "organisations": "AIMMS, Theoretical Chemistry, Institute for Microelectronics and Microsystems (CNR-IMM), Center for Biomolecular Nanotechnologies",
+  "journal": "The journal of physical chemistry letters",
+  "description": "Noncovalent Interactions from Models for the M\u00f8ller-Plesset Adiabatic ConnectionGiven the omnipresence of noncovalent interactions (NCIs), their accurate simulations are of crucial importance across various scientific disciplines. Here we construct accurate models for the description of NCIs by an interpolation along the M\u00f8ller-Plesset adiabatic connection (MP AC). Our interpolation approximates the correlation energy, by recovering MP2 at small coupling strengths and the correct large-coupling strength expansion of the MP AC, recently shown to be a functional of the Hartree-Fock density. Our models are size consistent for fragments with nondegenerate ground states, have the same cost as double hybrids, and require no dispersion corrections to capture NCIs accurately. These interpolations greatly reduce large MP2 errors for typical \u03c0-stacking complexes (e.g., benzene-pyridine dimers) and for the L7 data set. They are also competitive with state-of-the-art dispersion enhanced functionals and can even significantly outperform them for a variety of data sets, such as CT7 and L7."
+ },
  "https://doi.org/10.1128/JB.00037-21": {
   "month": "6",
   "pub_date": "Jun 2021",
@@ -1139,18 +1163,6 @@
   "journal": "Current Opinion in Food Science",
   "description": "Growth, dormancy and lysis: the complex relation of starter culture physiology and cheese flavour formationFast acidification and growth are desired from lactic acid bacteria starter cultures during food fermentation to minimise the risk of spoilage and process failure. In addition, starter cultures play a predominant role in the formation of flavour volatiles. Recent studies in different microbial species have shown that high growth rates come at the expense of the expression level of metabolic enzymes and/or stress proteins. In starter cultures, such a trade-off would affect flavour formation, which depends on the level of flavour-forming enzymes and the prolonged survival of cells. Moreover, starter culture performance during cheese ripening could also be influenced by its cultivation history due to the low number of divisions during cheese manufacturing and limited proteome adjustment during ripening. These findings indicate that changes in (pre)-culture conditions can modulate proteome allocation and metabolic stability in starter cultures, and thereby provide novel approaches to steer flavour formation."
  },
- "https://doi.org/10.1002/chem.202101103": {
-  "month": "6",
-  "pub_date": "Jun 2021",
-  "year": 2021,
-  "early_online": null,
-  "title": "Synergistic DNA\u2010 and Protein\u2010Based Recognition Promote an RNA\u2010Templated Bio\u2010orthogonal Reaction",
-  "contributors": "McLoughlin, N. M., Kuepper, A., Neubacher, S., Grossmann, T. N.",
-  "corresponding": null,
-  "organisations": "Organic Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences",
-  "journal": "Chemistry \u2013 A European Journal",
-  "description": "Synergistic DNA\u2010 and Protein\u2010Based Recognition Promote an RNA\u2010Templated Bio\u2010orthogonal Reaction"
- },
  "https://doi.org/10.1016/j.toxlet.2021.02.011": {
   "month": "6",
   "pub_date": "1 Jun 2021",
@@ -1162,5 +1174,29 @@
   "organisations": "AIMMS, Molecular and Computational Toxicology",
   "journal": "Toxicology Letters",
   "description": "Corrigendum to \u201cBioactivation of trichloroethylene to three regioisomeric glutathione conjugates by liver fractions and recombinant human glutathione transferases: Species differences and implications for human risk assessment\u201d [Toxicol. Lett. 341 (2021) 94\u2013106]The authors regret that in Fig. 1 the letters indicating the enzymes involved in the reactions were not added to the arrows. A corrected Figure is shown below. [Figure presented] Fig. 1. Regioselective GSH-conjugation of trichloroethylene (TCE) and subsequent processing to corresponding mercapturic acids (N-acetylcysteine S-conjugates) and beta-lyase-dependent bioactivation of cysteine S-conjugates to reactive products. Enzymes involved: a. glutathione S-transferases; b. gamma-glutamyltransferase; c. cysteinyl-glycine dipeptidase; d. cysteine conjugate beta-lyase; e. cysteine conjugate N-acetyltransferase; f. aminoacylase. Formation of sulfoxides of mercapturic acids is not shown to avoid an overcomplicated figure. The authors would like to apologise for any inconvenience caused."
+ },
+ "https://doi.org/10.1038/s41598-021-89550-4": {
+  "month": "6",
+  "pub_date": "Dec 2021",
+  "year": 2021,
+  "early_online": "2 Jun 2021",
+  "title": "Generation and characterization of i",
+  "contributors": "Chandrasekaran, V., Carta, G., da Costa Pereira, D., Gupta, R., Murphy, C., Feifel, E., Kern, G., Lechner, J., Cavallo, A. L., Gupta, S., Caiment, F., Kleinjans, J. C., Gstraunthaler, G., Jennings, P., Wilmes, A.",
+  "corresponding": "Jennings, P.",
+  "organisations": "Molecular and Computational Toxicology, AIMMS, Maastricht University, Innsbruck Medical University, AstraZeneca Sweden",
+  "journal": "Scientific Reports",
+  "description": "Generation and characterization of iPSC-derived renal proximal tubule-like cells with extended stabilityThe renal proximal tubule is responsible for re-absorption of the majority of the glomerular filtrate and its proper function is necessary for whole-body homeostasis. Aging, certain diseases and chemical-induced toxicity are factors that contribute to proximal tubule injury and chronic kidney disease progression. To better understand these processes, it would be advantageous to generate renal tissues from human induced pluripotent stem cells (iPSC). Here, we report the differentiation and characterization of iPSC lines into proximal tubular-like cells (PTL). The protocol is a step wise exposure of small molecules and growth factors, including the GSK3 inhibitor (CHIR99021), the retinoic acid receptor activator (TTNPB), FGF9 and EGF, to drive iPSC to PTL via cell stages representing characteristics of early stages of renal development. Genome-wide RNA sequencing showed that PTL clustered within a kidney phenotype. PTL expressed proximal tubular-specific markers, including megalin (LRP2), showed a polarized phenotype, and were responsive to parathyroid hormone. PTL could take up albumin and exhibited ABCB1 transport activity. The phenotype was stable for up to 7days and was maintained after passaging. This protocol will form the basis of an optimized strategy for molecular investigations using iPSC derived PTL."
+ },
+ "https://doi.org/10.1186/s41476-021-00155-w": {
+  "month": "6",
+  "pub_date": "16 Jun 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Stimulated Raman scattering simulation for imaging optimization",
+  "contributors": "Zada, L., Fokker, B., Leslie, H. A., Vethaak, A. D., De Boer, J. F., Ariese, F.",
+  "corresponding": null,
+  "organisations": "Biophotonics and Medical Imaging, LaserLaB - Biophotonics and Microscopy, E&H: Environmental Chemistry and Toxicology, AIMMS, Environment and Health, Amsterdam Neuroscience - Brain Imaging, Deltares",
+  "journal": "Journal of the European Optical Society. Rapid Publications",
+  "description": "Stimulated Raman scattering simulation for imaging optimizationTwo simulation programs of a stimulated Raman scattering microscopy (SRS) imaging system with lock-in amplifier (LIA) detection were developed. SRS is an imaging technique based on the vibrational Raman cross-section as the contrast mechanism and enables fast, label-free imaging. Most SRS implementations are based on LIA detection of a modulated signal. However, building and operating such SRS set-ups still poses a challenge when selecting the LIA parameter settings for optimized acquisition speed or image quality. Moreover, the type of sample, e.g. a sparse sample vs. a densely packed sample, the required resolution as well as the Raman cross-section and the laser powers affect the parameter choice.A simulation program was used to find these optimal parameters. The focal spot diameters of the individual lasers (pump and Stokes) were used to estimate the effective SRS signal focal spot and the (optical) spatial resolution. By calibrating the signal and noise propagation through an SRS system for a known molecule, we estimated the signal and noise input to the LIA. We used a low pass filter model to simulate the LIA behavior in order to find the optimal parameters (i.e. filter order and time constant).Optimization was done for either image quality (expressed as contrast to noise ratio) or acquisition time. The targeted object size was first determined as a measure for the required resolution. The simulation output consisted of the LIA parameters, pixel dwell time and contrast to noise ratio.In a second simulation we evaluated SRS imaging based on the same principles as the optimal setting simulation, i.e. the signals were propagated through an imaging system and LIA detection. The simulated images were compared to experimental SRS images of polystyrene beads.Finally, the same software was used to simulate multiplexed SRS imaging. In this study we modeled a six-channel frequency-encoded multiplexed SRS system demodulated with six LIA channels. We evaluated the inter-channel crosstalk as a function of chosen LIA parameters, which in multiplex SRS imaging also needs to be considered.These programs to optimize the contrast to noise ratio, acquisition speed, resolution and crosstalk will be useful for operating stimulated Raman scattering imaging setup, as well as for designing novel setups."
  }
 }
