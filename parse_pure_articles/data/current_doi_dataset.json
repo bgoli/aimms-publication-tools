@@ -95,6 +95,18 @@
   "journal": "Journal of Chromatography A",
   "description": "Reducing the influence of geometry-induced gradient deformation in liquid chromatographic retention modellingRapid optimization of gradient liquid chromatographic (LC) separations often utilizes analyte retention modelling to predict retention times as function of eluent composition. However, due to the dwell volume and technical imperfections, the actual gradient may deviate from the set gradient in a fashion unique to the employed instrument. This makes accurate retention modelling for gradient LC challenging, in particular when very fast separations are pursued. Although gradient deformation has been addressed in method-transfer situations, it is rarely taken into account when reporting analyte retention parameters obtained from gradient LC data, hampering the comparison of data from various sources. In this study, a response-function-based algorithm was developed to determine analyte retention parameters corrected for geometry-induced deformations by specific LC instruments. Out of a number of mathematical distributions investigated as response-functions, the so-called \u201cstable function\u201d was found to describe the formed gradient most accurately. The four parameters describing the model resemble the statistical moments of the distribution and are related to chromatographic parameters, such as dwell volume and flow rate. The instrument-specific response function can then be used to predict the actual shape of any other gradient programmed on that instrument. To incorporate the predicted gradient in the retention modelling of the analytes, the model was extended to facilitate an unlimited number of linear gradient steps to solve the equations numerically. The significance and impact of distinct gradient deformation for fast gradients was demonstrated using three different LC instruments. As a proof of principle, the algorithm and retention parameters obtained on a specific instrument were used to predict the retention times on different instruments. The relative error in the predicted retention times went down from an average of 9.8% and 12.2% on the two other instruments when using only a dwell-volume correction to 2.1% and 6.5%, respectively, when using the proposed algorithm. The corrected retention parameters are less dependent on geometry-induced instrument effects."
  },
+ "https://doi.org/10.1021/acs.cgd.0c01410": {
+  "month": "1",
+  "pub_date": "6 Jan 2021",
+  "year": 2021,
+  "early_online": "16 Dec 2020",
+  "title": "Lack of Cooperativity in the Triangular X3Halogen-Bonded Synthon?",
+  "contributors": "Dominikowska, J., Rybarczyk-Pirek, A. J., Fonseca Guerra, C.",
+  "corresponding": "Dominikowska, J.",
+  "organisations": "Theoretical Chemistry, AIMMS, University of \u0141\u00f3d\u017a",
+  "journal": "Crystal Growth and Design",
+  "description": "Lack of Cooperativity in the Triangular X3Halogen-Bonded Synthon?We have investigated 44 crystal structures, found in the Cambridge Structural Database, containing the X3 synthon (where X = Cl, Br, I) in order to verify whether three type II halogen-halogen contacts forming the synthon exhibit cooperativity. A hypothesis that this triangular halogen-bonded motif is stabilized by cooperative effects is postulated on the basis of structural data. However, theoretical investigations of simplified model systems in which the X3 motif is present demonstrate that weak synergy occurs only in the case of the I3 motif. In the present paper we computationally investigate crystal structures in which the X3 synthon is present, including halomesitylene structures, that are usually described as being additionally stabilized by a synergic interaction. Our computations find no cooperativity for halomesitylene trimers containing the X3 motif. Only in the case of two other structures containing the I3 synthon a very weak or weak synergy, i.e. the cooperative effect being stronger than -0.40 kcal mol-1, is found. The crystal structure of iodoform has the most pronounced cooperativity of all investigated systems, amounting to about 10% of the total interaction energy. "
+ },
  "https://doi.org/10.1146/annurev-pharmtox-010919-023340": {
   "month": "1",
   "pub_date": "6 Jan 2021",
@@ -310,6 +322,18 @@
   "organisations": "Bioinformatics, AIMMS, Bio Informatics (IBIVU), King's College London, Princess Nourah Bint Abdulrahman University, King Saud University",
   "journal": "BMC Bioinformatics",
   "description": "IUPACpal: efficient identification of inverted repeats in IUPAC-encoded DNA sequencesBackground: An inverted repeat is a DNA sequence followed downstream by its reverse complement, potentially with a gap in the centre. Inverted repeats are found in both prokaryotic and eukaryotic genomes and they have been linked with countless possible functions. Many international consortia provide a comprehensive description of common genetic variation making alternative sequence representations, such as IUPAC encoding, necessary for leveraging the full potential of such broad variation datasets. Results: We present IUPACpal, an exact tool for efficient identification of inverted repeats in IUPAC-encoded DNA sequences allowing also for potential mismatches and gaps in the inverted repeats. Conclusion: Within the parameters that were tested, our experimental results show that IUPACpal compares favourably to a similar application packaged with EMBOSS. We show that IUPACpal identifies many previously unidentified inverted repeats when compared with EMBOSS, and thatthis is also performed with orders of magnitude improved speed."
+ },
+ "https://doi.org/10.1109/ICDM50108.2020.00103": {
+  "month": "2",
+  "pub_date": "9 Feb 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Hide and mine in strings: Hardness and algorithms",
+  "contributors": "Bernardini, G., Conte, A., Gourdel, G., Grossi, R., Loukides, G., Pisanti, N., Pissis, S. P., Punzi, G., Stougie, L., Sweering, M.",
+  "corresponding": null,
+  "organisations": "Bioinformatics, AIMMS, Bio Informatics (IBIVU), Operations Analytics, Tinbergen Institute, Amsterdam Business Research Institute, University of Milan - Bicocca, University of Pisa, \u00c9cole normale sup\u00e9rieure Paris-Saclay, ERABLE Team, King's College London, Centrum voor Wiskunde en Informatica",
+  "journal": null,
+  "description": "Hide and mine in strings: Hardness and algorithmsWe initiate a study on the fundamental relation between data sanitization (i.e., the process of hiding confidential information in a given dataset) and frequent pattern mining, in the context of sequential (string) data. Current methods for string sanitization hide confidential patterns introducing, however, a number of spurious patterns that may harm the utility of frequent pattern mining. The main computational problem is to minimize this harm. Our contribution here is twofold. First, we present several hardness results, for different variants of this problem, essentially showing that these variants cannot be solved or even be approximated in polynomial time. Second, we propose integer linear programming formulations for these variants and algorithms to solve them, which work in polynomial time under certain realistic assumptions on the problem parameters."
  },
  "https://doi.org/10.1073/pnas.2010075118": {
   "month": "2",
@@ -839,6 +863,18 @@
   "journal": "Chemosphere",
   "description": "Conventional and high resolution chemical characterization to assess refinery effluent treatment performanceRefinery effluents represent an emission source of hydrocarbons (HCs) and other constituents to the environment. Thus, characterisation of effluent quality in terms of concentrations of key parameters relative to permitted standards is important and for total petroleum hydrocarbons (TPH), the specific composition of the HC mixture can affect its toxicity to aquatic organisms. Therefore, this study was designed to analyse TPH, benzene, toluene, ethyl benzene, xylenes (BTEX), polycyclic aromatic hydrocarbons (PAHs), (bio) chemical oxygen demand, total nitrogen, total suspended solids and selected metals before, and after, treatment steps to demonstrate removal efficiencies across 13 refineries with variable wastewater treatment systems. Final discharge concentrations of the measured parameters were by 97% within the so called Best Available Technique Associated Emission Levels (BAT-AELs). Further, TPH composition was characterised using high-resolution two-dimensional gas chromatography (GCxGC) analysis to understand the mass distribution by carbon number and specific chemical class. Measurements were compared to SimpleTreat model predictions for validation. SimpleTreat successfully predicted the shape of the effluent composition since it is essentially a removal constant applied to the influent composition. The predictions were of similar magnitude as, or were greater than, the effluent concentrations since SimpleTreat is based on typical performance and is intended to be conservative. This was especially true for aromatic constituents. Reduction in potential HC exposures also coincided with a decrease in predicted toxicity using a mechanistic oil toxicity model, PETROTOX. Overall, the results indicate that EU petroleum refineries are likely to achieve a high performance level regarding effluent treatment."
  },
+ "https://doi.org/10.4324/9780429299506-4": {
+  "month": "4",
+  "pub_date": "Apr 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Business model innovation for sustainability: The role of stakeholder interaction and managerial cognitive change",
+  "contributors": "Oskam, I., de Man, A. P., Bossink, B.",
+  "corresponding": "Oskam, I.",
+  "organisations": "Management and Organisation, Amsterdam Business Research Institute, Science & Business Innovation, AIMMS, Amsterdam University of Applied Sciences",
+  "journal": null,
+  "description": "Business model innovation for sustainability: The role of stakeholder interaction and managerial cognitive changeBusiness model innovations emerge over time and are influenced by managerial interaction with stakeholders. Especially with regard to business model innovation for sustainability, manager\u2013stakeholder interaction can radically change a company\u2019s business model and underlying logic. However, the majority of the literature shows how manager\u2013stakeholder interaction may limit business model innovation when stakeholders reinforce existing managerial cognitions. In this chapter we study how stakeholders can also stimulate business model innovation by affecting managerial cognitive change. Through three case studies, we find that this can occur through three shaping processes: market approach shaping, product/service offering shaping, and credibility shaping. We also find that the impact of new or latent stakeholders is greater than that of existing stakeholders. We end the chapter by sketching a research agenda to further unravel the role of stakeholders affecting managerial cognition around business model innovation for sustainability."
+ },
  "https://doi.org/10.1055/s-0040-1707284": {
   "month": "4",
   "pub_date": "Apr 2021",
@@ -1223,6 +1259,30 @@
   "journal": "Psychoneuroendocrinology",
   "description": "Salivary biomarkers of stress and inflammation in first graders in C\u00f4te d\u2032Ivoire: Effects of a probiotic food interventionThis semi-randomized controlled trial examined the effects of a probiotic food supplement on cortisol and C-reactive protein (CRP) in a sample of 262 four-to seven-year-old children (56% girls) in two economically-disadvantaged schools in an urban setting in C\u00f4te d\u2032Ivoire. For one semester, children in one school were randomized to receive a probiotic (N = 79) or placebo (N = 85) fermented dairy food each day they attended school; one child (due to medical reasons) and all children in the other school (N = 98) continued their diets as usual. Children provided two saliva samples at 11:30 on consecutive days at the end of the study. Analyses revealed that the probiotic group had lower cortisol than the placebo or diet-as-usual groups (p =.015); CRP levels were comparable across groups (p =.549). Exploratory analyses suggested that dose and regularity of consumption may impact the biomarkers as well. This study provides the first evidence that a probiotic milk product may lower cortisol in a sample of young, economically-disadvantaged children."
  },
+ "https://doi.org/10.1007/978-1-0716-1221-7_11": {
+  "month": "6",
+  "pub_date": "2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Imaging of Genetically Encoded FRET-Based Biosensors to Detect GPCR Activity",
+  "contributors": "Bordes, L., Chavez-Abiega, S., Goedhart, J.",
+  "corresponding": "Goedhart, J.",
+  "organisations": "Systems Bioinformatics, AIMMS, University of Amsterdam",
+  "journal": null,
+  "description": "Imaging of Genetically Encoded FRET-Based Biosensors to Detect GPCR ActivityA wealth of assays for screening GPCR activity have been developed. Biosensors that employ F\u00f6rster Resonance Energy transfer (FRET) are specific and enable dynamic measurements. Moreover, FRET biosensors are ideally suited for the analysis of single living cells. The FRET biosensors described in this manuscript are entirely genetically encoded by plasmids. Here, protocols for employing FRET-based biosensors to detect G protein activity upon GPCR activation are reported. The protocols include details on the isolation of plasmids, transfection, generation of stable cell lines with the FRET biosensors, FRET ratio imaging, and data analysis."
+ },
+ "https://doi.org/10.1007/978-1-0716-1221-7_16": {
+  "month": "6",
+  "pub_date": "2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Nano",
+  "contributors": "Ma, X., Leurs, R., Vischer, H. F.",
+  "corresponding": "Vischer, H. F.",
+  "organisations": "Medicinal chemistry, AIMMS",
+  "journal": null,
+  "description": "NanoLuc-Based Methods to Measure \u03b2-Arrestin2 Recruitment to G Protein-Coupled ReceptorsCytosolic \u03b2-arrestins are key regulators of G protein-coupled receptors (GPCRs) by sterically uncoupling G protein activation, facilitating receptor internalization, and/or acting as G protein-independent signaling scaffolds. The current awareness that GPCR ligands may display bias toward G protein signaling or \u03b2-arrestin recruitment makes \u03b2-arrestin recruitment assays important additions to the drug discovery toolbox. This chapter describes two NanoLuc-based methods to monitor \u03b2-arrestin2 recruitment to the human histamine H1 receptor by measuring bioluminescence resonance energy transfer and enzyme-fragment complementation in real-time on living cells with reasonable high throughput. In addition to the detection of agonism, both assay formats can be used to qualitatively evaluate the binding kinetics of antihistamines on the human histamine H1 receptor."
+ },
  "https://doi.org/10.1016/j.tiv.2021.105112": {
   "month": "6",
   "pub_date": "Jun 2021",
@@ -1251,7 +1311,7 @@
   "month": "6",
   "pub_date": "Jun 2021",
   "year": 2021,
-  "early_online": null,
+  "early_online": "15 Jun 2021",
   "title": "Limited lactosylation of beta-lactoglobulin from cow\u2019s milk exerts strong influence on antigenicity and degranulation of mast cells",
   "contributors": "Bosman, G. P., Oliveira, S., Simons, P. J., Sastre Torano, J., Somsen, G. W., Knippels, L. M., Haselberg, R., Pieters, R. J., Garssen, J., Knipping, K.",
   "corresponding": "Knipping, K.",
@@ -1391,6 +1451,30 @@
   "journal": "JAMA Neurology",
   "description": "SARS-CoV-2 Antibodies in Adult Patients with Multiple Sclerosis in the Amsterdam MS Cohort"
  },
+ "https://doi.org/10.4230/LIPIcs.CPM.2021.9": {
+  "month": "7",
+  "pub_date": "1 Jul 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Constructing strings avoiding forbidden substrings",
+  "contributors": "Bernardini, G., Marchetti-Spaccamela, A., Pissis, S. P., Stougie, L., Sweering, M.",
+  "corresponding": "Bernardini, G.",
+  "organisations": "Bioinformatics, AIMMS, Bio Informatics (IBIVU), Operations Analytics, Tinbergen Institute, Amsterdam Business Research Institute, Centrum voor Wiskunde en Informatica, University of Rome La Sapienza",
+  "journal": null,
+  "description": "Constructing strings avoiding forbidden substringsWe consider the problem of constructing strings over an alphabet \u03a3 that start with a given prefix u, end with a given suffix v, and avoid occurrences of a given set of forbidden substrings. In the decision version of the problem, given a set Sk of forbidden substrings, each of length k, over \u03a3, we are asked to decide whether there exists a string x over \u03a3 such that u is a prefix of x, v is a suffix of x, and no s \u03f5 Sk occurs in x. Our first result is an O(|u| + |v| + k|Sk|)-time algorithm to decide this problem. In the more general optimization version of the problem, given a set S of forbidden arbitrary-length substrings over \u03a3, we are asked to construct a shortest string x over S such that u is a prefix of x, v is a suffix of x, and no s \u03f5 S occurs in x. Our second result is an O(|u| + |v| + ||S|| \u00b7 |\u03a3|)-time algorithm to solve this problem, where ||S|| denotes the total length of the elements of S. Interestingly, our results can be directly applied to solve the reachability and shortest path problems in complete de Bruijn graphs in the presence of forbidden edges or of forbidden paths. Our algorithms are motivated by data privacy, and in particular, by the data sanitization process. In the context of strings, sanitization consists in hiding forbidden substrings from a given string by introducing the least amount of spurious information. We consider the following problem. Given a string w of length n over \u03a3, an integer k, and a set Sk of forbidden substrings, each of length k, over \u03a3, construct a shortest string y over \u03a3 such that no s \u03f5 Sk occurs in y and the sequence of all other length-k fragments occurring in w is a subsequence of the sequence of the length-k fragments occurring in y. Our third result is an O(nk|Sk| \u00b7 |\u03a3|)-time algorithm to solve this problem."
+ },
+ "https://doi.org/10.4230/LIPIcs.CPM.2021.19": {
+  "month": "7",
+  "pub_date": "1 Jul 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "String sanitization under edit distance: Improved and generalized",
+  "contributors": "Mieno, T., Pissis, S. P., Stougie, L., Sweering, M.",
+  "corresponding": "Mieno, T.",
+  "organisations": "Bioinformatics, AIMMS, Bio Informatics (IBIVU), Operations Analytics, Tinbergen Institute, Amsterdam Business Research Institute, Kyushu University, Japan Society for the Promotion of Science, Centrum voor Wiskunde en Informatica",
+  "journal": null,
+  "description": "String sanitization under edit distance: Improved and generalizedLet W be a string of length n over an alphabet S, k be a positive integer, and S be a set of length-k substrings of W. The ETFS problem (Edit distance, Total order, Frequency, Sanitization) asks us to construct a string XEDsuch that: (i) no string of S occurs in XED; (ii) the order of all other length-k substrings over \u03a3 (and thus the frequency) is the same in W and in XED; and (iii) XEDhas minimal edit distance to W. When W represents an individual's data and S represents a set of confidential patterns, the ETFS problem asks for transforming W to preserve its privacy and its utility [Bernardini et al., ECML PKDD 2019]. ETFS can be solved in O(n2k) time [Bernardini et al., CPM 2020]. The same paper shows that ETFS cannot be solved in O(n2-\u03b4) time, for any \u03b4 > 0, unless the Strong Exponential Time Hypothesis (SETH) is false. Our main results can be summarized as follows: An O(n2log2k)-time algorithm to solve ETFS. An O(n2log2n)-time algorithm to solve AETFS (Arbitrary lengths, Edit distance, Total order, Frequency, Sanitization), a generalization of ETFS in which the elements of S can have arbitrary lengths. Our algorithms are thus optimal up to subpolynomial factors, unless SETH fails. In order to arrive at these results, we develop new techniques for computing a variant of the standard dynamic programming (DP) table for edit distance. In particular, we simulate the DP table computation using a directed acyclic graph in which every node is assigned to a smaller DP table. We then focus on redundancy in these DP tables and exploit a tabulation technique according to dyadic intervals to obtain an optimal alignment in O(n2) total time1. Beyond string sanitization, our techniques may inspire solutions to other problems related to regular expressions or context-free grammars."
+ },
  "https://doi.org/10.1186/s13321-021-00525-z": {
   "month": "7",
   "pub_date": "Dec 2021",
@@ -1439,18 +1523,6 @@
   "journal": "Eurosurveillance",
   "description": "SARS-CoV-2 neutralising antibody testing in Europe: Towards harmonisation of neutralising antibody titres for better use of convalescent plasma and comparability of trial dataWe compared the performance of SARS-CoV-2 neutralising antibody testing between 12 European laboratories involved in convalescent plasma trials. Raw titres differed almost 100-fold differences between laboratories when blind-testing 15 plasma samples. Calibration of titres in relation to the reference reagent and standard curve obtained by testing a dilution series reduced the inter-laboratory variability ca 10-fold. The harmonisation of neutralising antibody quantification is a vital step towards determining the protective and therapeutic levels of neutralising antibodies."
  },
- "https://doi.org/10.1002/jcc.26721": {
-  "month": "7",
-  "pub_date": "5 Oct 2021",
-  "year": 2021,
-  "early_online": "18 Jul 2021",
-  "title": "Efficient workflow for the investigation of the catalytic cycle of water oxidation catalysts: Combining GFN-x",
-  "contributors": "Menzel, J. P., Kloppenburg, M., Beli\u0107, J., de Groot, H. J., Visscher, L., Buda, F.",
-  "corresponding": "Menzel, J. P.",
-  "organisations": "AIMMS, Theoretical Chemistry, Leiden University",
-  "journal": "Journal of Computational Chemistry",
-  "description": "Efficient workflow for the investigation of the catalytic cycle of water oxidation catalysts: Combining GFN-xTB and density functional theoryPhotocatalytic water oxidation remains the bottleneck in many artificial photosynthesis devices. The efficiency of this challenging process is inherently linked to the thermodynamic and electronic properties of the chromophore and the water oxidation catalyst (WOC). Computational investigations can facilitate the search for favorable chromophore-catalyst combinations. However, this remains a demanding task due to the requirements on the computational method that should be able to correctly describe different spin and oxidation states of the transition metal, the influence of solvation and the different rates of the charge transfer and water oxidation processes. To determine a suitable method with favorable cost/accuracy ratios, the full catalytic cycle of a molecular ruthenium based WOC is investigated using different computational methods, including density functional theory (DFT) with different functionals (GGA, Hybrid, Double Hybrid) as well as the semi-empirical tight binding approach GFN-xTB. A workflow with low computational cost is proposed that combines GFN-xTB and DFT and provides reliable results. GFN-xTB geometries and frequencies combined with single-point DFT energies give free energy changes along the catalytic cycle that closely follow the full DFT results and show satisfactory agreement with experiment, while significantly decreasing the computational cost. This workflow allows for cost efficient determination of energetic, thermodynamic and dynamic properties of WOCs."
- },
  "https://doi.org/10.1038/s41467-021-24608-5": {
   "month": "7",
   "pub_date": "21 Jul 2021",
@@ -1486,6 +1558,18 @@
   "organisations": "Molecular and Cellular Neurobiology, Integrative Neurophysiology, Amsterdam Neuroscience - Brain Imaging, Amsterdam Neuroscience - Cellular & Molecular Mechanisms, Amsterdam Neuroscience - Neurodegeneration, AIMMS, Center for Neurogenomics and Cognitive Research, University of Groningen, Sulfateq B.V.",
   "journal": "Scientific Reports",
   "description": "Torpor enhances synaptic strength and restores memory performance in a mouse model of Alzheimer\u2019s diseaseHibernation induces neurodegeneration-like changes in the brain, which are completely reversed upon arousal. Hibernation-induced plasticity may therefore be of great relevance for the treatment of neurodegenerative diseases, but remains largely unexplored. Here we show that a single torpor and arousal sequence in mice does not induce dendrite retraction and synapse loss as observed in seasonal hibernators. Instead, it increases hippocampal long-term potentiation and contextual fear memory. This is accompanied by increased levels of key postsynaptic proteins and mitochondrial complex I and IV proteins, indicating mitochondrial reactivation and enhanced synaptic plasticity upon arousal. Interestingly, a single torpor and arousal sequence was also sufficient to restore contextual fear memory in an APP/PS1 mouse model of Alzheimer\u2019s disease. Our study demonstrates that torpor in mice evokes an exceptional state of hippocampal plasticity and that naturally occurring plasticity mechanisms during torpor provide an opportunity to identify unique druggable targets for the treatment of cognitive impairment."
+ },
+ "https://doi.org/10.1002/jcc.26721": {
+  "month": "10",
+  "pub_date": "5 Oct 2021",
+  "year": 2021,
+  "early_online": "18 Jul 2021",
+  "title": "Efficient workflow for the investigation of the catalytic cycle of water oxidation catalysts: Combining GFN-x",
+  "contributors": "Menzel, J. P., Kloppenburg, M., Beli\u0107, J., de Groot, H. J., Visscher, L., Buda, F.",
+  "corresponding": "Menzel, J. P.",
+  "organisations": "AIMMS, Theoretical Chemistry, Leiden University",
+  "journal": "Journal of Computational Chemistry",
+  "description": "Efficient workflow for the investigation of the catalytic cycle of water oxidation catalysts: Combining GFN-xTB and density functional theoryPhotocatalytic water oxidation remains the bottleneck in many artificial photosynthesis devices. The efficiency of this challenging process is inherently linked to the thermodynamic and electronic properties of the chromophore and the water oxidation catalyst (WOC). Computational investigations can facilitate the search for favorable chromophore-catalyst combinations. However, this remains a demanding task due to the requirements on the computational method that should be able to correctly describe different spin and oxidation states of the transition metal, the influence of solvation and the different rates of the charge transfer and water oxidation processes. To determine a suitable method with favorable cost/accuracy ratios, the full catalytic cycle of a molecular ruthenium based WOC is investigated using different computational methods, including density functional theory (DFT) with different functionals (GGA, Hybrid, Double Hybrid) as well as the semi-empirical tight binding approach GFN-xTB. A workflow with low computational cost is proposed that combines GFN-xTB and DFT and provides reliable results. GFN-xTB geometries and frequencies combined with single-point DFT energies give free energy changes along the catalytic cycle that closely follow the full DFT results and show satisfactory agreement with experiment, while significantly decreasing the computational cost. This workflow allows for cost efficient determination of energetic, thermodynamic and dynamic properties of WOCs."
  },
  "https://doi.org/10.31635/ccschem.020.202000473": {
   "month": "8",
@@ -1546,5 +1630,77 @@
   "organisations": "Systems Bioinformatics, AIMMS, University of Valladolid, Institute of Sustainable Processes, Vrije Universiteit Amsterdam",
   "journal": "AMB Express",
   "description": "Imaging and modelling of poly(3-hydroxybutyrate) synthesis in Paracoccus denitrificansPoly(3-hydroxybutyrate) (PHB) granule formation in Paracoccus denitrificans Pd1222 was investigated by laser scanning confocal microscopy (LSCM) and gas chromatography analysis. Cells that had been starved for 2days were free of PHB granules but resynthesized them within 30min of growth in fresh medium with succinate. In most cases, the granules were distributed randomly, although in some cases they appeared in a more organized pattern. The rates of growth and PHB accumulation were analyzed within the frame of a Genome-Scale Metabolic Model (GSMM) containing 781 metabolic genes, 1403 reactions and 1503 metabolites. The model was used to obtain quantitative predictions of biomass yields and PHB synthesis during aerobic growth on succinate as sole carbon and energy sources. The results revealed an initial fast stage of PHB accumulation, during which all of the acetyl-CoA originating from succinate was diverted to PHB production. The next stage was characterized by a tenfold lower PHB production rate and the simultaneous onset of exponential growth, during which acetyl-CoA was predominantly drained into the TCA cycle. Previous research has shown that PHB accumulation correlates with cytosolic acetyl-CoA concentration. It has also been shown that PHB accumulation is not transcriptionally regulated. Our results are consistent with the mentioned findings and suggest that, in absence of cell growth, most of the cellular acetyl-CoA is channeled to PHB synthesis, while during exponential growth, it is drained to the TCA cycle, causing a reduction of the cytosolic acetyl-CoA pool and a concomitant decrease of the synthesis of acetoacetyl-CoA (the precursor of PHB synthesis)."
+ },
+ "https://doi.org/10.1038/s41597-021-01002-w": {
+  "month": "8",
+  "pub_date": "Dec 2021",
+  "year": 2021,
+  "early_online": "24 Aug 2021",
+  "title": "Inter-laboratory mass spectrometry dataset based on passive sampling of drinking water for non-target analysis",
+  "contributors": "Schulze, B., van Herwerden, D., Allan, I., Bijlsma, L., Etxebarria, N., Hansen, M., Merel, S., Vrana, B., Aalizadeh, R., Bajema, B., Dubocq, F., Coppola, G., Fildier, A., Fialov\u00e1, P., Fr\u00f8kj\u00e6r, E., Grabic, R., Gago-Ferrero, P., Gravert, T., Hollender, J., Huynh, N., Jacobs, G., Jonkers, T., Kaserzon, S., Lamoree, M., Le Roux, J., Mairinger, T., Margoum, C., Mascolo, G., Mebold, E., Menger, F., Mi\u00e8ge, C., Meijer, J., Moilleron, R., Murgolo, S., Peruzzo, M., Pijnappels, M., Reid, M., Roscioli, C., Soulier, C., Valsecchi, S., Thomaidis, N., Vulliet, E., Young, R., Samanipour, S.",
+  "corresponding": "Samanipour, S.",
+  "organisations": "E&H: Environmental Chemistry and Toxicology, AIMMS, University of Queensland, University of Amsterdam, Norwegian Institute for Water Research, Jaume I University, University of the Basque Country, Aarhus University, Irstea, Masaryk University, National and Kapodistrian University of Athens, Vitens N.V., \u00d6rebro University, Eurolab Srl, Universite Claude Bernard Lyon 1, University of South Bohemia, University of Girona, Swiss Federal Institute of Aquatic Science and Technology, Universit\u00e9 Paris-Est Cr\u00e9teil, Flemish Institute for Technological Research, University of Natural Resources and Life Sciences, Vienna, National Research Council of Italy, Swedish University of Agricultural Sciences, Centre for Water Management of Rijkswaterstaat, Bureau de recherches g\u00e9ologiques et mini\u00e8res, Colorado State University",
+  "journal": "Scientific Data",
+  "description": "Inter-laboratory mass spectrometry dataset based on passive sampling of drinking water for non-target analysisNon-target analysis (NTA) employing high-resolution mass spectrometry is a commonly applied approach for the detection of novel chemicals of emerging concern in complex environmental samples. NTA typically results in large and information-rich datasets that require computer aided (ideally automated) strategies for their processing and interpretation. Such strategies do however raise the challenge of reproducibility between and within different processing workflows. An effective strategy to mitigate such problems is the implementation of inter-laboratory studies (ILS) with the aim to evaluate different workflows and agree on harmonized/standardized quality control procedures. Here we present the data generated during such an ILS. This study was organized through the Norman Network and included 21 participants from 11 countries. A set of samples based on the passive sampling of drinking water pre and post treatment was shipped to all the participating laboratories for analysis, using one pre-defined method and one locally (i.e. in-house) developed method. The data generated represents a valuable resource (i.e. benchmark) for future developments of algorithms and workflows for NTA experiments."
+ },
+ "https://doi.org/10.1007/s00204-021-03127-810.1007/s00204-021-03127-8": {
+  "month": "9",
+  "pub_date": "4 Sep 2021",
+  "year": 2021,
+  "early_online": "4 Sep 2021",
+  "title": "Fluorescent tagging of endogenous Heme oxygenase-1 in human induced pluripotent stem cells for high content imaging of oxidative stress in various differentiated lineages",
+  "contributors": "Snijders, K. E., Feh\u00e9r, A., T\u00e1ncos, Z., Bock, I., T\u00e9gl\u00e1si, A., van den Berk, L., Niemeijer, M., Bouwman, P., Le D\u00e9v\u00e9dec, S. E., Mon\u00e9, M. J., Van Rossom, R., Kumar, M., Wilmes, A., Jennings, P., Verfaillie, C. M., Kobol\u00e1k, J., ter Braak, B., Dinny\u00e9s, A., van de Water, B.Pages:3285-3302",
+  "corresponding": "van de Water, B.",
+  "organisations": "Molecular and Computational Toxicology, AIMMS, Leiden University, BioTalentum, KU Leuven, Szent Istvan University, Leiden University",
+  "journal": "Archives of Toxicology",
+  "description": "Fluorescent tagging of endogenous Heme oxygenase-1 in human induced pluripotent stem cells for high content imaging of oxidative stress in various differentiated lineagesTagging of endogenous stress response genes can provide valuable in vitro models for chemical safety assessment. Here, we present the generation and application of a fluorescent human induced pluripotent stem cell (hiPSC) reporter line for Heme oxygenase-1 (HMOX1), which is considered a sensitive and reliable biomarker for the oxidative stress response. CRISPR/Cas9 technology was used to insert an enhanced green fluorescent protein (eGFP) at the C-terminal end of the endogenous HMOX1 gene. Individual clones were selected and extensively characterized to confirm precise editing and retained stem cell properties. Bardoxolone-methyl (CDDO-Me) induced oxidative stress caused similarly increased expression of both the wild-type and eGFP-tagged HMOX1 at the mRNA and protein level. Fluorescently tagged hiPSC-derived proximal tubule-like, hepatocyte-like, cardiomyocyte-like and neuron-like progenies were treated with CDDO-Me (5.62-1000 nM) or diethyl maleate (5.62-1000 \u00b5M) for 24 h and 72 h. Multi-lineage oxidative stress responses were assessed through transcriptomics analysis, and HMOX1-eGFP reporter expression was carefully monitored using live-cell confocal imaging. We found that eGFP intensity increased in a dose-dependent manner with dynamics varying amongst lineages and stressors. Point of departure modelling further captured the specific lineage sensitivities towards oxidative stress. We anticipate that the newly developed HMOX1 hiPSC reporter will become a valuable tool in understanding and quantifying critical target organ cell-specific oxidative stress responses induced by (newly developed) chemical entities."
+ },
+ "https://doi.org/10.1038/s41467-021-25814-x": {
+  "month": "9",
+  "pub_date": "Dec 2021",
+  "year": 2021,
+  "early_online": "17 Sep 2021",
+  "title": "A method for intuitively extracting macromolecular dynamics from structural disorder",
+  "contributors": "Pearce, N. M., Gros, P.",
+  "corresponding": "Pearce, N. M.",
+  "organisations": "Organic Chemistry, AIMMS, Utrecht University",
+  "journal": "Nature Communications",
+  "description": "A method for intuitively extracting macromolecular dynamics from structural disorderMacromolecular dynamics manifest as disorder in structure determination, which is subsequently accounted for by displacement parameters (also called temperature factors, or B-factors) or alternate conformations. Though B-factors contain detailed information about structural dynamics, they are the total of multiple sources of disorder, making them difficult to interpret and thus little-used in structural analysis. We report here an analytical approach for decomposing molecular disorder into a parsimonious hierarchical series of contributions, providing an intuitive basis for quantitative structural-dynamics analysis. We demonstrate the decomposition of disorder on example SARS-CoV-2 and STEAP4 structures, from both crystallographic and cryo-electron microscopy data, and reveal how understanding of the macromolecular disorder leads to deeper understanding of molecular motions and flexibility, and suggests hypotheses for molecular mechanisms."
+ },
+ "https://doi.org/10.1016/j.nantod.2021.101296": {
+  "month": "9",
+  "pub_date": "Dec 2021",
+  "year": 2021,
+  "early_online": "23 Sep 2021",
+  "title": "The analytical quest for sub-micron plastics in biological matrices",
+  "contributors": "Abdolahpur Monikh, F., Vijver, M. G., Mitrano, D. M., Leslie, H. A., Guo, Z., Zhang, P., Lynch, I., Valsami-Jones, E., Peijnenburg, W. J.",
+  "corresponding": "Abdolahpur Monikh, F.",
+  "organisations": "E&H: Environmental Chemistry and Toxicology, AIMMS, University of Eastern Finland, Leiden University, Swiss Federal Institute of Technology Zurich, University of Birmingham, National Institute of Public Health and the Environment",
+  "journal": "Nano Today",
+  "description": "The analytical quest for sub-micron plastics in biological matricesThe current debate on hazards associated with sub-micron sized plastics is hampered by a lack of quantitative data on the uptake and biological fate of plastics in organisms. Analytical methods should be developed to identify, characterize, and quantify sub-micron particulate plastic in biota to understand their biological fate in terms of biodistribution, localization, bioaccumulation and clearance. Here we give a perspective on a promising workflow of sample preparation methods and techniques that could enable analysis of sub-micron plastics in biological matrices and discuss their application for biological fate studies of particulate plastic in organisms. We also expect these methods to be largely transferrable to studies considering sub-micron plastics in food, consumer products, human and some environmental compartments."
+ },
+ "https://doi.org/10.1038/s41396-021-00986-y": {
+  "month": "10",
+  "pub_date": "Oct 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Population dynamics of microbial cross-feeding are determined by co-localization probabilities and cooperation-independent cheater growth",
+  "contributors": "van Tatenhove-Pel, R. J., de Groot, D. H., Bisseswar, A. S., Teusink, B., Bachmann, H.",
+  "corresponding": "Bachmann, H.",
+  "organisations": "Systems Bioinformatics, AIMMS, Systems Bioinformatics, Vrije Universiteit Amsterdam",
+  "journal": "ISME Journal",
+  "description": "Population dynamics of microbial cross-feeding are determined by co-localization probabilities and cooperation-independent cheater growthAs natural selection acts on individual organisms the evolution of costly cooperation between microorganisms is an intriguing phenomenon. Introduction of spatial structure to privatize exchanged molecules can explain the evolution of cooperation. However, in many natural systems cells can also grow to low cell concentrations in the absence of these exchanged molecules, thus showing \u201ccooperation-independent background growth\u201d. We here serially propagated a synthetic cross-feeding consortium of lactococci in the droplets of a water-in-oil emulsion, essentially mimicking group selection with varying founder population sizes. The results show that when the growth of cheaters completely depends on cooperators, cooperators outcompete cheaters. However, cheaters outcompete cooperators when they can independently grow to only ten percent of the consortium carrying capacity. This result is the consequence of a probabilistic effect, as low founder population sizes in droplets decrease the frequency of cooperator co-localization. Cooperator-enrichment can be recovered by increasing the founder population size in droplets to intermediate values. Together with mathematical modelling our results suggest that co-localization probabilities in a spatially structured environment leave a small window of opportunity for the evolution of cooperation between organisms that do not benefit from their cooperative trait when in isolation or form multispecies aggregates."
+ },
+ "https://doi.org/10.1016/j.scr.2021.102512": {
+  "month": "10",
+  "pub_date": "Oct 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Systematic assessment of variability in the proteome of i",
+  "contributors": "Beekhuis-Hoekstra, S. D., Watanabe, K., Werme, J., de Leeuw, C. A., Paliukhovich, I., Li, K. W., Koopmans, F., Smit, A. B., Posthuma, D., Heine, V. M.",
+  "corresponding": "Posthuma, D.",
+  "organisations": "Complex Trait Genetics, Amsterdam Neuroscience - Complex Trait Genetics, Molecular and Cellular Neurobiology, AIMMS, Amsterdam Neuroscience - Cellular & Molecular Mechanisms, Amsterdam Neuroscience - Neurodegeneration, Center for Neurogenomics and Cognitive Research",
+  "journal": "Stem Cell Research",
+  "description": "Systematic assessment of variability in the proteome of iPSC derivativesThe use of induced pluripotent stem cells (iPSC) to model human complex diseases is gaining popularity as it allows investigation of human cells that are otherwise sparsely available. However, due to its laborious and cost intensive nature, iPSC research is often plagued by limited sample size and putative large variability between clones, decreasing statistical power for detecting experimental effects. Here, we investigate the source and magnitude of variability in the proteome of parallel differentiated astrocytes using mass spectrometry. We compare three possible sources of variability: inter-donor variability, inter- and intra-clonal variability, at different stages of maturation. We show that the interclonal variability is significantly smaller than the inter-donor variability, and that including more donors has a much larger influence on statistical power than adding more clones per donor. Our results provide insight into the sources of variability at protein level between iPSC samples derived in parallel and will aid in optimizing iPSC studies."
  }
 }
