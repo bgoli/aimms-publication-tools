@@ -1,0 +1,6809 @@
+{
+ "https://doi.org/10.1002/pro.3788": {
+  "year": "2020",
+  "title": "Facilities that make the PDB data collection more powerful",
+  "contributors": [
+   "Lange, J.",
+   "Baakman, C.",
+   "Pistorius, A.",
+   "Krieger, E.",
+   "Hooft, R.",
+   "Joosten, R. P.",
+   "Vriend, G."
+  ],
+  "corresponding": "Vriend, G.",
+  "organisations": [
+   "Bioinformatics",
+   "AIMMS",
+   "Bio Informatics (IBIVU)",
+   "Bio-Prodict",
+   "Radboud University Nijmegen",
+   "Netherlands Cancer Institute",
+   "Baco Institute of Protein Science (BIPS)"
+  ]
+ },
+ "https://doi.org/10.1038/s41596-019-0245-4": {
+  "year": "2020",
+  "title": "Real-time imaging of multivesicular body\u2013plasma membrane fusion to quantify exosome release from single cells",
+  "contributors": [
+   "Bebelman, M. P.",
+   "Bun, P.",
+   "Huveneers, S.",
+   "van Niel, G.",
+   "Pegtel, D. M.",
+   "Verweij, F. J."
+  ],
+  "corresponding": "Pegtel, D. M.",
+  "organisations": [
+   "Medicinal chemistry",
+   "AIMMS",
+   "University of Amsterdam",
+   "Vrije Universiteit",
+   "Amsterdam",
+   "Universite\u00e9 Paris Descartes",
+   "Sorbonne Paris Cite\u00e9",
+   "Paris"
+  ]
+ },
+ "https://doi.org/10.1007/978-1-4939-9845-6_2": {
+  "year": "2020",
+  "title": "Analytics for bioactivity profiling of complex mixtures with a focus on venoms",
+  "contributors": [
+   "Mladic, M.",
+   "Niessen, W. M.",
+   "Somsen, G. W.",
+   "Kool, J."
+  ],
+  "corresponding": "Kool, J.",
+  "organisations": [
+   "BioAnalytical Chemistry",
+   "AIMMS",
+   "Vrije Universiteit",
+   "Amsterdam",
+   "Hyphen MassSpec"
+  ]
+ },
+ "https://doi.org/10.1016/j.envint.2019.105289": {
+  "year": "2020",
+  "title": "Corrigendum to \u201cProperties, performance and associated hazards of state-of-the-art durable water repellent (DWR) chemistry for textile finishing\u201d [Environ. Int. 91 (2016) 251\u2013264]: (Preliminary screening of perfluorooctane sulfonate (PFOS) and other fluorochemicals in fish, birds and marine mammals from Greenland and the Faroe Islands (2005) 136(2) (323\u2013329), (S0269749105000412), (10.1016/j.envpol.2004.12.020))",
+  "contributors": [
+   "Holmquist, H.",
+   "Schellenberger, S.",
+   "van der Veen, I.",
+   "Peters, G. M.",
+   "Leonards, P. E.",
+   "Cousins, I. T."
+  ],
+  "corresponding": "Holmquist, H.",
+  "organisations": [
+   "Environmental Chemistry and Toxicology",
+   "AIMMS",
+   "Environmental Bioanalytical Chemistry",
+   "Chalmers University of Technology",
+   "Stockholm University"
+  ]
+ },
+ "https://doi.org/10.1371/journal.pcbi.1007559": {
+  "year": "2020",
+  "title": "Elementary Growth Modes provide a molecular description of cellular self-fabrication",
+  "contributors": [
+   "de Groot, D. H.",
+   "Hulshof, J.",
+   "Teusink, B.",
+   "Bruggeman, F. J.",
+   "Planqu\u00e9, R."
+  ],
+  "corresponding": "Planqu\u00e9, R.",
+  "organisations": [
+   "Systems Bioinformatics",
+   "AIMMS",
+   "Mathematics",
+   "Systems Bioinformatics"
+  ]
+ },
+ "https://doi.org/10.1016/j.watres.2019.115204": {
+  "year": "2020",
+  "title": "Identification of mutagenic and endocrine disrupting compounds in surface water and wastewater treatment plant effluents using high-resolution effect-directed analysis",
+  "contributors": [
+   "Zwart, N.",
+   "Jonker, W.",
+   "Broek, R. T.",
+   "de Boer, J.",
+   "Somsen, G.",
+   "Kool, J.",
+   "Hamers, T.",
+   "Houtman, C. J.",
+   "Lamoree, M. H."
+  ],
+  "corresponding": "Lamoree, M. H.",
+  "organisations": [
+   "AIMMS",
+   "Environmental Bioanalytical Chemistry",
+   "BioAnalytical Chemistry",
+   "Environmental Chemistry and Toxicology",
+   "Environmental Health and Toxicology",
+   "The Water Laboratory"
+  ]
+ },
+ "https://doi.org/10.1021/acs.jctc.9b01133": {
+  "year": "2020",
+  "title": "Kinetic Correlation Functionals from the Entropic Regularization of the Strictly Correlated Electrons Problem",
+  "contributors": [
+   "Gerolin, A.",
+   "Grossi, J.",
+   "Gori-Giorgi, P."
+  ],
+  "corresponding": "Gerolin, A.",
+  "organisations": [
+   "AIMMS",
+   "Theoretical Chemistry"
+  ]
+ },
+ "https://doi.org/10.1074/mcp.RA119.001677": {
+  "year": "2020",
+  "title": "NIST Interlaboratory Study on Glycosylation Analysis of Monoclonal Antibodies: Comparison of Results from Diverse Analytical Methods",
+  "contributors": [
+   "De Leoz, M. L. A.",
+   "Duewer, D. L.",
+   "Fung, A.",
+   "Liu, L.",
+   "Yau, H. K.",
+   "Potter, O.",
+   "Staples, G. O.",
+   "Furuki, K.",
+   "Frenkel, R.",
+   "Hu, Y.",
+   "Sosic, Z.",
+   "Zhang, P.",
+   "Altmann, F.",
+   "Gru Nwald-Grube, C.",
+   "Shao, C.",
+   "Zaia, J.",
+   "Evers, W.",
+   "Pengelley, S.",
+   "Suckau, D.",
+   "Wiechmann, A.",
+   "Resemann, A.",
+   "Jabs, W.",
+   "Beck, A.",
+   "Froehlich, J. W.",
+   "Huang, C.",
+   "Li, Y.",
+   "Liu, Y.",
+   "Sun, S.",
+   "Wang, Y.",
+   "Seo, Y.",
+   "An, H. J.",
+   "Reichardt, N. C.",
+   "Ruiz, J. E.",
+   "Archer-Hartmann, S.",
+   "Azadi, P.",
+   "Bell, L.",
+   "Lakos, Z.",
+   "An, Y.",
+   "Cipollo, J. F.",
+   "Pucic-Bakovic, M.",
+   "\u0160tambuk, J.",
+   "Lauc, G.",
+   "Li, X.",
+   "Wang, P. G.",
+   "Bock, A.",
+   "Hennig, R.",
+   "Rapp, E.",
+   "Creskey, M.",
+   "Cyr, T. D.",
+   "Nakano, M.",
+   "Sugiyama, T.",
+   "Leung, P. K. A.",
+   "Link-Lenczowski, P.",
+   "Jaworek, J.",
+   "Yang, S.",
+   "Zhang, H.",
+   "Kelly, T.",
+   "Klapoetke, S.",
+   "Cao, R.",
+   "Kim, J. Y.",
+   "Lee, H. K.",
+   "Lee, J. Y.",
+   "Yoo, J. S.",
+   "Kim, S. R.",
+   "Suh, S. K.",
+   "de Haan, N.",
+   "Falck, D.",
+   "Lageveen-Kammeijer, G. S.",
+   "Wuhrer, M.",
+   "Emery, R. J.",
+   "Kozak, R. P.",
+   "Liew, L. P.",
+   "Royle, L.",
+   "Urbanowicz, P. A.",
+   "Packer, N. H.",
+   "Song, X.",
+   "Everest-Dass, A.",
+   "Lattov\u00e1, E.",
+   "Cajic, S.",
+   "Alagesan, K.",
+   "Kolarich, D.",
+   "Kasali, T.",
+   "Lindo, V.",
+   "Chen, Y.",
+   "Goswami, K.",
+   "Gau, B.",
+   "Amunugama, R.",
+   "Jones, R.",
+   "Stroop, C. J.",
+   "Kato, K.",
+   "Yagi, H.",
+   "Kondo, S.",
+   "Yuen, C. T.",
+   "Harazono, A.",
+   "Shi, X.",
+   "Magnelli, P. E.",
+   "Kasper, B. T.",
+   "Mahal, L.",
+   "Harvey, D. J.",
+   "O'Flaherty, R.",
+   "Rudd, P. M.",
+   "Saldova, R.",
+   "Hecht, E. S.",
+   "Muddiman, D. C.",
+   "Kang, J.",
+   "Bhoskar, P.",
+   "Menard, D.",
+   "Saati, A.",
+   "Merle, C.",
+   "Mast, S.",
+   "Tep, S.",
+   "Truong, J.",
+   "Nishikaze, T.",
+   "Sekiya, S.",
+   "Shafer, A.",
+   "Funaoka, S.",
+   "Toyoda, M.",
+   "de Vreugd, P.",
+   "Caron, C.",
+   "Pradhan, P.",
+   "Tan, N. C.",
+   "Mechref, Y.",
+   "Patil, S.",
+   "Rohrer, J. S.",
+   "Chakrabarti, R.",
+   "Dadke, D.",
+   "Lahori, M.",
+   "Zou, C.",
+   "Cairo, C.",
+   "Reiz, B.",
+   "Whittal, R. M.",
+   "Lebrilla, C. B.",
+   "Wu, L.",
+   "Guttman, A.",
+   "Szigeti, M.",
+   "Kremkow, B. G.",
+   "Lee, K. H.",
+   "Sihlbom, C.",
+   "Adamczyk, B.",
+   "Jin, C.",
+   "Karlsson, N. G.",
+   "\u00d6rnros, J.",
+   "Larson, G.",
+   "Nilsson, J.",
+   "Meyer, B.",
+   "Wiegandt, A.",
+   "Komatsu, E.",
+   "Perreault, H.",
+   "Bodnar, E. D.",
+   "Said, N.",
+   "Francois, Y. N.",
+   "Leize-Wagner, E.",
+   "Maier, S.",
+   "Zeck, A.",
+   "Heck, A. J.",
+   "Yang, Y.",
+   "Haselberg, R.",
+   "Yu, Y. Q.",
+   "Alley, W.",
+   "Leone, J. W.",
+   "Yuan, H.",
+   "Stein, S. E."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "BioAnalytical Chemistry",
+   "AIMMS",
+   "National Institute of Standards and Technology",
+   "Agensys",
+   "Inc.",
+   "Agilent Technologies",
+   "Astellas Pharma",
+   "Biogen IDEC",
+   "University of Natural Resources and Life Sciences",
+   "Vienna",
+   "Boston University",
+   "Bruker Daltonik GmbH",
+   "Beuth University of Applied Sciences Berlin",
+   "74164 St Julien-en-Genevois",
+   "Harvard University",
+   "CAS - Institute of Biophysics",
+   "CAS - Institute of Computing Technology",
+   "Chungnam National University",
+   "CIC biomaGUNE",
+   "University of Georgia",
+   "Covance Inc.",
+   "Inc.",
+   "United States Food and Drug Administration",
+   "Glycoscience Research Laboratory",
+   "University of Zagreb",
+   "Georgia State University",
+   "glyXera GmbH",
+   "AstraZeneca",
+   "Health Canada",
+   "Hiroshima University",
+   "ImmunoGen",
+   "Jagiellonian University in Krak\u00f3w",
+   "Johns Hopkins University",
+   "KBI Biopharma",
+   "Korea Basic Science Institute",
+   "Korea National Institute of Food and Drug Safety",
+   "Culham Science Centre",
+   "Macquarie University",
+   "Masaryk University",
+   "Max Planck Institute for Dynamics of Complex Technical Systems",
+   "Max Planck Institute of Colloids and Interfaces",
+   "Merck",
+   "MS Bioworks",
+   "MSD",
+   "National Institutes of Natural Sciences",
+   "Nagoya City University",
+   "Medical & Biological Laboratories Co",
+   "Ltd",
+   "National Institute of Health Sciences Tokyo",
+   "New England Biolabs",
+   "New York University",
+   "University of Oxford",
+   "Mount Merrion",
+   "Co. Dublin A94 X099",
+   "North Carolina State University",
+   "Pfizer",
+   "ZI La Varenne 20-22 rue Henri et Gilberte Goudier 63200 RIOM",
+   "ProZyme Inc.",
+   "Shimadzu Corporation",
+   "St. Jude Children Research Hospital",
+   "Sumitomo Bakelite Co.",
+   "Ltd.",
+   "Synthon BV",
+   "Takeda Pharmaceuticals International Co.",
+   "Texas Tech University",
+   "Thermo Fisher Scientific",
+   "The United States Pharmacopeial Convention",
+   "University of Alberta",
+   "University of California at Davis",
+   "University of Debrecen",
+   "University of Pannonia",
+   "University of Delaware",
+   "University of Gothenburg",
+   "University of Hamburg",
+   "University of Manitoba",
+   "Universit\u00e9 de Strasbourg",
+   "University of T\u00fcbingen",
+   "Utrecht University",
+   "Waters Corporation",
+   "Zoetis Inc.",
+   "Leiden University Medical Center - LUMC",
+   "Bioprocessing Technology Institute",
+   "Analytical R&D",
+   "National Institute for Biological Standards and Control",
+   "College Road East Princeton"
+  ]
+ },
+ "https://doi.org/10.1016/j.chemosphere.2019.124643": {
+  "year": "2020",
+  "title": "Short-, medium-, and long-chain chlorinated paraffins in South African indoor dust and cat hair",
+  "contributors": [
+   "Brits, M.",
+   "de Boer, J.",
+   "Rohwer, E. R.",
+   "De Vos, J.",
+   "Weiss, J. M.",
+   "Brandsma, S. H."
+  ],
+  "corresponding": "Brits, M.",
+  "organisations": [
+   "AIMMS",
+   "Environmental Chemistry and Toxicology",
+   "Environmental Bioanalytical Chemistry",
+   "Department of Chemistry",
+   "Faculty of Natural and Agricultural Sciences",
+   "University of Pretoria",
+   "Lynnwood Road",
+   "Pretoria",
+   "0002",
+   "South Africa.",
+   "National Metrology Institute of South Africa (NMISA)",
+   "CSIR Campus",
+   "Meiring Naude Road",
+   "Pretoria",
+   "0040",
+   "South Africa.",
+   "Department of Environmental Science and Analytical Chemistry (ACES)",
+   "Stockholm University",
+   "Svante Arrhenius v\u00e4g 8",
+   "10691 Stockholm",
+   "Sweden."
+  ]
+ },
+ "https://doi.org/10.1126/sciadv.aax5783": {
+  "year": "2020",
+  "title": "Stitching the synapse: Cross-linking mass spectrometry into resolving synaptic protein interactions",
+  "contributors": [
+   "Gonzalez-Lozano, M. A.",
+   "Koopmans, F.",
+   "Sullivan, P. F.",
+   "Protze, J.",
+   "Krause, G.",
+   "Verhage, M.",
+   "Li, K. W.",
+   "Liu, F.",
+   "Smit, A. B."
+  ],
+  "corresponding": "Li, K. W.",
+  "organisations": [
+   "Molecular and Cellular Neurobiology",
+   "Amsterdam Neuroscience - Cellular & Molecular Mechanisms",
+   "Functional Genomics",
+   "AIMMS",
+   "Amsterdam Neuroscience - Neurodegeneration",
+   "Center for Neurogenomics and Cognitive Research",
+   "Karolinska Institutet",
+   "University of North Carolina at Chapel Hill",
+   "Leibniz Institute for Molecular Pharmacology",
+   "Utrecht University"
+  ]
+ },
+ "https://doi.org/10.1021/acs.orglett.9b04387": {
+  "year": "2020",
+  "title": "Synthesis of Densely Functionalized Pyrimidouracils by Nickel(II)-Catalyzed Isocyanide Insertion",
+  "contributors": [
+   "Collet, J. W.",
+   "Morel, B.",
+   "Lin, H. C.",
+   "Roose, T. R.",
+   "Mampuys, P.",
+   "Orru, R. V.",
+   "Ruijter, E.",
+   "Maes, B. U."
+  ],
+  "corresponding": "Orru, R. V.",
+  "organisations": [
+   "AIMMS",
+   "Organic Chemistry",
+   "University of Antwerp",
+   "VU University",
+   "University of Antwerp"
+  ]
+ },
+ "https://doi.org/10.1016/j.heliyon.2019.e03103": {
+  "year": "2020",
+  "title": "The world is your oyster: low-dose, long-term microplastic exposure of juvenile oysters",
+  "contributors": [
+   "Maes, T.",
+   "Barry, J.",
+   "Stenton, C.",
+   "Roberts, E.",
+   "Hicks, R.",
+   "Bignell, J.",
+   "Dick, V. A.",
+   "Heather, L. A.",
+   "Sanders, M."
+  ],
+  "corresponding": "Maes, T.",
+  "organisations": [
+   "AIMMS",
+   "Environmental Chemistry and Toxicology",
+   "Centre for the Environment Fisheries and Aquaculture Science",
+   "Edinburgh Napier University",
+   "St Abbs Marine Station",
+   "Deltares"
+  ]
+ },
+ "https://doi.org/10.1111/1541-4337.12520": {
+  "year": "2020",
+  "title": "Fermented foods in a global age: East meets West",
+  "contributors": [
+   "Tamang, J. P.",
+   "Cotter, P. D.",
+   "Endo, A.",
+   "Han, N. S.",
+   "Kort, R.",
+   "Liu, S. Q.",
+   "Mayo, B.",
+   "Westerik, N.",
+   "Hutkins, R."
+  ],
+  "corresponding": "Hutkins, R.",
+  "organisations": [
+   "Molecular Cell Physiology",
+   "AIMMS",
+   "Sikkim University",
+   "Teagasc - Irish Agriculture and Food Development Authority",
+   "Tokyo University of Agriculture",
+   "Chungbuk National University",
+   "National University of Singapore",
+   "CSIC",
+   "University of Nebraska-Lincoln"
+  ]
+ },
+ "https://doi.org/10.1039/c9dt04162a": {
+  "year": "2020",
+  "title": "Aggregation induced emission of a new naphthyridine-ethynyl-gold(i) complex as a potential tool for sensing guanosine nucleotides in aqueous media",
+  "contributors": [
+   "Moro, A. J.",
+   "Av\u00f3, J.",
+   "Malfois, M.",
+   "Zaccaria, F.",
+   "Fonseca Guerra, C.",
+   "Caparr\u00f3s, F. J.",
+   "Rodr\u00edguez, L.",
+   "Lima, J. C."
+  ],
+  "corresponding": "Moro, A. J.",
+  "organisations": [
+   "AIMMS",
+   "Theoretical Chemistry",
+   "NOVA University Lisbon",
+   "University of Lisbon",
+   "Autonomous University of Barcelona",
+   "University of Barcelona",
+   "Leiden University"
+  ]
+ },
+ "https://doi.org/10.1021/acs.jmedchem.9b01230": {
+  "year": "2020",
+  "title": "Discovery of N-(4-Aminobutyl)-N'-(2-methoxyethyl)guanidine as the First Selective, Nonamino Acid, Catalytic Site Inhibitor of Human Dimethylarginine Dimethylaminohydrolase-1",
+  "contributors": [
+   "Lunk, I.",
+   "Litty, F.",
+   "Hennig, S.",
+   "Vetter, I. R.",
+   "Kotthaus, J.",
+   "Altmann, K. S.",
+   "Ott, G.",
+   "Havemeyer, A.",
+   "Carillo Garc\u00eda, C.",
+   "Clement, B.",
+   "Schade, D."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Organic Chemistry",
+   "AIMMS",
+   "Department of Pharmaceutical and Medicinal Chemistry",
+   "Christian-Albrechts-University Kiel",
+   "Gutenbergstrasse 76",
+   "D-24118 Kiel",
+   "Germany.",
+   "Max Planck Institute of Molecular Physiology",
+   "Department of Structural Biology",
+   "Otto-Hahn-Strasse 11",
+   "44227 Dortmund",
+   "Germany.",
+   "Partner Site Kiel",
+   "DZHK",
+   "German Center for Cardiovascular Research",
+   "D-24105 Kiel",
+   "Germany."
+  ]
+ },
+ "https://doi.org/10.1103/PhysRevA.101.012106": {
+  "year": "2020",
+  "title": "Quantum collapse as reduction from a continuum of conditional amplitudes in an entangled state to a single actualized amplitude in the collapsed state",
+  "contributors": [
+   "Gritsenko, O. V."
+  ],
+  "corresponding": "Gritsenko, O. V.",
+  "organisations": [
+   "AIMMS",
+   "Theoretical Chemistry",
+   "Lodz University of Technology"
+  ]
+ },
+ "https://doi.org/10.3389/fbioe.2019.00442": {
+  "year": "2020",
+  "title": "Mutagenesis-Based Characterization and Improvement of a Novel Inclusion Body Tag",
+  "contributors": [
+   "Jong, W. S.",
+   "ten Hagen-Jongman, C. M.",
+   "Vikstr\u00f6m, D.",
+   "Dontje, W.",
+   "Abdallah, A. M.",
+   "de Gier, J. W.",
+   "Bitter, W.",
+   "Luirink, J."
+  ],
+  "corresponding": "Jong, W. S.",
+  "organisations": [
+   "Molecular Microbiology",
+   "AIMMS",
+   "Xbrane Biopharma AB",
+   "University of Amsterdam",
+   "Qatar University",
+   "King Abdullah University of Science and Technology",
+   "Stockholm University"
+  ]
+ },
+ "https://doi.org/10.1038/s41596-019-0265-0": {
+  "year": "2020",
+  "title": "Understanding chemical reactivity using the activation strain model",
+  "contributors": [
+   "Vermeeren, P.",
+   "van der Lubbe, S. C.",
+   "Fonseca Guerra, C.",
+   "Bickelhaupt, F. M.",
+   "Hamlin, T. A."
+  ],
+  "corresponding": "Bickelhaupt, F. M.",
+  "organisations": [
+   "AIMMS",
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences"
+  ]
+ },
+ "https://doi.org/10.1016/j.chroma.2019.460550": {
+  "year": "2020",
+  "title": "The underlying challenges that arise when analysing short-chain chlorinated paraffins in environmental matrices",
+  "contributors": [
+   "Mourik, L. V.",
+   "Lava, R.",
+   "O'Brien, J.",
+   "Leonards, P.",
+   "de Boer, J.",
+   "Ricci, M."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Environmental Bioanalytical Chemistry",
+   "AIMMS",
+   "Environmental Chemistry and Toxicology",
+   "European Commission Joint Research Centre Institute",
+   "Queensland Alliance for Environmental Health Sciences (QAEHS)"
+  ]
+ },
+ "https://doi.org/10.3390/toxins12010053": {
+  "year": "2020",
+  "title": "Antivenom neutralization of coagulopathic snake venom toxins assessed by bioactivity profiling using nanofractionation analytics",
+  "contributors": [
+   "Xie, C.",
+   "Slagboom, J.",
+   "Albulescu, L. O.",
+   "Bruyneel, B.",
+   "Still, K. B.",
+   "Vonk, F. J.",
+   "Somsen, G. W.",
+   "Casewell, N. R.",
+   "Kool, J."
+  ],
+  "corresponding": "Kool, J.",
+  "organisations": [
+   "BioAnalytical Chemistry",
+   "AIMMS",
+   "Liverpool School of Tropical Medicine",
+   "VU University",
+   "Centre for Analytical Sciences Amsterdam",
+   "Naturalis National Museum of Natural History"
+  ]
+ },
+ "https://doi.org/10.1039/c9qo00773c": {
+  "year": "2020",
+  "title": "Zinc(ii)-mediated diastereoselective Passerini reactions of biocatalytically desymmetrised renewable inputs",
+  "contributors": [
+   "Moni, L.",
+   "Banfi, L.",
+   "Cartagenova, D.",
+   "Cavalli, A.",
+   "Lambruschini, C.",
+   "Martino, E.",
+   "Orru, R. V.",
+   "Ruijter, E.",
+   "Saya, J. M.",
+   "Sgrignani, J.",
+   "Riva, R."
+  ],
+  "corresponding": "Riva, R.",
+  "organisations": [
+   "Organic Chemistry",
+   "AIMMS",
+   "University of Genoa",
+   "Universit\u00e0 della Svizzera italiana",
+   "Swiss Institute of Bioinformatics"
+  ]
+ },
+ "https://doi.org/10.1016/j.cell.2019.11.038": {
+  "year": "2020",
+  "title": "Snake Venom Gland Organoids",
+  "contributors": [
+   "Post, Y.",
+   "Puschhof, J.",
+   "Beumer, J.",
+   "Kerkkamp, H. M.",
+   "de Bakker, M. A.",
+   "Slagboom, J.",
+   "de Barbanson, B.",
+   "Wevers, N. R.",
+   "Spijkers, X. M.",
+   "Olivier, T.",
+   "Kazandjian, T. D.",
+   "Ainsworth, S.",
+   "Iglesias, C. L.",
+   "van de Wetering, W. J.",
+   "Heinz, M. C.",
+   "van Ineveld, R. L.",
+   "van Kleef, R. G.",
+   "Begthel, H.",
+   "Korving, J.",
+   "Bar-Ephraim, Y. E.",
+   "Getreuer, W.",
+   "Rios, A. C.",
+   "Westerink, R. H.",
+   "Snippert, H. J.",
+   "van Oudenaarden, A.",
+   "Peters, P. J.",
+   "Vonk, F. J.",
+   "Kool, J.",
+   "Richardson, M. K.",
+   "Casewell, N. R.",
+   "Clevers, H.Pages:233-247.e21"
+  ],
+  "corresponding": "Clevers, H.",
+  "organisations": [
+   "BioAnalytical Chemistry",
+   "AIMMS",
+   "Naturalis National Museum of Natural History",
+   "Leiden University",
+   "Organ-on-a-chip Company",
+   "Utrecht University",
+   "Liverpool School of Tropical Medicine",
+   "Maastricht University",
+   "The Princess Maxima Center for Pediatric Oncology",
+   "Serpo",
+   "Hubrecht Institute-KNAW"
+  ]
+ },
+ "https://doi.org/10.1021/acs.jcim.9b00956": {
+  "year": "2020",
+  "title": "GUI Implementation of VCDtools, A Program to Analyze Computed Vibrational Circular Dichroism Spectra",
+  "contributors": [
+   "Koenis, M. A.",
+   "Visser, O.",
+   "Visscher, L.",
+   "Buma, W. J.",
+   "Nicu, V. P."
+  ],
+  "corresponding": "Buma, W. J.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "University of Amsterdam",
+   "Software for Chemisty and Materials",
+   "Radboud University Nijmegen",
+   "Lucian Blaga University of Sibiu"
+  ]
+ },
+ "https://doi.org/10.1007/s11365-019-00623-3": {
+  "year": "2020",
+  "title": "Science-based entrepreneurship education as a means for university-industry technology transfer",
+  "contributors": [
+   "Blankesteijn, M.",
+   "Bossink, B.",
+   "van der Sijde, P."
+  ],
+  "corresponding": "Blankesteijn, M.",
+  "organisations": [
+   "Biophysics Photosynthesis/Energy",
+   "Science & Business Innovation",
+   "AIMMS",
+   "Organization Sciences",
+   "Network Institute",
+   "Organization & Processes of Organizing in Society (OPOS)"
+  ]
+ },
+ "https://doi.org/10.1289/EHP5911": {
+  "year": "2020",
+  "title": "Transthyretin-binding activity of complex mixtures representing the composition of thyroid-hormone disrupting contaminants in house dust and human serum",
+  "contributors": [
+   "Hamers, T.",
+   "Kortenkamp, A.",
+   "Scholze, M.",
+   "Molenaar, D.",
+   "Cenijn, P. H.",
+   "Weiss, J. M."
+  ],
+  "corresponding": "Hamers, T.",
+  "organisations": [
+   "Environmental Health and Toxicology",
+   "AIMMS",
+   "Systems Bioinformatics",
+   "Brunel University London",
+   "Stockholm University"
+  ]
+ },
+ "https://doi.org/10.1021/acs.jctc.9b00854": {
+  "year": "2020",
+  "title": "A Quadratic Pair Atomic Resolution of the Identity Based SOS-AO-MP2 Algorithm Using Slater Type Orbitals",
+  "contributors": [
+   "F\u00f6rster, A.",
+   "Franchini, M.",
+   "van Lenthe, E.",
+   "Visscher, L."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "AIMMS",
+   "Theoretical Chemistry",
+   "Scientific Computing & Modelling NV"
+  ]
+ },
+ "https://doi.org/10.1002/pmic.201900403": {
+  "year": "2020",
+  "title": "Glycine Receptor Complex Analysis Using Immunoprecipitation-Blue Native Gel Electrophoresis-Mass Spectrometry",
+  "contributors": [
+   "van der Spek, S. J.",
+   "Koopmans, F.",
+   "Paliukhovich, I.",
+   "Ramsden, S. L.",
+   "Harvey, K.",
+   "Harvey, R. J.",
+   "Smit, A. B.",
+   "Li, K. W."
+  ],
+  "corresponding": "Li, K. W.",
+  "organisations": [
+   "Molecular and Cellular Neurobiology",
+   "Amsterdam Neuroscience - Cellular & Molecular Mechanisms",
+   "Center for Neurogenomics and Cognitive Research",
+   "Amsterdam Neuroscience - Neurodegeneration",
+   "AIMMS",
+   "University College London",
+   "University of the Sunshine Coast",
+   "Sunshine Coast Health Institute"
+  ]
+ },
+ "https://doi.org/10.1002/ejoc.201901815": {
+  "year": "2020",
+  "title": "Evaluation of the Alicyclic Gauche Effect in 2-Fluorocyclohexanone Analogs: a Combined NMR and DFT Study",
+  "contributors": [
+   "Silva, D. R.",
+   "Zeoly, L. A.",
+   "Cormanich, R. A.",
+   "Guerra, C. F.",
+   "Freitas, M. P."
+  ],
+  "corresponding": "Guerra, C. F.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Universidade Federal de Lavras",
+   "VU University",
+   "Universidade Estadual de Campinas"
+  ]
+ },
+ "https://doi.org/10.1039/c9sc04705k": {
+  "year": "2020",
+  "title": "Adapting free energy perturbation simulations for large macrocyclic ligands: how to dissect contributions from direct binding and free ligand flexibility",
+  "contributors": [
+   "Wallraven, K.",
+   "Holmelin, F. L.",
+   "Glas, A.",
+   "Hennig, S.",
+   "Frolov, A. I.",
+   "Grossmann, T. N."
+  ],
+  "corresponding": "Frolov, A. I.",
+  "organisations": [
+   "Organic Chemistry",
+   "AIMMS",
+   "VU University",
+   "AstraZeneca Sweden"
+  ]
+ },
+ "https://doi.org/10.1002/chem.202000272": {
+  "year": "2020",
+  "title": "Ambident Nucleophilic Substitution: Understanding Non-HSAB Behavior through Activation Strain and Conceptual DFT Analyses",
+  "contributors": [
+   "Bettens, T.",
+   "Alonso, M.",
+   "De Proft, F.",
+   "Hamlin, T. A.",
+   "Bickelhaupt, F. M."
+  ],
+  "corresponding": "De Proft, F.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Chemistry and Pharmaceutical Sciences",
+   "Vrije Universiteit Brussel"
+  ]
+ },
+ "https://doi.org/10.1002/anie.201914582": {
+  "year": "2020",
+  "title": "How Lewis Acids Catalyze Diels\u2013Alder Reactions",
+  "contributors": [
+   "Vermeeren, P.",
+   "Hamlin, T. A.",
+   "Fern\u00e1ndez, I.",
+   "Bickelhaupt, F. M."
+  ],
+  "corresponding": "Fern\u00e1ndez, I.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Chemistry and Pharmaceutical Sciences",
+   "Complutense University"
+  ]
+ },
+ "https://doi.org/10.1021/acs.jmedchem.9b01581": {
+  "year": "2020",
+  "title": "Fragment-to-Lead Medicinal Chemistry Publications in 2018",
+  "contributors": [
+   "Erlanson, D. A.",
+   "de Esch, I. J.",
+   "Jahnke, W.",
+   "Johnson, C. N.",
+   "Mortenson, P. N."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Chemistry and Pharmaceutical Sciences",
+   "AIMMS",
+   "Novartis",
+   "Astex Pharmaceuticals"
+  ]
+ },
+ "https://doi.org/10.1002/cbic.201900751": {
+  "year": "2020",
+  "title": "A Modified Arrhenius Approach to Thermodynamically Study Regioselectivity in Cytochrome P450-Catalyzed Substrate Conversion",
+  "contributors": [
+   "Luirink, R. A.",
+   "Verkade-Vreeker, M. C.",
+   "Commandeur, J. N.",
+   "Geerke, D. P."
+  ],
+  "corresponding": "Geerke, D. P.",
+  "organisations": [
+   "Molecular and Computational Toxicology",
+   "AIMMS"
+  ]
+ },
+ "https://doi.org/10.1039/c9mo00136k": {
+  "year": "2020",
+  "title": "A proteome-integrated, carbon source dependent genetic regulatory network in Saccharomyces cerevisiae",
+  "contributors": [
+   "Garcia-Albornoz, M.",
+   "Holman, S. W.",
+   "Antonisse, T.",
+   "Daran-Lapujade, P.",
+   "Teusink, B.",
+   "Beynon, R. J.",
+   "Hubbard, S. J."
+  ],
+  "corresponding": "Hubbard, S. J.",
+  "organisations": [
+   "Systems Bioinformatics",
+   "AIMMS",
+   "Systems Bioinformatics",
+   "Health Innovation Manchester",
+   "University of Liverpool",
+   "Amsterdam Institute for Molecules",
+   "Medicines and Systems",
+   "Delft University of Technology"
+  ]
+ },
+ "https://doi.org/10.1016/j.copbio.2019.10.007": {
+  "year": "2020",
+  "title": "Microdroplet screening and selection for improved microbial production of extracellular compounds",
+  "contributors": [
+   "van Tatenhove-Pel, R. J.",
+   "Hernandez-Valdes, J. A.",
+   "Teusink, B.",
+   "Kuipers, O. P.",
+   "Fischlechner, M.",
+   "Bachmann, H."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Systems Bioinformatics",
+   "AIMMS",
+   "Systems Bioinformatics",
+   "University of Groningen",
+   "University of Salzburg"
+  ]
+ },
+ "https://doi.org/10.1016/j.tiv.2019.104692": {
+  "year": "2020",
+  "title": "Vision of a near future: Bridging the human health\u2013environment divide. Toward an integrated strategy to understand mechanisms across species for chemical safety assessment",
+  "contributors": [
+   "Rivetti, C.",
+   "Allen, T. E.",
+   "Brown, J. B.",
+   "Butler, E.",
+   "Carmichael, P. L.",
+   "Colbourne, J. K.",
+   "Dent, M.",
+   "Falciani, F.",
+   "Gunnarsson, L.",
+   "Gutsell, S.",
+   "Harrill, J. A.",
+   "Hodges, G.",
+   "Jennings, P.",
+   "Judson, R.",
+   "Kienzler, A.",
+   "Margiotta-Casaluci, L.",
+   "Muller, I.",
+   "Owen, S. F.",
+   "Rendal, C.",
+   "Russell, P. J.",
+   "Scott, S.",
+   "Sewell, F.",
+   "Shah, I.",
+   "Sorrel, I.",
+   "Viant, M. R.",
+   "Westmoreland, C.",
+   "White, A.",
+   "Campos, B."
+  ],
+  "corresponding": "Campos, B.",
+  "organisations": [
+   "Molecular and Computational Toxicology",
+   "AIMMS",
+   "Unilever",
+   "University of Cambridge",
+   "Lawrence Berkeley National Laboratory",
+   "University of Birmingham",
+   "University of Liverpool",
+   "University of Exeter",
+   "United States Environmental Protection Agency",
+   "European Commission Joint Research Centre Institute",
+   "Brunel University London",
+   "AstraZeneca",
+   "NC3Rs"
+  ]
+ },
+ "https://doi.org/10.1007/s00018-019-03380-2": {
+  "year": "2020",
+  "title": "The common message of constraint-based optimization approaches: overflow metabolism is caused by two growth-limiting constraints",
+  "contributors": [
+   "de Groot, D. H.",
+   "Lischke, J.",
+   "Muolo, R.",
+   "Planqu\u00e9, R.",
+   "Bruggeman, F. J.",
+   "Teusink, B."
+  ],
+  "corresponding": "de Groot, D. H.",
+  "organisations": [
+   "Systems Bioinformatics",
+   "AIMMS",
+   "Mathematics",
+   "Systems Bioinformatics"
+  ]
+ },
+ "https://doi.org/10.1002/jcc.26104": {
+  "year": "2020",
+  "title": "Activation Strain Analyses of Counterion and Solvent Effects on the Ion-Pair SN2 Reaction of NH2\u2212 and CH3Cl",
+  "contributors": [
+   "Savoo, N.",
+   "Laloo, J. Z.",
+   "Rhyman, L.",
+   "Ramasami, P.",
+   "Bickelhaupt, F. M.",
+   "Poater, J."
+  ],
+  "corresponding": "Poater, J.",
+  "organisations": [
+   "Chemistry and Pharmaceutical Sciences",
+   "AIMMS",
+   "Theoretical Chemistry",
+   "University of Mauritius",
+   "University of Johannesburg",
+   "Radboud University Nijmegen",
+   "University of Barcelona",
+   "ICREA"
+  ]
+ },
+ "https://doi.org/10.1021/acs.jpcc.9b09366": {
+  "year": "2020",
+  "title": "Hydrogen-bonded rosettes of aminotriazines for selective-ion recognition",
+  "contributors": [
+   "Petelski, A. N.",
+   "Guerra, C. F."
+  ],
+  "corresponding": "Guerra, C. F.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS"
+  ]
+ },
+ "https://doi.org/10.3390/ijerph17031038": {
+  "year": "2020",
+  "title": "Optimizing employee creativity in the digital era: Uncovering the interactional effects of abilities, motivations, and opportunities",
+  "contributors": [
+   "Cai, W.",
+   "Khapova, S.",
+   "Bossink, B.",
+   "Lysova, E.",
+   "Yuan, J."
+  ],
+  "corresponding": "Yuan, J.",
+  "organisations": [
+   "Management and Organisation",
+   "Amsterdam Business Research Institute",
+   "Science & Business Innovation",
+   "AIMMS",
+   "Anhui Sanlian University"
+  ]
+ },
+ "https://doi.org/10.1016/j.chroma.2019.460665": {
+  "year": "2020",
+  "title": "Optimizing design and employing permeability differences to achieve flow confinement in devices for spatial multidimensional liquid chromatography",
+  "contributors": [
+   "Adamopoulou, T.",
+   "Deridder, S.",
+   "Bos, T. S.",
+   "Nawada, S.",
+   "Desmet, G.",
+   "Schoenmakers, P. J."
+  ],
+  "corresponding": "Adamopoulou, T.",
+  "organisations": [
+   "AIMMS",
+   "BioAnalytical Chemistry",
+   "University of Amsterdam",
+   "Vrije Universiteit Brussel",
+   "University of Amsterdam"
+  ]
+ },
+ "https://doi.org/10.1021/acs.jctc.9b00890": {
+  "year": "2020",
+  "title": "Combined Linear Interaction Energy and Alchemical Solvation Free-Energy Approach for Protein-Binding Affinity Computation",
+  "contributors": [
+   "Rifai, E. A.",
+   "Ferrario, V.",
+   "Pleiss, J.",
+   "Geerke, D. P."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Molecular and Computational Toxicology",
+   "AIMMS",
+   "University of Stuttgart"
+  ]
+ },
+ "https://doi.org/10.1002/chem.201905355": {
+  "year": "2020",
+  "title": "Distortion-Controlled Redshift of Organic Dye Molecules",
+  "contributors": [
+   "Narsaria, A. K.",
+   "Poater, J.",
+   "Guerra, C. F.",
+   "Ehlers, A. W.",
+   "Hamlin, T. A.",
+   "Lammertsma, K.",
+   "Bickelhaupt, F. M."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "AIMMS",
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences",
+   "VU University",
+   "ICREA",
+   "Departament de Qu\u00edmica Inorg\u00e0nica i Org\u00e0nica and IQTCUB",
+   "Barcelona",
+   "Leiden University",
+   "University of Amsterdam",
+   "University of Johannesburg",
+   "Radboud University"
+  ]
+ },
+ "https://doi.org/10.1016/j.jmb.2019.12.040": {
+  "year": "2020",
+  "title": "A Chimeric Ecc",
+  "contributors": [
+   "van Winden, V. J. C.",
+   "Bunduc, C. M.",
+   "Ummels, R.",
+   "Bitter, W.",
+   "Houben, E. N. G.Pages:1265-1278"
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Molecular Microbiology",
+   "AIMMS",
+   "Molecular Cell Biology"
+  ]
+ },
+ "https://doi.org/10.3389/fimmu.2019.03091": {
+  "year": "2020",
+  "title": "Complex Stability and an Irrevertible Transition Reverted by Peptide and Fibroblasts in a Dynamic Model of Innate Immunity",
+  "contributors": [
+   "Abudukelimu, A.",
+   "Barberis, M.",
+   "Redegeld, F.",
+   "Sahin, N.",
+   "Sharma, R. P.",
+   "Westerhoff, H. V."
+  ],
+  "corresponding": "Westerhoff, H. V.",
+  "organisations": [
+   "Molecular Cell Physiology",
+   "AIMMS",
+   "Systems Bioinformatics",
+   "Molecular Cell Biology",
+   "University of Amsterdam",
+   "University of Surrey",
+   "Utrecht University",
+   "VU University"
+  ]
+ },
+ "https://doi.org/10.1002/chem.201905359": {
+  "year": "2020",
+  "title": "Ligand-Mediated Regioselective Rhodium-Catalyzed Benzotriazole\u2013Allene Coupling: Mechanistic Exploration and Quantum Chemical Analysis",
+  "contributors": [
+   "Sergeieva, T.",
+   "Hamlin, T. A.",
+   "Okovytyy, S.",
+   "Breit, B.",
+   "Bickelhaupt, F. M."
+  ],
+  "corresponding": "Breit, B.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Chemistry and Pharmaceutical Sciences",
+   "University of Freiburg",
+   "VU University",
+   "Oles Honchar Dnipropetrovsk National University"
+  ]
+ },
+ "https://doi.org/10.1038/s41467-020-14830-y": {
+  "year": "2020",
+  "title": "A combined experimental and modelling approach for the Weimberg pathway optimisation",
+  "contributors": [
+   "Shen, L.",
+   "Kohlhaas, M.",
+   "Enoki, J.",
+   "Meier, R.",
+   "Sch\u00f6nenberger, B.",
+   "Wohlgemuth, R.",
+   "Kourist, R.",
+   "Niemeyer, F.",
+   "van Niekerk, D.",
+   "Br\u00e4sen, C.",
+   "Niemeyer, J.",
+   "Snoep, J.",
+   "Siebers, B."
+  ],
+  "corresponding": "Siebers, B.",
+  "organisations": [
+   "Molecular Cell Physiology",
+   "AIMMS",
+   "University of Duisburg-Essen",
+   "Ruhr University Bochum",
+   "Member of Merck Group",
+   "Lodz University of Technology",
+   "Graz University of Technology",
+   "University of Stellenbosch"
+  ]
+ },
+ "https://doi.org/10.3390/microorganisms8030347": {
+  "year": "2020",
+  "title": "Aflatoxins: Occurrence, exposure, and binding to lactobacillus species from the gut microbiota of rural ugandan children",
+  "contributors": [
+   "Wacoo, A. P.",
+   "Atukunda, P.",
+   "Muhoozi, G.",
+   "Braster, M.",
+   "Wagner, M.",
+   "van den Broek, T. J.",
+   "Sybesma, W.",
+   "Westerberg, A. C.",
+   "Iversen, P. O.",
+   "Kort, R."
+  ],
+  "corresponding": "Kort, R.",
+  "organisations": [
+   "Molecular Cell Physiology",
+   "AIMMS",
+   "Systems Bioinformatics",
+   "University of Oslo",
+   "Kyambogo acad",
+   "Netherlands Organisation for Applied Scientific Research",
+   "Yoba for Life foundation",
+   "Kristiania University College",
+   "University of Stellenbosch"
+  ]
+ },
+ "https://doi.org/10.1021/jacs.0c00269": {
+  "year": "2020",
+  "title": "Macrocyclic Modalities Combining Peptide Epitopes and Natural Product Fragments",
+  "contributors": [
+   "Gu\u00e9ret, S. M.",
+   "Thavam, S.",
+   "Carbajo, R. J.",
+   "Potowski, M.",
+   "Larsson, N.",
+   "Dahl, G.",
+   "Dells\u00e9n, A.",
+   "Grossmann, T. N.",
+   "Plowright, A. T.",
+   "Valeur, E.",
+   "Lemurell, M.",
+   "Waldmann, H."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Organic Chemistry",
+   "AIMMS",
+   "AstraZeneca",
+   "AstraZeneca Sweden",
+   "Max Planck Institute of Molecular Physiology",
+   "Dortmund University"
+  ]
+ },
+ "https://doi.org/10.1021/acs.analchem.9b04961": {
+  "year": "2020",
+  "title": "Probing Protein Denaturation during Size-Exclusion Chromatography Using Native Mass Spectrometry",
+  "contributors": [
+   "Ventouri, I. K.",
+   "Malheiro, D. B.",
+   "Voeten, R. L.",
+   "Kok, S.",
+   "Honing, M.",
+   "Somsen, G. W.",
+   "Haselberg, R."
+  ],
+  "corresponding": "Haselberg, R.",
+  "organisations": [
+   "BioAnalytical Chemistry",
+   "AIMMS",
+   "VU University",
+   "Centre for Analytical Sciences Amsterdam",
+   "TI-COAST",
+   "University of Amsterdam",
+   "DSM Food Specialties"
+  ]
+ },
+ "https://doi.org/10.1021/acssensors.9b02475": {
+  "year": "2020",
+  "title": "An Improved ATP FRET Sensor for Yeast Shows Heterogeneity during Nutrient Transitions",
+  "contributors": [
+   "Botman, D.",
+   "Van Heerden, J. H.",
+   "Teusink, B."
+  ],
+  "corresponding": "Teusink, B.",
+  "organisations": [
+   "Systems Bioinformatics",
+   "AIMMS",
+   "Systems Bioinformatics"
+  ]
+ },
+ "https://doi.org/10.1002/asia.202000009": {
+  "year": "2020",
+  "title": "How Alkali Cations Catalyze Aromatic Diels-Alder Reactions",
+  "contributors": [
+   "Vermeeren, P.",
+   "Brinkhuis, F.",
+   "Hamlin, T. A.",
+   "Bickelhaupt, F. M."
+  ],
+  "corresponding": "Hamlin, T. A.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Chemistry and Pharmaceutical Sciences",
+   "VU University"
+  ]
+ },
+ "https://doi.org/10.1016/j.cplett.2020.137279": {
+  "year": "2020",
+  "title": "Nonrelativistic protocol for calculating the 1J(195Pt-15N) coupling constant in Pt(II)-complexes using all-electron Gaussian basis-set",
+  "contributors": [
+   "Carvalho, J.",
+   "Paschoal, D.",
+   "Fonseca Guerra, C.",
+   "Dos Santos, H. F."
+  ],
+  "corresponding": "Dos Santos, H. F.",
+  "organisations": [
+   "AIMMS",
+   "Theoretical Chemistry",
+   "Universidade Federal de Juiz de Fora",
+   "Universidade Federal do Rio de Janeiro"
+  ]
+ },
+ "https://doi.org/10.1016/j.toxicon.2020.02.015": {
+  "year": "2020",
+  "title": "Development of a generic high-throughput screening assay for profiling snake venom protease activity after high-resolution chromatographic fractionation",
+  "contributors": [
+   "Neumann, C.",
+   "Slagboom, J.",
+   "Somsen, G. W.",
+   "Vonk, F.",
+   "Casewell, N. R.",
+   "Cardoso, C. L.",
+   "Kool, J."
+  ],
+  "corresponding": "Kool, J.",
+  "organisations": [
+   "BioAnalytical Chemistry",
+   "AIMMS",
+   "Amsterdam Institute for Molecules",
+   "Medicines and Systems",
+   "Naturalis National Museum of Natural History",
+   "Liverpool School of Tropical Medicine",
+   "Universidade de S\u00e3o Paulo"
+  ]
+ },
+ "https://doi.org/10.1002/jbio.201960197": {
+  "year": "2020",
+  "title": "Label-free stimulated Raman scattering imaging reveals silicone breast implant material in tissue",
+  "contributors": [
+   "van Haasterecht, L.",
+   "Zada, L.",
+   "Schmidt, R. W.",
+   "de Bakker, E.",
+   "Barb\u00e9, E.",
+   "Leslie, H. A.",
+   "Vethaak, A. D.",
+   "Gibbs, S.",
+   "de Boer, J. F.",
+   "Niessen, F. B.",
+   "van Zuijlen, P. P. M.",
+   "Groot, M. L.",
+   "Ariese, F.Pages:e201960197"
+  ],
+  "corresponding": "Ariese, F.",
+  "organisations": [
+   "Biophotonics and Medical Imaging",
+   "LaserLaB - Biophotonics and Microscopy",
+   "Environmental Chemistry and Toxicology",
+   "AIMMS",
+   "Amsterdam Neuroscience - Brain Imaging",
+   "Department of Molecular Cell Biology and Immunology",
+   "Amsterdam UMC Location VUMC",
+   "Amsterdam Movement Sciences",
+   "Amsterdam",
+   "The Netherlands.",
+   "Department of Pathology",
+   "Amsterdam UMC Location VUMC",
+   "Amsterdam",
+   "The Netherlands.",
+   "Department of Oral Cell Biology",
+   "Academic Centre for Dentistry Amsterdam (ACTA)",
+   "University of Amsterdam and Vrije Universiteit Amsterdam",
+   "Amsterdam",
+   "The Netherlands.",
+   "Department of Plastic",
+   "Reconstructive and Hand Surgery",
+   "Amsterdam UMC Location VUMC",
+   "Amsterdam Movement Sciences",
+   "Amsterdam",
+   "The Netherlands.",
+   "Burn Center and Department of Plastic and Reconstructive Surgery",
+   "Red Cross Hospital",
+   "Beverwijk",
+   "The Netherlands."
+  ]
+ },
+ "https://doi.org/10.1016/j.aca.2020.02.042": {
+  "year": "2020",
+  "title": "Profiling of a high mannose-type N-glycosylated lipase using hydrophilic interaction chromatography-mass spectrometry",
+  "contributors": [
+   "Gargano, A. F.",
+   "Schouten, O.",
+   "van Schaick, G.",
+   "Roca, L. S.",
+   "van den Berg-Verleg, J. H.",
+   "Haselberg, R.",
+   "Akeroyd, M.",
+   "Abello, N.",
+   "Somsen, G. W."
+  ],
+  "corresponding": "Gargano, A. F.",
+  "organisations": [
+   "BioAnalytical Chemistry",
+   "AIMMS",
+   "DSM Food Specialties",
+   "VU University",
+   "Leiden University",
+   "Centre for Analytical Sciences Amsterdam",
+   "University of Amsterdam"
+  ]
+ },
+ "https://doi.org/10.1016/j.envpol.2020.114141": {
+  "year": "2020",
+  "title": "Spatial variation of short- and medium-chain chlorinated paraffins in ambient air across Australia",
+  "contributors": [
+   "van Mourik, L. M.",
+   "Wang, X.",
+   "Paxman, C.",
+   "Leonards, P. E.",
+   "Wania, F.",
+   "de Boer, J.",
+   "Mueller, J. F."
+  ],
+  "corresponding": "van Mourik, L. M.",
+  "organisations": [
+   "Environmental Bioanalytical Chemistry",
+   "AIMMS",
+   "Environmental Chemistry and Toxicology",
+   "University of Queensland",
+   "University of Toronto"
+  ]
+ },
+ "https://doi.org/10.1016/j.bbabio.2020.148175": {
+  "year": "2020",
+  "title": "The carboxy-terminal insert in the Q-loop is needed for functionality of Escherichia coli cytochrome bd-ICytochrome bd, a component of the prokaryotic respiratory chain, is important under physiological stress and during pathogenicity. Electrons from quinol substrates are passed on via heme groups in the Cyd",
+  "contributors": [
+   "Ghasemi Goojani, H. A.",
+   "Konings, J.",
+   "Hakvoort, H.",
+   "Hong, S.",
+   "Gennis, R. B.",
+   "Sakamoto, J.",
+   "Lill, H.",
+   "Bald, D."
+  ],
+  "corresponding": "Bald, D.",
+  "organisations": [
+   "Structural Biology",
+   "AIMMS",
+   "LaserLaB - Analytical Chemistry and Spectroscopy",
+   "LaserLaB - Molecular Biophysics",
+   "Amsterdam Institute for Molecules",
+   "Medicines and Systems",
+   "University of Illinois at Urbana-Champaign",
+   "Kyushu Institute of Technology"
+  ]
+ },
+ "https://doi.org/10.1016/j.chemosphere.2020.126100": {
+  "year": "2020",
+  "title": "The effect of weathering on per- and polyfluoroalkyl substances (PFASs) from durable water repellent (DWR) clothing",
+  "contributors": [
+   "van der Veen, I.",
+   "Hanning, A. C.",
+   "Stare, A.",
+   "Leonards, P. E.",
+   "de Boer, J.",
+   "Weiss, J. M."
+  ],
+  "corresponding": "van der Veen, I.",
+  "organisations": [
+   "AIMMS",
+   "Environmental Chemistry and Toxicology",
+   "Environmental Bioanalytical Chemistry",
+   "Swerea AB",
+   "Stockholm University"
+  ]
+ },
+ "https://doi.org/10.1016/j.trac.2019.03.023": {
+  "year": "2020",
+  "title": "Global interlaboratory assessments of perfluoroalkyl substances under the Stockholm Convention on persistent organic pollutants",
+  "contributors": [
+   "Fiedler, H.",
+   "van der Veen, I.",
+   "de Boer, J."
+  ],
+  "corresponding": "Fiedler, H.",
+  "organisations": [
+   "Environmental Chemistry and Toxicology",
+   "AIMMS",
+   "MTM Research Centre"
+  ]
+ },
+ "https://doi.org/10.1016/j.envres.2019.108948": {
+  "year": "2020",
+  "title": "Development and evaluation of a harmonized whole body physiologically based pharmacokinetic (PBPK) model for flutamide in rats and its extrapolation to humans",
+  "contributors": [
+   "Sharma, R. P.",
+   "Kumar, V.",
+   "Schuhmacher, M.",
+   "Kolodkin, A.",
+   "Westerhoff, H. V."
+  ],
+  "corresponding": "Kumar, V.",
+  "organisations": [
+   "AIMMS",
+   "Systems Bioinformatics",
+   "Molecular Cell Physiology",
+   "Molecular Cell Biology",
+   "Universidad Rovira i Virgili"
+  ]
+ },
+ "https://doi.org/10.1016/j.chemosphere.2019.125102": {
+  "year": "2020",
+  "title": "Long-term exposure of activated sludge in chemostats leads to changes in microbial communities composition and enhanced biodegradation of 4-chloroaniline and N-methylpiperazine",
+  "contributors": [
+   "Poursat, B. A.",
+   "van Spanning, R. J.",
+   "Braster, M.",
+   "Helmus, R.",
+   "de Voogt, P.",
+   "Parsons, J. R."
+  ],
+  "corresponding": "Poursat, B. A.",
+  "organisations": [
+   "Systems Bioinformatics",
+   "AIMMS",
+   "Molecular Cell Physiology",
+   "University of Amsterdam",
+   "VU University",
+   "KWR Watercycle Research Institute"
+  ]
+ },
+ "https://doi.org/10.1038/s41587-020-0446-y": {
+  "year": "2020",
+  "title": "MEMOTE for standardized genome-scale metabolic model testing",
+  "contributors": [
+   "Lieven, C.",
+   "Beber, M. E.",
+   "Olivier, B. G.",
+   "Bergmann, F. T.",
+   "Ataman, M.",
+   "Babaei, P.",
+   "Bartell, J. A.",
+   "Blank, L. M.",
+   "Chauhan, S.",
+   "Correia, K.",
+   "Diener, C.",
+   "Dr\u00e4ger, A.",
+   "Ebert, B. E.",
+   "Edirisinghe, J. N.",
+   "Faria, J. P.",
+   "Feist, A. M.",
+   "Fengos, G.",
+   "Fleming, R. M.",
+   "Garc\u00eda-Jim\u00e9nez, B.",
+   "Hatzimanikatis, V.",
+   "van Helvoirt, W.",
+   "Henry, C. S.",
+   "Hermjakob, H.",
+   "Herrg\u00e5rd, M. J.",
+   "Kaafarani, A.",
+   "Kim, H. U.",
+   "King, Z.",
+   "Klamt, S.",
+   "Klipp, E.",
+   "Koehorst, J. J.",
+   "K\u00f6nig, M.",
+   "Lakshmanan, M.",
+   "Lee, D. Y.",
+   "Lee, S. Y.",
+   "Lee, S.",
+   "Lewis, N. E.",
+   "Liu, F.",
+   "Ma, H.",
+   "Machado, D.",
+   "Mahadevan, R.",
+   "Maia, P.",
+   "Mardinoglu, A.",
+   "Medlock, G. L.",
+   "Monk, J. M.",
+   "Nielsen, J.",
+   "Nielsen, L. K.",
+   "Nogales, J.",
+   "Nookaew, I.",
+   "Palsson, B. O.",
+   "Papin, J. A.",
+   "Patil, K. R.",
+   "Poolman, M.",
+   "Price, N. D.",
+   "Resendis-Antonio, O.",
+   "Richelle, A.",
+   "Rocha, I.",
+   "S\u00e1nchez, B. J.",
+   "Schaap, P. J.",
+   "Malik Sheriff, R. S.",
+   "Shoaie, S.",
+   "Sonnenschein, N.",
+   "Teusink, B.",
+   "Vila\u00e7a, P.",
+   "Vik, J. O.",
+   "Wodke, J. A.",
+   "Xavier, J. C.",
+   "Yuan, Q.",
+   "Zakhartsev, M.",
+   "Zhang, C."
+  ],
+  "corresponding": "Sonnenschein, N.",
+  "organisations": [
+   "Systems Bioinformatics",
+   "AIMMS",
+   "Systems Bioinformatics",
+   "Technical University of Denmark",
+   "Heidelberg University",
+   "Swiss Federal Institute of Technology Lausanne",
+   "RWTH Aachen University",
+   "University of California at San Diego",
+   "University of Toronto",
+   "Universidad Nacional Autonoma de Mexico",
+   "Institute for Systems Biology",
+   "Institute for Biomedical Informatics (IBMI)",
+   "University of T\u00fcbingen",
+   "German Center for Infection Research (DZIF)",
+   "University of Queensland",
+   "United States Department of Energy",
+   "Leiden University",
+   "CSIC",
+   "Technical University of Madrid",
+   "Norwegian University of Life Sciences",
+   "Hanze University of Applied Sciences",
+   "Wellcome Trust",
+   "Korea Advanced Institute of Science and Technology",
+   "Max Planck Institute for Dynamics of Complex Technical Systems",
+   "Humboldt University of Berlin",
+   "Wageningen University & Research",
+   "Agency for Science",
+   "Technology and Research",
+   "Sungkyunkwan University",
+   "KTH Royal Institute of Technology",
+   "King's College London",
+   "Chinese Academy of Sciences",
+   "European Molecular Biology Laboratory",
+   "SilicoLife Lda.",
+   "University of Virginia",
+   "Chalmers University of Technology",
+   "University of Arkansas for Medical Sciences",
+   "Oxford Brookes University",
+   "University of Minho",
+   "NOVA University Lisbon",
+   "Heinrich Heine University D\u00fcsseldorf"
+  ]
+ },
+ "https://doi.org/10.1186/s12302-020-00314-9": {
+  "year": "2020",
+  "title": "A European proposal for quality control and quality assurance of tandem mass spectral libraries",
+  "contributors": [
+   "Oberacher, H.",
+   "Sasse, M.",
+   "Antignac, J. P.",
+   "Guitton, Y.",
+   "Debrauwer, L.",
+   "Jamin, E. L.",
+   "Schulze, T.",
+   "Krauss, M.",
+   "Covaci, A.",
+   "Caballero-Casero, N.",
+   "Rousseau, K.",
+   "Damont, A.",
+   "Fenaille, F.",
+   "Lamoree, M.",
+   "Schymanski, E. L."
+  ],
+  "corresponding": "Oberacher, H.",
+  "organisations": [
+   "Environmental Chemistry and Toxicology",
+   "AIMMS",
+   "Innsbruck Medical University",
+   "University of Innsbruck",
+   "INRAE",
+   "Universit\u00e9 de Toulouse",
+   "Helmholtz Centre for Environmental Research",
+   "University of Antwerp",
+   "ComUE Paris-Saclay",
+   "University of Luxembourg"
+  ]
+ },
+ "https://doi.org/10.1074/jbc.RA119.011682": {
+  "year": "2020",
+  "title": "Modification of a PE/PPE substrate pair reroutes an Esx substrate pair from the mycobacterial ESX-1 type VII secretion system to the ESX-5 system",
+  "contributors": [
+   "Damen, M. P. M.",
+   "Phan, T. H.",
+   "Ummels, R.",
+   "Rubio-Canalejas, A.",
+   "Bitter, W.",
+   "Houben, E. N. G.Pages:5960-5969"
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "AIMMS",
+   "Molecular Microbiology",
+   "Molecular Cell Biology",
+   "Amsterdam Neuroscience",
+   "Amsterdam UMC",
+   "Amsterdam",
+   "the Netherlands.",
+   "Vrije Universiteit Amsterdam",
+   "The Netherlands"
+  ]
+ },
+ "https://doi.org/10.1016/j.cell.2020.02.044": {
+  "year": "2020",
+  "title": "Aralar Sequesters GABA into Hyperactive Mitochondria, Causing Social Behavior Deficits",
+  "contributors": [
+   "Kanellopoulos, A. K.",
+   "Mariano, V.",
+   "Spinazzi, M.",
+   "Woo, Y. J.",
+   "McLean, C.",
+   "Pech, U.",
+   "Li, K. W.",
+   "Armstrong, J. D.",
+   "Giangrande, A.",
+   "Callaerts, P.",
+   "Smit, A. B.",
+   "Abrahams, B. S.",
+   "Fiala, A.",
+   "Achsel, T.",
+   "Bagni, C."
+  ],
+  "corresponding": "Bagni, C.",
+  "organisations": [
+   "Amsterdam Neuroscience - Neurodegeneration",
+   "Amsterdam Neuroscience - Cellular & Molecular Mechanisms",
+   "AIMMS",
+   "Molecular and Cellular Neurobiology",
+   "Center for Neurogenomics and Cognitive Research",
+   "University of Lausanne",
+   "KU Leuven",
+   "Yeshiva University",
+   "Icahn School of Medicine at Mount Sinai",
+   "University of Edinburgh",
+   "University of G\u00f6ttingen",
+   "J\u00fclich Research Centre",
+   "Universit\u00e9 de Strasbourg",
+   "University of Rome Tor Vergata"
+  ]
+ },
+ "https://doi.org/10.1021/acs.jcim.9b00946": {
+  "year": "2020",
+  "title": "Halogen Bonds in Ligand-Protein Systems: Molecular Orbital Theory for Drug Design",
+  "contributors": [
+   "Margiotta, E.",
+   "van der Lubbe, S. C.",
+   "de Azevedo Santos, L.",
+   "Paragi, G.",
+   "Moro, S.",
+   "Bickelhaupt, F. M.",
+   "Fonseca Guerra, C."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Chemistry and Pharmaceutical Sciences",
+   "University of Padova"
+  ]
+ },
+ "https://doi.org/10.1021/acs.jpca.9b10538": {
+  "year": "2020",
+  "title": "Exchange-Correlation Energy Densities and Response Potentials: Connection between Two Definitions and Analytical Model for the Strong-Coupling Limit of a Stretched Bond",
+  "contributors": [
+   "Giarrusso, S.",
+   "Gori-Giorgi, P."
+  ],
+  "corresponding": "Giarrusso, S.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS"
+  ]
+ },
+ "https://doi.org/10.1021/acs.jmedchem.9b00985": {
+  "year": "2020",
+  "title": "Lead Optimization of Phthalazinone Phosphodiesterase Inhibitors as Novel Antitrypanosomal Compounds",
+  "contributors": [
+   "Salado, I. G.",
+   "Singh, A. K.",
+   "Moreno-Cinos, C.",
+   "Sakaine, G.",
+   "Siderius, M.",
+   "Van der Veken, P.",
+   "Matheeussen, A.",
+   "van der Meer, T.",
+   "Sadek, P.",
+   "Gul, S.",
+   "Maes, L.",
+   "Sterk, G. J.",
+   "Leurs, R.",
+   "Brown, D.",
+   "Augustyns, K."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Medicinal chemistry",
+   "AIMMS",
+   "University of Antwerp",
+   "University of Kent",
+   "VU University",
+   "Fraunhofer Institute for Molecular Biology and Applied Ecology"
+  ]
+ },
+ "https://doi.org/10.1021/acs.jpcc.0c00979": {
+  "year": "2020",
+  "title": "TD-DFT+TB: An Efficient and Fast Approach for Quantum Plasmonic Excitations",
+  "contributors": [
+   "Asadi-Aghbolaghi, N.",
+   "R\u00fcger, R.",
+   "Jamshidi, Z.",
+   "Visscher, L."
+  ],
+  "corresponding": "Jamshidi, Z.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Chemistry and Chemical Engineering Research Center of Iran",
+   "VU University",
+   "Scientific Computing and Modelling NV"
+  ]
+ },
+ "https://doi.org/10.1093/bioinformatics/btz917": {
+  "year": "2020",
+  "title": "A framework for exhaustive modelling of genetic interaction patterns using Petri nets",
+  "contributors": [
+   "Jacobsen, A.",
+   "Ivanova, O.",
+   "Amini, S.",
+   "Heringa, J.",
+   "Kemmeren, P.",
+   "Feenstra, K. A.Pages:2142-2149"
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Bioinformatics",
+   "Computer Science",
+   "AIMMS",
+   "Integrative Bioinformatics"
+  ]
+ },
+ "https://doi.org/10.1016/j.chemosphere.2019.125574": {
+  "year": "2020",
+  "title": "Evaluating age and temporal trends of chlorinated paraffins in pooled serum collected from males in Australia between 2004 and 2015",
+  "contributors": [
+   "van Mourik, L.",
+   "Toms, L.",
+   "He, C.",
+   "Banks, A.",
+   "Hobson, P.",
+   "Leonards, P.",
+   "de Boer, J.",
+   "Mueller, J."
+  ],
+  "corresponding": "van Mourik, L.",
+  "organisations": [
+   "Environmental Bioanalytical Chemistry",
+   "AIMMS",
+   "Environmental Chemistry and Toxicology",
+   "University of Queensland",
+   "Queensland University of Technology",
+   "Sullivan Nicolaides Pathology"
+  ]
+ },
+ "https://doi.org/10.1093/jac/dkz516": {
+  "year": "2020",
+  "title": "Evaluation of phthalazinone phosphodiesterase inhibitors with improved activity and selectivity against Trypanosoma cruzi",
+  "contributors": [
+   "De Ara\u00fajo, J. S.",
+   "da Silva, P. B.",
+   "Batista, M. M.",
+   "Peres, R. B.",
+   "Cardoso-Santos, C.",
+   "Kalejaiye, T. D.",
+   "Munday, J. C.",
+   "De Heuvel, E.",
+   "Sterk, G. J.",
+   "Augustyns, K.",
+   "Salado, I. G.",
+   "Matheeussen, A.",
+   "De Esch, I.",
+   "De Koning, H. P.",
+   "Leurs, R.",
+   "Maes, L.",
+   "Soeiro, M. D. N. C."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Medicinal chemistry",
+   "AIMMS",
+   "Chemistry and Pharmaceutical Sciences",
+   "Funda\u00e7\u00e3o Oswaldo Cruz",
+   "University of Glasgow",
+   "University of Antwerp"
+  ]
+ },
+ "https://doi.org/10.1371/journal.pntd.0007802": {
+  "year": "2020",
+  "title": "High throughput screening and identification of coagulopathic snake venom proteins and peptides using nanofractionation and proteomics approaches",
+  "contributors": [
+   "Slagboom, J.",
+   "Mladi\u0107, M.",
+   "Xie, C.",
+   "Kazandjian, T. D.",
+   "Vonk, F.",
+   "Somsen, G. W.",
+   "Casewell, N. R.",
+   "Kool, J.Pages:e0007802"
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "BioAnalytical Chemistry",
+   "AIMMS",
+   "Liverpool School of Tropical Medicine",
+   "Naturalis National Museum of Natural History"
+  ]
+ },
+ "https://doi.org/10.1016/j.sbi.2019.12.012": {
+  "year": "2020",
+  "title": "Polarisable force fields: what do they add in biomolecular simulations?",
+  "contributors": [
+   "Inakollu, V. S.",
+   "Geerke, D. P.",
+   "Rowley, C. N.",
+   "Yu, H."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "AIMMS",
+   "Molecular and Computational Toxicology",
+   "University of Wollongong",
+   "Illawarra Health and Medical Research Institute",
+   "Memorial University of Newfoundland"
+  ]
+ },
+ "https://doi.org/10.1038/s41557-020-0420-9": {
+  "year": "2020",
+  "title": "Proteomimetics as protein-inspired scaffolds with defined tertiary folding patterns",
+  "contributors": [
+   "Horne, W. S.",
+   "Grossmann, T. N."
+  ],
+  "corresponding": "Horne, W. S.",
+  "organisations": [
+   "Organic Chemistry",
+   "AIMMS",
+   "University of Pittsburgh"
+  ]
+ },
+ "https://doi.org/10.1038/s41587-020-0477-4": {
+  "year": "2020",
+  "title": "Publisher Correction: MEMOTE for standardized genome-scale metabolic model testing (Nature Biotechnology, (2020), 38, 3, (272-276), 10.1038/s41587-020-0446-y)",
+  "contributors": [
+   "Lieven, C.",
+   "Beber, M. E.",
+   "Olivier, B. G.",
+   "Bergmann, F. T.",
+   "Ataman, M.",
+   "Babaei, P.",
+   "Bartell, J. A.",
+   "Blank, L. M.",
+   "Chauhan, S.",
+   "Correia, K.",
+   "Diener, C.",
+   "Dr\u00e4ger, A.",
+   "Ebert, B. E.",
+   "Edirisinghe, J. N.",
+   "Faria, J. P.",
+   "Feist, A. M.",
+   "Fengos, G.",
+   "Fleming, R. M.",
+   "Garc\u00eda-Jim\u00e9nez, B.",
+   "Hatzimanikatis, V.",
+   "van Helvoirt, W.",
+   "Henry, C. S.",
+   "Hermjakob, H.",
+   "Herrg\u00e5rd, M. J.",
+   "Kaafarani, A.",
+   "Kim, H. U.",
+   "King, Z.",
+   "Klamt, S.",
+   "Klipp, E.",
+   "Koehorst, J. J.",
+   "K\u00f6nig, M.",
+   "Lakshmanan, M.",
+   "Lee, D. Y.",
+   "Lee, S. Y.",
+   "Lee, S.",
+   "Lewis, N. E.",
+   "Liu, F.",
+   "Ma, H.",
+   "Machado, D.",
+   "Mahadevan, R.",
+   "Maia, P.",
+   "Mardinoglu, A.",
+   "Medlock, G. L.",
+   "Monk, J. M.",
+   "Nielsen, J.",
+   "Nielsen, L. K.",
+   "Nogales, J.",
+   "Nookaew, I.",
+   "Palsson, B. O.",
+   "Papin, J. A.",
+   "Patil, K. R.",
+   "Poolman, M.",
+   "Price, N. D.",
+   "Resendis-Antonio, O.",
+   "Richelle, A.",
+   "Rocha, I.",
+   "S\u00e1nchez, B. J.",
+   "Schaap, P. J.",
+   "Sheriff, R. S.",
+   "Shoaie, S.",
+   "Sonnenschein, N.",
+   "Teusink, B.",
+   "Vila\u00e7a, P.",
+   "Vik, J. O.",
+   "Wodke, J. A.",
+   "Xavier, J. C.",
+   "Yuan, Q.",
+   "Zakhartsev, M.",
+   "Zhang, C."
+  ],
+  "corresponding": "Sonnenschein, N.",
+  "organisations": [
+   "Systems Bioinformatics",
+   "AIMMS",
+   "Systems Bioinformatics",
+   "Technical University of Denmark",
+   "Heidelberg University",
+   "Swiss Federal Institute of Technology Lausanne",
+   "RWTH Aachen University",
+   "University of California at San Diego",
+   "University of Toronto",
+   "Universidad Nacional Autonoma de Mexico",
+   "Institute for Systems Biology",
+   "Institute for Biomedical Informatics (IBMI)",
+   "University of T\u00fcbingen",
+   "German Center for Infection Research (DZIF)",
+   "University of Queensland",
+   "United States Department of Energy",
+   "Leiden University",
+   "CSIC",
+   "Technical University of Madrid",
+   "Norwegian University of Life Sciences",
+   "Hanze University of Applied Sciences",
+   "Wellcome Trust",
+   "Korea Advanced Institute of Science and Technology",
+   "Max Planck Institute for Dynamics of Complex Technical Systems",
+   "Humboldt University of Berlin",
+   "Wageningen University & Research",
+   "Agency for Science",
+   "Technology and Research",
+   "Sungkyunkwan University",
+   "KTH Royal Institute of Technology",
+   "King's College London",
+   "Chinese Academy of Sciences",
+   "European Molecular Biology Laboratory",
+   "SilicoLife Lda.",
+   "University of Virginia",
+   "Chalmers University of Technology",
+   "University of Arkansas for Medical Sciences",
+   "Oxford Brookes University",
+   "University of Minho",
+   "NOVA University Lisbon",
+   "Heinrich Heine University D\u00fcsseldorf"
+  ]
+ },
+ "https://doi.org/10.3390/su12072812": {
+  "year": "2020",
+  "title": "Why are consumers willing to pay more for liquid foods in environmentally friendly packaging? A dual attitudes perspective",
+  "contributors": [
+   "Popovic, I.",
+   "Bossink, B. A.",
+   "van der Sijde, P. C.",
+   "Fong, C. Y."
+  ],
+  "corresponding": "Popovic, I.",
+  "organisations": [
+   "Management and Organisation",
+   "Science & Business Innovation",
+   "AIMMS",
+   "Organization Sciences",
+   "Network Institute",
+   "Organization & Processes of Organizing in Society (OPOS)"
+  ]
+ },
+ "https://doi.org/10.1038/s41540-020-0125-0": {
+  "year": "2020",
+  "title": "Clb3-centered regulations are recurrent across distinct parameter regions in minimal autonomous cell cycle oscillator designs",
+  "contributors": [
+   "Mondeel, T. D.",
+   "Ivanov, O.",
+   "Westerhoff, H. V.",
+   "Liebermeister, W.",
+   "Barberis, M."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Molecular Cell Biology",
+   "AIMMS",
+   "Molecular Cell Physiology",
+   "University of Surrey",
+   "University of Amsterdam",
+   "University of Groningen",
+   "Charit\u00e9 \u2013 Universit\u00e4tsmedizin Berlin",
+   "INRAE"
+  ]
+ },
+ "https://doi.org/10.1063/5.0004046": {
+  "year": "2020",
+  "title": "Efficient implementation of the superposition of atomic potentials initial guess for electronic structure calculations in Gaussian basis sets",
+  "contributors": [
+   "Lehtola, S.",
+   "Visscher, L.",
+   "Engel, E."
+  ],
+  "corresponding": "Lehtola, S.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "University of Helsinki",
+   "Goethe University Frankfurt"
+  ]
+ },
+ "https://doi.org/10.12688/f1000research.20559.1": {
+  "year": "2020",
+  "title": "A community proposal to integrate structural bioinformatics activities in ELIXIR (3D-Bioinfo Community)",
+  "contributors": [
+   "Orengo, C.",
+   "Velankar, S.",
+   "Wodak, S.",
+   "Zoete, V.",
+   "Bonvin, A. M. J. J.",
+   "Elofsson, A.",
+   "Feenstra, K. A.",
+   "Gerloff, D. L.",
+   "Hamelryck, T.",
+   "Hancock, J. M.",
+   "Helmer-Citterich, M.",
+   "Hospital, A.",
+   "Orozco, M.",
+   "Perrakis, A.",
+   "Rarey, M.",
+   "Soares, C.",
+   "Sussman, J. L.",
+   "Thornton, J. M.",
+   "Tuffery, P.",
+   "Tusnady, G.",
+   "Wierenga, R.",
+   "Salminen, T.",
+   "Schneider, B."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Bioinformatics",
+   "AIMMS",
+   "Integrative Bioinformatics",
+   "Structural and Molecular Biology Department",
+   "University College",
+   "London",
+   "UK.",
+   "Protein Data Bank in Europe",
+   "European Molecular Biology Laboratory",
+   "European Bioinformatics Institute",
+   "Hinxton",
+   "CB10 1SD",
+   "UK.",
+   "VIB-VUB Center for Structural Biology",
+   "Brussels",
+   "Belgium.",
+   "Department of Oncology",
+   "Lausanne University",
+   "Swiss Institute of Bioinformatics",
+   "Lausanne",
+   "Switzerland.",
+   "Bijvoet Center",
+   "Faculty of Science - Chemistry",
+   "Utrecht University",
+   "Utrecht",
+   "3584CH",
+   "The Netherlands.",
+   "Science for Life Laboratory",
+   "Stockholm University",
+   "Solna",
+   "S-17121",
+   "Sweden.",
+   "Luxembourg Centre for Systems Biomedicine",
+   "University of Luxembourg",
+   "Belvaux",
+   "L-4367",
+   "Luxembourg.",
+   "Bioinformatics center",
+   "Department of Biology",
+   "University of Copenhagen",
+   "Copenhagen",
+   "DK-2200",
+   "Denmark.",
+   "ELIXIR Hub",
+   "Hinxton",
+   "Department of Biology",
+   "University of Rome Tor Vergata",
+   "Rome",
+   "I-00133",
+   "Italy.",
+   "Institute for Research in Biomedicine",
+   "The Barcelona Institute of Science and Technology",
+   "Barcelona",
+   "08028",
+   "Spain.",
+   "Netherlands Cancer Institute and Oncode Institute",
+   "Utrecht",
+   "The Netherlands.",
+   "ZBH - Center for Bioinformatics",
+   "Universit\u00e4t Hamburg",
+   "Hamburg",
+   "D-20146",
+   "Germany.",
+   "Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Antonio Xavier",
+   "Universidade Nova de Lisboa",
+   "Lisbon",
+   "Portugal.",
+   "Department of Structural Biology",
+   "Weizmann Institute of Science",
+   "Rehovot",
+   "76100",
+   "Israel.",
+   "European Bioinformatics Institute",
+   "European Molecular Biology Laboratory",
+   "Wellcome Genome Campus",
+   "Hinxton",
+   "Cambridge CB10 1SD",
+   "UK.",
+   "Ressource Parisienne en Bioinformatique Structurale",
+   "Universit\u00e9 de Paris",
+   "Paris",
+   "F-75205",
+   "France.",
+   "Membrane Bioinformatics Research Group",
+   "Institute of Enzymology",
+   "Budapest",
+   "H-1117",
+   "Hungary.",
+   "FBMM",
+   "Biocenter Oulu",
+   "University of Oulu",
+   "Oulu",
+   "Finland.",
+   "Structural Bioinformatics Laboratory",
+   "\u00c5bo Akademi University",
+   "Turku",
+   "FI-20500",
+   "Finland.",
+   "Institute of Biotechnology of the Czech Academy of Sciences",
+   "Vestec",
+   "CZ-25250",
+   "Czech Republic."
+  ]
+ },
+ "https://doi.org/10.3390/SU12083404": {
+  "year": "2020",
+  "title": "Linking leaders' voluntary workplace green behavior and team green innovation: The mediation role of team green efficacy",
+  "contributors": [
+   "Cai, W.",
+   "Yang, C.",
+   "Bossink, B. A.",
+   "Fu, J."
+  ],
+  "corresponding": "Yang, C.",
+  "organisations": [
+   "Management and Organisation",
+   "Science & Business Innovation",
+   "AIMMS",
+   "Hainan University"
+  ]
+ },
+ "https://doi.org/10.1016/j.chemosphere.2020.126816": {
+  "year": "2020",
+  "title": "Novel brominated flame retardants - A review of their occurrence in indoor air, dust, consumer goods and food",
+  "contributors": [
+   "Zuiderveen, E. A.",
+   "Slootweg, J. C.",
+   "de Boer, J."
+  ],
+  "corresponding": "Zuiderveen, E. A.",
+  "organisations": [
+   "Chemistry and Pharmaceutical Sciences",
+   "AIMMS",
+   "Environmental Chemistry and Toxicology",
+   "VU University"
+  ]
+ },
+ "https://doi.org/10.3390/ijms21093123": {
+  "year": "2020",
+  "title": "Removing critical gaps in chemical test methods by developing new assays for the identification of thyroid hormone system-disrupting chemicals\u2014the ATHENA project",
+  "contributors": [
+   "Kortenkamp, A.",
+   "Axelstad, M.",
+   "Baig, A. H.",
+   "Bergman, \u00c5.",
+   "Bornehag, C. G.",
+   "Cenijn, P.",
+   "Christiansen, S.",
+   "Demeneix, B.",
+   "Derakhshan, A.",
+   "Fini, J. B.",
+   "Fr\u00e4drich, C.",
+   "Hamers, T.",
+   "Hellwig, L.",
+   "K\u00f6hrle, J.",
+   "Korevaar, T. I.",
+   "Lindberg, J.",
+   "Martin, O.",
+   "Meima, M. E.",
+   "Mergenthaler, P.",
+   "Nikolov, N.",
+   "Pasquier, D. D.",
+   "Peeters, R. P.",
+   "Platzack, B.",
+   "Ramh\u00f8j, L.",
+   "Remaud, S.",
+   "Renko, K.",
+   "Scholze, M.",
+   "Stachelscheid, H.",
+   "Svingen, T.",
+   "Wagenaars, F.",
+   "Wedebye, E. B.",
+   "Zoeller, R. T."
+  ],
+  "corresponding": "Kortenkamp, A.",
+  "organisations": [
+   "Environmental Health and Toxicology",
+   "AIMMS",
+   "Brunel University London",
+   "Technical University of Denmark",
+   "\u00d6rebro University",
+   "Karlstad University",
+   "CNRS",
+   "Erasmus University Rotterdam",
+   "Charit\u00e9 \u2013 Universit\u00e4tsmedizin Berlin",
+   "RISE",
+   "Berlin Institute of Health",
+   "Watchfrog S.A.",
+   "VU University"
+  ]
+ },
+ "https://doi.org/10.1007/s00216-020-02661-1": {
+  "year": "2020",
+  "title": "Evaluation of LC-MS and LC\u00d7LC-MS in analysis of zebrafish embryo samples for comprehensive lipid profiling",
+  "contributors": [
+   "Xu, M.",
+   "Legradi, J.",
+   "Leonards, P.Pages:4313-4325"
+  ],
+  "corresponding": "Xu, M.",
+  "organisations": [
+   "Environmental Bioanalytical Chemistry",
+   "AIMMS",
+   "Environmental Health and Toxicology"
+  ]
+ },
+ "https://doi.org/10.1007/s00109-020-01907-w": {
+  "year": "2020",
+  "title": "Signaling lipids as diagnostic biomarkers for ocular surface cicatrizing conjunctivitis",
+  "contributors": [
+   "Di Zazzo, A.",
+   "Yang, W.",
+   "Coassin, M.",
+   "Micera, A.",
+   "Antonini, M.",
+   "Piccinni, F.",
+   "De Piano, M.",
+   "Kohler, I.",
+   "Harms, A. C.",
+   "Hankemeier, T.",
+   "Boinini, S.",
+   "Mashaghi, A."
+  ],
+  "corresponding": "Mashaghi, A.",
+  "organisations": [
+   "BioAnalytical Chemistry",
+   "AIMMS",
+   "Universita Campus Bio-Medico di Roma",
+   "Leiden University",
+   "IRCCS Fondazione G.B. Bietti per lo studio e la ricerca in oftalmologia- Roma"
+  ]
+ },
+ "https://doi.org/10.1021/acs.jpclett.0c00870": {
+  "year": "2020",
+  "title": "Near-Edge Ligand Stripping and Robust Radiative Exciton Recombination in Cd",
+  "contributors": [
+   "Leemans, J.",
+   "Singh, S.",
+   "Li, C.",
+   "Ten Brinck, S.",
+   "Bals, S.",
+   "Infante, I.",
+   "Moreels, I.",
+   "Hens, Z."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Ghent University",
+   "University of Antwerp"
+  ]
+ },
+ "https://doi.org/10.1073/pnas.191925011710.1073/pnas.1919250117": {
+  "year": "2020",
+  "title": "Quantitative analysis of amino acid metabolism in liver cancer links glutamate excretion to nucleotide synthesis",
+  "contributors": [
+   "Nilsson, A.",
+   "Haanstra, J. R.",
+   "Engqvist, M.",
+   "Gerding, A.",
+   "Bakker, B. M.",
+   "Klingm\u00fcller, U.",
+   "Teusink, B.",
+   "Nielsen, J."
+  ],
+  "corresponding": "Nielsen, J.",
+  "organisations": [
+   "Systems Bioinformatics",
+   "AIMMS",
+   "Molecular Cell Physiology",
+   "Systems Bioinformatics",
+   "Chalmers University of Technology",
+   "University of Groningen",
+   "German Cancer Research Center",
+   "Technical University of Denmark"
+  ]
+ },
+ "https://doi.org/10.1016/j.molcel.2020.03.023": {
+  "year": "2020",
+  "title": "Gene-Specific Control of t",
+  "contributors": [
+   "Gerber, A.",
+   "Ito, K.",
+   "Chu, C. S.",
+   "Roeder, R. G."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Organic Chemistry",
+   "AIMMS",
+   "Rockefeller University"
+  ]
+ },
+ "https://doi.org/10.1016/j.envint.2020.105700": {
+  "year": "2020",
+  "title": "Predictors with regard to ingestion, inhalation and dermal absorption of estimated phthalate daily intakes in pregnant women: The Barwon infant study",
+  "contributors": [
+   "the Barwon Infant Study Investigator Group"
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Environmental Health and Toxicology",
+   "AIMMS",
+   "University of Melbourne",
+   "Deakin University",
+   "Geelong Hospital",
+   "University of Queensland",
+   "The Florey Institute of Neuroscience and Mental Health"
+  ]
+ },
+ "https://doi.org/10.1016/j.dib.2020.105511": {
+  "year": "2020",
+  "title": "Single molecule m",
+  "contributors": [
+   "Maekiniemi, A.",
+   "Singer, R. H.",
+   "Tutucci, E."
+  ],
+  "corresponding": "Tutucci, E.",
+  "organisations": [
+   "AIMMS",
+   "Systems Bioinformatics",
+   "Yeshiva University",
+   "Janelia Research Campus of the HHMI"
+  ]
+ },
+ "https://doi.org/10.1016/j.envint.2020.105545": {
+  "year": "2020",
+  "title": "Suspect and non-targeted screening of chemicals of emerging concern for human biomonitoring, environmental health studies and support to risk assessment: From promises to challenges and harmonisation issues",
+  "contributors": [
+   "Pourchet, M.",
+   "Debrauwer, L.",
+   "Klanova, J.",
+   "Price, E. J.",
+   "Covaci, A.",
+   "Caballero-Casero, N.",
+   "Oberacher, H.",
+   "Lamoree, M.",
+   "Damont, A.",
+   "Fenaille, F.",
+   "Vlaanderen, J.",
+   "Meijer, J.",
+   "Krauss, M.",
+   "Sarigiannis, D.",
+   "Barouki, R.",
+   "Le Bizec, B.",
+   "Antignac, J. P."
+  ],
+  "corresponding": "Antignac, J. P.",
+  "organisations": [
+   "Environmental Chemistry and Toxicology",
+   "AIMMS",
+   "\u00c9cole nationale v\u00e9t\u00e9rinaire",
+   "agroalimentaire et de l'alimentation",
+   "Nantes-Atlantique",
+   "INRAE",
+   "INRAE",
+   "Masaryk University",
+   "University of Antwerp",
+   "Innsbruck Medical University",
+   "ComUE Paris-Saclay",
+   "Utrecht University",
+   "Helmholtz Centre for Environmental Research",
+   "Aristotle University of Thessaloniki",
+   "University Paris Descartes",
+   "Institute for Risk Assessment Sciences (IRAS)"
+  ]
+ },
+ "https://doi.org/10.1016/j.phrs.2020.104804": {
+  "year": "2020",
+  "title": "Viral G protein-coupled receptors as modulators of cancer hallmarks",
+  "contributors": [
+   "van Senten, J. R.",
+   "Fan, T. S.",
+   "Siderius, M.",
+   "Smit, M. J."
+  ],
+  "corresponding": "Smit, M. J.",
+  "organisations": [
+   "Medicinal chemistry",
+   "AIMMS"
+  ]
+ },
+ "https://doi.org/10.1007/s00526-020-01735-3": {
+  "year": "2020",
+  "title": "Multi-marginal entropy-transport with repulsive cost",
+  "contributors": [
+   "Gerolin, A.",
+   "Kausamo, A.",
+   "Rajala, T."
+  ],
+  "corresponding": "Gerolin, A.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "University of Jyv\u00e4skyl\u00e4"
+  ]
+ },
+ "https://doi.org/10.1002/cphc.202000132": {
+  "year": "2020",
+  "title": "Through-Space Polar-\u03c0 Interactions in 2,6-Diarylthiophenols",
+  "contributors": [
+   "Jian, J.",
+   "Poater, J.",
+   "Hammink, R.",
+   "Tinnemans, P.",
+   "McKenzie, C. J.",
+   "Bickelhaupt, F. M.",
+   "Mecinovi\u0107, J."
+  ],
+  "corresponding": "Bickelhaupt, F. M.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences",
+   "AIMMS",
+   "University of Southern Denmark",
+   "Radboud University Nijmegen"
+  ]
+ },
+ "https://doi.org/10.1016/j.redox.2020.101540": {
+  "year": "2020",
+  "title": "A dual attack on the peroxide bond. The common principle of peroxidatic cysteine or selenocysteine residues",
+  "contributors": [
+   "Dalla Tiezza, M.",
+   "Bickelhaupt, F. M.",
+   "Floh\u00e9, L.",
+   "Maiorino, M.",
+   "Ursini, F.",
+   "Orian, L."
+  ],
+  "corresponding": "Orian, L.",
+  "organisations": [
+   "Chemistry and Pharmaceutical Sciences",
+   "AIMMS",
+   "University of Padova",
+   "Universidad de la Rep\u00fablica"
+  ]
+ },
+ "https://doi.org/10.1002/jcc.26209": {
+  "year": "2020",
+  "title": "Double hybrid DFT calculations with Slater type orbitals",
+  "contributors": [
+   "F\u00f6rster, A.",
+   "Visscher, L."
+  ],
+  "corresponding": "F\u00f6rster, A.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS"
+  ]
+ },
+ "https://doi.org/10.1016/j.comtox.2020.100124": {
+  "year": "2020",
+  "title": "Human exposure to synthetic endocrine disrupting chemicals (S-EDCs) is generally negligible as compared to natural compounds with higher or comparable endocrine activity. How to evaluate the risk of the S-EDCs?",
+  "contributors": [
+   "Autrup, H.",
+   "Barile, F. A.",
+   "Colin Berry, S.",
+   "Blaauboer, B. J.",
+   "Boobis, A.",
+   "Bolt, H.",
+   "Borgert, C. J.",
+   "Dekant, W.",
+   "Dietrich, D.",
+   "Domingo, J. L.",
+   "Batta Gori, G.",
+   "Greim, H.",
+   "Hengstler, J.",
+   "Kacew, S.",
+   "Marquardt, H.",
+   "Pelkonen, O.",
+   "Savolainen, K.",
+   "Heslop-Harrison, P.",
+   "Vermeulen, N. P."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Chemistry and Pharmaceutical Sciences",
+   "AIMMS",
+   "Aarhus University",
+   "St. John's University",
+   "Queen Mary University of London",
+   "Utrecht University",
+   "Imperial College London",
+   "Dortmund University",
+   "Applied Pharmacology and Toxicology",
+   "Inc. Gainesville",
+   "University of W\u00fcrzburg",
+   "University of Konstanz",
+   "Pere Virgili Health Research Institute",
+   "The Health Policy Center",
+   "University of Ottawa",
+   "Toxicology",
+   "University of Oulu",
+   "Finnish Institute of Occupational Health",
+   "University of Leicester"
+  ]
+ },
+ "https://doi.org/10.3390/ijms21093215": {
+  "year": "2020",
+  "title": "Safeguarding female reproductive health against endocrine disrupting chemicals\u2014The FREIA project",
+  "contributors": [
+   "van Duursen, M. B.",
+   "Boberg, J.",
+   "Christiansen, S.",
+   "Connolly, L.",
+   "Damdimopoulou, P.",
+   "Filis, P.",
+   "Fowler, P. A.",
+   "Gadella, B. M.",
+   "Holte, J.",
+   "J\u00e4\u00e4ger, K.",
+   "Johansson, H. K.",
+   "Li, T.",
+   "Mazaud-Guittot, S.",
+   "Parent, A. S.",
+   "Salumets, A.",
+   "Soto, A. M.",
+   "Svingen, T.",
+   "Velthut-Meikas, A.",
+   "Wedebye, E. B.",
+   "Xie, Y.",
+   "van den Berg, M."
+  ],
+  "corresponding": "van Duursen, M. B.",
+  "organisations": [
+   "Environmental Health and Toxicology",
+   "AIMMS",
+   "Technical University of Denmark",
+   "Queen's University Belfast",
+   "Karolinska Institutet",
+   "University of Aberdeen",
+   "Utrecht University",
+   "Carl von Linn\u00e9 Clinic",
+   "University of Tartu",
+   "Universit\u00e9 de Rennes 1",
+   "University of Liege",
+   "Tufts University",
+   "Tallinn University of Technology"
+  ]
+ },
+ "https://doi.org/10.1371/journal.pcbi.1007767": {
+  "year": "2020",
+  "title": "The hydrophobic effect characterises the thermodynamic signature of amyloid fibril growth",
+  "contributors": [
+   "van Gils, J. H. M.",
+   "van Dijk, E.",
+   "Peduzzo, A.",
+   "Hofmann, A.",
+   "Vettore, N.",
+   "Sch\u00fctzmann, M. P.",
+   "Groth, G.",
+   "Mouhib, H.",
+   "Otzen, D. E.",
+   "Buell, A. K.",
+   "Abeln, S."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Bioinformatics",
+   "AIMMS",
+   "Integrative Bioinformatics",
+   "Computer Science",
+   "Institute of Physical Biology",
+   "University of D\u00fcsseldorf",
+   "D\u00fcsseldorf",
+   "Germany.",
+   "Institute of Biochemical Plant Physiology",
+   "University of D\u00fcsseldorf",
+   "D\u00fcsseldorf",
+   "Germany.",
+   "Interdisciplinary Nanoscience Center (iNANO) and Department of Molecular Biology",
+   "Aarhus",
+   "Denmark.",
+   "Department of Biotechnology and Biomedicine",
+   "Technical University of Denmark",
+   "Kongens Lyngby",
+   "Denmark."
+  ]
+ },
+ "https://doi.org/10.3389/fmars.2020.00273": {
+  "year": "2020",
+  "title": "You Are What You Eat, Microplastics in Porbeagle Sharks From the North East Atlantic: Method Development and Analysis in Spiral Valve Content and Tissue",
+  "contributors": [
+   "Maes, T.",
+   "van Diemen de Jel, J.",
+   "Vethaak, A. D.",
+   "Desender, M.",
+   "Bendall, V. A.",
+   "van Velzen, M.",
+   "Leslie, H. A."
+  ],
+  "corresponding": "Maes, T.",
+  "organisations": [
+   "AIMMS",
+   "Environmental Chemistry and Toxicology",
+   "Environmental Bioanalytical Chemistry",
+   "Centre for the Environment Fisheries and Aquaculture Science",
+   "Department Environment and Health",
+   "Faculty of Science",
+   "Vrije Universiteit",
+   "Amsterdam",
+   "the Netherlands",
+   "VU University"
+  ]
+ },
+ "https://doi.org/10.1101/2020.05.05.078782": {
+  "year": "2020",
+  "title": "A histone-like motif in yellow fever virus contributes to viral replication",
+  "contributors": [
+   "Mourao, D.",
+   "Chen, S.",
+   "Schaefer, U.",
+   "Bozzacco, L.",
+   "Carneiro, L. A.",
+   "Gerber, A.",
+   "Adura, C.",
+   "Dill, B. D.",
+   "Molina, H.",
+   "Carroll, T.",
+   "Paul, M.",
+   "Bhanu, N. V.",
+   "Garcia, B. A.",
+   "Joberty, G.",
+   "Rioja, I.",
+   "Prinjha, R. K.",
+   "Roeder, R. G.",
+   "Rice, C. M.",
+   "MacDonald, M. R.",
+   "Patel, D. J.",
+   "Tarakhovsky, A."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Organic Chemistry",
+   "AIMMS"
+  ]
+ },
+ "https://doi.org/10.1126/scitranslmed.aay8314": {
+  "year": "2020",
+  "title": "Preclinical validation of a repurposed metal chelator as an early-intervention therapeutic for hemotoxic snakebite",
+  "contributors": [
+   "Albulescu, L. O.",
+   "Hale, M. S.",
+   "Ainsworth, S.",
+   "Alsolaiss, J.",
+   "Crittenden, E.",
+   "Calvete, J. J.",
+   "Evans, C.",
+   "Wilkinson, M. C.",
+   "Harrison, R. A.",
+   "Kool, J.",
+   "Casewell, N. R."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "BioAnalytical Chemistry",
+   "AIMMS",
+   "Liverpool School of Tropical Medicine",
+   "CSIC"
+  ]
+ },
+ "https://doi.org/10.1111/2041-210X.13403": {
+  "year": "2020",
+  "title": "The omnistat: A flexible continuous-culture system for prolonged experimental evolution",
+  "contributors": [
+   "Ekkers, D. M.",
+   "Branco dos Santos, F.",
+   "Mallon, C. A.",
+   "Bruggeman, F.",
+   "van Doorn, G. S."
+  ],
+  "corresponding": "Ekkers, D. M.",
+  "organisations": [
+   "Bioinformatics",
+   "Systems Bioinformatics",
+   "AIMMS",
+   "University of Groningen"
+  ]
+ },
+ "https://doi.org/10.1063/5.0004844": {
+  "year": "2020",
+  "title": "The DIRAC code for relativistic molecular calculations",
+  "contributors": [
+   "Saue, T.",
+   "Bast, R.",
+   "Gomes, A. S. P.",
+   "Jensen, H. J. A.",
+   "Visscher, L.",
+   "Aucar, I. A.",
+   "Di Remigio, R.",
+   "Dyall, K. G.",
+   "Eliav, E.",
+   "Fasshauer, E.",
+   "Fleig, T.",
+   "Halbert, L.",
+   "Hedeg\u00e5rd, E. D.",
+   "Helmich-Paris, B.",
+   "Ilia\u0161, M.",
+   "Jacob, C. R.",
+   "Knecht, S.",
+   "Laerdahl, J. K.",
+   "Vidal, M. L.",
+   "Nayak, M. K.",
+   "Olejniczak, M.",
+   "Olsen, J. M. H.",
+   "Pernpointner, M.",
+   "Senjean, B.",
+   "Shee, A.",
+   "Sunaga, A.",
+   "van Stralen, J. N."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Laboratoire de Chimie et Physique Quantiques (LCPQ)",
+   "UiT The Arctic University of Norway",
+   "Universite de Lille 2",
+   "University of Southern Denmark",
+   "Universidad Nacional del Nordeste",
+   "Dirac Solutions",
+   "Tel Aviv University",
+   "Aarhus University",
+   "Lund University",
+   "Matej Bel University",
+   "Technical University of Braunschweig",
+   "Swiss Federal Institute of Technology Zurich",
+   "University of Oslo",
+   "Technical University of Denmark",
+   "Bhabha Atomic Research Centre",
+   "University of Warsaw",
+   "Kybeidos GmbH",
+   "VU University",
+   "University of Michigan",
+   "Ann Arbor",
+   "Tokyo Metropolitan University"
+  ]
+ },
+ "https://doi.org/10.1016/j.neuro.2020.05.006": {
+  "year": "2020",
+  "title": "Prenatal phthalate exposure, oxidative stress-related genetic vulnerability and early life neurodevelopment: A birth cohort study",
+  "contributors": [
+   "the BIS Investigator Group"
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Environmental Health and Toxicology",
+   "AIMMS",
+   "The Florey Institute of Neuroscience and Mental Health",
+   "University of Melbourne",
+   "University of Queensland",
+   "Deakin University",
+   "WHO Collaborating Centre for Children's Health and Environment",
+   "Geelong Hospital",
+   "Monash University",
+   "University of Oxford"
+  ]
+ },
+ "https://doi.org/10.3390/v12060594": {
+  "year": "2020",
+  "title": "Human cytomegalovirus-encoded G protein-coupled receptor UL33 facilitates virus dissemination via the extracellular and cell-to-cell route",
+  "contributors": [
+   "van Senten, J. R.",
+   "Bebelman, M. P.",
+   "van Gasselt, P.",
+   "Bergkamp, N. D.",
+   "van den Bor, J.",
+   "Siderius, M.",
+   "Smit, M. J."
+  ],
+  "corresponding": "Smit, M. J.",
+  "organisations": [
+   "Medicinal chemistry",
+   "AIMMS",
+   "VU University"
+  ]
+ },
+ "https://doi.org/10.1021/jacs.0c03577": {
+  "year": "2020",
+  "title": "Nanocrystals of Lead Chalcohalides: A Series of Kinetically Trapped Metastable Nanostructures",
+  "contributors": [
+   "Toso, S.",
+   "Akkerman, Q. A.",
+   "Mart\u00edn-Garc\u00eda, B.",
+   "Prato, M.",
+   "Zito, J.",
+   "Infante, I.",
+   "Dang, Z.",
+   "Moliterni, A.",
+   "Giannini, C.",
+   "Bladt, E.",
+   "Lobato, I.",
+   "Ramade, J.",
+   "Bals, S.",
+   "Buha, J.",
+   "Spirito, D.",
+   "Mugnaioli, E.",
+   "Gemmi, M.",
+   "Manna, L."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Catholic University of the Sacred Heart",
+   "National Research Council of Italy",
+   "University of Antwerp"
+  ]
+ },
+ "https://doi.org/10.1021/acs.joc.0c00771": {
+  "year": "2020",
+  "title": "Synthesis of Quinazolin-4-ones by Copper-Catalyzed Isocyanide Insertion",
+  "contributors": [
+   "Collet, J. W.",
+   "Van Der Nol, E. A.",
+   "Roose, T. R.",
+   "Maes, B. U.",
+   "Ruijter, E.",
+   "Orru, R. V."
+  ],
+  "corresponding": "Orru, R. V.",
+  "organisations": [
+   "Organic Chemistry",
+   "AIMMS",
+   "Amsterdam Institute for Molecules",
+   "Medicines and Systems",
+   "University of Antwerp"
+  ]
+ },
+ "https://doi.org/10.1002/ejoc.202000590": {
+  "year": "2020",
+  "title": "Regioselectivity of Epoxide Ring-Openings via SN2 Reactions Under Basic and Acidic Conditions",
+  "contributors": [
+   "Hansen, T.",
+   "Vermeeren, P.",
+   "Haim, A.",
+   "van Dorp, M. J.",
+   "Cod\u00e9e, J. D.",
+   "Bickelhaupt, F. M.",
+   "Hamlin, T. A."
+  ],
+  "corresponding": "Bickelhaupt, F. M.",
+  "organisations": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Theoretical Chemistry",
+   "AIMMS",
+   "VU University",
+   "Leiden University"
+  ]
+ },
+ "https://doi.org/10.1016/j.ecolmodel.2020.109055": {
+  "year": "2020",
+  "title": "The energetic basis of population growth in animal kingdom",
+  "contributors": [
+   "Kooijman, S. A.",
+   "Lika, K.",
+   "Augustine, S.",
+   "Marn, N.",
+   "Kooi, B. W."
+  ],
+  "corresponding": "Kooijman, S. A.",
+  "organisations": [
+   "Molecular Cell Biology",
+   "Theoretical Life Sciences",
+   "AIMMS",
+   "University of Crete",
+   "Foundation for Research and Technology-Hellas",
+   "Norwegian Institute for Water Research"
+  ]
+ },
+ "https://doi.org/10.1038/s42004-020-0313-2": {
+  "year": "2020",
+  "title": "Mechanism of biomolecular recognition of trimethyllysine by the fluorinated aromatic cage of KDM5A PHD3 finger",
+  "contributors": [
+   "Pieters, B. J.",
+   "Wuts, M. H.",
+   "Poater, J.",
+   "Kumar, K.",
+   "White, P. B.",
+   "Kamps, J. J.",
+   "Sherman, W.",
+   "Pruijn, G. J.",
+   "Paton, R. S.",
+   "Beuming, T.",
+   "Bickelhaupt, F. M.",
+   "Mecinovi\u0107, J."
+  ],
+  "corresponding": "Mecinovi\u0107, J.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences",
+   "AIMMS",
+   "Radboud University Nijmegen",
+   "University of Oxford",
+   "Schr\u04e7dinger",
+   "Inc.",
+   "Silicon Therapeutics",
+   "Latham Biopharm Group 101 Main Street",
+   "University of Southern Denmark"
+  ]
+ },
+ "https://doi.org/10.3390/ijms21113978": {
+  "year": "2020",
+  "title": "The ENDpoi",
+  "contributors": [
+   "Lupu, D.",
+   "Andersson, P.",
+   "Bornehag, C. G.",
+   "Demeneix, B.",
+   "Fritsche, E.",
+   "Gennings, C.",
+   "Lichtensteiger, W.",
+   "Leist, M.",
+   "Leonards, P. E.",
+   "Ponsonby, A. L.",
+   "Scholze, M.",
+   "Testa, G.",
+   "Tresguerres, J. A.",
+   "Westerink, R. H.",
+   "Zalc, B.",
+   "R\u00fcegg, J."
+  ],
+  "corresponding": "Lupu, D.",
+  "organisations": [
+   "Environmental Bioanalytical Chemistry",
+   "AIMMS",
+   "Uppsala University",
+   "Karolinska Institutet",
+   "Iuliu Hatieganu University of Medicine and Pharmacy",
+   "Ume\u00e5 University",
+   "Karlstad University",
+   "CNRS",
+   "Leibniz Research Institute for Environmental Medicine",
+   "Icahn School of Medicine at Mount Sinai",
+   "GREEN Tox GmbH",
+   "University of Konstanz",
+   "Royal Children's Hospital",
+   "Brunel University London",
+   "University of Milan",
+   "Complutense University",
+   "Utrecht University",
+   "Sorbonne Universit\u00e9"
+  ]
+ },
+ "https://doi.org/10.1016/j.toxicon.2020.05.022": {
+  "year": "2020",
+  "title": "Development of high-throughput screening assays for profiling snake venom phospholipase A2 activity after chromatographic fractionation",
+  "contributors": [
+   "Still, K. B.",
+   "Slagboom, J.",
+   "Kidwai, S.",
+   "Xie, C.",
+   "Zhao, Y.",
+   "Eisses, B.",
+   "Jiang, Z.",
+   "Vonk, F. J.",
+   "Somsen, G. W.",
+   "Casewell, N. R.",
+   "Kool, J."
+  ],
+  "corresponding": "Kool, J.",
+  "organisations": [
+   "BioAnalytical Chemistry",
+   "AIMMS",
+   "VU University",
+   "Jinan University",
+   "Naturalis National Museum of Natural History",
+   "Liverpool School of Tropical Medicine"
+  ]
+ },
+ "https://doi.org/10.1039/d0cc00774a": {
+  "year": "2020",
+  "title": "Targeted imaging of integrins in cancer tissues using photocleavable Ru(ii) polypyridine complexes as mass-tags",
+  "contributors": [
+   "Han, J.",
+   "Sun, J.",
+   "Song, S.",
+   "Beljaars, L.",
+   "Groothuis, G. M.",
+   "Permentier, H.",
+   "Bischoff, R.",
+   "Halmos, G. B.",
+   "Verhoeven, C. J.",
+   "Amstalden van Hove, E. R.",
+   "Horvatovich, P.",
+   "Casini, A."
+  ],
+  "corresponding": "Horvatovich, P.",
+  "organisations": [
+   "AIMMS",
+   "BioAnalytical Chemistry",
+   "University of Groningen",
+   "Technical University of Munich"
+  ]
+ },
+ "https://doi.org/10.1002/cphc.202000414": {
+  "year": "2020",
+  "title": "Through-Space Polar-\u03c0 Interactions in 2,6-Diarylthiophenols",
+  "contributors": [
+   "Jian, J.",
+   "Poater, J.",
+   "Hammink, R.",
+   "Tinnemans, P.",
+   "McKenzie, C. J.",
+   "Bickelhaupt, F. M.",
+   "Mecinovi\u0107, J."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences",
+   "AIMMS",
+   "University of Southern Denmark",
+   "Radboud University Nijmegen"
+  ]
+ },
+ "https://doi.org/10.3389/fmolb.2020.00114": {
+  "year": "2020",
+  "title": "Recent Developments in Linear Interaction Energy Based Binding Free Energy Calculations",
+  "contributors": [
+   "Rifai, E. A.",
+   "van Dijk, M.",
+   "Geerke, D. P."
+  ],
+  "corresponding": "Geerke, D. P.",
+  "organisations": [
+   "Molecular and Computational Toxicology",
+   "AIMMS"
+  ]
+ },
+ "https://doi.org/10.1016/j.watres.2020.116017": {
+  "year": "2020",
+  "title": "Advancements in effect-based surface water quality assessment",
+  "contributors": [
+   "De Baat, M. L.",
+   "Van der Oost, R.",
+   "Van der Lee, G. H.",
+   "Wieringa, N.",
+   "Hamers, T.",
+   "Verdonschot, P. F.",
+   "De Voogt, P.",
+   "Kraak, M. H."
+  ],
+  "corresponding": "De Baat, M. L.",
+  "organisations": [
+   "AIMMS",
+   "Environmental Health and Toxicology",
+   "University of Amsterdam",
+   "Waternet Institute for the Urban Water Cycle",
+   "Wageningen University & Research"
+  ]
+ },
+ "https://doi.org/10.1080/15287394.2020.1756592": {
+  "year": "2020",
+  "title": "Human exposure to synthetic endocrine disrupting chemicals (S-EDCs) is generally negligible as compared to natural compounds with higher or comparable endocrine activity. How to evaluate the risk of the S-EDCs?",
+  "contributors": [
+   "Autrup, H.",
+   "Barile, F. A.",
+   "Berry, S. C.",
+   "Blaauboer, B. J.",
+   "Boobis, A.",
+   "Bolt, H.",
+   "Borgert, C. J.",
+   "Dekant, W.",
+   "Dietrich, D.",
+   "Domingo, J. L.",
+   "Gori, G. B.",
+   "Greim, H.",
+   "Hengstler, J.",
+   "Kacew, S.",
+   "Marquardt, H.",
+   "Pelkonen, O.",
+   "Savolainen, K.",
+   "Heslop-Harrison, P.",
+   "Vermeulen, N. P."
+  ],
+  "corresponding": "Greim, H.",
+  "organisations": [
+   "Chemistry and Pharmaceutical Sciences",
+   "AIMMS",
+   "Aarhus University",
+   "St. John's University",
+   "Queen Mary University of London",
+   "Utrecht University",
+   "Imperial College London",
+   "Dortmund University",
+   "Applied Pharmacology and Toxicology",
+   "Inc. Gainesville",
+   "University of W\u00fcrzburg",
+   "University of Konstanz",
+   "Pere Virgili Health Research Institute",
+   "The Health Policy Center",
+   "Technical University of Munich",
+   "University of Ottawa",
+   "Toxicology",
+   "University of Oulu",
+   "Finnish Institute of Occupational Health",
+   "University of Leicester"
+  ]
+ },
+ "https://doi.org/10.1038/s41467-020-16952-9": {
+  "year": "2020",
+  "title": "Multiple low dose therapy as an effective strategy to treat EGFR inhibitor-resistant NSCLC tumours",
+  "contributors": [
+   "Fernandes Neto, J. M.",
+   "Nadal, E.",
+   "Bosdriesz, E.",
+   "Ooft, S. N.",
+   "Farre, L.",
+   "McLean, C.",
+   "Klarenbeek, S.",
+   "Jurgens, A.",
+   "Hagen, H.",
+   "Wang, L.",
+   "Felip, E.",
+   "Martinez-Marti, A.",
+   "Vidal, A.",
+   "Voest, E.",
+   "Wessels, L. F. A.",
+   "van Tellingen, O.",
+   "Villanueva, A.",
+   "Bernards, R.Pages:3157"
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Bioinformatics",
+   "AIMMS",
+   "Bio Informatics (IBIVU)",
+   "Division of Molecular Carcinogenesis and Oncode Institute. The Netherlands Cancer Institute",
+   "Plesmanlaan 121",
+   "1066 CX",
+   "Amsterdam",
+   "The Netherlands.",
+   "Group of Chemoresistance and Predictive Factors",
+   "Subprogram Against Cancer Therapeutic Resistance (ProCURE)",
+   "ICO",
+   "Oncobell Program",
+   "IDIBELL",
+   "L'Hospitalet del Llobregat",
+   "Barcelona",
+   "Spain.",
+   "Division of Molecular Oncology and Immunology",
+   "The Netherlands Cancer Institute",
+   "1066 CX",
+   "Amsterdam",
+   "The Netherlands.",
+   "Institute Gon\u00e7alo Moniz",
+   "Funda\u00e7ao Oswaldo Cruz (FIOCRUZ)",
+   "Rio de Janeiro",
+   "Brasil.",
+   "Experimental Animal Pathology",
+   "The Netherlands Cancer Institute",
+   "1066 CX",
+   "Amsterdam",
+   "The Netherlands.",
+   "Autonomous University of Barcelona (UAB)",
+   "Barcelona",
+   "Spain.",
+   "Division of Clinical Pharmacology",
+   "Oncode Institute",
+   "the Netherlands Cancer Institute",
+   "1066 CX Amsterdam",
+   "the Netherlands.",
+   "Xenopat S.L.",
+   "Business Bioincubator",
+   "Bellvitge Health Science Campus",
+   "Barcelona",
+   "Spain.",
+   "Division of Molecular Carcinogenesis and Oncode Institute. The Netherlands Cancer Institute",
+   "Plesmanlaan 121",
+   "1066 CX",
+   "Amsterdam",
+   "The Netherlands. r.bernards@nki.nl."
+  ]
+ },
+ "https://doi.org/10.1073/pnas.1922821117": {
+  "year": "2020",
+  "title": "Functions of paralogous RNA polymerase III subunits POLR3G and POLR3GL in mouse development",
+  "contributors": [
+   "Wang, X.",
+   "Gerber, A.",
+   "Chen, W.",
+   "Roeder, R. G.Pages:15702-15711"
+  ],
+  "corresponding": "Roeder, R. G.",
+  "organisations": [
+   "Organic Chemistry",
+   "AIMMS"
+  ]
+ },
+ "https://doi.org/10.1021/acssensors.0c00397": {
+  "year": "2020",
+  "title": "Development of a Conformational Histamine H3Receptor Biosensor for the Synchronous Screening of Agonists and Inverse Agonists",
+  "contributors": [
+   "Schihada, H.",
+   "Schihada, H.",
+   "Ma, X.",
+   "Zabel, U.",
+   "Vischer, H. F.",
+   "Schulte, G.",
+   "Leurs, R.",
+   "Pockes, S.",
+   "Lohse, M. J.",
+   "Lohse, M. J.",
+   "Lohse, M. J."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Medicinal chemistry",
+   "AIMMS",
+   "Karolinska Institutet",
+   "University of W\u00fcrzburg",
+   "Amsterdam Institute for Molecules",
+   "Medicines and Systems",
+   "University of Regensburg",
+   "Max Delbr\u00fcck Center for Molecular Medicine in the Helmholtz Association",
+   "ISAR Bioscience GmbH"
+  ]
+ },
+ "https://doi.org/10.1016/j.envint.2020.105807": {
+  "year": "2020",
+  "title": "Where is the evidence that human exposure to microplastics is safe?",
+  "contributors": [
+   "Leslie, H. A.",
+   "Depledge, M. H."
+  ],
+  "corresponding": "Leslie, H. A.",
+  "organisations": [
+   "AIMMS",
+   "Environmental Chemistry and Toxicology",
+   "University of Exeter"
+  ]
+ },
+ "https://doi.org/10.1007/s00204-020-02792-5": {
+  "year": "2020",
+  "title": "Multiparametric assessment of mitochondrial respiratory inhibition in Hep",
+  "contributors": [
+   "van der Stel, W.",
+   "Carta, G.",
+   "Eakins, J.",
+   "Darici, S.",
+   "Delp, J.",
+   "Forsby, A.",
+   "Bennekou, S. H.",
+   "Gardner, I.",
+   "Leist, M.",
+   "Danen, E. H. J.",
+   "Walker, P.",
+   "van de Water, B.",
+   "Jennings, P."
+  ],
+  "corresponding": "Jennings, P.",
+  "organisations": [
+   "AIMMS",
+   "Molecular and Computational Toxicology",
+   "Division of Drug Discovery and Safety",
+   "Leiden Academic Centre of Drug Research",
+   "Leiden University",
+   "Einsteinweg 55",
+   "2333 CC",
+   "Leiden",
+   "The Netherlands.",
+   "Cyprotex Discovery Ltd",
+   "Alderley Park",
+   "Macclesfield",
+   "Cheshire",
+   "UK.",
+   "University of Konstanz",
+   "Constance",
+   "Germany.",
+   "Department of Biochemistry and Biophysics",
+   "Stockholm University",
+   "Stockholm",
+   "Sweden.",
+   "National Food Institute Technical University of Denmark (DTU)",
+   "Lyngby",
+   "Denmark.",
+   "Simcyp Limited (a Certara Company)",
+   "Blades Enterprise Centre",
+   "Sheffield S2 4SU",
+   "U.K.",
+   "Division of Drug Discovery and Safety",
+   "Leiden Academic Centre of Drug Research",
+   "Leiden University",
+   "Einsteinweg 55",
+   "2333 CC",
+   "Leiden",
+   "The Netherlands. water_b@lacdr.leidenuniv.nl."
+  ]
+ },
+ "https://doi.org/10.1016/j.bcp.2020.113938": {
+  "year": "2020",
+  "title": "Acetylene containing cyclo(L-Tyr-L-Tyr)-analogs as mechanism-based inhibitors of CYP121A1 from Mycobacterium tuberculosis",
+  "contributors": [
+   "Ortega Ugalde, S.",
+   "Wallraven, K.",
+   "Speer, A.",
+   "Bitter, W.",
+   "Grossmann, T. N.",
+   "Commandeur, J. N."
+  ],
+  "corresponding": "Grossmann, T. N.",
+  "organisations": [
+   "Molecular and Computational Toxicology",
+   "Organic Chemistry",
+   "Molecular Microbiology",
+   "AIMMS",
+   "Amsterdam UMC"
+  ]
+ },
+ "https://doi.org/10.1038/s41598-020-67927-1": {
+  "year": "2020",
+  "title": "Fragmentation of plastic objects in a laboratory seawater microcosm",
+  "contributors": [
+   "Gerritse, J.",
+   "Leslie, H. A.",
+   "de Tender, C. A.",
+   "Devriese, L. I.",
+   "Vethaak, A. D."
+  ],
+  "corresponding": "Gerritse, J.",
+  "organisations": [
+   "Environmental Chemistry and Toxicology",
+   "AIMMS",
+   "Deltares",
+   "Ghent University",
+   "Animal Sciences Unit - Aquatic Environment and Quality",
+   "Flanders Marine Institute"
+  ]
+ },
+ "https://doi.org/10.1016/j.rser.2020.110025": {
+  "year": "2020",
+  "title": "Learning strategies in sustainable energy demonstration projects: What organizations learn from sustainable energy demonstrations",
+  "contributors": [
+   "Bossink, B."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Science & Business Innovation",
+   "AIMMS"
+  ]
+ },
+ "https://doi.org/10.1007/s00204-020-02802-6": {
+  "year": "2020",
+  "title": "The EU-Tox",
+  "contributors": [
+   "Krebs, A.",
+   "van Vugt-Lussenburg, B. M. A.",
+   "Waldmann, T.",
+   "Albrecht, W.",
+   "Boei, J.",
+   "Ter Braak, B.",
+   "Brajnik, M.",
+   "Braunbeck, T.",
+   "Brecklinghaus, T.",
+   "Busquet, F.",
+   "Dinnyes, A.",
+   "Dokler, J.",
+   "Dolde, X.",
+   "Exner, T. E.",
+   "Fisher, C.",
+   "Fluri, D.",
+   "Forsby, A.",
+   "Hengstler, J. G.",
+   "Holzer, A.",
+   "Janstova, Z.",
+   "Jennings, P.",
+   "Kisitu, J.",
+   "Kobolak, J.",
+   "Kumar, M.",
+   "Limonciel, A.",
+   "Lundqvist, J.",
+   "Mihalik, B.",
+   "Moritz, W.",
+   "Pallocca, G.",
+   "Ulloa, A. P. C.",
+   "Pastor, M.",
+   "Rovida, C.",
+   "Sarkans, U.",
+   "Schimming, J. P.",
+   "Schmidt, B. Z.",
+   "St\u00f6ber, R.",
+   "Strassfeld, T.",
+   "van de Water, B.",
+   "Wilmes, A.",
+   "van der Burg, B.",
+   "Verfaillie, C. M.",
+   "von Hellfeld, R.",
+   "Vrieling, H.",
+   "Vrijenhoek, N. G.",
+   "Leist, M.Pages:2435-2461"
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Molecular and Computational Toxicology",
+   "AIMMS",
+   "Department of Chemistry",
+   "Zukunftskolleg",
+   "and Konstanz Research School Chemical Biology",
+   "University of Konstanz",
+   "78457 Konstanz",
+   "Germany.",
+   "BioDetection Systems BV",
+   "Science Park 406",
+   "Amsterdam 1098 XH",
+   "The Netherlands.",
+   "trenzyme GmbH",
+   "Byk-Gulden-Str. 2",
+   "78467",
+   "Konstanz",
+   "Germany.",
+   "Leibniz-Institut f\u00fcr Arbeitsforschung an der TU Dortmund",
+   "Leibniz Research Center for Working Environment and Human Factors (IfADo)",
+   "Ardeystra\u00dfe 67",
+   "44139",
+   "Dortmund",
+   "Germany.",
+   "Department of Rehabilitation Medicine",
+   "Leiden University Medical Center",
+   "P.O. Box 2300",
+   "9600 RC Leiden",
+   "The Netherlands.",
+   "Division of Drug Discovery and Safety",
+   "Leiden Academic Center for Drug Research",
+   "Leiden University",
+   "Einsteinweg 55",
+   "2333 CC",
+   "Leiden",
+   "The Netherlands.",
+   "Edelweiss Connect GmbH",
+   "Technology Park Basel",
+   "Hochbergerstrasse 60C",
+   "4057",
+   "Basel",
+   "Switzerland.",
+   "Aquatic Ecology and Toxicology Group",
+   "Center for Organismal Studies",
+   "University of Heidelberg",
+   "Im Neuenheimer Feld 504",
+   "69120",
+   "Heidelberg",
+   "Germany.",
+   "CAAT Europe",
+   "University of Konstanz",
+   "Steinbeis SU-1866",
+   "78457",
+   "Konstanz",
+   "Germany.",
+   "BioTalentum Ltd.",
+   "Aulich Lajos str. 26",
+   "G\u00f6d\u00f6ll\u0151",
+   "2100",
+   "Hungary.",
+   "In Vitro Toxicology and Biomedicine",
+   "Department inaugurated by the Doerenkamp-Zbinden Foundation",
+   "University of Konstanz",
+   "Box 657",
+   "Universitaetsstr. 10",
+   "78457",
+   "Konstanz",
+   "Germany. marcel.leist@uni-konstanz.de.",
+   "Simcyp Division",
+   "Certara UK Limited",
+   "Level 2-Acero",
+   "1 Concourse Way",
+   "Sheffield",
+   "S1 2BJ",
+   "UK.",
+   "InSphero AG",
+   "Wagistrasse 27",
+   "CH-8952",
+   "Schlieren",
+   "Switzerland.",
+   "Department of Biochemistry and Biophysics",
+   "Stockholm University",
+   "10691",
+   "Stockholm",
+   "Sweden.",
+   "Department of Development and Regeneration",
+   "Stem Cell Biology and Embryology",
+   "Stem Cell Institute Leuven",
+   "KU Leuven",
+   "O&N IV Herestraat 49",
+   "3000",
+   "Leuven",
+   "Belgium.",
+   "Unit of Toxicology Sciences",
+   "Swedish Toxicology Sciences Research Center (Swetox)",
+   "Karolinska Institutet",
+   "Forskargatan 20",
+   "151 36",
+   "S\u00f6dert\u00e4lje",
+   "Sweden.",
+   "Department of Experimental and Health Sciences",
+   "Research Programme on Biomedical Informatics (GRIB)",
+   "Institut Hospital del Mar d'Investigacions M\u00e8diques (IMIM)",
+   "Universitat Pompeu Fabra",
+   "08003",
+   "Barcelona",
+   "Spain.",
+   "European Molecular Biology Laboratory",
+   "European Bioinformatics Institute (EMBL-EBI)",
+   "Wellcome Genome Campus",
+   "Cambridge",
+   "UK.",
+   "Leiden Academic Center for Drug Research",
+   "LACDR/Toxicology",
+   "Leiden University",
+   "PO Box 9500",
+   "2300 RA",
+   "Leiden",
+   "The Netherlands.",
+   "Switch Laboratory",
+   "Department of Cellular and Molecular Medicine",
+   "VIB-KU Leuven Center for Brain and Disease Research",
+   "KU Leuven",
+   "Herestraat 49",
+   "3000",
+   "Leuven",
+   "Belgium.",
+   "CAAT Europe",
+   "University of Konstanz",
+   "Steinbeis SU-1866",
+   "78457",
+   "Konstanz",
+   "Germany. marcel.leist@uni-konstanz.de."
+  ]
+ },
+ "https://doi.org/10.1007/s00204-020-02834-y": {
+  "year": "2020",
+  "title": "Putative adverse outcome pathways for female reproductive disorders to improve testing and regulation of chemicals",
+  "contributors": [
+   "Johansson, H. K.",
+   "Damdimopoulou, P.",
+   "van Duursen, M. B.",
+   "Boberg, J.",
+   "Franssen, D.",
+   "de Cock, M.",
+   "J\u00e4\u00e4ger, K.",
+   "Wagner, M.",
+   "Velthut-Meikas, A.",
+   "Xie, Y.",
+   "Connolly, L.",
+   "Lelandais, P.",
+   "Mazaud-Guittot, S.",
+   "Salumets, A.",
+   "Draskau, M. K.",
+   "Filis, P.",
+   "Fowler, P. A.",
+   "Christiansen, S.",
+   "Parent, A. S.",
+   "Svingen, T."
+  ],
+  "corresponding": "Svingen, T.",
+  "organisations": [
+   "Environmental Health and Toxicology",
+   "AIMMS",
+   "Technical University of Denmark",
+   "Karolinska Institutet",
+   "University of Liege",
+   "Competence Centre on Health Technologies",
+   "Tallinn University of Technology",
+   "Queen's University Belfast",
+   "Institut national de la sant\u00e9 et de la recherche m\u00e9dicale",
+   "University of Tartu",
+   "University of Helsinki",
+   "University of Aberdeen"
+  ]
+ },
+ "https://doi.org/10.1016/j.reprotox.2020.07.00310.1016/j.reprotox.2020.07.003": {
+  "year": "2020",
+  "title": "Assessing anti-estrogenic effects of AHR ligands in primary human and rat endometrial epithelial cells",
+  "contributors": [
+   "van den Brand, A. D.",
+   "Rubinstein, E.",
+   "de Jong, P. C.",
+   "van den Berg, M.",
+   "van Duursen, M. B."
+  ],
+  "corresponding": "van den Brand, A. D.",
+  "organisations": [
+   "Environmental Health and Toxicology",
+   "AIMMS",
+   "Utrecht University",
+   "Teva Pharmaceutical Industries Ltd.",
+   "St. Antonius Ziekenhuis"
+  ]
+ },
+ "https://doi.org/10.1186/s12302-020-00375-w": {
+  "year": "2020",
+  "title": "The NORMAN Association and the European Partnership for Chemicals Risk Assessment (PARC): let\u2019s cooperate!",
+  "contributors": [
+   "Dulio, V.",
+   "Koschorreck, J.",
+   "van Bavel, B.",
+   "van den Brink, P.",
+   "Hollender, J.",
+   "Munthe, J.",
+   "Schlabach, M.",
+   "Aalizadeh, R.",
+   "Agerstrand, M.",
+   "Ahrens, L.",
+   "Allan, I.",
+   "Alygizakis, N.",
+   "Barcelo\u2019, D.",
+   "Bohlin-Nizzetto, P.",
+   "Boutroup, S.",
+   "Brack, W.",
+   "Bressy, A.",
+   "Christensen, J. H.",
+   "Cirka, L.",
+   "Covaci, A.",
+   "Derksen, A.",
+   "Deviller, G.",
+   "Dingemans, M. M.",
+   "Engwall, M.",
+   "Fatta-Kassinos, D.",
+   "Gago-Ferrero, P.",
+   "Hern\u00e1ndez, F.",
+   "Herzke, D.",
+   "Hilscherov\u00e1, K.",
+   "Hollert, H.",
+   "Junghans, M.",
+   "Kasprzyk-Hordern, B.",
+   "Keiter, S.",
+   "Kools, S. A.",
+   "Kruve, A.",
+   "Lambropoulou, D.",
+   "Lamoree, M.",
+   "Leonards, P.",
+   "Lopez, B.",
+   "L\u00f3pez de Alda, M.",
+   "Lundy, L.",
+   "Makovinsk\u00e1, J.",
+   "Marig\u00f3mez, I.",
+   "Martin, J. W.",
+   "McHugh, B.",
+   "Mi\u00e8ge, C.",
+   "O\u2019Toole, S.",
+   "Perkola, N.",
+   "Polesello, S.",
+   "Posthuma, L.",
+   "Rodriguez-Mozaz, S.",
+   "Roessink, I.",
+   "Rostkowski, P.",
+   "Ruedel, H.",
+   "Samanipour, S.",
+   "Schulze, T.",
+   "Schymanski, E. L.",
+   "Sengl, M.",
+   "Tar\u00e1bek, P.",
+   "Ten Hulscher, D.",
+   "Thomaidis, N.",
+   "Togola, A.",
+   "Valsecchi, S.",
+   "van Leeuwen, S.",
+   "von der Ohe, P.",
+   "Vorkamp, K.",
+   "Vrana, B.",
+   "Slobodnik, J."
+  ],
+  "corresponding": "Dulio, V.",
+  "organisations": [
+   "Environmental Chemistry and Toxicology",
+   "AIMMS",
+   "Environmental Bioanalytical Chemistry",
+   "Institut national de l'environnement industriel et des risques",
+   "Federal Environmental Agency",
+   "Germany",
+   "Norwegian Institute for Water Research",
+   "Wageningen University & Research",
+   "Swiss Federal Institute of Aquatic Science and Technology",
+   "IVL Svenska Miljoinstitutet",
+   "Norwegian Institute for Air Research",
+   "National and Kapodistrian University of Athens",
+   "Stockholm University",
+   "Swedish University of Agricultural Sciences",
+   "Environmental Institute (EI)",
+   "CSIC",
+   "Aarhus University",
+   "Helmholtz Centre for Environmental Research",
+   "Goethe University Frankfurt",
+   "Universit\u00e9 Paris-Est Cr\u00e9teil",
+   "University of Copenhagen",
+   "University of Antwerp",
+   "AD eco advies",
+   "DERAC-Environmental risk assessment of chemicals",
+   "KWR Water Research Institute",
+   "Utrecht University",
+   "SWACCS",
+   "\u00d6rebro University",
+   "University of Cyprus",
+   "Catalan Institute for Water Research",
+   "Jaume I University",
+   "Masaryk University",
+   "University of Bath",
+   "Aristotle University of Thessaloniki",
+   "Bureau de recherches g\u00e9ologiques et mini\u00e8res",
+   "Lule\u00e5 University of Technology",
+   "Middlesex University",
+   "Water Research Institute",
+   "University of the Basque Country",
+   "Marine Institute Ireland",
+   "INRAE",
+   "Environmental Protection Agency",
+   "Finnish Environment Institute",
+   "National Research Council of Italy",
+   "National Institute of Public Health and the Environment",
+   "Radboud University Nijmegen",
+   "Fraunhofer Institute for Molecular Biology and Applied Ecology",
+   "University of Amsterdam",
+   "University of Luxembourg",
+   "Bavarian Environment Agency",
+   "RWS"
+  ]
+ },
+ "https://doi.org/10.1007/s10661-020-08452-6": {
+  "year": "2020",
+  "title": "Pesticide residue levels in vegetables and surface waters at the Central Rift Valley (CRV) of Ethiopia",
+  "contributors": [
+   "Loha, K. M.",
+   "Lamoree, M.",
+   "De Boer, J."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "AIMMS",
+   "Environmental Chemistry and Toxicology",
+   "Environment and Health"
+  ]
+ },
+ "https://doi.org/10.1016/j.chemosphere.2020.127498": {
+  "year": "2020",
+  "title": "Time integrative sampling properties of Speedisk and silicone rubber passive samplers determined by chemical analysis and in vitro bioassay testing",
+  "contributors": [
+   "de Weert, J.",
+   "Smedes, F.",
+   "Beeltje, H.",
+   "de Zwart, D.",
+   "Hamers, T."
+  ],
+  "corresponding": "Hamers, T.",
+  "organisations": [
+   "Environmental Health and Toxicology",
+   "AIMMS",
+   "Deltares",
+   "Masaryk University",
+   "Netherlands Organisation for Applied Scientific Research",
+   "National Institute of Public Health and the Environment",
+   "DdZ Ecotox"
+  ]
+ },
+ "https://doi.org/10.1002/elps.202000107": {
+  "year": "2020",
+  "title": "Four-step approach to efficiently develop capillary gel electrophoresis methods for viral vaccine protein analysis",
+  "contributors": [
+   "Geurink, L.",
+   "van Tricht, E.",
+   "Dudink, J.",
+   "Pajic, B.",
+   "van de Griend, C. E. S."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "BioAnalytical Chemistry",
+   "AIMMS",
+   "Uppsala University",
+   "Faculty of Pharmacy",
+   "Department of Medicinal Chemistry",
+   "Division of Analytical Pharmaceutical Chemistry",
+   "Biomedical Centre PO Box 574",
+   "SE-751 23",
+   "Uppsala",
+   "Sweden",
+   "Janssen Vaccines and Prevention B.V.",
+   "Archimedesweg 4",
+   "2333 CN",
+   "Leiden",
+   "The Netherlands."
+  ]
+ },
+ "https://doi.org/10.1016/j.chemosphere.2020.126588": {
+  "year": "2020",
+  "title": "Toddler behavior, the home environment, and flame retardant exposure",
+  "contributors": [
+   "Sugeng, E. J.",
+   "de Cock, M.",
+   "Leonards, P. E.",
+   "van de Bor, M."
+  ],
+  "corresponding": "Sugeng, E. J.",
+  "organisations": [
+   "Environmental Health and Toxicology",
+   "AIMMS",
+   "Environmental Bioanalytical Chemistry",
+   "Environment and Health"
+  ]
+ },
+ "https://doi.org/10.1016/j.scitotenv.2020.139028": {
+  "year": "2020",
+  "title": "Development of a high-throughput bioassay for screening of antibiotics in aquatic environmental samples",
+  "contributors": [
+   "Jonkers, T. J.",
+   "Steenhuis, M.",
+   "Schalkwijk, L.",
+   "Luirink, J.",
+   "Bald, D.",
+   "Houtman, C. J.",
+   "Kool, J.",
+   "Lamoree, M. H.",
+   "Hamers, T."
+  ],
+  "corresponding": "Jonkers, T. J.",
+  "organisations": [
+   "AIMMS",
+   "Environmental Chemistry and Toxicology",
+   "Molecular Microbiology",
+   "LaserLaB - Molecular Biophysics",
+   "Structural Biology",
+   "BioAnalytical Chemistry",
+   "Environmental Health and Toxicology",
+   "VU University",
+   "The Water Laboratory"
+  ]
+ },
+ "https://doi.org/10.1016/j.etap.2020.103396": {
+  "year": "2020",
+  "title": "Human exposure to synthetic endocrine disrupting chemicals (S-EDCs) is generally negligible as compared to natural compounds with higher or comparable endocrine activity. How to evaluate the risk of the S-EDCs?",
+  "contributors": [
+   "Autrup, H.",
+   "Barile, F. A.",
+   "Berry, S. C.",
+   "Blaauboer, B. J.",
+   "Boobis, A.",
+   "Bolt, H.",
+   "Borgert, C. J.",
+   "Dekant, W.",
+   "Dietrich, D.",
+   "Domingo, J. L.",
+   "Gori, G. B.",
+   "Greim, H.",
+   "Hengstler, J.",
+   "Kacew, S.",
+   "Marquardt, H.",
+   "Pelkonen, O.",
+   "Savolainen, K.",
+   "Heslop-Harrison, P.",
+   "Vermeulen, N. P."
+  ],
+  "corresponding": "Dekant, W.",
+  "organisations": [
+   "Chemistry and Pharmaceutical Sciences",
+   "AIMMS",
+   "Aarhus University",
+   "St. John's University",
+   "Queen Mary University of London",
+   "Utrecht University",
+   "Imperial College London",
+   "Dortmund University",
+   "Applied Pharmacology and Toxicology",
+   "Inc. Gainesville",
+   "University of W\u00fcrzburg",
+   "University of Konstanz",
+   "Pere Virgili Health Research Institute",
+   "The Health Policy Center",
+   "University of Ottawa",
+   "Toxicology",
+   "University of Oulu",
+   "Finnish Institute of Occupational Health",
+   "University of Leicester"
+  ]
+ },
+ "https://doi.org/10.1016/j.cbi.2020.109099": {
+  "year": "2020",
+  "title": "Human exposure to synthetic endocrine disrupting chemicals (S-EDCs) is generally negligible as compared to natural compounds with higher or comparable endocrine activity. How to evaluate the risk of the S-EDCs?",
+  "contributors": [
+   "Autrup, H.",
+   "Barile, F. A.",
+   "Berry, S. C.",
+   "Blaauboer, B. J.",
+   "Boobis, A.",
+   "Bolt, H.",
+   "Borgert, C. J.",
+   "Dekant, W.",
+   "Dietrich, D.",
+   "Domingo, J. L.",
+   "Gori, G. B.",
+   "Greim, H.",
+   "Hengstler, J.",
+   "Kacew, S.",
+   "Marquardt, H.",
+   "Pelkonen, O.",
+   "Savolainen, K.",
+   "Heslop-Harrison, P.",
+   "Vermeulen, N. P."
+  ],
+  "corresponding": "Greim, H.",
+  "organisations": [
+   "Chemistry and Pharmaceutical Sciences",
+   "AIMMS",
+   "Aarhus University",
+   "St. John's University",
+   "Queen Mary University of London",
+   "Utrecht University",
+   "Imperial College London",
+   "Dortmund University",
+   "Applied Pharmacology and Toxicology",
+   "Inc.",
+   "University of W\u00fcrzburg",
+   "University of Konstanz",
+   "Pere Virgili Health Research Institute",
+   "The Health Policy Center",
+   "Technical University of Munich",
+   "University of Ottawa",
+   "Toxicology",
+   "University of Oulu",
+   "Finnish Institute of Occupational Health",
+   "University of Leicester"
+  ]
+ },
+ "https://doi.org/10.1147/JRD.2020.2965881": {
+  "year": "2020",
+  "title": "Pre-exascale accelerated application development: The ORNL Summit experience",
+  "contributors": [
+   "Luo, L.",
+   "Straatsma, T. P.",
+   "Suarez, L. E.",
+   "Broer, R.",
+   "Bykov, D.",
+   "D'Azevedo, E. F.",
+   "Faraji, S. S.",
+   "Gottiparthi, K. C.",
+   "De Graaf, C.",
+   "Harris, J. A.",
+   "Havenith, R. W.",
+   "Jensen, H. J.",
+   "Joubert, W.",
+   "Kathir, R. K.",
+   "Larkin, J.",
+   "Li, Y. W.",
+   "Lyakh, D. I.",
+   "Messer, O. E.",
+   "Norman, M. R.",
+   "Oefelein, J. C.",
+   "Sankaran, R.",
+   "Tillack, A. F.",
+   "Barnes, A. L.",
+   "Visscher, L.",
+   "Wells, J. C.",
+   "Wibowo, M."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "IBM",
+   "Oak Ridge National Laboratory",
+   "University of Groningen",
+   "Universidad Rovira i Virgili",
+   "University of Southern Denmark",
+   "Nvidia",
+   "Los Alamos National Laboratory",
+   "Georgia Institute of Technology"
+  ]
+ },
+ "https://doi.org/10.1021/acsptsci.0c00008": {
+  "year": "2020",
+  "title": "Differential Role of Serines and Threonines in Intracellular Loop 3 and C-Terminal Tail of the Histamine H4 Receptor in \u03b2-Arrestin and G Protein-Coupled Receptor Kinase Interaction, Internalization, and Signaling",
+  "contributors": [
+   "Verweij, E. W.",
+   "Al Araaj, B.",
+   "Prabhata, W. R.",
+   "Prihandoko, R.",
+   "Nijmeijer, S.",
+   "Tobin, A. B.",
+   "Leurs, R.",
+   "Vischer, H. F."
+  ],
+  "corresponding": "Vischer, H. F.",
+  "organisations": [
+   "Medicinal chemistry",
+   "AIMMS",
+   "Amsterdam Institute for Molecules",
+   "Medicines and Systems",
+   "University of Glasgow"
+  ]
+ },
+ "https://doi.org/10.3390/molecules25081918": {
+  "year": "2020",
+  "title": "Comparison of molecular recognition of trimethyllysine and trimethylthialysine by epigenetic reader proteins",
+  "contributors": [
+   "Hintzen, J. C.",
+   "Poater, J.",
+   "Kumar, K.",
+   "Al Temimi, A. H.",
+   "Pieters, B. J.",
+   "Paton, R. S.",
+   "Bickelhaupt, F. M.",
+   "Mecinovi\u0107, J."
+  ],
+  "corresponding": "Paton, R. S.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Chemistry and Pharmaceutical Sciences",
+   "University of Southern Denmark",
+   "University of Oxford",
+   "Radboud University Nijmegen"
+  ]
+ },
+ "https://doi.org/10.1016/j.toxicon.2019.10.024": {
+  "year": "2020",
+  "title": "Picofractionation & MS imaging: Analytics for pathology profiling of venoms",
+  "contributors": [
+   "Kool, J."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "BioAnalytical Chemistry",
+   "AIMMS"
+  ]
+ },
+ "https://doi.org/10.1016/j.toxlet.2020.04.008": {
+  "year": "2020",
+  "title": "Human exposure to synthetic endocrine disrupting chemicals (S-EDCs) is generally negligible as compared to natural compounds with higher or comparable endocrine activity. How to evaluate the risk of the S-EDCs?",
+  "contributors": [
+   "Autrup, H.",
+   "Barile, F. A.",
+   "Berry, S. C.",
+   "Blaauboer, B. J.",
+   "Boobis, A.",
+   "Bolt, H.",
+   "Borgert, C. J.",
+   "Dekant, W.",
+   "Dietrich, D.",
+   "Domingo, J. L.",
+   "Gori, G. B.",
+   "Greim, H.",
+   "Hengstler, J.",
+   "Kacew, S.",
+   "Marquardt, H.",
+   "Pelkonen, O.",
+   "Savolainen, K.",
+   "Heslop-Harrison, P.",
+   "Vermeulen, N. P."
+  ],
+  "corresponding": "Greim, H.",
+  "organisations": [
+   "Chemistry and Pharmaceutical Sciences",
+   "AIMMS",
+   "Aarhus University",
+   "St. John's University",
+   "Queen Mary University of London",
+   "Utrecht University",
+   "Imperial College London",
+   "Dortmund University",
+   "Applied Pharmacology and Toxicology",
+   "Inc.",
+   "University of W\u00fcrzburg",
+   "University of Konstanz",
+   "Pere Virgili Health Research Institute",
+   "The Health Policy Center",
+   "Technical University of Munich",
+   "University of Ottawa",
+   "Toxicology",
+   "University of Oulu",
+   "Finnish Institute of Occupational Health",
+   "University of Leicester"
+  ]
+ },
+ "https://doi.org/10.1016/j.tiv.2020.104861": {
+  "year": "2020",
+  "title": "Human exposure to synthetic endocrine disrupting chemicals (S-EDCs) is generally negligible as compared to natural compounds with higher or comparable endocrine activity. How to evaluate the risk of the S-EDCs?",
+  "contributors": [
+   "Autrup, H.",
+   "Barile, F. A.",
+   "Berry, S. C.",
+   "Blaauboer, B. J.",
+   "Boobis, A.",
+   "Bolt, H.",
+   "Borgert, C. J.",
+   "Dekant, W.",
+   "Dietrich, D.",
+   "Domingo, J. L.",
+   "Gori, G. B.",
+   "Greim, H.",
+   "Hengstler, J.",
+   "Kacew, S.",
+   "Marquardt, H.",
+   "Pelkonen, O.",
+   "Savolainen, K.",
+   "Heslop-Harrison, P.",
+   "Vermeulen, N. P."
+  ],
+  "corresponding": "Blaauboer, B. J.",
+  "organisations": [
+   "Chemistry and Pharmaceutical Sciences",
+   "AIMMS",
+   "Aarhus University",
+   "St. John's University",
+   "Queen Mary University of London",
+   "Utrecht University",
+   "Imperial College London",
+   "Dortmund University",
+   "Applied Pharmacology and Toxicology",
+   "Inc.",
+   "University of W\u00fcrzburg",
+   "University of Konstanz",
+   "Pere Virgili Health Research Institute",
+   "The Health Policy Center",
+   "University of Ottawa",
+   "Toxicology",
+   "University of Oulu",
+   "Finnish Institute of Occupational Health",
+   "University of Leicester"
+  ]
+ },
+ "https://doi.org/10.1021/acs.organomet.0c00066": {
+  "year": "2020",
+  "title": "Synthesis, Structures, and Electronic Properties of O- And S-Heterocyclic Carbene Complexes of Iridium, Copper, Silver, and Gold",
+  "contributors": [
+   "Joost, M.",
+   "Nieger, M.",
+   "Lutz, M.",
+   "Ehlers, A. W.",
+   "Slootweg, J. C.",
+   "Lammertsma, K."
+  ],
+  "corresponding": "Lammertsma, K.",
+  "organisations": [
+   "Chemistry and Pharmaceutical Sciences",
+   "AIMMS",
+   "University of Helsinki",
+   "Utrecht University"
+  ]
+ },
+ "https://doi.org/10.1007/s00204-020-02793-4": {
+  "year": "2020",
+  "title": "Human multidrug resistance protein 4 (MRP4) is a cellular efflux transporter for paracetamol glutathione and cysteine conjugates",
+  "contributors": [
+   "Koenderink, J. B.",
+   "van den Heuvel, J. J.",
+   "Bilos, A.",
+   "Vredenburg, G.",
+   "Vermeulen, N. P.",
+   "Russel, F. G."
+  ],
+  "corresponding": "Koenderink, J. B.",
+  "organisations": [
+   "Chemistry and Pharmaceutical Sciences",
+   "AIMMS",
+   "Radboud University Nijmegen",
+   "VU University"
+  ]
+ },
+ "https://doi.org/10.1021/acsenergylett.0c00914": {
+  "year": "2020",
+  "title": "Compositional Tuning of Carrier Dynamics in Cs2Na1- x",
+  "contributors": [
+   "Zhu, D.",
+   "Zito, J.",
+   "Pinchetti, V.",
+   "Dang, Z.",
+   "Olivati, A.",
+   "Pasquale, L.",
+   "Tang, A.",
+   "Zaffalon, M. L.",
+   "Meinardi, F.",
+   "Infante, I.",
+   "De Trizio, L.",
+   "Manna, L.",
+   "Brovelli, S."
+  ],
+  "corresponding": "De Trizio, L.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Beijing Jiaotong University",
+   "Italian Institute of Technology",
+   "University of Genoa",
+   "University of Milan - Bicocca"
+  ]
+ },
+ "https://doi.org/10.1016/j.cub.2020.04.030": {
+  "year": "2020",
+  "title": "Biphasic Cell-Size and Growth-Rate Homeostasis by Single Bacillus subtilis Cells",
+  "contributors": [
+   "Nordholt, N.",
+   "van Heerden, J. H.",
+   "Bruggeman, F. J."
+  ],
+  "corresponding": "Bruggeman, F. J.",
+  "organisations": [
+   "Systems Bioinformatics",
+   "AIMMS"
+  ]
+ },
+ "https://doi.org/10.1089/ast.2019.2063": {
+  "year": "2020",
+  "title": "Biosignature Analysis of Mars Soil Analogs from the Atacama Desert: Challenges and Implications for Future Missions to Mars",
+  "contributors": [
+   "Aerts, J. W.",
+   "Riedo, A.",
+   "Melton, D. J.",
+   "Martini, S.",
+   "Flahaut, J.",
+   "Meierhenrich, U. J.",
+   "Meinert, C.",
+   "Myrgorodska, I.",
+   "Lindner, R.",
+   "Ehrenfreund, P."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Molecular Cell Physiology",
+   "AIMMS",
+   "Leiden University",
+   "Centre de recherches p\u00e9trographiques et g\u00e9ochimiques",
+   "Universit\u00e9 C\u00f4te d\u2019Azur",
+   "University of Bristol",
+   "ESTEC"
+  ]
+ },
+ "https://doi.org/10.7189/jogh.10.010330": {
+  "year": "2020",
+  "title": "Empowering women through probiotic fermented food in East Africa",
+  "contributors": [
+   "Reid, G.",
+   "Sybesma, W.",
+   "Matovu, W.",
+   "Onyango, A.",
+   "Westerik, N.",
+   "Kort, R."
+  ],
+  "corresponding": "Reid, G.",
+  "organisations": [
+   "Molecular Cell Physiology",
+   "AIMMS",
+   "Western University",
+   "Yoba for Life Foundation",
+   "Heifer International",
+   "Jomo Kenyatta University of Agriculture and Technology"
+  ]
+ },
+ "https://doi.org/10.4230/LIPIcs.CPM.2020.10": {
+  "year": "2020",
+  "title": "Unary Words Have the Smallest Levenshtein k-Neighbourhoods",
+  "contributors": [
+   "Charalampopoulos, P.",
+   "Pissis, S. P.",
+   "Radoszewski, J.",
+   "Walen, T.",
+   "Zuba, W."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Bioinformatics",
+   "AIMMS",
+   "Bio Informatics (IBIVU)",
+   "University of Warsaw"
+  ]
+ },
+ "https://doi.org/10.1039/d0sc02878a": {
+  "year": "2020",
+  "title": "Dual catalytic enantioselective desymmetrization of allene-tethered cyclohexanones",
+  "contributors": [
+   "Zhang, L.",
+   "Yamazaki, K.",
+   "Leitch, J. A.",
+   "Manzano, R.",
+   "Atkinson, V. A.",
+   "Hamlin, T. A.",
+   "Dixon, D. J."
+  ],
+  "corresponding": "Dixon, D. J.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "University of Oxford"
+  ]
+ },
+ "https://doi.org/10.1016/j.chembiol.2020.06.006": {
+  "year": "2020",
+  "title": "Monitoring Allosteric Interactions with CXCR4 Using Nano",
+  "contributors": [
+   "Soave, M.",
+   "Heukers, R.",
+   "Kellam, B.",
+   "Woolard, J.",
+   "Smit, M. J.",
+   "Briddon, S. J.",
+   "Hill, S. J."
+  ],
+  "corresponding": "Hill, S. J.",
+  "organisations": [
+   "Medicinal chemistry",
+   "AIMMS",
+   "University of Nottingham"
+  ]
+ },
+ "https://doi.org/10.1007/s00109-020-01938-3": {
+  "year": "2020",
+  "title": "Correction to: Signaling lipids as diagnostic biomarkers for ocular surface cicatrizing conjunctivitis",
+  "contributors": [
+   "Di Zazzo, A.",
+   "Yang, W.",
+   "Coassin, M.",
+   "Micera, A.",
+   "Antonini, M.",
+   "Piccinni, F.",
+   "De Piano, M.",
+   "Kohler, I.",
+   "Harms, A. C.",
+   "Hankemeier, T.",
+   "Bonini, S.",
+   "Mashaghi, A."
+  ],
+  "corresponding": "Mashaghi, A.",
+  "organisations": [
+   "BioAnalytical Chemistry",
+   "AIMMS",
+   "Universita Campus Bio-Medico di Roma",
+   "Leiden University",
+   "IRCCS Fondazione G.B. Bietti per lo studio e la ricerca in oftalmologia- Roma"
+  ]
+ },
+ "https://doi.org/10.1007/s00204-020-02800-8": {
+  "year": "2020",
+  "title": "Human exposure to synthetic endocrine disrupting chemicals (S-EDCs) is generally negligible as compared to natural compounds with higher or comparable endocrine activity: how to evaluate the risk of the S-EDCs?",
+  "contributors": [
+   "Autrup, H.",
+   "Barile, F. A.",
+   "Berry, S. C.",
+   "Blaauboer, B. J.",
+   "Boobis, A.",
+   "Bolt, H.",
+   "Borgert, C. J.",
+   "Dekant, W.",
+   "Dietrich, D.",
+   "Domingo, J. L.",
+   "Gori, G. B.",
+   "Greim, H.",
+   "Hengstler, J.",
+   "Kacew, S.",
+   "Marquardt, H.",
+   "Pelkonen, O.",
+   "Savolainen, K.",
+   "Heslop-Harrison, P.",
+   "Vermeulen, N. P."
+  ],
+  "corresponding": "Greim, H.",
+  "organisations": [
+   "Chemistry and Pharmaceutical Sciences",
+   "AIMMS",
+   "Aarhus University",
+   "St. John's University",
+   "Queen Mary University of London",
+   "Utrecht University",
+   "Imperial College London",
+   "Dortmund University",
+   "Applied Pharmacology and Toxicology",
+   "Inc.",
+   "University of W\u00fcrzburg",
+   "University of Konstanz",
+   "Pere Virgili Health Research Institute",
+   "The Health Policy Center",
+   "Technical University of Munich",
+   "University of Ottawa",
+   "Toxicology",
+   "University of Oulu",
+   "Finnish Institute of Occupational Health",
+   "University of Leicester"
+  ]
+ },
+ "https://doi.org/10.1002/adfm.202002064": {
+  "year": "2020",
+  "title": "Computationally Guided Molecular Design to Minimize the LE/CT Gap in D-\u03c0-A Fluorinated Triarylboranes for Efficient TADF via D and \u03c0-Bridge Tuning",
+  "contributors": [
+   "Narsaria, A. K.",
+   "Rauch, F.",
+   "Krebs, J.",
+   "Endres, P.",
+   "Friedrich, A.",
+   "Krummenacher, I.",
+   "Braunschweig, H.",
+   "Finze, M.",
+   "Nitsch, J.",
+   "Bickelhaupt, F. M.",
+   "Marder, T. B."
+  ],
+  "corresponding": "Bickelhaupt, F. M.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences",
+   "AIMMS",
+   "University of W\u00fcrzburg"
+  ]
+ },
+ "https://doi.org/10.1007/978-1-0716-0712-1_7": {
+  "year": "2020",
+  "title": "New Generations of MS2 Variants and MCP Fusions to Detect Single m",
+  "contributors": [
+   "Pichon, X.",
+   "Robert, M. C.",
+   "Bertrand, E.",
+   "Singer, R. H.",
+   "Tutucci, E."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Systems Bioinformatics",
+   "AIMMS",
+   "Universit\u00e9 de Montpellier",
+   "Equipe lab\u00e9lis\u00e9e Ligue Nationale Contre le Cancer",
+   "Yeshiva University",
+   "Howard Hughes Medical Institute"
+  ]
+ },
+ "https://doi.org/10.1007/978-1-0716-0712-1_4": {
+  "year": "2020",
+  "title": "Simultaneous Detection of m",
+  "contributors": [
+   "Tutucci, E.",
+   "Singer, R. H."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Systems Bioinformatics",
+   "AIMMS",
+   "Yeshiva University",
+   "Howard Hughes Medical Institute"
+  ]
+ },
+ "https://doi.org/10.1016/j.jmb.2020.07.010": {
+  "year": "2020",
+  "title": "The CTD Is Not Essential for the Post-Initiation Control of RNA Polymerase II Activity",
+  "contributors": [
+   "Gerber, A.",
+   "Roeder, R. G."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Organic Chemistry",
+   "AIMMS"
+  ]
+ },
+ "https://doi.org/10.1016/j.etap.2020.103460": {
+  "year": "2020",
+  "title": "High resolution effect-directed analysis of steroid hormone (ant)agonists in surface and wastewater quality monitoring",
+  "contributors": [
+   "Houtman, C. J.",
+   "ten Broek, R.",
+   "van Oorschot, Y.",
+   "Kloes, D.",
+   "van der Oost, R.",
+   "Rosielle, M.",
+   "Lamoree, M. H."
+  ],
+  "corresponding": "Houtman, C. J.",
+  "organisations": [
+   "Environmental Chemistry and Toxicology",
+   "AIMMS",
+   "The Water Laboratory",
+   "Waternet Institute for the Urban Water Cycle"
+  ]
+ },
+ "https://doi.org/10.1016/j.chroma.2020.461481": {
+  "year": "2020",
+  "title": "A single-step preparation of carbohydrate functionalized monoliths for separation and trapping of polar compounds",
+  "contributors": [
+   "Wang, J.",
+   "Guo, J.",
+   "Chen, H.",
+   "Huang, X.",
+   "Somsen, G. W.",
+   "Song, F.",
+   "Jiang, Z."
+  ],
+  "corresponding": "Song, F.",
+  "organisations": [
+   "BioAnalytical Chemistry",
+   "AIMMS",
+   "Jinan University",
+   "Guangdong College of Pharmacy",
+   "Foshan University"
+  ]
+ },
+ "https://doi.org/10.1111/apa.15330": {
+  "year": "2020",
+  "title": "No associations between microbiota signaling substances and cognitive, language and motor development among three-year-old rural Ugandan children",
+  "contributors": [
+   "Iversen, P. O.",
+   "Atukunda, P.",
+   "Kort, R.",
+   "Ueland, P. M.",
+   "Westerberg, A. C.",
+   "Muhoozi, G. K. M."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "AIMMS",
+   "Molecular Cell Physiology",
+   "Institute of Basic Medical Sciences",
+   "University of Oslo",
+   "Department of Haematology",
+   "Division of Human Nutrition",
+   "University of Stellenbosch",
+   "University of Bergen",
+   "Institute of Health Sciences",
+   "Kristiania University College",
+   "Department of Human Nutrition and Home Economics",
+   "Kyambogo acad"
+  ]
+ },
+ "https://doi.org/10.1021/acs.jctc.0c00049": {
+  "year": "2020",
+  "title": "MAP: An MP2 Accuracy Predictor for Weak Interactions from Adiabatic Connection Theory",
+  "contributors": [
+   "Vuckovic, S.",
+   "Fabiano, E.",
+   "Gori-Giorgi, P.",
+   "Burke, K."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Institute for Microelectronics and Microsystems (CNR-IMM)",
+   "University of California at Irvine"
+  ]
+ },
+ "https://doi.org/10.1021/acs.jpclett.0c01616": {
+  "year": "2020",
+  "title": "Local Enhancement of Dynamic Correlation in Excited States: Fresh Perspective on Ionicity and Development of Correlation Density Functional Approximation Based on the On-Top Pair Density",
+  "contributors": [
+   "Hapka, M.",
+   "Pernal, K.",
+   "Gritsenko, O. V."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Lodz University of Technology",
+   "University of Warsaw"
+  ]
+ },
+ "https://doi.org/10.1371/journal.pntd.0008447": {
+  "year": "2020",
+  "title": "Cloning and functional complementation of ten Schistosoma mansoni phosphodiesterases expressed in the mammalian host stages",
+  "contributors": [
+   "Munday, J. C.",
+   "Kunz, S.",
+   "Kalejaiye, T. D.",
+   "Siderius, M.",
+   "Schroeder, S.",
+   "Paape, D.",
+   "Alghamdi, A. H.",
+   "Abbasi, Z.",
+   "Huang, S. X.",
+   "Donachie, A. M.",
+   "William, S.",
+   "Sabra, A. N.",
+   "Sterk, G. J.",
+   "Botros, S. S.",
+   "Brown, D. G.",
+   "Hoffman, C. S.",
+   "Leurs, R.",
+   "de Koning, H. P."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Medicinal chemistry",
+   "AIMMS",
+   "University of Glasgow",
+   "University of Kent",
+   "Boston College",
+   "Theodore Bilharz Research Institute"
+  ]
+ },
+ "https://doi.org/10.1007/s00204-020-02849-5": {
+  "year": "2020",
+  "title": "Correction to: Multiparametric assessment of mitochondrial respiratory inhibition in Hep",
+  "contributors": [
+   "van der Stel, W.",
+   "Carta, G.",
+   "Eakins, J.",
+   "Darici, S.",
+   "Delp, J.",
+   "Forsby, A.",
+   "Bennekou, S. H.",
+   "Gardner, I.",
+   "Leist, M.",
+   "Danen, E. H.",
+   "Walker, P.",
+   "van de Water, B.",
+   "Jennings, P."
+  ],
+  "corresponding": "van de Water, B.",
+  "organisations": [
+   "Molecular and Computational Toxicology",
+   "AIMMS",
+   "Leiden University",
+   "Cyprotex Discovery Ltd",
+   "University of Konstanz",
+   "Stockholm University",
+   "Technical University of Denmark",
+   "Certara"
+  ]
+ },
+ "https://doi.org/10.15252/msb.20199110": {
+  "year": "2020",
+  "title": "SBML Level 3: an extensible format for the exchange and reuse of biological models",
+  "contributors": [
+   "Keating, S. M.",
+   "Waltemath, D.",
+   "K\u00f6nig, M.",
+   "Zhang, F.",
+   "Dr\u00e4ger, A.",
+   "Chaouiya, C.",
+   "Bergmann, F. T.",
+   "Finney, A.",
+   "Gillespie, C. S.",
+   "Helikar, T.",
+   "Hoops, S.",
+   "Malik-Sheriff, R. S.",
+   "Moodie, S. L.",
+   "Moraru, I. I.",
+   "Myers, C. J.",
+   "Naldi, A.",
+   "Olivier, B. G.",
+   "Sahle, S.",
+   "Schaff, J. C.",
+   "Smith, L. P.",
+   "Swat, M. J.",
+   "Thieffry, D.",
+   "Watanabe, L.",
+   "Wilkinson, D. J.",
+   "Blinov, M. L.",
+   "Begley, K.",
+   "Faeder, J. R.",
+   "G\u00f3mez, H. F.",
+   "Hamm, T. M.",
+   "Inagaki, Y.",
+   "Liebermeister, W.",
+   "Lister, A. L.",
+   "Lucio, D.",
+   "Mjolsness, E.",
+   "Proctor, C. J.",
+   "Raman, K.",
+   "Rodriguez, N.",
+   "Shaffer, C. A.",
+   "Shapiro, B. E.",
+   "Stelling, J.",
+   "Swainston, N.",
+   "Tanimura, N.",
+   "Wagner, J.",
+   "Meier-Schellersheim, M.",
+   "Sauro, H. M.",
+   "Palsson, B.",
+   "Bolouri, H.",
+   "Kitano, H.",
+   "Funahashi, A.",
+   "Hermjakob, H.",
+   "Doyle, J. C.",
+   "Hucka, M.",
+   "Adams, R. R.",
+   "Allen, N. A.",
+   "Angermann, B. R.",
+   "Antoniotti, M.",
+   "Bader, G. D.",
+   "\u010cerven\u00fd, J.",
+   "Courtot, M.",
+   "Cox, C. D.",
+   "Dalle Pezze, P.",
+   "Demir, E.",
+   "Denney, W. S.",
+   "Dharuri, H.",
+   "Dorier, J.",
+   "Drasdo, D.",
+   "Ebrahim, A.",
+   "Eichner, J.",
+   "Elf, J.",
+   "Endler, L.",
+   "Evelo, C. T.",
+   "Flamm, C.",
+   "Fleming, R. M.",
+   "Fr\u00f6hlich, M.",
+   "Glont, M.",
+   "Gon\u00e7alves, E.",
+   "Golebiewski, M.",
+   "Grabski, H.",
+   "Gutteridge, A.",
+   "Hachmeister, D.",
+   "Harris, L. A.",
+   "Heavner, B. D.",
+   "Henkel, R.",
+   "Hlavacek, W. S.",
+   "Hu, B.",
+   "Hyduke, D. R.",
+   "de Jong, H.",
+   "Juty, N.",
+   "Karp, P. D.",
+   "Karr, J. R.",
+   "Kell, D. B.",
+   "Keller, R.",
+   "Kiselev, I.",
+   "Klamt, S.",
+   "Klipp, E.",
+   "Kn\u00fcpfer, C.",
+   "Kolpakov, F.",
+   "Krause, F.",
+   "Kutmon, M.",
+   "Laibe, C.",
+   "Lawless, C.",
+   "Li, L.",
+   "Loew, L. M.",
+   "Machne, R.",
+   "Matsuoka, Y.",
+   "Mendes, P.",
+   "Mi, H.",
+   "Mittag, F.",
+   "Monteiro, P. T.",
+   "Natarajan, K. N.",
+   "Nielsen, P. M.",
+   "Nguyen, T.",
+   "Palmisano, A.",
+   "Pettit, J. B.",
+   "Pfau, T.",
+   "Phair, R. D.",
+   "Radivoyevitch, T.",
+   "Rohwer, J. M.",
+   "Ruebenacker, O. A.",
+   "Saez-Rodriguez, J.",
+   "Scharm, M.",
+   "Schmidt, H.",
+   "Schreiber, F.",
+   "Schubert, M.",
+   "Schulte, R.",
+   "Sealfon, S. C.",
+   "Smallbone, K.",
+   "Soliman, S.",
+   "Stefan, M. I.",
+   "Sullivan, D. P.",
+   "Takahashi, K.",
+   "Teusink, B.",
+   "Tolnay, D.",
+   "Vazirabad, I.",
+   "von Kamp, A.",
+   "Wittig, U.",
+   "Wrzodek, C.",
+   "Wrzodek, F.",
+   "Xenarios, I.",
+   "Zhukova, A.",
+   "Zucker, J."
+  ],
+  "corresponding": "Hucka, M.",
+  "organisations": [
+   "Systems Bioinformatics",
+   "AIMMS",
+   "Systems Bioinformatics",
+   "California Institute of Technology",
+   "European Molecular Biology Laboratory",
+   "Heidelberg University",
+   "University of Greifswald",
+   "Humboldt University of Berlin",
+   "National Institutes of Health",
+   "University of T\u00fcbingen",
+   "German Center for Infection Research (DZIF)",
+   "Aix-Marseille Universit\u00e9",
+   "Instituto Gulbenkian de Ciencia",
+   "ANSYS",
+   "Inc.",
+   "Newcastle University",
+   "University of Nebraska-Lincoln",
+   "University of Virginia",
+   "Eight Pillars Ltd",
+   "University of Connecticut",
+   "University of Utah",
+   "Institut national de la sant\u00e9 et de la recherche m\u00e9dicale",
+   "Applied BioMath",
+   "University of Washington",
+   "Certara",
+   "Alan Turing Institute",
+   "University of Pittsburgh",
+   "Swiss Federal Institute of Technology Zurich",
+   "Mizuho Financial Group",
+   "ComUE Paris-Saclay",
+   "University of Oxford",
+   "North Carolina State University",
+   "University of California at Irvine",
+   "Indian Institute of Technology",
+   "Madras",
+   "Babraham Institute",
+   "Virginia Polytechnic Institute and State University",
+   "California State University Northridge",
+   "University of Liverpool",
+   "IBM",
+   "University of California at San Diego",
+   "Virginia Mason Medical Center",
+   "The Systems Biology Institute Tokyo",
+   "Okinawa Institute of Science and Technology Graduate University",
+   "Keio University"
+  ]
+ },
+ "https://doi.org/10.1128/AAC.00414-20": {
+  "year": "2020",
+  "title": "Efficacy of Novel Pyrazolone Phosphodiesterase Inhibitors in Experimental Mouse Models of Trypanosoma cruzi",
+  "contributors": [
+   "de Ara\u00fajo, J. S.",
+   "Fran\u00e7a da Silva, C.",
+   "Batista, D. D. G. J.",
+   "Nefertiti, A.",
+   "Fiuza, L. F. D. A.",
+   "Fonseca-Berzal, C. R.",
+   "Bernardino da Silva, P.",
+   "Batista, M. M.",
+   "Sijm, M.",
+   "Kalejaiye, T. D.",
+   "de Koning, H. P.",
+   "Maes, L.",
+   "Sterk, G. J.",
+   "Leurs, R.",
+   "Soeiro, M. D. N. C."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Medicinal chemistry",
+   "AIMMS",
+   "Funda\u00e7\u00e3o Oswaldo Cruz",
+   "Complutense University",
+   "University of Glasgow",
+   "University of Antwerp"
+  ]
+ },
+ "https://doi.org/10.1002/chem.202001062": {
+  "year": "2020",
+  "title": "N-Heterocyclic Silylenes as Ligands in Transition Metal Carbonyl Chemistry: Nature of Their Bonding and Supposed Innocence",
+  "contributors": [
+   "Krahfu\u00df, M. J.",
+   "Nitsch, J.",
+   "Bickelhaupt, F. M.",
+   "Marder, T. B.",
+   "Radius, U."
+  ],
+  "corresponding": "Radius, U.",
+  "organisations": [
+   "Chemistry and Pharmaceutical Sciences",
+   "AIMMS",
+   "University of W\u00fcrzburg",
+   "VU Amsterdam",
+   "University of W\u00fcrzburg"
+  ]
+ },
+ "https://doi.org/10.1002/chem.202000857": {
+  "year": "2020",
+  "title": "Understanding the 1,3-Dipolar Cycloadditions of Allenes",
+  "contributors": [
+   "Yu, S.",
+   "Vermeeren, P.",
+   "van Dommelen, K.",
+   "Bickelhaupt, F. M.",
+   "Hamlin, T. A."
+  ],
+  "corresponding": "Bickelhaupt, F. M.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Chemistry and Pharmaceutical Sciences",
+   "VU University"
+  ]
+ },
+ "https://doi.org/10.1021/acs.joc.0c00575": {
+  "year": "2020",
+  "title": "Diastereoselective Synthesis of \u03b2-Lactams by Ligand-Controlled Stereodivergent Intramolecular Tsuji-Trost Allylation",
+  "contributors": [
+   "Faltracco, M.",
+   "Sukowski, V.",
+   "Van Druenen, M.",
+   "Hamlin, T. A.",
+   "Bickelhaupt, F. M.",
+   "Ruijter, E."
+  ],
+  "corresponding": "Ruijter, E.",
+  "organisations": [
+   "Organic Chemistry",
+   "AIMMS",
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences",
+   "VU University"
+  ]
+ },
+ "https://doi.org/10.1146/annurev-micro-012420-081657": {
+  "year": "2020",
+  "title": "Structure and Function of the Mycobacterial Type VII Secretion Systems",
+  "contributors": [
+   "Bunduc, C. M.",
+   "Bitter, W.",
+   "Houben, E. N. G.Pages:315-335"
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Molecular Microbiology",
+   "AIMMS"
+  ]
+ },
+ "https://doi.org/10.1039/d0sc02485f": {
+  "year": "2020",
+  "title": "Vibrational circular dichroism spectroscopy for probing the expression of chirality in mechanically planar chiral rotaxanes",
+  "contributors": [
+   "Koenis, M. A.",
+   "Chibueze, C. S.",
+   "Jinks, M. A.",
+   "Nicu, V. P.",
+   "Visscher, L.",
+   "Goldup, S. M.",
+   "Buma, W. J."
+  ],
+  "corresponding": "Buma, W. J.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "University of Amsterdam",
+   "University of Southampton",
+   "Lucian Blaga University of Sibiu",
+   "Radboud University Nijmegen"
+  ]
+ },
+ "https://doi.org/10.1021/acs.jctc.0c00603": {
+  "year": "2020",
+  "title": "Environmental Effects with Frozen-Density Embedding in Real-Time Time-Dependent Density Functional Theory Using Localized Basis Functions",
+  "contributors": [
+   "De Santis, M.",
+   "Belpassi, L.",
+   "Jacob, C. R.",
+   "Severo Pereira Gomes, A.",
+   "Tarantelli, F.",
+   "Visscher, L.",
+   "Storchi, L."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "University of Perugia",
+   "Technical University of Braunschweig",
+   "Universite de Lille 2",
+   "Gabriele d\u2019Annunzio University"
+  ]
+ },
+ "https://doi.org/10.1021/acs.jctc.0c00469": {
+  "year": "2020",
+  "title": "Light-Matter Hybrid-Orbital-Based First-Principles Methods: The Influence of Polariton Statistics",
+  "contributors": [
+   "Buchholz, F.",
+   "Theophilou, I.",
+   "Giesbertz, K. J.",
+   "Ruggenthaler, M.",
+   "Rubio, A."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Max Planck Institute for the Structure and Dynamics of Matter",
+   "Simons Foundation"
+  ]
+ },
+ "https://doi.org/https://doi.org/10.1007/s11191-020-00145-3": {
+  "year": "2020",
+  "title": "Scientific Perspectivism in Secondary-School Chemistry Education: Integrating Concepts and Skills in Chemical Thinking",
+  "contributors": [
+   "Landa, I.",
+   "Westbroek, H.",
+   "Janssen, F.",
+   "van Muijlwijk-Koezen, J. E.",
+   "Meeter, M."
+  ],
+  "corresponding": "Westbroek, H.",
+  "organisations": [
+   "LEARN! - Learning sciences",
+   "Team Secondary Education",
+   "Innovations in Human Health & Life Sciences",
+   "AIMMS",
+   "Educational and Family Studies",
+   "ICLON",
+   "Leiden University"
+  ]
+ },
+ "https://doi.org/10.3389/fimmu.2020.02049": {
+  "year": "2020",
+  "title": "MS-Based Allotype-Specific Analysis of Polyclonal Ig",
+  "contributors": [
+   "S\u00e9nard, T.",
+   "Gargano, A. F.",
+   "Falck, D.",
+   "de Taeye, S. W.",
+   "Rispens, T.",
+   "Vidarsson, G.",
+   "Wuhrer, M.",
+   "Somsen, G. W.",
+   "Dom\u00ednguez-Vega, E."
+  ],
+  "corresponding": "Dom\u00ednguez-Vega, E.",
+  "organisations": [
+   "BioAnalytical Chemistry",
+   "AIMMS",
+   "Leiden University",
+   "Sanquin Blood Supply Foundation"
+  ]
+ },
+ "https://doi.org/10.1042/BST20190988": {
+  "year": "2020",
+  "title": "The constitutive activity of the viral-encoded G protein-coupled receptor US28 supports a complex signalling network contributing to cancer development",
+  "contributors": [
+   "Daly, C. A.",
+   "Smit, M. J.",
+   "Plouffe, B."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Medicinal chemistry",
+   "AIMMS",
+   "Queen's University Belfast"
+  ]
+ },
+ "https://doi.org/10.3390/BIOMEDICINES8090297": {
+  "year": "2020",
+  "title": "Neutralizing effects of small molecule inhibitors and metal chelators on coagulopathic Viperinae snake venom toxins",
+  "contributors": [
+   "Xie, C.",
+   "Albulescu, L. O.",
+   "Bittenbinder, M. A.",
+   "Somsen, G. W.",
+   "Vonk, F. J.",
+   "Casewell, N. R.",
+   "Kool, J."
+  ],
+  "corresponding": "Kool, J.",
+  "organisations": [
+   "AIMMS",
+   "BioAnalytical Chemistry",
+   "Liverpool School of Tropical Medicine",
+   "VU University",
+   "Centre for Analytical Sciences Amsterdam (CASA)",
+   "Naturalis Biodiversity Center"
+  ]
+ },
+ "https://doi.org/10.1002/jcc.26188": {
+  "year": "2020",
+  "title": "Performance of TDDFT Vertical Excitation Energies of Core-Substituted Naphthalene Diimides",
+  "contributors": [
+   "Narsaria, A. K.",
+   "Ruijter, J. D.",
+   "Hamlin, T. A.",
+   "Ehlers, A. W.",
+   "Guerra, C. F.",
+   "Lammertsma, K.",
+   "Bickelhaupt, F. M."
+  ],
+  "corresponding": "Lammertsma, K.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Chemistry and Pharmaceutical Sciences",
+   "VU University"
+  ]
+ },
+ "https://doi.org/10.3390/separations7030041": {
+  "year": "2020",
+  "title": "Living with breakthrough: Two-dimensional liquid-chromatography separations of a water-soluble synthetically grafted bio-polymer",
+  "contributors": [
+   "van de Ven, H. C.",
+   "Purmova, J.",
+   "Groeneveld, G.",
+   "Bos, T. S.",
+   "Gargano, A. F.",
+   "van der Wal, S.",
+   "Mengerink, Y.",
+   "Schoenmakers, P. J."
+  ],
+  "corresponding": "van de Ven, H. C.",
+  "organisations": [
+   "BioAnalytical Chemistry",
+   "AIMMS",
+   "Nouryon Chemicals",
+   "University of Amsterdam",
+   "DSM Food Specialties"
+  ]
+ },
+ "https://doi.org/10.1002/cphc.202000434": {
+  "year": "2020",
+  "title": "Effect of Alkali Metal Cations on Length and Strength of Hydrogen Bonds in DNA Base Pairs",
+  "contributors": [
+   "Stasyuk, O. A.",
+   "Sol\u00e0, M.",
+   "Swart, M.",
+   "Fonseca Guerra, C.",
+   "Krygowski, T. M.",
+   "Szatylowicz, H."
+  ],
+  "corresponding": "Stasyuk, O. A.",
+  "organisations": [
+   "AIMMS",
+   "Theoretical Chemistry",
+   "University of Girona",
+   "ICREA",
+   "University of Warsaw",
+   "Warsaw University of Technology"
+  ]
+ },
+ "https://doi.org/10.1124/MOL.119.118448": {
+  "year": "2020",
+  "title": "Kinetic analysis of the early signaling steps of the human chemokine receptor CXCR4G",
+  "contributors": [
+   "Perpi\u00f1\u00e1-Viciano, C.",
+   "I\u015fbilir, A.",
+   "Zarca, A.",
+   "Caspar, B.",
+   "Kilpatrick, L. E.",
+   "Hill, S. J.",
+   "Smit, M. J.",
+   "Lohse, M. J.",
+   "Hoffmann, C."
+  ],
+  "corresponding": "Hoffmann, C.",
+  "organisations": [
+   "Medicinal chemistry",
+   "AIMMS",
+   "Friedrich Schiller University Jena",
+   "University of W\u00fcrzburg",
+   "Max Delbr\u00fcck Center for Molecular Medicine in the Helmholtz Association",
+   "University of Nottingham",
+   "University of Birmingham"
+  ]
+ },
+ "https://doi.org/10.1007/s11191-020-00145-3": {
+  "year": "2020",
+  "title": "Scientific Perspectivism in Secondary-School Chemistry Education: Integrating Concepts and Skills in Chemical Thinking",
+  "contributors": [
+   "Landa, I.",
+   "Westbroek, H.",
+   "Janssen, F.",
+   "van Muijlwijk, J.",
+   "Meeter, M."
+  ],
+  "corresponding": "Westbroek, H.",
+  "organisations": [
+   "Team Secondary Education",
+   "LEARN! - Learning sciences",
+   "Innovations in Human Health & Life Sciences",
+   "AIMMS",
+   "Educational and Family Studies",
+   "VU University",
+   "Leiden University"
+  ]
+ },
+ "https://doi.org/10.1016/j.aquatox.2020.105613": {
+  "year": "2020",
+  "title": "Neurobehavioral effects of cyanobacterial biomass field extracts on zebrafish embryos and potential role of retinoids",
+  "contributors": [
+   "P\u00edpal, M.",
+   "Legradi, J.",
+   "Smutn\u00e1, M.",
+   "Ko\u010d\u00ed, T.",
+   "Priebojov\u00e1, J.",
+   "Bl\u00e1hov\u00e1, L.",
+   "Krauss, M.",
+   "Hilscherov\u00e1, K."
+  ],
+  "corresponding": "Hilscherov\u00e1, K.",
+  "organisations": [
+   "E&H: Environmental Health and Toxicology",
+   "AIMMS",
+   "Masaryk University",
+   "Helmholtz Centre for Environmental Research"
+  ]
+ },
+ "https://doi.org/10.1038/s41467-020-18634-y": {
+  "year": "2020",
+  "title": "The atypical chemokine receptor 3 interacts with Connexin 43 inhibiting astrocytic gap junctional intercellular communication",
+  "contributors": [
+   "Fumagalli, A.",
+   "Heuninck, J.",
+   "Pizzoccaro, A.",
+   "Moutin, E.",
+   "Koenen, J.",
+   "S\u00e9veno, M.",
+   "Durroux, T.",
+   "Junier, M. P.",
+   "Schlecht-Louf, G.",
+   "Bachelerie, F.",
+   "Sch\u00fctz, D.",
+   "Stumm, R.",
+   "Smit, M. J.",
+   "Gu\u00e9rineau, N. C.",
+   "Chaumont-Dubel, S.",
+   "Marin, P."
+  ],
+  "corresponding": "Marin, P.",
+  "organisations": [
+   "Medicinal chemistry",
+   "AIMMS",
+   "Universit\u00e9 de Montpellier",
+   "Sorbonne Universit\u00e9",
+   "ComUE Paris-Saclay",
+   "Friedrich Schiller University Jena"
+  ]
+ },
+ "https://doi.org/10.1007/978-3-030-41120-6": {
+  "year": "2020",
+  "title": "Current Trends in Dynamical Systems in Biology and Natural Sciences",
+  "contributors": [
+   "Aguiar, M. (ed.), Braumann, C. (ed.), Kooi, B. (ed.), Pugliese, A. (ed.), Stollenwerk, N. (ed.)"
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Molecular Cell Biology",
+   "AIMMS",
+   "Dipartimento di Matematica",
+   "University of Trento",
+   "University of Lisbon"
+  ]
+ },
+ "https://doi.org/10.1039/d0sc02901g": {
+  "year": "2020",
+  "title": "Origin of rate enhancement and asynchronicity in iminium catalyzed Diels-Alder reactions",
+  "contributors": [
+   "Vermeeren, P.",
+   "Hamlin, T. A.",
+   "Fern\u00e1ndez, I.",
+   "Bickelhaupt, F. M."
+  ],
+  "corresponding": "Hamlin, T. A.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Chemistry and Pharmaceutical Sciences",
+   "Complutense University"
+  ]
+ },
+ "https://doi.org/10.1088/1361-648X/abace2": {
+  "year": "2020",
+  "title": "Kohn-Sham equations with functionals from the strictly-correlated regime: Investigation with a spectral renormalization method",
+  "contributors": [
+   "Grossi, J.",
+   "Musslimani, Z. H.",
+   "Seidl, M.",
+   "Gori-Giorgi, P."
+  ],
+  "corresponding": "Gori-Giorgi, P.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "VU University",
+   "Florida State University"
+  ]
+ },
+ "https://doi.org/10.1002/chem.202002077": {
+  "year": "2020",
+  "title": "Folding Assessment of Incorporation of Noncanonical Amino Acids Facilitates Expansion of Functional-Group Diversity for Enzyme Engineering",
+  "contributors": [
+   "Drienovsk\u00e1, I.",
+   "Gajdo\u0161, M.",
+   "Kindler, A.",
+   "Takhtehchian, M.",
+   "Darnhofer, B.",
+   "Birner-Gruenberger, R.",
+   "D\u00f6rr, M.",
+   "Bornscheuer, U. T.",
+   "Kourist, R."
+  ],
+  "corresponding": "Kourist, R.",
+  "organisations": [
+   "Organic Chemistry",
+   "AIMMS",
+   "Graz University of Technology",
+   "Medical University of Graz",
+   "BioTechMed-Graz",
+   "Vienna University of Technology",
+   "University of Greifswald"
+  ]
+ },
+ "https://doi.org/https://doi.org/10.1007/s11192-020-03707-y": {
+  "year": "2020",
+  "title": "Innovation in pharmaceutical R&D: mapping the research landscape",
+  "contributors": [
+   "Romasanta, A. K.",
+   "van der Sijde, P.",
+   "van Muijlwijk-Koezen, J. E."
+  ],
+  "corresponding": "Romasanta, A. K.",
+  "organisations": [
+   "Innovations in Human Health & Life Sciences",
+   "AIMMS",
+   "Organization & Processes of Organizing in Society (OPOS)",
+   "Network Institute",
+   "Organization Sciences"
+  ]
+ },
+ "https://doi.org/10.1021/acs.chemmater.0c00443": {
+  "year": "2020",
+  "title": "Electronic Structure Engineering Achieved via Organic Ligands in Silicon Nanocrystals",
+  "contributors": [
+   "Dohnalov\u00e1, K.",
+   "Hapala, P.",
+   "K\u016fsov\u00e1, K.",
+   "Infante, I."
+  ],
+  "corresponding": "Dohnalov\u00e1, K.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "University of Amsterdam",
+   "Czech Academy of Sciences"
+  ]
+ },
+ "https://doi.org/10.1002/chem.202002554": {
+  "year": "2020",
+  "title": "Shifting Towards \u03b1V\u03b26 Integrin Ligands Using Novel Aminoproline-Based Cyclic Peptidomimetics",
+  "contributors": [
+   "Bugatti, K.",
+   "Bruno, A.",
+   "Arosio, D.",
+   "Sartori, A.",
+   "Curti, C.",
+   "Augustijn, L.",
+   "Zanardi, F.",
+   "Battistini, L."
+  ],
+  "corresponding": "Battistini, L.",
+  "organisations": [
+   "Medicinal chemistry",
+   "AIMMS",
+   "University of Parma",
+   "National Research Council of Italy"
+  ]
+ },
+ "https://doi.org/10.1007/978-3-030-57239-6_14": {
+  "year": "2020",
+  "title": "Perspectives for Teaching About How Science Works",
+  "contributors": [
+   "Janssen, F.",
+   "Westbroek, H.",
+   "Landa, I.",
+   "van der Ploeg, B.",
+   "van Muijlwijk-Koezen, J. E."
+  ],
+  "corresponding": "Janssen, F.",
+  "organisations": [
+   "Innovations in Human Health & Life Sciences",
+   "AIMMS",
+   "LEARN! - Learning sciences",
+   "Team Secondary Education",
+   "ICLON",
+   "Leiden University"
+  ]
+ },
+ "https://doi.org/10.1093/gbe/evaa171": {
+  "year": "2020",
+  "title": "IsoXpressor: A Tool to Assess Transcriptional Activity within Isochores",
+  "contributors": [
+   "Ayad, L. A.",
+   "Dourou, A. M.",
+   "Arhondakis, S.",
+   "Pissis, S. P."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Bioinformatics",
+   "AIMMS",
+   "Bio Informatics (IBIVU)",
+   "King's College London",
+   "Bioinformatics and Computational Science (BioCoS)"
+  ]
+ },
+ "https://doi.org/10.1002/etc.4846": {
+  "year": "2020",
+  "title": "Improving the Environmental Risk Assessment of Substances of Unknown or Variable Composition, Complex Reaction Products, or Biological Materials",
+  "contributors": [
+   "Salvito, D.",
+   "Fernandez, M.",
+   "Jenner, K.",
+   "Lyon, D. Y.",
+   "de Knecht, J.",
+   "Mayer, P.",
+   "MacLeod, M.",
+   "Eisenreich, K.",
+   "Leonards, P.",
+   "Cesnaitis, R.",
+   "Le\u00f3n-Paumen, M.",
+   "Embry, M.",
+   "D\u00e9glin, S. E."
+  ],
+  "corresponding": "D\u00e9glin, S. E.",
+  "organisations": [
+   "E&H: Environmental Bioanalytical Chemistry",
+   "AIMMS",
+   "Research Institute for Fragrance Materials Inc.",
+   "Environment and Climate Change Canada",
+   "Givaudan",
+   "Shell Oil",
+   "National Institute of Public Health and the Environment",
+   "Technical University of Denmark",
+   "Stockholm University",
+   "United States Environmental Protection Agency",
+   "European Chemicals Agency",
+   "ExxonMobil Biomedical Sciences Inc.",
+   "Health and Environmental Sciences Institute"
+  ]
+ },
+ "https://doi.org/10.1103/PhysRevA.102.032806": {
+  "year": "2020",
+  "title": "Comparative metathermodynamic description of thermal and correlation electron effects",
+  "contributors": [
+   "Gritsenko, O. V."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS"
+  ]
+ },
+ "https://doi.org/10.1103/PhysRevA.102.032815": {
+  "year": "2020",
+  "title": "Combining density-based dynamical correlation with a reduced-density-matrix strong-correlation description",
+  "contributors": [
+   "Van Meer, R.",
+   "Gritsenko, O.",
+   "Chai, J. D."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "National Taiwan University"
+  ]
+ },
+ "https://doi.org/10.1016/j.scitotenv.2020.142566": {
+  "year": "2021",
+  "title": "Hazardous compounds in recreational and urban recycled surfaces made from crumb rubber. Compliance with current regulation and future perspectives",
+  "contributors": [
+   "Celeiro, M.",
+   "Armada, D.",
+   "Dagnac, T.",
+   "de Boer, J.",
+   "Llompart, M."
+  ],
+  "corresponding": "Llompart, M.",
+  "organisations": [
+   "Environment and Health",
+   "AIMMS",
+   "University of Santiago de Compostela",
+   "Agronomic Research Centre (AGACAL-CIAM) \u2013 Unit of Organic Contaminants"
+  ]
+ },
+ "https://doi.org/10.1021/acs.orglett.0c02773": {
+  "year": "2020",
+  "title": "Probing Halogen-\u03c0versus CH-\u03c0Interactions in Molecular Balance",
+  "contributors": [
+   "Jian, J.",
+   "Poater, J.",
+   "White, P. B.",
+   "Mckenzie, C. J.",
+   "Bickelhaupt, F. M.",
+   "Mecinovi\u0107, J."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Chemistry and Pharmaceutical Sciences",
+   "University of Southern Denmark",
+   "Radboud University Nijmegen"
+  ]
+ },
+ "https://doi.org/10.1371/journal.pbio.3000874": {
+  "year": "2020",
+  "title": "Posttranslational insertion of small membrane proteins by the bacterial signal recognition particle",
+  "contributors": [
+   "Steinberg, R.",
+   "Origi, A.",
+   "Natriashvili, A.",
+   "Sarmah, P.",
+   "Licheva, M.",
+   "Walker, P. M.",
+   "Kraft, C.",
+   "High, S.",
+   "Luirink, J.",
+   "Shi, W. Q.",
+   "Helmst\u00e4dter, M.",
+   "Ulbrich, M. H.",
+   "Koch, H. G."
+  ],
+  "corresponding": "Koch, H. G.",
+  "organisations": [
+   "AIMMS",
+   "Molecular Microbiology",
+   "University of Freiburg",
+   "Ball State University",
+   "University of Manchester"
+  ]
+ },
+ "https://doi.org/10.1039/d0cp03433a": {
+  "year": "2020",
+  "title": "Understanding alkali metal cation affinities of multi-layer guanine quadruplex DNA",
+  "contributors": [
+   "Nieuwland, C.",
+   "Zaccaria, F.",
+   "Fonseca Guerra, C."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "AIMMS",
+   "Theoretical Chemistry"
+  ]
+ },
+ "https://doi.org/10.1080/21505594.2020.1825908": {
+  "year": "2020",
+  "title": "Exploring metal availability in the natural niche of Streptococcus pneumoniae to discover potential vaccine antigens",
+  "contributors": [
+   "van Beek, L. F.",
+   "Surmann, K.",
+   "van den Berg van Saparoea, H. B.",
+   "Houben, D.",
+   "Jong, W. S.",
+   "Hentschker, C.",
+   "Ederveen, T. H.",
+   "Mitsi, E.",
+   "Ferreira, D. M.",
+   "van Opzeeland, F.",
+   "van der Gaast\u2013de Jongh, C. E.",
+   "Joosten, I.",
+   "V\u00f6lker, U.",
+   "Schmidt, F.",
+   "Luirink, J.",
+   "Diavatopoulos, D. A.",
+   "de Jonge, M. I."
+  ],
+  "corresponding": "van Beek, L. F.",
+  "organisations": [
+   "Molecular Microbiology",
+   "AIMMS",
+   "LaserLaB - Molecular Biophysics",
+   "Radboud Institute for Molecular Life Sciences",
+   "Radboud Center for Infectious Diseases",
+   "University of Greifswald",
+   "Radboud University Nijmegen",
+   "Liverpool School of Tropical Medicine",
+   "Weill Cornell Medical College in Qatar"
+  ]
+ },
+ "https://doi.org/10.1007/s10915-020-01325-7": {
+  "year": "2020",
+  "title": "An Optimal Transport Approach for the Schr\u00f6dinger Bridge Problem and Convergence of Sinkhorn Algorithm",
+  "contributors": [
+   "Marino, S. D.",
+   "Gerolin, A."
+  ],
+  "corresponding": "Gerolin, A.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Scuola Normale Superiore di Pisa",
+   "University of Genoa"
+  ]
+ },
+ "https://doi.org/10.1038/s41467-020-19224-8": {
+  "year": "2020",
+  "title": "A protein tertiary structure mimetic modulator of the Hippo signalling pathway",
+  "contributors": [
+   "Adihou, H.",
+   "Gopalakrishnan, R.",
+   "F\u00f6rster, T.",
+   "Gu\u00e9ret, S. M.",
+   "Gasper, R.",
+   "Geschwindner, S.",
+   "Carrillo Garc\u00eda, C.",
+   "Karatas, H.",
+   "Pobbati, A. V.",
+   "Vazquez\u2010Chantada, M.",
+   "Davey, P.",
+   "Wassvik, C. M.",
+   "Pang, J. K. S.",
+   "Soh, B. S.",
+   "Hong, W.",
+   "Chiarparin, E.",
+   "Schade, D.",
+   "Plowright, A. T.",
+   "Valeur, E.",
+   "Lemurell, M.",
+   "Grossmann, T. N.",
+   "Waldmann, H."
+  ],
+  "corresponding": "Waldmann, H.",
+  "organisations": [
+   "Organic Chemistry",
+   "AIMMS",
+   "AstraZeneca Sweden",
+   "AstraZeneca",
+   "Max Planck Institute of Molecular Physiology",
+   "Kiel University",
+   "Agency for Science",
+   "Technology and Research",
+   "National University of Singapore",
+   "Guangzhou Medical College",
+   "Dortmund University"
+  ]
+ },
+ "https://doi.org/10.1002/qua.26111": {
+  "year": "2020",
+  "title": "Is it worthwhile to go beyond the local-density approximation in subsystem density functional theory?",
+  "contributors": [
+   "Grimmel, S. A.",
+   "Teodoro, T. Q.",
+   "Visscher, L."
+  ],
+  "corresponding": "Visscher, L.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Vrije Universiteit Amsterdam",
+   "Vrije Universiteit Amsterdam"
+  ]
+ },
+ "https://doi.org/10.1177/0007650320907145": {
+  "year": "2020",
+  "title": "Valuing value in innovation ecosystems: How cross-sector actors overcome tensions in collaborative sustainable business model development",
+  "contributors": [
+   "Oskam, I.",
+   "Bossink, B.",
+   "de Man, A."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "AIMMS",
+   "Science & Business Innovation",
+   "Amsterdam Business Research Institute",
+   "Management and Organisation",
+   "Amsterdam University of Applied Sciences"
+  ]
+ },
+ "https://doi.org/10.1021/acs.chemmater.0c02017": {
+  "year": "2020",
+  "title": "Bright Blue Emitting Cu-Doped Cs2Zn",
+  "contributors": [
+   "Zhu, D.",
+   "Zaffalon, M. L.",
+   "Pinchetti, V.",
+   "Brescia, R.",
+   "Moro, F.",
+   "Fasoli, M.",
+   "Fanciulli, M.",
+   "Tang, A.",
+   "Infante, I.",
+   "De Trizio, L.",
+   "Brovelli, S.",
+   "Manna, L."
+  ],
+  "corresponding": "Infante, I.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Beijing Jiaotong University",
+   "Italian Institute of Technology",
+   "University of Milan - Bicocca"
+  ]
+ },
+ "https://doi.org/10.14573/altex.2003242": {
+  "year": "2020",
+  "title": "New approach methodologies (NAMs) for human-relevant biokinetics predictions: Meeting the paradigm shift in toxicology towards an animal-free chemical risk assessment",
+  "contributors": [
+   "Punt, A.",
+   "Bouwmeester, H.",
+   "Blaauboer, B. J.",
+   "Coecke, S.",
+   "Hakkert, B.",
+   "Hendriks, D. F. G.",
+   "Jennings, P.",
+   "Kramer, N. I.",
+   "Neuhoff, S.",
+   "Masereeuw, R.",
+   "Paini, A.",
+   "Peijnenburg, A. A. C. M.",
+   "Rooseboom, M.",
+   "Shuler, M. L.",
+   "Sorrell, I.",
+   "Spee, B.",
+   "Strikwold, M.",
+   "Van der Meer, A. D.",
+   "Van der Zande, M.",
+   "Vinken, M.",
+   "Yang, H.",
+   "Bos, P. M. J.",
+   "Heringa, M. B."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Molecular and Computational Toxicology",
+   "AIMMS",
+   "WFSR Wageningen Food Safety Research",
+   "Wageningen",
+   "The Netherlands.",
+   "Division of Toxicology",
+   "Wageningen University and Research",
+   "Wageningen",
+   "The Netherlands.",
+   "Institute for Risk Assessment Sciences",
+   "Utrecht University",
+   "Utrecht",
+   "The Netherlands. salome.scholtens@rivm.nl",
+   "Directorate F - Health",
+   "Consumers and Reference Materials",
+   "Joint Research Centre",
+   "European Commission",
+   "Ispra",
+   "Italy.",
+   "National Institute for Public Health and the Environment (RIVM)",
+   "Bilthoven",
+   "The Netherlands.",
+   "Section of Pharmacogenetics",
+   "Department of Physiology and Pharmacology",
+   "Karolinska Institutet",
+   "Stockholm",
+   "Sweden.",
+   "Certara UK Ltd",
+   "Simcyp Division",
+   "Sheffield",
+   "UK.",
+   "Utrecht Institute for Pharmaceutical Sciences",
+   "Division Pharmacoepidemiology &Clinical Pharmacology",
+   "Utrecht University",
+   "Utrecht",
+   "3508 TB",
+   "The Netherlands.",
+   "Shell Health",
+   "Shell International B.V.",
+   "The Hague",
+   "The Netherlands.",
+   "Biomedical Engineering",
+   "Cornell University",
+   "Department of Biomedical Engineering",
+   "Ithaca",
+   "NY",
+   "USA.",
+   "Unilever",
+   "Safety and Environmental Assurance Centre",
+   "Colworth Science Park",
+   "Sharnbrook",
+   "Bedfordshire MK44 1LQ",
+   "United Kingdom.",
+   "Department of Clinical Sciences of Companion Animals",
+   "Faculty of Veterinary Medicine",
+   "Utrecht University",
+   "The Netherlands.",
+   "Van Hall Larenstein University of Applied Sciences",
+   "Leeuwarden",
+   "The Netherlands.",
+   "University of Twente",
+   "Department of Applied Stem Cell Technologies",
+   "Enschede",
+   "The Netherlands.",
+   "Department of In Vitro Toxicology and Dermato-Cosmetology",
+   "Vrije Universiteit Brussel",
+   "Laarbeeklaan 103",
+   "1090",
+   "Brussels",
+   "Belgium.",
+   "Division of Drug Discovery and Safety",
+   "Leiden Academic Centre for Drug Research (LACDR)/Leiden University",
+   "Leiden",
+   "The Netherlands."
+  ]
+ },
+ "https://doi.org/10.1007/s00453-020-00744-0": {
+  "year": "2020",
+  "title": "Dynamic and Internal Longest Common Substring",
+  "contributors": [
+   "Amir, A.",
+   "Charalampopoulos, P.",
+   "Pissis, S. P.",
+   "Radoszewski, J."
+  ],
+  "corresponding": "Pissis, S. P.",
+  "organisations": [
+   "Bioinformatics",
+   "AIMMS",
+   "Bio Informatics (IBIVU)",
+   "Bar-Ilan University",
+   "King's College London",
+   "University of Warsaw",
+   "Samsung R&D Institute Poland"
+  ]
+ },
+ "https://doi.org/10.1016/j.apsb.2020.09.005": {
+  "year": "2020",
+  "title": "Neutralising effects of small molecule toxin inhibitors on nanofractionated coagulopathic Crotalinae snake venoms",
+  "contributors": [
+   "Xie, C.",
+   "Slagboom, J.",
+   "Albulescu, L. O.",
+   "Somsen, G. W.",
+   "Vonk, F. J.",
+   "Casewell, N. R.",
+   "Kool, J."
+  ],
+  "corresponding": "Kool, J.",
+  "organisations": [
+   "BioAnalytical Chemistry",
+   "AIMMS",
+   "Chemistry and Pharmaceutical Sciences",
+   "Liverpool School of Tropical Medicine"
+  ]
+ },
+ "https://doi.org/10.3389/fbioe.2020.580090": {
+  "year": "2020",
+  "title": "A Novel Method for Long-Term Analysis of Lactic Acid and Ammonium Production in Non-growing Lactococcus lactis Reveals Pre-culture and Strain Dependence",
+  "contributors": [
+   "Nugroho, A. D. W.",
+   "Kleerebezem, M.",
+   "Bachmann, H."
+  ],
+  "corresponding": "Bachmann, H.",
+  "organisations": [
+   "Systems Bioinformatics",
+   "AIMMS",
+   "TI Food and Nutrition",
+   "NIZO food research",
+   "Wageningen University & Research"
+  ]
+ },
+ "https://doi.org/10.1007/s11192-020-03707-y": {
+  "year": "2020",
+  "title": "Innovation in pharmaceutical R&D: mapping the research landscape",
+  "contributors": [
+   "Romasanta, A. K. S.",
+   "van der Sijde, P.",
+   "van Muijlwijk-Koezen, J."
+  ],
+  "corresponding": "Romasanta, A. K. S.",
+  "organisations": [
+   "Medicinal chemistry",
+   "Innovations in Human Health & Life Sciences",
+   "AIMMS",
+   "Organization Sciences",
+   "Network Institute",
+   "Organization & Processes of Organizing in Society (OPOS)"
+  ]
+ },
+ "https://doi.org/10.3390/molecules25214906": {
+  "year": "2020",
+  "title": "Recent Advances in Palladium-Catalyzed Isocyanide Insertions",
+  "contributors": [
+   "Collet, J. W.",
+   "Roose, T. R.",
+   "Weijers, B.",
+   "Maes, B. U.",
+   "Ruijter, E.",
+   "Orru, R. V."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Organic Chemistry",
+   "AIMMS",
+   "Chemistry and Pharmaceutical Sciences",
+   "Vrije Universiteit Amsterdam",
+   "University of Antwerp"
+  ]
+ },
+ "https://doi.org/10.1038/s41540-020-00150-w": {
+  "year": "2020",
+  "title": "ROS networks: designs, aging, Parkinson\u2019s disease and precision therapies",
+  "contributors": [
+   "N. Kolodkin, A.",
+   "Sharma, R. P.",
+   "Colangelo, A. M.",
+   "Ignatenko, A.",
+   "Martorana, F.",
+   "Jennen, D.",
+   "Bried\u00e9, J. J.",
+   "Brady, N.",
+   "Barberis, M.",
+   "Mondeel, T. D.",
+   "Papa, M.",
+   "Kumar, V.",
+   "Peters, B.",
+   "Skupin, A.",
+   "Alberghina, L.",
+   "Balling, R.",
+   "Westerhoff, H. V."
+  ],
+  "corresponding": "N. Kolodkin, A.",
+  "organisations": [
+   "AIMMS",
+   "Systems Bioinformatics",
+   "Molecular Cell Biology",
+   "Infrastructure for Systems Biology Europe (ISBE.NL)",
+   "University of Luxembourg",
+   "Vrije Universiteit Amsterdam",
+   "University of Amsterdam",
+   "Infrastructure for Systems Biology Europe (ISBE.IT)",
+   "University of Milan - Bicocca",
+   "Luxembourg Institute of Science and Technology",
+   "Maastricht University",
+   "Johns Hopkins University",
+   "University of Surrey",
+   "Infrastructure for Systems Biology Europe (ISBE.IT)",
+   "University of Campania Luigi Vanvitelli",
+   "Universidad Rovira i Virgili",
+   "Pere Virgili Health Research Institute"
+  ]
+ },
+ "https://doi.org/10.1186/s12302-020-00421-7": {
+  "year": "2020",
+  "title": "Evaluation of the effects of acetylcholinesterase inhibitors in the zebrafish touch-evoked response: quantitative vs. qualitative assessment",
+  "contributors": [
+   "Guzman, L.",
+   "Besa, G.",
+   "Linares, D.",
+   "Gonz\u00e1lez, L.",
+   "Pont, C.",
+   "Bartolini, M.",
+   "Haigis, A. C.",
+   "Legradi, J.",
+   "Mu\u00f1oz-Torrero, D.",
+   "G\u00f3mez-Catal\u00e1n, J.",
+   "Barenys, M."
+  ],
+  "corresponding": "Barenys, M.",
+  "organisations": [
+   "E&H: Environmental Health and Toxicology",
+   "AIMMS",
+   "University of Barcelona",
+   "University of Bologna",
+   "RWTH Aachen University"
+  ]
+ },
+ "https://doi.org/10.3390/a13110276": {
+  "year": "2020",
+  "title": "Efficient data structures for range shortest unique substring queries",
+  "contributors": [
+   "Abedin, P.",
+   "Ganguly, A.",
+   "Pissis, S. P.",
+   "Thankachan, S. V."
+  ],
+  "corresponding": "Pissis, S. P.",
+  "organisations": [
+   "Bioinformatics",
+   "AIMMS",
+   "Bio Informatics (IBIVU)",
+   "University of Central Florida",
+   "University of Wisconsin-Whitewater"
+  ]
+ },
+ "https://doi.org/10.3390/ph13110362": {
+  "year": "2020",
+  "title": "Bromo-cyclobutenaminones as new covalent udp-n-acetylglucosamine enolpyruvyl transferase (Mura) inhibitors",
+  "contributors": [
+   "Hamilton, D. J.",
+   "\u00c1br\u00e1nyi-Balogh, P.",
+   "Keeley, A.",
+   "Petri, L.",
+   "Hrast, M.",
+   "Imre, T.",
+   "Wijtmans, M.",
+   "Gobec, S.",
+   "de Esch, I. J.",
+   "Keser\u0171, G. M."
+  ],
+  "corresponding": "Keser\u0171, G. M.",
+  "organisations": [
+   "Medicinal chemistry",
+   "AIMMS",
+   "Chemistry and Pharmaceutical Sciences",
+   "Vrije Universiteit Amsterdam",
+   "Research Centre for Natural Sciences",
+   "University of Ljubljana"
+  ]
+ },
+ "https://doi.org/10.3390/antibiotics9110808": {
+  "year": "2020",
+  "title": "Stress-based high-throughput screening assays to identify inhibitors of cell envelope biogenesis",
+  "contributors": [
+   "Steenhuis, M.",
+   "Ten Hagen-Jongman, C. M.",
+   "van Ulsen, P.",
+   "Luirink, J."
+  ],
+  "corresponding": "Luirink, J.",
+  "organisations": [
+   "Molecular Microbiology",
+   "AIMMS",
+   "LaserLaB - Analytical Chemistry and Spectroscopy",
+   "LaserLaB - Molecular Biophysics"
+  ]
+ },
+ "https://doi.org/https://doi.org/10.3390/su1222940810.3390/su12229408": {
+  "year": "2020",
+  "title": "Assessing the Legitimacy of Technological Innovation in the Public Sphere: Recovering Raw Materials from Waste Water",
+  "contributors": [
+   "Blankesteijn, M.",
+   "Bossink, B."
+  ],
+  "corresponding": "Bossink, B.",
+  "organisations": [
+   "Biophysics Photosynthesis/Energy",
+   "Science & Business Innovation",
+   "AIMMS"
+  ]
+ },
+ "https://doi.org/10.1002/anie.201905838": {
+  "year": "2020",
+  "title": "Base Metal Catalyzed Isocyanide Insertions",
+  "contributors": [
+   "Collet, J. W.",
+   "Roose, T. R.",
+   "Ruijter, E.",
+   "Maes, B. U.",
+   "Orru, R. V."
+  ],
+  "corresponding": "Ruijter, E.",
+  "organisations": [
+   "AIMMS",
+   "Organic Chemistry",
+   "University of Antwerp",
+   "University of Antwerp"
+  ]
+ },
+ "https://doi.org/10.1007/s11587-020-00490-z": {
+  "year": "2020",
+  "title": "A safe harbor can protect an endangered species from its predators",
+  "contributors": [
+   "Banerjee, M.",
+   "Kooi, B. W.",
+   "Venturino, E."
+  ],
+  "corresponding": "Banerjee, M.",
+  "organisations": [
+   "Molecular Cell Biology",
+   "AIMMS",
+   "Indian Institute of Technology",
+   "Kanpur",
+   "University of Turin"
+  ]
+ },
+ "https://doi.org/10.3390/biomedicines8060165": {
+  "year": "2020",
+  "title": "Varespladib inhibits the phospholipase A2 and coagulopathic activities of venom components from hemotoxic snakes",
+  "contributors": [
+   "Xie, C.",
+   "Albulescu, L. O.",
+   "Still, K. B.",
+   "Slagboom, J.",
+   "Zhao, Y.",
+   "Jiang, Z.",
+   "Somsen, G. W.",
+   "Vonk, F. J.",
+   "Casewell, N. R.",
+   "Kool, J."
+  ],
+  "corresponding": "Kool, J.",
+  "organisations": [
+   "BioAnalytical Chemistry",
+   "AIMMS",
+   "Chemistry and Pharmaceutical Sciences",
+   "Liverpool School of Tropical Medicine",
+   "Jinan University"
+  ]
+ },
+ "https://doi.org/10.1002/chem.202002367": {
+  "year": "2020",
+  "title": "Easy Access to Phosphine-Borane Building Blocks",
+  "contributors": [
+   "de Jong, G. B.",
+   "Ortega, N.",
+   "Lutz, M.",
+   "Lammertsma, K.",
+   "Slootweg, J. C."
+  ],
+  "corresponding": "Slootweg, J. C.",
+  "organisations": [
+   "Chemistry and Pharmaceutical Sciences",
+   "AIMMS",
+   "University of Amsterdam",
+   "Vrije Universiteit Amsterdam",
+   "Utrecht University"
+  ]
+ },
+ "https://doi.org/10.7554/eLife.57814": {
+  "year": "2020",
+  "title": "Mitochondrial volume fraction and translation duration impact mitochondrial m",
+  "contributors": [
+   "Tsuboi, T.",
+   "Viana, M. P.",
+   "Xu, F.",
+   "Yu, J.",
+   "Chanchani, R.",
+   "Arceo, X. G.",
+   "Tutucci, E.",
+   "Choi, J.",
+   "Chen, Y. S.",
+   "Singer, R. H.",
+   "Rafelski, S. M.",
+   "Zid, B. M.Pages:1-24"
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Systems Bioinformatics",
+   "AIMMS"
+  ]
+ },
+ "https://doi.org/10.1002/chem.202003831": {
+  "year": "2020",
+  "title": "A Unified Framework for Understanding Nucleophilicity and Protophilicity in the SN2/E2 Competition",
+  "contributors": [
+   "Vermeeren, P.",
+   "Hansen, T.",
+   "Jansen, P.",
+   "Swart, M.",
+   "Hamlin, T. A.",
+   "Bickelhaupt, F. M."
+  ],
+  "corresponding": "Hamlin, T. A.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Chemistry and Pharmaceutical Sciences",
+   "Vrije Universiteit Amsterdam",
+   "Swiss Federal Institute of Technology Zurich",
+   "ICREA",
+   "University of Girona"
+  ]
+ },
+ "https://doi.org/10.1002/elps.202000151": {
+  "year": "2020",
+  "title": "Past, present, and future developments in enantioselective analysis using capillary electromigration techniques",
+  "contributors": [
+   "Koster, N.",
+   "Clark, C. P.",
+   "Kohler, I."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "BioAnalytical Chemistry",
+   "AIMMS"
+  ]
+ },
+ "https://doi.org/10.1007/s10858-020-00343-9": {
+  "year": "2020",
+  "title": "NMR in target driven drug discovery: why not?",
+  "contributors": [
+   "Keiffer, S.",
+   "Carneiro, M. G.",
+   "Hollander, J.",
+   "Kobayashi, M.",
+   "Pogoryelev, D.",
+   "Ab, E.",
+   "Theisgen, S.",
+   "M\u00fcller, G.",
+   "Siegal, G."
+  ],
+  "corresponding": "Siegal, G.",
+  "organisations": [
+   "Chemistry and Pharmaceutical Sciences",
+   "AIMMS",
+   "ZoBio B.V.",
+   "Gotham GmbH"
+  ]
+ },
+ "https://doi.org/10.1093/femsre/fuaa033": {
+  "year": "2020",
+  "title": "Lifestyle, metabolism and environmental adaptation in Lactococcus lactis",
+  "contributors": [
+   "Kleerebezem, M.",
+   "Bachmann, H.",
+   "van Pelt-KleinJan, E.",
+   "Douwenga, S.",
+   "Smid, E. J.",
+   "Teusink, B.",
+   "van Mastrigt, O."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Systems Bioinformatics",
+   "AIMMS",
+   "Systems Bioinformatics",
+   "Wageningen University & Research",
+   "Vrije Universiteit Amsterdam",
+   "TI Food and Nutrition"
+  ]
+ },
+ "https://doi.org/10.1093/femsre/fuaa034": {
+  "year": "2020",
+  "title": "Searching for principles of microbial physiology",
+  "contributors": [
+   "Bruggeman, F. J.",
+   "Planqu\u00e9, R.",
+   "Molenaar, D.",
+   "Teusink, B."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Systems Bioinformatics",
+   "AIMMS",
+   "Mathematics",
+   "Systems Bioinformatics"
+  ]
+ },
+ "https://doi.org/10.3390/toxins12100638": {
+  "year": "2020",
+  "title": "Widespread evolution of molecular resistance to snake venom \u03b1-neurotoxins in vertebrates",
+  "contributors": [
+   "Khan, M. A.",
+   "Dashevsky, D.",
+   "Kerkkamp, H.",
+   "Kordi\u0161, D.",
+   "de Bakker, M. A.",
+   "Wouters, R.",
+   "van Thiel, J.",
+   "op den Brouw, B.",
+   "Vonk, F.",
+   "Manjunatha Kini, R.",
+   "Nazir, J.",
+   "Fry, B. G.",
+   "Richardson, M. K."
+  ],
+  "corresponding": "Fry, B. G.",
+  "organisations": [
+   "Chemistry and Pharmaceutical Sciences",
+   "AIMMS",
+   "Leiden University",
+   "University of Queensland",
+   "CSIRO",
+   "J. Stefan Institute",
+   "Vrije Universiteit Amsterdam",
+   "University of Melbourne",
+   "National University of Singapore",
+   "University of Veterinary and Animal Sciences",
+   "Lahore",
+   "Pakistan",
+   "Treidlia Biovet"
+  ]
+ },
+ "https://doi.org/10.1016/j.chemosphere.2020.128610": {
+  "year": "2020",
+  "title": "Evaluation of chemicals of environmental concern in crumb rubber and water leachates from several types of synthetic turf football pitches",
+  "contributors": [
+   "Celeiro, M.",
+   "Armada, D.",
+   "Ratola, N.",
+   "Dagnac, T.",
+   "de Boer, J.",
+   "Llompart, M."
+  ],
+  "corresponding": "Llompart, M.",
+  "organisations": [
+   "Environment and Health",
+   "AIMMS",
+   "University of Santiago de Compostela",
+   "University of Porto",
+   "Agronomic Research Centre (AGACAL-CIAM) \u2013 Unit of Organic Contaminants"
+  ]
+ },
+ "https://doi.org/10.1021/acs.joc.0c0211210.1021/acs.joc.0c02112": {
+  "year": "2020",
+  "title": "SN2 versus E2 Competition of F-and PH2-Revisited",
+  "contributors": [
+   "Vermeeren, P.",
+   "Hansen, T.",
+   "Grasser, M.",
+   "Silva, D. R.",
+   "Hamlin, T. A.",
+   "Bickelhaupt, F. M."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Chemistry and Pharmaceutical Sciences",
+   "Vrije Universiteit Amsterdam",
+   "Universidade Federal de Lavras"
+  ]
+ },
+ "https://doi.org/10.1021/acs.jpca.0c07771": {
+  "year": "2020",
+  "title": "Not Completely Innocent: How Argon Binding Perturbs Cationic Copper Clusters",
+  "contributors": [
+   "Jamshidi, Z.",
+   "Lushchikova, O. V.",
+   "Bakker, J. M.",
+   "Visscher, L."
+  ],
+  "corresponding": "Jamshidi, Z.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Radboud University Nijmegen"
+  ]
+ },
+ "https://doi.org/10.1002/asia.202001127": {
+  "year": "2020",
+  "title": "Nature and Strength of Lewis Acid/Base Interaction in Boron and Nitrogen Trihalides",
+  "contributors": [
+   "Rodrigues Silva, D.",
+   "de Azevedo Santos, L.",
+   "P. Freitas, M.",
+   "Fonseca Guerra, C.",
+   "Hamlin, T. A."
+  ],
+  "corresponding": "Hamlin, T. A.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Universidade Federal de Lavras"
+  ]
+ },
+ "https://doi.org/10.1002/chem.202003768": {
+  "year": "2020",
+  "title": "The Nature of Nonclassical Carbonyl Ligands Explained by Kohn\u2013Sham Molecular Orbital Theory",
+  "contributors": [
+   "van der Lubbe, S. C.",
+   "Vermeeren, P.",
+   "Fonseca Guerra, C.",
+   "Bickelhaupt, F. M."
+  ],
+  "corresponding": "Bickelhaupt, F. M.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Chemistry and Pharmaceutical Sciences"
+  ]
+ },
+ "https://doi.org/10.1016/j.envint.2020.106191": {
+  "year": "2021",
+  "title": "Receptor-based in vitro activities to assess human exposure to chemical mixtures and related health impacts",
+  "contributors": [
+   "Vinggaard, A. M.",
+   "Bonefeld-J\u00f8rgensen, E. C.",
+   "Jensen, T. K.",
+   "Fernandez, M. F.",
+   "Rosenmai, A. K.",
+   "Taxvig, C.",
+   "Rodriguez-Carrillo, A.",
+   "Wiels\u00f8e, M.",
+   "Long, M.",
+   "Olea, N.",
+   "Antignac, J. P.",
+   "Hamers, T.",
+   "Lamoree, M."
+  ],
+  "corresponding": "Vinggaard, A. M.",
+  "organisations": [
+   "E&H: Environmental Health and Toxicology",
+   "AIMMS",
+   "E&H: Environmental Chemistry and Toxicology",
+   "Technical University of Denmark",
+   "Aarhus University",
+   "University of Greenland",
+   "University of Southern Denmark",
+   "University of Granada",
+   "Consortium for Biomedical Research in Epidemiology & Public Health (CIBERESP)",
+   "\u00c9cole nationale v\u00e9t\u00e9rinaire",
+   "agroalimentaire et de l'alimentation",
+   "Nantes-Atlantique"
+  ]
+ },
+ "https://doi.org/10.1103/PhysRevA.102.052814": {
+  "year": "2020",
+  "title": "Implications of the unitary invariance and symmetry restrictions on the development of proper approximate one-body reduced-density-matrix functionals",
+  "contributors": [
+   "Giesbertz, K. J."
+  ],
+  "corresponding": "Giesbertz, K. J.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS"
+  ]
+ },
+ "https://doi.org/10.1073/pnas.2013319117": {
+  "year": "2020",
+  "title": "Advanced fluorescence microscopy reveals disruption of dynamic CXCR4 dimerization by subpocket-specific inverse agonists",
+  "contributors": [
+   "I\u015fbilir, A.",
+   "M\u00f6ller, J.",
+   "Arimont, M.",
+   "Bobkov, V.",
+   "Perpi\u00f1\u00e1-Viciano, C.",
+   "Hoffmann, C.",
+   "Inoue, A.",
+   "Heukers, R.",
+   "de Graaf, C.",
+   "Smit, M. J.",
+   "Annibale, P.",
+   "Lohse, M. J."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Medicinal chemistry",
+   "AIMMS",
+   "Max Delbr\u00fcck Center for Molecular Medicine in the Helmholtz Association",
+   "University of W\u00fcrzburg",
+   "Friedrich Schiller University Jena",
+   "Tohoku University",
+   "ISAR Bioscience Institute"
+  ]
+ },
+ "https://doi.org/10.1103/PhysRevA.102.052829": {
+  "year": "2020",
+  "title": "Universal on-top description of electron correlation in the ground and excited many-electron states with correlon quasiparticles",
+  "contributors": [
+   "Jangrouei, M. R.",
+   "Pernal, K.",
+   "Gritsenko, O. V."
+  ],
+  "corresponding": "Gritsenko, O. V.",
+  "organisations": [
+   "Theoretical Chemistry",
+   "AIMMS",
+   "Lodz University of Technology"
+  ]
+ },
+ "https://doi.org/10.1042/BCJ20200507": {
+  "year": "2020",
+  "title": "Fragment-derived modulators of an industrial \u03b2-glucosidase",
+  "contributors": [
+   "Makraki, E.",
+   "Darby, J. F.",
+   "Carneiro, M. G.",
+   "Firth, J. D.",
+   "Heyam, A.",
+   "Ab, E.",
+   "O'Brien, P.",
+   "Siegal, G.",
+   "Hubbard, R. E."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Chemistry and Pharmaceutical Sciences",
+   "AIMMS",
+   "University of York",
+   "University of Sheffield",
+   "ZoBio B.V.",
+   "Vernalis PLC"
+  ]
+ },
+ "https://doi.org/10.1016/j.jchromb.2020.122444": {
+  "year": "2020",
+  "title": "Supercritical fluid chromatography \u2013 Mass spectrometry in metabolomics: Past, present, and future perspectives",
+  "contributors": [
+   "van de Velde, B.",
+   "Guillarme, D.",
+   "Kohler, I."
+  ],
+  "corresponding": "Kohler, I.",
+  "organisations": [
+   "BioAnalytical Chemistry",
+   "AIMMS",
+   "Vrije Universiteit Amsterdam",
+   "Center for Analytical Sciences Amsterdam",
+   "University of Geneva"
+  ]
+ },
+ "https://doi.org/10.1016/j.mec.2020.e00133": {
+  "year": "2020",
+  "title": "Enhancement of amino acid production and secretion by Lactococcus lactis using a droplet-based biosensing and selection system",
+  "contributors": [
+   "Hernandez-Valdes, J. A.",
+   "aan de Stegge, M.",
+   "Hermans, J.",
+   "Teunis, J.",
+   "van Tatenhove-Pel, R. J.",
+   "Teusink, B.",
+   "Bachmann, H.",
+   "Kuipers, O. P."
+  ],
+  "corresponding": "Kuipers, O. P.",
+  "organisations": [
+   "AIMMS",
+   "Systems Bioinformatics",
+   "Molecular Cell Biology",
+   "Systems Bioinformatics",
+   "University of Groningen",
+   "Faculty of Medical Sciences"
+  ]
+ },
+ "https://doi.org/10.1038/s41467-020-16362-x": {
+  "year": "2020",
+  "title": "Characterization of glycosyl dioxolenium ions and their role in glycosylation reactions",
+  "contributors": [
+   "Hansen, T.",
+   "Elferink, H.",
+   "van Hengst, J. M.",
+   "Houthuijs, K. J.",
+   "Remmerswaal, W. A.",
+   "Kromm, A.",
+   "Berden, G.",
+   "van der Vorm, S.",
+   "Rijs, A. M.",
+   "Overkleeft, H. S.",
+   "Filippov, D. V.",
+   "Rutjes, F. P.",
+   "van der Marel, G. A.",
+   "Martens, J.",
+   "Oomens, J.",
+   "Cod\u00e9e, J. D.",
+   "Boltje, T. J."
+  ],
+  "corresponding": "Cod\u00e9e, J. D.",
+  "organisations": [
+   "Chemistry and Pharmaceutical Sciences",
+   "AIMMS",
+   "BioAnalytical Chemistry",
+   "Radboud University Nijmegen",
+   "Leiden University",
+   "Leiden University"
+  ]
+ },
+ "https://doi.org/10.1093/bioinformatics/btaa620": {
+  "year": "2020",
+  "title": "ProVision: a web-based platform for rapid analysis of proteomics data processed by MaxQuant",
+  "contributors": [
+   "Gallant, J. L.",
+   "Heunis, T.",
+   "Sampson, S. L.",
+   "Bitter, W."
+  ],
+  "corresponding": "None",
+  "organisations": [
+   "Molecular Microbiology",
+   "AIMMS",
+   "University of Stellenbosch",
+   "Newcastle University"
+  ]
+ }
+}
