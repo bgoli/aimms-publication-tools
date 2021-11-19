@@ -16,6 +16,7 @@ import collections
 import wordcloud
 import matplotlib.pyplot as plt
 
+import datafilters as FLT
 
 # import numpy
 
@@ -62,13 +63,6 @@ aimmsDB.closeDB()
 with open('data0.json', 'w') as F:
     json.dump(data, F, indent=1)
 
-
-# Here we could implement a more intelligent junk filter
-# IAMAJUNKFILTER
-
-# Lets play with our new data
-
-
 def makeWordcloud(fname, kword_dict, size=(30, 16), height=1024, width=1280):
     wcloud = wordcloud.WordCloud(height=height, width=width).generate_from_frequencies(kword_dict)
     plt.figure(figsize=size)
@@ -77,6 +71,32 @@ def makeWordcloud(fname, kword_dict, size=(30, 16), height=1024, width=1280):
     plt.savefig(fname, bbox_inches='tight')
     plt.close()
 
+def writeFreqToSheet(wbook, sheet_name, col_header, thelist):
+    sheet = wbook.add_worksheet()
+    sheet.name = sheet_name
+
+    sheet.write(0, 0, col_header)
+    sheet.write(0, 1, 'count')
+    row = 1
+    for i in thelist:
+        sheet.write(row, 0, i)
+        sheet.write(row, 1, thelist[i])
+        row += 1
+    return sheet
+
+def filterFreq(thelist_freq, min_count_allowed, exclude_list, include_list):
+    out_dict_included = {}
+    thelist_freq_filtered = copy.deepcopy(thelist_freq)
+
+    for a in tuple(thelist_freq_filtered.keys()):
+        for k_ in include_list:
+            if k_ in a and a in thelist_freq_filtered:
+                out_dict_included[a] = thelist_freq_filtered.pop(a)
+        if (a in exclude_list or thelist_freq_filtered[a] < min_count_allowed) and a in thelist_freq_filtered:
+            thelist_freq_filtered.pop(a)
+    if len(include_list) > 0:
+        thelist_freq_filtered = out_dict_included
+    return thelist_freq_filtered
 
 def createWordcloudSheet(
     wbook,
@@ -94,69 +114,25 @@ def createWordcloudSheet(
     thelist_freq = collections.Counter(thelist)
 
     # filter, this probably needs some work
-    out_dict_included = {}
-    thelist_freq_filtered = copy.deepcopy(thelist_freq)
     if apply_filter:
-        for a in tuple(thelist_freq_filtered.keys()):
-            for k_ in include_list:
-                if k_ in a and a in thelist_freq_filtered:
-                    out_dict_included[a] = thelist_freq_filtered.pop(a)
-            if (a in exclude_list or thelist_freq_filtered[a] < min_count_allowed) and a in thelist_freq_filtered:
-                thelist_freq_filtered.pop(a)
-        if len(include_list) > 0:
-            thelist_freq_filtered = out_dict_included
+        thelist_freq = filterFreq(thelist_freq, min_count_allowed, exclude_list, include_list)
 
     # write filtered data to sheet
-    orgsheet = wbook.add_worksheet()
-    orgsheet.name = sheet_name
-
-    orgsheet.write(0, 0, theheader)
-    orgsheet.write(0, 1, 'count')
-    row = 1
-    for i in thelist_freq_filtered:
-        orgsheet.write(row, 0, i)
-        orgsheet.write(row, 1, thelist_freq_filtered[i])
-        row += 1
-
+    orgsheet = writeFreqToSheet(wbook, sheet_name, theheader, thelist_freq)
     if create_wordcloud:
-        makeWordcloud(sheet_name + '.png', thelist_freq_filtered)
+        makeWordcloud(sheet_name + '.png', thelist_freq)
         orgsheet.insert_image('D2', sheet_name + '.png')
 
-
+# ###################
 # Generate reports
+# ###################
 analysis_results = xlsxwriter.Workbook('analysis_results.xlsx')
 
-include_list = []
-exclude_list = []
-
-# create organisation report
-
+# create organisation reports
 all_author_organisations = []
 for p in data:
     for a in data[p]['organisations']:
         all_author_organisations.append(a)
-
-include_list = ['University']
-
-exclude_list = [
-    'AIMMS',
-    'VU University',
-    'The Netherlands',
-    'The Netherlands.',
-    'Amsterdam',
-    'Vrije Universiteit Amsterdam',
-    'Utrecht',
-    'Spain',
-    'Spain.',
-    'Inc.',
-    'UK.',
-    'Denmark.',
-    'Germany.',
-    'Sweden.',
-    'Barcelona',
-    'Amsterdam Institute for Molecules',
-]
-
 
 createWordcloudSheet(
     analysis_results,
@@ -176,7 +152,7 @@ createWordcloudSheet(
     all_author_organisations,
     'organisation',
     [],
-    exclude_list,
+    FLT.org_exclude_list,
     2,
     apply_filter=True,
     create_wordcloud=True,
@@ -188,8 +164,8 @@ createWordcloudSheet(
     'author_organisations_uni',
     all_author_organisations,
     'organisation',
-    include_list,
-    exclude_list,
+    FLT.org_uni_list,
+    FLT.org_exclude_list,
     0,
     apply_filter=True,
     create_wordcloud=True,
