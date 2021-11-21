@@ -1,0 +1,1238 @@
+{
+ "https://doi.org/10.1002/pro.3788": {
+  "groups": [
+   "Bioinformatics",
+   "Bio Informatics (IBIVU)"
+  ],
+  "contributors": [
+   "Lange, J.",
+   "Baakman, C.",
+   "Pistorius, A.",
+   "Krieger, E.",
+   "Hooft, R.",
+   "Joosten, R. P.",
+   "Vriend, G."
+  ]
+ },
+ "https://doi.org/10.1016/j.envint.2019.105289": {
+  "groups": [
+   "Environmental Chemistry and Toxicology",
+   "Environmental Bioanalytical Chemistry"
+  ],
+  "contributors": [
+   "Holmquist, H.",
+   "Schellenberger, S.",
+   "van der Veen, I.",
+   "Peters, G. M.",
+   "Leonards, P. E.",
+   "Cousins, I. T."
+  ]
+ },
+ "https://doi.org/10.1016/j.watres.2019.115204": {
+  "groups": [
+   "BioAnalytical Chemistry",
+   "Environmental Chemistry and Toxicology",
+   "Environmental Health and Toxicology",
+   "Environmental Bioanalytical Chemistry"
+  ],
+  "contributors": [
+   "Zwart, N.",
+   "Jonker, W.",
+   "Broek, R. T.",
+   "de Boer, J.",
+   "Somsen, G.",
+   "Kool, J.",
+   "Hamers, T.",
+   "Houtman, C. J.",
+   "Lamoree, M. H."
+  ]
+ },
+ "https://doi.org/10.1016/j.chemosphere.2019.124643": {
+  "groups": [
+   "Environmental Chemistry and Toxicology",
+   "Environmental Bioanalytical Chemistry"
+  ],
+  "contributors": [
+   "Brits, M.",
+   "de Boer, J.",
+   "Rohwer, E. R.",
+   "De Vos, J.",
+   "Weiss, J. M.",
+   "Brandsma, S. H."
+  ]
+ },
+ "https://doi.org/10.1038/s41596-019-0265-0": {
+  "groups": [
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Vermeeren, P.",
+   "van der Lubbe, S. C.",
+   "Fonseca Guerra, C.",
+   "Bickelhaupt, F. M.",
+   "Hamlin, T. A."
+  ]
+ },
+ "https://doi.org/10.1016/j.chroma.2019.460550": {
+  "groups": [
+   "Environmental Chemistry and Toxicology",
+   "Environmental Bioanalytical Chemistry"
+  ],
+  "contributors": [
+   "Mourik, L. V.",
+   "Lava, R.",
+   "O'Brien, J.",
+   "Leonards, P.",
+   "de Boer, J.",
+   "Ricci, M."
+  ]
+ },
+ "https://doi.org/10.1289/EHP5911": {
+  "groups": [
+   "Systems Bioinformatics",
+   "Environmental Health and Toxicology"
+  ],
+  "contributors": [
+   "Hamers, T.",
+   "Kortenkamp, A.",
+   "Scholze, M.",
+   "Molenaar, D.",
+   "Cenijn, P. H.",
+   "Weiss, J. M."
+  ]
+ },
+ "https://doi.org/10.1002/chem.202000272": {
+  "groups": [
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Bettens, T.",
+   "Alonso, M.",
+   "De Proft, F.",
+   "Hamlin, T. A.",
+   "Bickelhaupt, F. M."
+  ]
+ },
+ "https://doi.org/10.1002/anie.201914582": {
+  "groups": [
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Vermeeren, P.",
+   "Hamlin, T. A.",
+   "Fern\u00e1ndez, I.",
+   "Bickelhaupt, F. M."
+  ]
+ },
+ "https://doi.org/10.1002/jcc.26104": {
+  "groups": [
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Savoo, N.",
+   "Laloo, J. Z.",
+   "Rhyman, L.",
+   "Ramasami, P.",
+   "Bickelhaupt, F. M.",
+   "Poater, J."
+  ]
+ },
+ "https://doi.org/10.1002/chem.201905355": {
+  "groups": [
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Narsaria, A. K.",
+   "Poater, J.",
+   "Guerra, C. F.",
+   "Ehlers, A. W.",
+   "Hamlin, T. A.",
+   "Lammertsma, K.",
+   "Bickelhaupt, F. M."
+  ]
+ },
+ "https://doi.org/10.1016/j.jmb.2019.12.040": {
+  "groups": [
+   "Molecular Cell Biology",
+   "Molecular Microbiology"
+  ],
+  "contributors": [
+   "van Winden, V. J. C.",
+   "Bunduc, C. M.",
+   "Ummels, R.",
+   "Bitter, W.",
+   "Houben, E. N. G.Pages:1265-1278"
+  ]
+ },
+ "https://doi.org/10.3389/fimmu.2019.03091": {
+  "groups": [
+   "Systems Bioinformatics",
+   "Molecular Cell Physiology",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "Abudukelimu, A.",
+   "Barberis, M.",
+   "Redegeld, F.",
+   "Sahin, N.",
+   "Sharma, R. P.",
+   "Westerhoff, H. V."
+  ]
+ },
+ "https://doi.org/10.1002/chem.201905359": {
+  "groups": [
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Sergeieva, T.",
+   "Hamlin, T. A.",
+   "Okovytyy, S.",
+   "Breit, B.",
+   "Bickelhaupt, F. M."
+  ]
+ },
+ "https://doi.org/10.3390/microorganisms8030347": {
+  "groups": [
+   "Systems Bioinformatics",
+   "Molecular Cell Physiology"
+  ],
+  "contributors": [
+   "Wacoo, A. P.",
+   "Atukunda, P.",
+   "Muhoozi, G.",
+   "Braster, M.",
+   "Wagner, M.",
+   "van den Broek, T. J.",
+   "Sybesma, W.",
+   "Westerberg, A. C.",
+   "Iversen, P. O.",
+   "Kort, R."
+  ]
+ },
+ "https://doi.org/10.1002/asia.202000009": {
+  "groups": [
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Vermeeren, P.",
+   "Brinkhuis, F.",
+   "Hamlin, T. A.",
+   "Bickelhaupt, F. M."
+  ]
+ },
+ "https://doi.org/10.1016/j.envpol.2020.114141": {
+  "groups": [
+   "Environmental Chemistry and Toxicology",
+   "Environmental Bioanalytical Chemistry"
+  ],
+  "contributors": [
+   "van Mourik, L. M.",
+   "Wang, X.",
+   "Paxman, C.",
+   "Leonards, P. E.",
+   "Wania, F.",
+   "de Boer, J.",
+   "Mueller, J. F."
+  ]
+ },
+ "https://doi.org/10.1016/j.chemosphere.2020.126100": {
+  "groups": [
+   "Environmental Chemistry and Toxicology",
+   "Environmental Bioanalytical Chemistry"
+  ],
+  "contributors": [
+   "van der Veen, I.",
+   "Hanning, A. C.",
+   "Stare, A.",
+   "Leonards, P. E.",
+   "de Boer, J.",
+   "Weiss, J. M."
+  ]
+ },
+ "https://doi.org/10.1016/j.envres.2019.108948": {
+  "groups": [
+   "Systems Bioinformatics",
+   "Molecular Cell Physiology",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "Sharma, R. P.",
+   "Kumar, V.",
+   "Schuhmacher, M.",
+   "Kolodkin, A.",
+   "Westerhoff, H. V."
+  ]
+ },
+ "https://doi.org/10.1016/j.chemosphere.2019.125102": {
+  "groups": [
+   "Systems Bioinformatics",
+   "Molecular Cell Physiology"
+  ],
+  "contributors": [
+   "Poursat, B. A.",
+   "van Spanning, R. J.",
+   "Braster, M.",
+   "Helmus, R.",
+   "de Voogt, P.",
+   "Parsons, J. R."
+  ]
+ },
+ "https://doi.org/10.1074/jbc.RA119.011682": {
+  "groups": [
+   "Molecular Cell Biology",
+   "Molecular Microbiology"
+  ],
+  "contributors": [
+   "Damen, M. P. M.",
+   "Phan, T. H.",
+   "Ummels, R.",
+   "Rubio-Canalejas, A.",
+   "Bitter, W.",
+   "Houben, E. N. G.Pages:5960-5969"
+  ]
+ },
+ "https://doi.org/10.1021/acs.jcim.9b00946": {
+  "groups": [
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Margiotta, E.",
+   "van der Lubbe, S. C.",
+   "de Azevedo Santos, L.",
+   "Paragi, G.",
+   "Moro, S.",
+   "Bickelhaupt, F. M.",
+   "Fonseca Guerra, C."
+  ]
+ },
+ "https://doi.org/10.1093/bioinformatics/btz917": {
+  "groups": [
+   "Bioinformatics",
+   "Integrative Bioinformatics"
+  ],
+  "contributors": [
+   "Jacobsen, A.",
+   "Ivanova, O.",
+   "Amini, S.",
+   "Heringa, J.",
+   "Kemmeren, P.",
+   "Feenstra, K. A.Pages:2142-2149"
+  ]
+ },
+ "https://doi.org/10.1016/j.chemosphere.2019.125574": {
+  "groups": [
+   "Environmental Chemistry and Toxicology",
+   "Environmental Bioanalytical Chemistry"
+  ],
+  "contributors": [
+   "van Mourik, L.",
+   "Toms, L.",
+   "He, C.",
+   "Banks, A.",
+   "Hobson, P.",
+   "Leonards, P.",
+   "de Boer, J.",
+   "Mueller, J."
+  ]
+ },
+ "https://doi.org/10.1093/jac/dkz516": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Medicinal chemistry"
+  ],
+  "contributors": [
+   "De Ara\u00fajo, J. S.",
+   "da Silva, P. B.",
+   "Batista, M. M.",
+   "Peres, R. B.",
+   "Cardoso-Santos, C.",
+   "Kalejaiye, T. D.",
+   "Munday, J. C.",
+   "De Heuvel, E.",
+   "Sterk, G. J.",
+   "Augustyns, K.",
+   "Salado, I. G.",
+   "Matheeussen, A.",
+   "De Esch, I.",
+   "De Koning, H. P.",
+   "Leurs, R.",
+   "Maes, L.",
+   "Soeiro, M. D. N. C."
+  ]
+ },
+ "https://doi.org/10.1038/s41540-020-0125-0": {
+  "groups": [
+   "Molecular Cell Physiology",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "Mondeel, T. D.",
+   "Ivanov, O.",
+   "Westerhoff, H. V.",
+   "Liebermeister, W.",
+   "Barberis, M."
+  ]
+ },
+ "https://doi.org/10.12688/f1000research.20559.1": {
+  "groups": [
+   "Bioinformatics",
+   "Integrative Bioinformatics"
+  ],
+  "contributors": [
+   "Orengo, C.",
+   "Velankar, S.",
+   "Wodak, S.",
+   "Zoete, V.",
+   "Bonvin, A. M. J. J.",
+   "Elofsson, A.",
+   "Feenstra, K. A.",
+   "Gerloff, D. L.",
+   "Hamelryck, T.",
+   "Hancock, J. M.",
+   "Helmer-Citterich, M.",
+   "Hospital, A.",
+   "Orozco, M.",
+   "Perrakis, A.",
+   "Rarey, M.",
+   "Soares, C.",
+   "Sussman, J. L.",
+   "Thornton, J. M.",
+   "Tuffery, P.",
+   "Tusnady, G.",
+   "Wierenga, R.",
+   "Salminen, T.",
+   "Schneider, B."
+  ]
+ },
+ "https://doi.org/10.1016/j.chemosphere.2020.126816": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environmental Chemistry and Toxicology"
+  ],
+  "contributors": [
+   "Zuiderveen, E. A.",
+   "Slootweg, J. C.",
+   "de Boer, J."
+  ]
+ },
+ "https://doi.org/10.1007/s00216-020-02661-1": {
+  "groups": [
+   "Environmental Health and Toxicology",
+   "Environmental Bioanalytical Chemistry"
+  ],
+  "contributors": [
+   "Xu, M.",
+   "Legradi, J.",
+   "Leonards, P.Pages:4313-4325"
+  ]
+ },
+ "https://doi.org/10.1073/pnas.191925011710.1073/pnas.1919250117": {
+  "groups": [
+   "Systems Bioinformatics",
+   "Molecular Cell Physiology"
+  ],
+  "contributors": [
+   "Nilsson, A.",
+   "Haanstra, J. R.",
+   "Engqvist, M.",
+   "Gerding, A.",
+   "Bakker, B. M.",
+   "Klingm\u00fcller, U.",
+   "Teusink, B.",
+   "Nielsen, J."
+  ]
+ },
+ "https://doi.org/10.1002/cphc.202000132": {
+  "groups": [
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Jian, J.",
+   "Poater, J.",
+   "Hammink, R.",
+   "Tinnemans, P.",
+   "McKenzie, C. J.",
+   "Bickelhaupt, F. M.",
+   "Mecinovi\u0107, J."
+  ]
+ },
+ "https://doi.org/10.1016/j.comtox.2020.100124": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Toxicology"
+  ],
+  "contributors": [
+   "Autrup, H.",
+   "Barile, F. A.",
+   "Colin Berry, S.",
+   "Blaauboer, B. J.",
+   "Boobis, A.",
+   "Bolt, H.",
+   "Borgert, C. J.",
+   "Dekant, W.",
+   "Dietrich, D.",
+   "Domingo, J. L.",
+   "Batta Gori, G.",
+   "Greim, H.",
+   "Hengstler, J.",
+   "Kacew, S.",
+   "Marquardt, H.",
+   "Pelkonen, O.",
+   "Savolainen, K.",
+   "Heslop-Harrison, P.",
+   "Vermeulen, N. P."
+  ]
+ },
+ "https://doi.org/10.1371/journal.pcbi.1007767": {
+  "groups": [
+   "Bioinformatics",
+   "Integrative Bioinformatics"
+  ],
+  "contributors": [
+   "van Gils, J. H. M.",
+   "van Dijk, E.",
+   "Peduzzo, A.",
+   "Hofmann, A.",
+   "Vettore, N.",
+   "Sch\u00fctzmann, M. P.",
+   "Groth, G.",
+   "Mouhib, H.",
+   "Otzen, D. E.",
+   "Buell, A. K.",
+   "Abeln, S."
+  ]
+ },
+ "https://doi.org/10.3389/fmars.2020.00273": {
+  "groups": [
+   "Environmental Chemistry and Toxicology",
+   "Environmental Bioanalytical Chemistry"
+  ],
+  "contributors": [
+   "Maes, T.",
+   "van Diemen de Jel, J.",
+   "Vethaak, A. D.",
+   "Desender, M.",
+   "Bendall, V. A.",
+   "van Velzen, M.",
+   "Leslie, H. A."
+  ]
+ },
+ "https://doi.org/10.1111/2041-210X.13403": {
+  "groups": [
+   "Systems Bioinformatics",
+   "Bioinformatics"
+  ],
+  "contributors": [
+   "Ekkers, D. M.",
+   "Branco dos Santos, F.",
+   "Mallon, C. A.",
+   "Bruggeman, F.",
+   "van Doorn, G. S."
+  ]
+ },
+ "https://doi.org/10.1002/ejoc.202000590": {
+  "groups": [
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Hansen, T.",
+   "Vermeeren, P.",
+   "Haim, A.",
+   "van Dorp, M. J.",
+   "Cod\u00e9e, J. D.",
+   "Bickelhaupt, F. M.",
+   "Hamlin, T. A."
+  ]
+ },
+ "https://doi.org/10.1038/s42004-020-0313-2": {
+  "groups": [
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Pieters, B. J.",
+   "Wuts, M. H.",
+   "Poater, J.",
+   "Kumar, K.",
+   "White, P. B.",
+   "Kamps, J. J.",
+   "Sherman, W.",
+   "Pruijn, G. J.",
+   "Paton, R. S.",
+   "Beuming, T.",
+   "Bickelhaupt, F. M.",
+   "Mecinovi\u0107, J."
+  ]
+ },
+ "https://doi.org/10.1002/cphc.202000414": {
+  "groups": [
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Jian, J.",
+   "Poater, J.",
+   "Hammink, R.",
+   "Tinnemans, P.",
+   "McKenzie, C. J.",
+   "Bickelhaupt, F. M.",
+   "Mecinovi\u0107, J."
+  ]
+ },
+ "https://doi.org/10.1080/15287394.2020.1756592": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Toxicology"
+  ],
+  "contributors": [
+   "Autrup, H.",
+   "Barile, F. A.",
+   "Berry, S. C.",
+   "Blaauboer, B. J.",
+   "Boobis, A.",
+   "Bolt, H.",
+   "Borgert, C. J.",
+   "Dekant, W.",
+   "Dietrich, D.",
+   "Domingo, J. L.",
+   "Gori, G. B.",
+   "Greim, H.",
+   "Hengstler, J.",
+   "Kacew, S.",
+   "Marquardt, H.",
+   "Pelkonen, O.",
+   "Savolainen, K.",
+   "Heslop-Harrison, P.",
+   "Vermeulen, N. P."
+  ]
+ },
+ "https://doi.org/10.1038/s41467-020-16952-9": {
+  "groups": [
+   "Bioinformatics",
+   "Bio Informatics (IBIVU)"
+  ],
+  "contributors": [
+   "Fernandes Neto, J. M.",
+   "Nadal, E.",
+   "Bosdriesz, E.",
+   "Ooft, S. N.",
+   "Farre, L.",
+   "McLean, C.",
+   "Klarenbeek, S.",
+   "Jurgens, A.",
+   "Hagen, H.",
+   "Wang, L.",
+   "Felip, E.",
+   "Martinez-Marti, A.",
+   "Vidal, A.",
+   "Voest, E.",
+   "Wessels, L. F. A.",
+   "van Tellingen, O.",
+   "Villanueva, A.",
+   "Bernards, R.Pages:3157"
+  ]
+ },
+ "https://doi.org/10.1016/j.bcp.2020.113938": {
+  "groups": [
+   "Organic Chemistry",
+   "Molecular Microbiology",
+   "Molecular and Computational Toxicology"
+  ],
+  "contributors": [
+   "Ortega Ugalde, S.",
+   "Wallraven, K.",
+   "Speer, A.",
+   "Bitter, W.",
+   "Grossmann, T. N.",
+   "Commandeur, J. N."
+  ]
+ },
+ "https://doi.org/10.1186/s12302-020-00375-w": {
+  "groups": [
+   "Environmental Chemistry and Toxicology",
+   "Environmental Bioanalytical Chemistry"
+  ],
+  "contributors": [
+   "Dulio, V.",
+   "Koschorreck, J.",
+   "van Bavel, B.",
+   "van den Brink, P.",
+   "Hollender, J.",
+   "Munthe, J.",
+   "Schlabach, M.",
+   "Aalizadeh, R.",
+   "Agerstrand, M.",
+   "Ahrens, L.",
+   "Allan, I.",
+   "Alygizakis, N.",
+   "Barcelo\u2019, D.",
+   "Bohlin-Nizzetto, P.",
+   "Boutroup, S.",
+   "Brack, W.",
+   "Bressy, A.",
+   "Christensen, J. H.",
+   "Cirka, L.",
+   "Covaci, A.",
+   "Derksen, A.",
+   "Deviller, G.",
+   "Dingemans, M. M.",
+   "Engwall, M.",
+   "Fatta-Kassinos, D.",
+   "Gago-Ferrero, P.",
+   "Hern\u00e1ndez, F.",
+   "Herzke, D.",
+   "Hilscherov\u00e1, K.",
+   "Hollert, H.",
+   "Junghans, M.",
+   "Kasprzyk-Hordern, B.",
+   "Keiter, S.",
+   "Kools, S. A.",
+   "Kruve, A.",
+   "Lambropoulou, D.",
+   "Lamoree, M.",
+   "Leonards, P.",
+   "Lopez, B.",
+   "L\u00f3pez de Alda, M.",
+   "Lundy, L.",
+   "Makovinsk\u00e1, J.",
+   "Marig\u00f3mez, I.",
+   "Martin, J. W.",
+   "McHugh, B.",
+   "Mi\u00e8ge, C.",
+   "O\u2019Toole, S.",
+   "Perkola, N.",
+   "Polesello, S.",
+   "Posthuma, L.",
+   "Rodriguez-Mozaz, S.",
+   "Roessink, I.",
+   "Rostkowski, P.",
+   "Ruedel, H.",
+   "Samanipour, S.",
+   "Schulze, T.",
+   "Schymanski, E. L.",
+   "Sengl, M.",
+   "Tar\u00e1bek, P.",
+   "Ten Hulscher, D.",
+   "Thomaidis, N.",
+   "Togola, A.",
+   "Valsecchi, S.",
+   "van Leeuwen, S.",
+   "von der Ohe, P.",
+   "Vorkamp, K.",
+   "Vrana, B.",
+   "Slobodnik, J."
+  ]
+ },
+ "https://doi.org/10.1007/s10661-020-08452-6": {
+  "groups": [
+   "Environmental Chemistry and Toxicology",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Loha, K. M.",
+   "Lamoree, M.",
+   "De Boer, J."
+  ]
+ },
+ "https://doi.org/10.1016/j.chemosphere.2020.126588": {
+  "groups": [
+   "Environmental Health and Toxicology",
+   "Environmental Bioanalytical Chemistry",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Sugeng, E. J.",
+   "de Cock, M.",
+   "Leonards, P. E.",
+   "van de Bor, M."
+  ]
+ },
+ "https://doi.org/10.1016/j.scitotenv.2020.139028": {
+  "groups": [
+   "BioAnalytical Chemistry",
+   "Environmental Chemistry and Toxicology",
+   "Environmental Health and Toxicology",
+   "Molecular Microbiology"
+  ],
+  "contributors": [
+   "Jonkers, T. J.",
+   "Steenhuis, M.",
+   "Schalkwijk, L.",
+   "Luirink, J.",
+   "Bald, D.",
+   "Houtman, C. J.",
+   "Kool, J.",
+   "Lamoree, M. H.",
+   "Hamers, T."
+  ]
+ },
+ "https://doi.org/10.1016/j.etap.2020.103396": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Toxicology"
+  ],
+  "contributors": [
+   "Autrup, H.",
+   "Barile, F. A.",
+   "Berry, S. C.",
+   "Blaauboer, B. J.",
+   "Boobis, A.",
+   "Bolt, H.",
+   "Borgert, C. J.",
+   "Dekant, W.",
+   "Dietrich, D.",
+   "Domingo, J. L.",
+   "Gori, G. B.",
+   "Greim, H.",
+   "Hengstler, J.",
+   "Kacew, S.",
+   "Marquardt, H.",
+   "Pelkonen, O.",
+   "Savolainen, K.",
+   "Heslop-Harrison, P.",
+   "Vermeulen, N. P."
+  ]
+ },
+ "https://doi.org/10.1016/j.cbi.2020.109099": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Toxicology"
+  ],
+  "contributors": [
+   "Autrup, H.",
+   "Barile, F. A.",
+   "Berry, S. C.",
+   "Blaauboer, B. J.",
+   "Boobis, A.",
+   "Bolt, H.",
+   "Borgert, C. J.",
+   "Dekant, W.",
+   "Dietrich, D.",
+   "Domingo, J. L.",
+   "Gori, G. B.",
+   "Greim, H.",
+   "Hengstler, J.",
+   "Kacew, S.",
+   "Marquardt, H.",
+   "Pelkonen, O.",
+   "Savolainen, K.",
+   "Heslop-Harrison, P.",
+   "Vermeulen, N. P."
+  ]
+ },
+ "https://doi.org/10.3390/molecules25081918": {
+  "groups": [
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Hintzen, J. C.",
+   "Poater, J.",
+   "Kumar, K.",
+   "Al Temimi, A. H.",
+   "Pieters, B. J.",
+   "Paton, R. S.",
+   "Bickelhaupt, F. M.",
+   "Mecinovi\u0107, J."
+  ]
+ },
+ "https://doi.org/10.1016/j.toxlet.2020.04.008": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Toxicology"
+  ],
+  "contributors": [
+   "Autrup, H.",
+   "Barile, F. A.",
+   "Berry, S. C.",
+   "Blaauboer, B. J.",
+   "Boobis, A.",
+   "Bolt, H.",
+   "Borgert, C. J.",
+   "Dekant, W.",
+   "Dietrich, D.",
+   "Domingo, J. L.",
+   "Gori, G. B.",
+   "Greim, H.",
+   "Hengstler, J.",
+   "Kacew, S.",
+   "Marquardt, H.",
+   "Pelkonen, O.",
+   "Savolainen, K.",
+   "Heslop-Harrison, P.",
+   "Vermeulen, N. P."
+  ]
+ },
+ "https://doi.org/10.1016/j.tiv.2020.104861": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Toxicology"
+  ],
+  "contributors": [
+   "Autrup, H.",
+   "Barile, F. A.",
+   "Berry, S. C.",
+   "Blaauboer, B. J.",
+   "Boobis, A.",
+   "Bolt, H.",
+   "Borgert, C. J.",
+   "Dekant, W.",
+   "Dietrich, D.",
+   "Domingo, J. L.",
+   "Gori, G. B.",
+   "Greim, H.",
+   "Hengstler, J.",
+   "Kacew, S.",
+   "Marquardt, H.",
+   "Pelkonen, O.",
+   "Savolainen, K.",
+   "Heslop-Harrison, P.",
+   "Vermeulen, N. P."
+  ]
+ },
+ "https://doi.org/10.4230/LIPIcs.CPM.2020.10": {
+  "groups": [
+   "Bioinformatics",
+   "Bio Informatics (IBIVU)"
+  ],
+  "contributors": [
+   "Charalampopoulos, P.",
+   "Pissis, S. P.",
+   "Radoszewski, J.",
+   "Walen, T.",
+   "Zuba, W."
+  ]
+ },
+ "https://doi.org/10.1007/s00204-020-02800-8": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Toxicology"
+  ],
+  "contributors": [
+   "Autrup, H.",
+   "Barile, F. A.",
+   "Berry, S. C.",
+   "Blaauboer, B. J.",
+   "Boobis, A.",
+   "Bolt, H.",
+   "Borgert, C. J.",
+   "Dekant, W.",
+   "Dietrich, D.",
+   "Domingo, J. L.",
+   "Gori, G. B.",
+   "Greim, H.",
+   "Hengstler, J.",
+   "Kacew, S.",
+   "Marquardt, H.",
+   "Pelkonen, O.",
+   "Savolainen, K.",
+   "Heslop-Harrison, P.",
+   "Vermeulen, N. P."
+  ]
+ },
+ "https://doi.org/10.1002/adfm.202002064": {
+  "groups": [
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Narsaria, A. K.",
+   "Rauch, F.",
+   "Krebs, J.",
+   "Endres, P.",
+   "Friedrich, A.",
+   "Krummenacher, I.",
+   "Braunschweig, H.",
+   "Finze, M.",
+   "Nitsch, J.",
+   "Bickelhaupt, F. M.",
+   "Marder, T. B."
+  ]
+ },
+ "https://doi.org/10.1002/chem.202000857": {
+  "groups": [
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Yu, S.",
+   "Vermeeren, P.",
+   "van Dommelen, K.",
+   "Bickelhaupt, F. M.",
+   "Hamlin, T. A."
+  ]
+ },
+ "https://doi.org/10.1021/acs.joc.0c00575": {
+  "groups": [
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences",
+   "Organic Chemistry"
+  ],
+  "contributors": [
+   "Faltracco, M.",
+   "Sukowski, V.",
+   "Van Druenen, M.",
+   "Hamlin, T. A.",
+   "Bickelhaupt, F. M.",
+   "Ruijter, E."
+  ]
+ },
+ "https://doi.org/10.1002/jcc.26188": {
+  "groups": [
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Narsaria, A. K.",
+   "Ruijter, J. D.",
+   "Hamlin, T. A.",
+   "Ehlers, A. W.",
+   "Guerra, C. F.",
+   "Lammertsma, K.",
+   "Bickelhaupt, F. M."
+  ]
+ },
+ "https://doi.org/10.1039/d0sc02901g": {
+  "groups": [
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Vermeeren, P.",
+   "Hamlin, T. A.",
+   "Fern\u00e1ndez, I.",
+   "Bickelhaupt, F. M."
+  ]
+ },
+ "https://doi.org/10.1093/gbe/evaa171": {
+  "groups": [
+   "Bioinformatics",
+   "Bio Informatics (IBIVU)"
+  ],
+  "contributors": [
+   "Ayad, L. A.",
+   "Dourou, A. M.",
+   "Arhondakis, S.",
+   "Pissis, S. P."
+  ]
+ },
+ "https://doi.org/10.1021/acs.orglett.0c02773": {
+  "groups": [
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Jian, J.",
+   "Poater, J.",
+   "White, P. B.",
+   "Mckenzie, C. J.",
+   "Bickelhaupt, F. M.",
+   "Mecinovi\u0107, J."
+  ]
+ },
+ "https://doi.org/10.1007/s00453-020-00744-0": {
+  "groups": [
+   "Bioinformatics",
+   "Bio Informatics (IBIVU)"
+  ],
+  "contributors": [
+   "Amir, A.",
+   "Charalampopoulos, P.",
+   "Pissis, S. P.",
+   "Radoszewski, J."
+  ]
+ },
+ "https://doi.org/10.1016/j.apsb.2020.09.005": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "BioAnalytical Chemistry"
+  ],
+  "contributors": [
+   "Xie, C.",
+   "Slagboom, J.",
+   "Albulescu, L. O.",
+   "Somsen, G. W.",
+   "Vonk, F. J.",
+   "Casewell, N. R.",
+   "Kool, J."
+  ]
+ },
+ "https://doi.org/10.3390/molecules25214906": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Organic Chemistry"
+  ],
+  "contributors": [
+   "Collet, J. W.",
+   "Roose, T. R.",
+   "Weijers, B.",
+   "Maes, B. U.",
+   "Ruijter, E.",
+   "Orru, R. V."
+  ]
+ },
+ "https://doi.org/10.1038/s41540-020-00150-w": {
+  "groups": [
+   "Systems Bioinformatics",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "N. Kolodkin, A.",
+   "Sharma, R. P.",
+   "Colangelo, A. M.",
+   "Ignatenko, A.",
+   "Martorana, F.",
+   "Jennen, D.",
+   "Bried\u00e9, J. J.",
+   "Brady, N.",
+   "Barberis, M.",
+   "Mondeel, T. D.",
+   "Papa, M.",
+   "Kumar, V.",
+   "Peters, B.",
+   "Skupin, A.",
+   "Alberghina, L.",
+   "Balling, R.",
+   "Westerhoff, H. V."
+  ]
+ },
+ "https://doi.org/10.3390/a13110276": {
+  "groups": [
+   "Bioinformatics",
+   "Bio Informatics (IBIVU)"
+  ],
+  "contributors": [
+   "Abedin, P.",
+   "Ganguly, A.",
+   "Pissis, S. P.",
+   "Thankachan, S. V."
+  ]
+ },
+ "https://doi.org/10.3390/ph13110362": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Medicinal chemistry"
+  ],
+  "contributors": [
+   "Hamilton, D. J.",
+   "\u00c1br\u00e1nyi-Balogh, P.",
+   "Keeley, A.",
+   "Petri, L.",
+   "Hrast, M.",
+   "Imre, T.",
+   "Wijtmans, M.",
+   "Gobec, S.",
+   "de Esch, I. J.",
+   "Keser\u0171, G. M."
+  ]
+ },
+ "https://doi.org/10.3390/biomedicines8060165": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "BioAnalytical Chemistry"
+  ],
+  "contributors": [
+   "Xie, C.",
+   "Albulescu, L. O.",
+   "Still, K. B.",
+   "Slagboom, J.",
+   "Zhao, Y.",
+   "Jiang, Z.",
+   "Somsen, G. W.",
+   "Vonk, F. J.",
+   "Casewell, N. R.",
+   "Kool, J."
+  ]
+ },
+ "https://doi.org/10.1002/chem.202003831": {
+  "groups": [
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Vermeeren, P.",
+   "Hansen, T.",
+   "Jansen, P.",
+   "Swart, M.",
+   "Hamlin, T. A.",
+   "Bickelhaupt, F. M."
+  ]
+ },
+ "https://doi.org/10.1021/acs.joc.0c0211210.1021/acs.joc.0c02112": {
+  "groups": [
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Vermeeren, P.",
+   "Hansen, T.",
+   "Grasser, M.",
+   "Silva, D. R.",
+   "Hamlin, T. A.",
+   "Bickelhaupt, F. M."
+  ]
+ },
+ "https://doi.org/10.1002/chem.202003768": {
+  "groups": [
+   "Theoretical Chemistry",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "van der Lubbe, S. C.",
+   "Vermeeren, P.",
+   "Fonseca Guerra, C.",
+   "Bickelhaupt, F. M."
+  ]
+ },
+ "https://doi.org/10.1016/j.mec.2020.e00133": {
+  "groups": [
+   "Systems Bioinformatics",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "Hernandez-Valdes, J. A.",
+   "aan de Stegge, M.",
+   "Hermans, J.",
+   "Teunis, J.",
+   "van Tatenhove-Pel, R. J.",
+   "Teusink, B.",
+   "Bachmann, H.",
+   "Kuipers, O. P."
+  ]
+ },
+ "https://doi.org/10.1038/s41467-020-16362-x": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "BioAnalytical Chemistry"
+  ],
+  "contributors": [
+   "Hansen, T.",
+   "Elferink, H.",
+   "van Hengst, J. M.",
+   "Houthuijs, K. J.",
+   "Remmerswaal, W. A.",
+   "Kromm, A.",
+   "Berden, G.",
+   "van der Vorm, S.",
+   "Rijs, A. M.",
+   "Overkleeft, H. S.",
+   "Filippov, D. V.",
+   "Rutjes, F. P.",
+   "van der Marel, G. A.",
+   "Martens, J.",
+   "Oomens, J.",
+   "Cod\u00e9e, J. D.",
+   "Boltje, T. J."
+  ]
+ }
+}

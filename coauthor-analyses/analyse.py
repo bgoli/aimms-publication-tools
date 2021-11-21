@@ -33,20 +33,15 @@ cdir = os.path.dirname(os.path.abspath(os.sys.argv[0]))
 DB_FILE_NAME = 'aimmsDBtest.sqlite'
 DB_ACTIVE_TABLE = 'Y2020'
 # Production DB
-# DB_FILE_NAME = 'aimmsDB6yrs.sqlite'
-# DB_ACTIVE_TABLE = 'publications'
+#DB_FILE_NAME = 'aimmsDB6yrs.sqlite'
+#DB_ACTIVE_TABLE = 'publications'
 
 
 # Grab data from database and create a json dict and dump to file.
 aimmsDB = CBNetDB.DBTools()
 aimmsDB.connectSQLiteDB(DB_FILE_NAME, work_dir=cdir)
 
-sldata = aimmsDB.getColumns(
-    DB_ACTIVE_TABLE,
-    ['doi', 'year', 'title', 'contributors', 'organisations', 'corresponding'],
-)
-
-# print(sldata)
+sldata = aimmsDB.getColumns(DB_ACTIVE_TABLE, ['doi', 'year', 'title', 'contributors', 'organisations', 'corresponding'],)
 
 data = {}
 print('SLdata', len(sldata[0]))
@@ -85,16 +80,24 @@ def writeFreqToSheet(wbook, sheet_name, col_header, thelist):
     return sheet
 
 def filterFreq(thelist_freq, min_count_allowed, exclude_list, include_list):
+    """
+    If include list is not empty then exclude list is used as a filter
+    """
     out_dict_included = {}
     thelist_freq_filtered = copy.deepcopy(thelist_freq)
+    include_mode = False
+    if len(include_list) > 0:
+        include_mode = True
 
     for a in tuple(thelist_freq_filtered.keys()):
-        for k_ in include_list:
-            if k_ in a and a in thelist_freq_filtered:
-                out_dict_included[a] = thelist_freq_filtered.pop(a)
-        if (a in exclude_list or thelist_freq_filtered[a] < min_count_allowed) and a in thelist_freq_filtered:
-            thelist_freq_filtered.pop(a)
-    if len(include_list) > 0:
+        if include_mode:
+            for k_ in include_list:
+                if k_ in a and a in thelist_freq_filtered and a not in exclude_list:
+                    out_dict_included[a] = thelist_freq_filtered.pop(a)
+        else:
+            if (a in exclude_list or thelist_freq_filtered[a] < min_count_allowed) and a in thelist_freq_filtered:
+                thelist_freq_filtered.pop(a)
+    if include_mode:
         thelist_freq_filtered = out_dict_included
     return thelist_freq_filtered
 
@@ -126,9 +129,9 @@ def createWordcloudSheet(
 # ###################
 # Generate reports
 # ###################
-analysis_results = xlsxwriter.Workbook('analysis_results.xlsx')
 
 # create organisation reports
+analysis_results = xlsxwriter.Workbook('organisation_analysis.xlsx')
 all_author_organisations = []
 for p in data:
     for a in data[p]['organisations']:
@@ -165,10 +168,40 @@ createWordcloudSheet(
     all_author_organisations,
     'organisation',
     FLT.org_uni_list,
-    FLT.org_exclude_list,
+    ['VU University', 'Vrije Universiteit', 'Vrije Universiteit Amsterdam'],
+    0,
+    apply_filter=True,
+    create_wordcloud=True,
+)
+
+createWordcloudSheet(
+    analysis_results,
+    'author_organisations_groups',
+    all_author_organisations,
+    'organisation',
+    FLT.org_group_list,
+    FLT.org_group_exclude_list,
     0,
     apply_filter=True,
     create_wordcloud=True,
 )
 
 analysis_results.close()
+
+# playing around with multi-refernces
+import pprint
+
+multigroup = {}
+for paper in data:
+    groups = []
+    for grp in FLT.org_group_list:
+        if grp in data[paper]['organisations']:
+            groups.append(grp)
+    if len(groups) > 1:
+        multigroup[paper] = {'groups' : groups,
+                             'contributors' : data[paper]['contributors']}
+with open('data_multigroup.json', 'w') as F:
+    json.dump(multigroup, F, indent=1)
+
+pprint.pprint(multigroup)
+

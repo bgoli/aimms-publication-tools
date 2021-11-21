@@ -109,6 +109,7 @@ data_dir = os.path.join(cdir, 'data')
 # default DB name: 'aimmsDB.sqlite'
 DB_FILE_NAME = 'aimmsDB.sqlite'
 # default table name: 'publications'
+DB_ACTIVE_TABLE = 'Y2020'
 DB_ACTIVE_TABLE = 'publications'
 
 # using excel file directly
