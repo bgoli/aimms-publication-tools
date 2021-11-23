@@ -1,39 +1,53 @@
 {
- "https://doi.org/10.1002/pro.3788": {
+ "https://doi.org/10.1186/s12862-018-1331-x": {
   "groups": [
-   "Bioinformatics",
+   "Molecular Cell Biology",
+   "Bio Informatics (IBIVU)"
+  ],
+  "groups0": [
+   "Systems Bioinformatics",
+   "Molecular Cell Physiology",
+   "Bioinformatics"
+  ],
+  "groups1": [
+   "Molecular Cell Biology",
+   "Molecular Cell Biology",
    "Bio Informatics (IBIVU)"
   ],
   "contributors": [
-   "Lange, J.",
-   "Baakman, C.",
-   "Pistorius, A.",
-   "Krieger, E.",
-   "Hooft, R.",
-   "Joosten, R. P.",
-   "Vriend, G."
-  ]
- },
- "https://doi.org/10.1016/j.envint.2019.105289": {
-  "groups": [
-   "Environmental Chemistry and Toxicology",
-   "Environmental Bioanalytical Chemistry"
+   "Price, C. E.",
+   "Branco Dos Santos, F.",
+   "Hesseling, A.",
+   "Uusitalo, J. J.",
+   "Bachmann, H.",
+   "Benavente, V.",
+   "Goel, A.",
+   "Berkhout, J.",
+   "Bruggeman, F. J.",
+   "Marrink, S. J.",
+   "Montalban-Lopez, M.",
+   "De Jong, A.",
+   "Kok, J.",
+   "Molenaar, D.",
+   "Poolman, B.",
+   "Teusink, B.",
+   "Kuipers, O. P."
   ],
-  "contributors": [
-   "Holmquist, H.",
-   "Schellenberger, S.",
-   "van der Veen, I.",
-   "Peters, G. M.",
-   "Leonards, P. E.",
-   "Cousins, I. T."
-  ]
+  "title": "Adaption to glucose limitation is modulated by the pleotropic regulator Ccp",
+  "year": "2019"
  },
  "https://doi.org/10.1016/j.watres.2019.115204": {
   "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health"
+  ],
+  "groups0": [
    "BioAnalytical Chemistry",
-   "Environmental Chemistry and Toxicology",
-   "Environmental Health and Toxicology",
-   "Environmental Bioanalytical Chemistry"
+   "E&H: Environmental Health and Toxicology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health"
   ],
   "contributors": [
    "Zwart, N.",
@@ -45,53 +59,22 @@
    "Hamers, T.",
    "Houtman, C. J.",
    "Lamoree, M. H."
-  ]
- },
- "https://doi.org/10.1016/j.chemosphere.2019.124643": {
-  "groups": [
-   "Environmental Chemistry and Toxicology",
-   "Environmental Bioanalytical Chemistry"
   ],
-  "contributors": [
-   "Brits, M.",
-   "de Boer, J.",
-   "Rohwer, E. R.",
-   "De Vos, J.",
-   "Weiss, J. M.",
-   "Brandsma, S. H."
-  ]
- },
- "https://doi.org/10.1038/s41596-019-0265-0": {
-  "groups": [
-   "Theoretical Chemistry",
-   "Chemistry and Pharmaceutical Sciences"
-  ],
-  "contributors": [
-   "Vermeeren, P.",
-   "van der Lubbe, S. C.",
-   "Fonseca Guerra, C.",
-   "Bickelhaupt, F. M.",
-   "Hamlin, T. A."
-  ]
- },
- "https://doi.org/10.1016/j.chroma.2019.460550": {
-  "groups": [
-   "Environmental Chemistry and Toxicology",
-   "Environmental Bioanalytical Chemistry"
-  ],
-  "contributors": [
-   "Mourik, L. V.",
-   "Lava, R.",
-   "O'Brien, J.",
-   "Leonards, P.",
-   "de Boer, J.",
-   "Ricci, M."
-  ]
+  "title": "Identification of mutagenic and endocrine disrupting compounds in surface water and wastewater treatment plant effluents using high-resolution effect-directed analysis",
+  "year": "2020"
  },
  "https://doi.org/10.1289/EHP5911": {
   "groups": [
+   "Molecular Cell Biology",
+   "Environment and Health"
+  ],
+  "groups0": [
    "Systems Bioinformatics",
-   "Environmental Health and Toxicology"
+   "E&H: Environmental Health and Toxicology"
+  ],
+  "groups1": [
+   "Molecular Cell Biology",
+   "Environment and Health"
   ],
   "contributors": [
    "Hamers, T.",
@@ -100,553 +83,405 @@
    "Molenaar, D.",
    "Cenijn, P. H.",
    "Weiss, J. M."
-  ]
- },
- "https://doi.org/10.1002/chem.202000272": {
-  "groups": [
-   "Theoretical Chemistry",
-   "Chemistry and Pharmaceutical Sciences"
   ],
-  "contributors": [
-   "Bettens, T.",
-   "Alonso, M.",
-   "De Proft, F.",
-   "Hamlin, T. A.",
-   "Bickelhaupt, F. M."
-  ]
+  "title": "Transthyretin-binding activity of complex mixtures representing the composition of thyroid-hormone disrupting contaminants in house dust and human serum",
+  "year": "2020"
  },
- "https://doi.org/10.1002/anie.201914582": {
-  "groups": [
-   "Theoretical Chemistry",
-   "Chemistry and Pharmaceutical Sciences"
-  ],
-  "contributors": [
-   "Vermeeren, P.",
-   "Hamlin, T. A.",
-   "Fern\u00e1ndez, I.",
-   "Bickelhaupt, F. M."
-  ]
- },
- "https://doi.org/10.1002/jcc.26104": {
-  "groups": [
-   "Theoretical Chemistry",
-   "Chemistry and Pharmaceutical Sciences"
-  ],
-  "contributors": [
-   "Savoo, N.",
-   "Laloo, J. Z.",
-   "Rhyman, L.",
-   "Ramasami, P.",
-   "Bickelhaupt, F. M.",
-   "Poater, J."
-  ]
- },
- "https://doi.org/10.1002/chem.201905355": {
-  "groups": [
-   "Theoretical Chemistry",
-   "Chemistry and Pharmaceutical Sciences"
-  ],
-  "contributors": [
-   "Narsaria, A. K.",
-   "Poater, J.",
-   "Guerra, C. F.",
-   "Ehlers, A. W.",
-   "Hamlin, T. A.",
-   "Lammertsma, K.",
-   "Bickelhaupt, F. M."
-  ]
- },
- "https://doi.org/10.1016/j.jmb.2019.12.040": {
+ "https://doi.org/10.1039/d0ew00776e": {
   "groups": [
    "Molecular Cell Biology",
-   "Molecular Microbiology"
+   "Bio Informatics (IBIVU)"
   ],
-  "contributors": [
-   "van Winden, V. J. C.",
-   "Bunduc, C. M.",
-   "Ummels, R.",
-   "Bitter, W.",
-   "Houben, E. N. G.Pages:1265-1278"
-  ]
- },
- "https://doi.org/10.3389/fimmu.2019.03091": {
-  "groups": [
-   "Systems Bioinformatics",
-   "Molecular Cell Physiology",
-   "Molecular Cell Biology"
-  ],
-  "contributors": [
-   "Abudukelimu, A.",
-   "Barberis, M.",
-   "Redegeld, F.",
-   "Sahin, N.",
-   "Sharma, R. P.",
-   "Westerhoff, H. V."
-  ]
- },
- "https://doi.org/10.1002/chem.201905359": {
-  "groups": [
-   "Theoretical Chemistry",
-   "Chemistry and Pharmaceutical Sciences"
-  ],
-  "contributors": [
-   "Sergeieva, T.",
-   "Hamlin, T. A.",
-   "Okovytyy, S.",
-   "Breit, B.",
-   "Bickelhaupt, F. M."
-  ]
- },
- "https://doi.org/10.3390/microorganisms8030347": {
-  "groups": [
-   "Systems Bioinformatics",
-   "Molecular Cell Physiology"
-  ],
-  "contributors": [
-   "Wacoo, A. P.",
-   "Atukunda, P.",
-   "Muhoozi, G.",
-   "Braster, M.",
-   "Wagner, M.",
-   "van den Broek, T. J.",
-   "Sybesma, W.",
-   "Westerberg, A. C.",
-   "Iversen, P. O.",
-   "Kort, R."
-  ]
- },
- "https://doi.org/10.1002/asia.202000009": {
-  "groups": [
-   "Theoretical Chemistry",
-   "Chemistry and Pharmaceutical Sciences"
-  ],
-  "contributors": [
-   "Vermeeren, P.",
-   "Brinkhuis, F.",
-   "Hamlin, T. A.",
-   "Bickelhaupt, F. M."
-  ]
- },
- "https://doi.org/10.1016/j.envpol.2020.114141": {
-  "groups": [
-   "Environmental Chemistry and Toxicology",
-   "Environmental Bioanalytical Chemistry"
-  ],
-  "contributors": [
-   "van Mourik, L. M.",
-   "Wang, X.",
-   "Paxman, C.",
-   "Leonards, P. E.",
-   "Wania, F.",
-   "de Boer, J.",
-   "Mueller, J. F."
-  ]
- },
- "https://doi.org/10.1016/j.chemosphere.2020.126100": {
-  "groups": [
-   "Environmental Chemistry and Toxicology",
-   "Environmental Bioanalytical Chemistry"
-  ],
-  "contributors": [
-   "van der Veen, I.",
-   "Hanning, A. C.",
-   "Stare, A.",
-   "Leonards, P. E.",
-   "de Boer, J.",
-   "Weiss, J. M."
-  ]
- },
- "https://doi.org/10.1016/j.envres.2019.108948": {
-  "groups": [
-   "Systems Bioinformatics",
-   "Molecular Cell Physiology",
-   "Molecular Cell Biology"
-  ],
-  "contributors": [
-   "Sharma, R. P.",
-   "Kumar, V.",
-   "Schuhmacher, M.",
-   "Kolodkin, A.",
-   "Westerhoff, H. V."
-  ]
- },
- "https://doi.org/10.1016/j.chemosphere.2019.125102": {
-  "groups": [
-   "Systems Bioinformatics",
-   "Molecular Cell Physiology"
-  ],
-  "contributors": [
-   "Poursat, B. A.",
-   "van Spanning, R. J.",
-   "Braster, M.",
-   "Helmus, R.",
-   "de Voogt, P.",
-   "Parsons, J. R."
-  ]
- },
- "https://doi.org/10.1074/jbc.RA119.011682": {
-  "groups": [
-   "Molecular Cell Biology",
-   "Molecular Microbiology"
-  ],
-  "contributors": [
-   "Damen, M. P. M.",
-   "Phan, T. H.",
-   "Ummels, R.",
-   "Rubio-Canalejas, A.",
-   "Bitter, W.",
-   "Houben, E. N. G.Pages:5960-5969"
-  ]
- },
- "https://doi.org/10.1021/acs.jcim.9b00946": {
-  "groups": [
-   "Theoretical Chemistry",
-   "Chemistry and Pharmaceutical Sciences"
-  ],
-  "contributors": [
-   "Margiotta, E.",
-   "van der Lubbe, S. C.",
-   "de Azevedo Santos, L.",
-   "Paragi, G.",
-   "Moro, S.",
-   "Bickelhaupt, F. M.",
-   "Fonseca Guerra, C."
-  ]
- },
- "https://doi.org/10.1093/bioinformatics/btz917": {
-  "groups": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
-  ],
-  "contributors": [
-   "Jacobsen, A.",
-   "Ivanova, O.",
-   "Amini, S.",
-   "Heringa, J.",
-   "Kemmeren, P.",
-   "Feenstra, K. A.Pages:2142-2149"
-  ]
- },
- "https://doi.org/10.1016/j.chemosphere.2019.125574": {
-  "groups": [
-   "Environmental Chemistry and Toxicology",
-   "Environmental Bioanalytical Chemistry"
-  ],
-  "contributors": [
-   "van Mourik, L.",
-   "Toms, L.",
-   "He, C.",
-   "Banks, A.",
-   "Hobson, P.",
-   "Leonards, P.",
-   "de Boer, J.",
-   "Mueller, J."
-  ]
- },
- "https://doi.org/10.1093/jac/dkz516": {
-  "groups": [
-   "Chemistry and Pharmaceutical Sciences",
-   "Medicinal chemistry"
-  ],
-  "contributors": [
-   "De Ara\u00fajo, J. S.",
-   "da Silva, P. B.",
-   "Batista, M. M.",
-   "Peres, R. B.",
-   "Cardoso-Santos, C.",
-   "Kalejaiye, T. D.",
-   "Munday, J. C.",
-   "De Heuvel, E.",
-   "Sterk, G. J.",
-   "Augustyns, K.",
-   "Salado, I. G.",
-   "Matheeussen, A.",
-   "De Esch, I.",
-   "De Koning, H. P.",
-   "Leurs, R.",
-   "Maes, L.",
-   "Soeiro, M. D. N. C."
-  ]
- },
- "https://doi.org/10.1038/s41540-020-0125-0": {
-  "groups": [
-   "Molecular Cell Physiology",
-   "Molecular Cell Biology"
-  ],
-  "contributors": [
-   "Mondeel, T. D.",
-   "Ivanov, O.",
-   "Westerhoff, H. V.",
-   "Liebermeister, W.",
-   "Barberis, M."
-  ]
- },
- "https://doi.org/10.12688/f1000research.20559.1": {
-  "groups": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
-  ],
-  "contributors": [
-   "Orengo, C.",
-   "Velankar, S.",
-   "Wodak, S.",
-   "Zoete, V.",
-   "Bonvin, A. M. J. J.",
-   "Elofsson, A.",
-   "Feenstra, K. A.",
-   "Gerloff, D. L.",
-   "Hamelryck, T.",
-   "Hancock, J. M.",
-   "Helmer-Citterich, M.",
-   "Hospital, A.",
-   "Orozco, M.",
-   "Perrakis, A.",
-   "Rarey, M.",
-   "Soares, C.",
-   "Sussman, J. L.",
-   "Thornton, J. M.",
-   "Tuffery, P.",
-   "Tusnady, G.",
-   "Wierenga, R.",
-   "Salminen, T.",
-   "Schneider, B."
-  ]
- },
- "https://doi.org/10.1016/j.chemosphere.2020.126816": {
-  "groups": [
-   "Chemistry and Pharmaceutical Sciences",
-   "Environmental Chemistry and Toxicology"
-  ],
-  "contributors": [
-   "Zuiderveen, E. A.",
-   "Slootweg, J. C.",
-   "de Boer, J."
-  ]
- },
- "https://doi.org/10.1007/s00216-020-02661-1": {
-  "groups": [
-   "Environmental Health and Toxicology",
-   "Environmental Bioanalytical Chemistry"
-  ],
-  "contributors": [
-   "Xu, M.",
-   "Legradi, J.",
-   "Leonards, P.Pages:4313-4325"
-  ]
- },
- "https://doi.org/10.1073/pnas.191925011710.1073/pnas.1919250117": {
-  "groups": [
-   "Systems Bioinformatics",
-   "Molecular Cell Physiology"
-  ],
-  "contributors": [
-   "Nilsson, A.",
-   "Haanstra, J. R.",
-   "Engqvist, M.",
-   "Gerding, A.",
-   "Bakker, B. M.",
-   "Klingm\u00fcller, U.",
-   "Teusink, B.",
-   "Nielsen, J."
-  ]
- },
- "https://doi.org/10.1002/cphc.202000132": {
-  "groups": [
-   "Theoretical Chemistry",
-   "Chemistry and Pharmaceutical Sciences"
-  ],
-  "contributors": [
-   "Jian, J.",
-   "Poater, J.",
-   "Hammink, R.",
-   "Tinnemans, P.",
-   "McKenzie, C. J.",
-   "Bickelhaupt, F. M.",
-   "Mecinovi\u0107, J."
-  ]
- },
- "https://doi.org/10.1016/j.comtox.2020.100124": {
-  "groups": [
-   "Chemistry and Pharmaceutical Sciences",
-   "Toxicology"
-  ],
-  "contributors": [
-   "Autrup, H.",
-   "Barile, F. A.",
-   "Colin Berry, S.",
-   "Blaauboer, B. J.",
-   "Boobis, A.",
-   "Bolt, H.",
-   "Borgert, C. J.",
-   "Dekant, W.",
-   "Dietrich, D.",
-   "Domingo, J. L.",
-   "Batta Gori, G.",
-   "Greim, H.",
-   "Hengstler, J.",
-   "Kacew, S.",
-   "Marquardt, H.",
-   "Pelkonen, O.",
-   "Savolainen, K.",
-   "Heslop-Harrison, P.",
-   "Vermeulen, N. P."
-  ]
- },
- "https://doi.org/10.1371/journal.pcbi.1007767": {
-  "groups": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
-  ],
-  "contributors": [
-   "van Gils, J. H. M.",
-   "van Dijk, E.",
-   "Peduzzo, A.",
-   "Hofmann, A.",
-   "Vettore, N.",
-   "Sch\u00fctzmann, M. P.",
-   "Groth, G.",
-   "Mouhib, H.",
-   "Otzen, D. E.",
-   "Buell, A. K.",
-   "Abeln, S."
-  ]
- },
- "https://doi.org/10.3389/fmars.2020.00273": {
-  "groups": [
-   "Environmental Chemistry and Toxicology",
-   "Environmental Bioanalytical Chemistry"
-  ],
-  "contributors": [
-   "Maes, T.",
-   "van Diemen de Jel, J.",
-   "Vethaak, A. D.",
-   "Desender, M.",
-   "Bendall, V. A.",
-   "van Velzen, M.",
-   "Leslie, H. A."
-  ]
- },
- "https://doi.org/10.1111/2041-210X.13403": {
-  "groups": [
+  "groups0": [
    "Systems Bioinformatics",
    "Bioinformatics"
   ],
-  "contributors": [
-   "Ekkers, D. M.",
-   "Branco dos Santos, F.",
-   "Mallon, C. A.",
-   "Bruggeman, F.",
-   "van Doorn, G. S."
-  ]
- },
- "https://doi.org/10.1002/ejoc.202000590": {
-  "groups": [
-   "Theoretical Chemistry",
-   "Chemistry and Pharmaceutical Sciences"
-  ],
-  "contributors": [
-   "Hansen, T.",
-   "Vermeeren, P.",
-   "Haim, A.",
-   "van Dorp, M. J.",
-   "Cod\u00e9e, J. D.",
-   "Bickelhaupt, F. M.",
-   "Hamlin, T. A."
-  ]
- },
- "https://doi.org/10.1038/s42004-020-0313-2": {
-  "groups": [
-   "Theoretical Chemistry",
-   "Chemistry and Pharmaceutical Sciences"
-  ],
-  "contributors": [
-   "Pieters, B. J.",
-   "Wuts, M. H.",
-   "Poater, J.",
-   "Kumar, K.",
-   "White, P. B.",
-   "Kamps, J. J.",
-   "Sherman, W.",
-   "Pruijn, G. J.",
-   "Paton, R. S.",
-   "Beuming, T.",
-   "Bickelhaupt, F. M.",
-   "Mecinovi\u0107, J."
-  ]
- },
- "https://doi.org/10.1002/cphc.202000414": {
-  "groups": [
-   "Theoretical Chemistry",
-   "Chemistry and Pharmaceutical Sciences"
-  ],
-  "contributors": [
-   "Jian, J.",
-   "Poater, J.",
-   "Hammink, R.",
-   "Tinnemans, P.",
-   "McKenzie, C. J.",
-   "Bickelhaupt, F. M.",
-   "Mecinovi\u0107, J."
-  ]
- },
- "https://doi.org/10.1080/15287394.2020.1756592": {
-  "groups": [
-   "Chemistry and Pharmaceutical Sciences",
-   "Toxicology"
-  ],
-  "contributors": [
-   "Autrup, H.",
-   "Barile, F. A.",
-   "Berry, S. C.",
-   "Blaauboer, B. J.",
-   "Boobis, A.",
-   "Bolt, H.",
-   "Borgert, C. J.",
-   "Dekant, W.",
-   "Dietrich, D.",
-   "Domingo, J. L.",
-   "Gori, G. B.",
-   "Greim, H.",
-   "Hengstler, J.",
-   "Kacew, S.",
-   "Marquardt, H.",
-   "Pelkonen, O.",
-   "Savolainen, K.",
-   "Heslop-Harrison, P.",
-   "Vermeulen, N. P."
-  ]
- },
- "https://doi.org/10.1038/s41467-020-16952-9": {
-  "groups": [
-   "Bioinformatics",
+  "groups1": [
+   "Molecular Cell Biology",
    "Bio Informatics (IBIVU)"
   ],
   "contributors": [
-   "Fernandes Neto, J. M.",
-   "Nadal, E.",
+   "Dalmijn, J. A.",
+   "Poursat, B. A.",
+   "Van Spanning, R. J.",
+   "Brandt, B. W.",
+   "De Voogt, P.",
+   "Parsons, J. R."
+  ],
+  "title": "Influence of short- And long-term exposure on the biodegradation capacity of activated sludge microbial communities in ready biodegradability tests",
+  "year": "2021"
+ },
+ "https://doi.org/10.1101/2021.01.21.427716": {
+  "groups": [
+   "Molecular Cell Biology",
+   "Bio Informatics (IBIVU)"
+  ],
+  "groups0": [
+   "Molecular Cell Physiology",
+   "Bioinformatics"
+  ],
+  "groups1": [
+   "Molecular Cell Biology",
+   "Bio Informatics (IBIVU)"
+  ],
+  "contributors": [
+   "Hamoen, L. W.",
+   "Wang, B.",
+   "Staal, J.",
+   "Gao, Y.",
+   "Kort, R.",
+   "Syvertsson, S."
+  ],
+  "title": "Different resource allocation in a Bacillus subtilis population displaying bimodal motility",
+  "year": "2021"
+ },
+ "https://doi.org/10.1002/ejoc.201801562": {
+  "groups": [
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "groups0": [
+   "Systems Bioinformatics",
+   "Organic Chemistry"
+  ],
+  "groups1": [
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "van Lint, M. J.",
+   "Hall, M.",
+   "Faber, K.",
+   "van Spanning, R. J.",
+   "Ruijter, E.",
+   "Orru, R. V."
+  ],
+  "title": "Stereoselective Chemoenzymatic Cascade Synthesis of the bis-THF Core of Acetogeninsbis-Tetrahydrofuran acetogenins are a class of natural products displaying highly potent and selective anti-tumor activity. Herein we report a new route to precursors of these natural products, utilizing the pseudo C2-symmetry in the central bis-tetrahydrofuran fragment. Key steps of our stereoselective chemoenzymatic strategy include the epoxide hydrolase-mediated desymmetrization of meso-epoxides and a cascade cyclization in either \u201cinside-out\u201d or \u201coutside-in\u201d direction, providing stereoselective access to the cores of both bullatacin- and rolliniastatin 1-type acetogenins with 6 stereocenters each from a common mono-epoxide precursor.General information",
+  "year": "2019"
+ },
+ "https://doi.org/10.1016/j.talanta.2017.02.067": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health"
+  ],
+  "groups0": [
+   "BioAnalytical Chemistry",
+   "E&H: Environmental Health and Toxicology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Jonker, W.",
+   "Zwart, N.",
+   "Stockl, J. B.",
+   "de Koning, S.",
+   "Schaap, J.",
+   "Lamoree, M. H.",
+   "Somsen, G. W.",
+   "Hamers, T.",
+   "Kool, J."
+  ],
+  "title": "Continuous fraction collection of gas chromatographic separations with parallel mass spectrometric detection applied to cell-based bioactivity analysis",
+  "year": "2017"
+ },
+ "https://doi.org/10.1371/journal.pone.0173573": {
+  "groups": [
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "groups0": [
+   "Molecular Cell Biology",
+   "Molecular and Computational Toxicology"
+  ],
+  "groups1": [
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Huseinovic, A.",
+   "van Leeuwen, J.",
+   "van Welsem, T.",
+   "Stulemeijer, I.",
+   "van Leeuwen, F.",
+   "Vermeulen, N.",
+   "Kooter, J.",
+   "Vos, J."
+  ],
+  "title": "The effect of acetaminophen on ubiquitin homeostasis in Saccharomyces cerevisiae",
+  "year": "2017"
+ },
+ "https://doi.org/10.1016/j.tiv.2017.12.007": {
+  "groups": [
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "groups0": [
+   "Molecular Cell Biology",
+   "Molecular and Computational Toxicology"
+  ],
+  "groups1": [
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Huseinovic, A.",
+   "van Dijk, M.",
+   "Vermeulen, N. P. E.",
+   "van Leeuwen, F.",
+   "Kooter, J. M.",
+   "Vos, J. C."
+  ],
+  "title": "Drug toxicity profiling of a Saccharomyces cerevisiae deubiquitinase deletion panel shows that acetaminophen mimics tyrosine",
+  "year": "2018"
+ },
+ "https://doi.org/10.1038/s42003-021-01809-8": {
+  "groups": [
+   "Molecular Cell Biology",
+   "Bio Informatics (IBIVU)"
+  ],
+  "groups0": [
+   "Bioinformatics",
+   "Molecular Microbiology"
+  ],
+  "groups1": [
+   "Bio Informatics (IBIVU)",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "Wenzel, M.",
+   "Dekker, M. P.",
+   "Wang, B.",
+   "Burggraaf, M. J.",
+   "Bitter, W.",
+   "van Weering, J. R.",
+   "Hamoen, L. W."
+  ],
+  "title": "A flat embedding method for transmission electron microscopy reveals an unknown mechanism of tetracycline",
+  "year": "2021"
+ },
+ "https://doi.org/10.1021/acs.est.7b06604": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health"
+  ],
+  "groups0": [
+   "BioAnalytical Chemistry",
+   "E&H: Environmental Health and Toxicology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Zwart, N.",
+   "Nio, S. L.",
+   "Houtman, C. J.",
+   "De Boer, J.",
+   "Kool, J.",
+   "Hamers, T.",
+   "Lamoree, M. H."
+  ],
+  "title": "High-Throughput Effect-Directed Analysis Using Downscaled in Vitro Reporter Gene Assays to Identify Endocrine Disruptors in Surface Water",
+  "year": "2018"
+ },
+ "https://doi.org/10.1038/s41598-018-23528-7": {
+  "groups": [
+   "Molecular Cell Biology",
+   "Bio Informatics (IBIVU)"
+  ],
+  "groups0": [
+   "Systems Bioinformatics",
+   "Molecular Cell Physiology",
+   "Bioinformatics"
+  ],
+  "groups1": [
+   "Molecular Cell Biology",
+   "Molecular Cell Biology",
+   "Bio Informatics (IBIVU)"
+  ],
+  "contributors": [
    "Bosdriesz, E.",
-   "Ooft, S. N.",
-   "Farre, L.",
-   "McLean, C.",
-   "Klarenbeek, S.",
-   "Jurgens, A.",
-   "Hagen, H.",
-   "Wang, L.",
-   "Felip, E.",
-   "Martinez-Marti, A.",
-   "Vidal, A.",
-   "Voest, E.",
-   "Wessels, L. F. A.",
-   "van Tellingen, O.",
-   "Villanueva, A.",
-   "Bernards, R.Pages:3157"
-  ]
+   "Wortel, M. T.",
+   "Haanstra, J. R.",
+   "Wagner, M. J.",
+   "De La Torre Cort\u00e9s, P.",
+   "Teusink, B."
+  ],
+  "title": "Low affinity uniporter carrier proteins can increase net substrate uptake rate by reducing efflux",
+  "year": "2018"
+ },
+ "https://doi.org/10.1128/AAC.01445-20": {
+  "groups": [
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "groups0": [
+   "Organic Chemistry",
+   "Molecular Microbiology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "Ho, V. Q.",
+   "Verboom, T.",
+   "Rong, M. K.",
+   "Habjan, E.",
+   "Bitter, W.",
+   "Speer, A."
+  ],
+  "title": "Heterologous Expression of eth",
+  "year": "2021"
+ },
+ "https://doi.org/10.1007/s00253-019-09697-z": {
+  "groups": [
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "groups0": [
+   "Molecular Microbiology",
+   "Molecular and Computational Toxicology"
+  ],
+  "groups1": [
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Ortega Ugalde, S.",
+   "Boot, M.",
+   "Commandeur, J.",
+   "Jennings, P.",
+   "Bitter, W.",
+   "Vos, J."
+  ],
+  "title": "Function, essentiality, and expression of cytochrome P450 enzymes and their cognate redox partners in Mycobacterium tuberculosis: are they drug targets?",
+  "year": "2019"
+ },
+ "https://doi.org/10.1007/s12033-019-00175-5": {
+  "groups": [
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "groups0": [
+   "Medicinal chemistry",
+   "Molecular Cell Biology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "Nawaz, I.",
+   "Iqbal, M.",
+   "Hakvoort, H. W.",
+   "de Boer, A. H.",
+   "Schat, H."
+  ],
+  "title": "None",
+  "year": "2019"
+ },
+ "https://doi.org/10.1128/JB.00037-21": {
+  "groups": [
+   "Molecular Cell Biology",
+   "Bio Informatics (IBIVU)"
+  ],
+  "groups0": [
+   "Molecular Cell Physiology",
+   "Bioinformatics",
+   "Bio Informatics (IBIVU)"
+  ],
+  "groups1": [
+   "Molecular Cell Biology",
+   "Bio Informatics (IBIVU)",
+   "Bio Informatics (IBIVU)"
+  ],
+  "contributors": [
+   "Syvertsson, S.",
+   "Wang, B.",
+   "Staal, J.",
+   "Gao, Y.",
+   "Kort, R.",
+   "Hamoen, L. W."
+  ],
+  "title": "Different resource allocation in a bacillus subtilis population displaying bimodal motility",
+  "year": "2021"
+ },
+ "https://doi.org/10.1093/bioinformatics/bty233": {
+  "groups": [
+   "Molecular Cell Biology",
+   "Bio Informatics (IBIVU)"
+  ],
+  "groups0": [
+   "Systems Bioinformatics",
+   "Bioinformatics",
+   "Integrative Bioinformatics"
+  ],
+  "groups1": [
+   "Molecular Cell Biology",
+   "Bio Informatics (IBIVU)",
+   "Bio Informatics (IBIVU)"
+  ],
+  "contributors": [
+   "Anton Feenstra, K.",
+   "Abeln, S.",
+   "Westerhuis, J. A.",
+   "Brancos Dos Santos, F.",
+   "Molenaar, D.",
+   "Teusink, B.",
+   "Hoefsloot, H. C.",
+   "Heringa, J."
+  ],
+  "title": "Training for translation between disciplines: A philosophy for life and data sciences curricula",
+  "year": "2018"
+ },
+ "https://doi.org/10.1111/mmi.14255": {
+  "groups": [
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "groups0": [
+   "Medicinal chemistry",
+   "Molecular Microbiology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "Steenhuis, M.",
+   "Abdallah, A. M.",
+   "de Munnik, S. M.",
+   "Kuhne, S.",
+   "Sterk, G. J.",
+   "van den Berg van Saparoea, B.",
+   "Westerhausen, S.",
+   "Wagner, S.",
+   "van der Wel, N. N.",
+   "Wijtmans, M.",
+   "van Ulsen, P.",
+   "Jong, W. S.",
+   "Luirink, J."
+  ],
+  "title": "Inhibition of autotransporter biogenesis by small molecules",
+  "year": "2019"
  },
  "https://doi.org/10.1016/j.bcp.2020.113938": {
   "groups": [
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "groups0": [
    "Organic Chemistry",
    "Molecular Microbiology",
    "Molecular and Computational Toxicology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences"
   ],
   "contributors": [
    "Ortega Ugalde, S.",
@@ -655,114 +490,51 @@
    "Bitter, W.",
    "Grossmann, T. N.",
    "Commandeur, J. N."
-  ]
+  ],
+  "title": "Acetylene containing cyclo(L-Tyr-L-Tyr)-analogs as mechanism-based inhibitors of CYP121A1 from Mycobacterium tuberculosis",
+  "year": "2020"
  },
- "https://doi.org/10.1186/s12302-020-00375-w": {
+ "https://doi.org/10.3390/ijms20153684": {
   "groups": [
-   "Environmental Chemistry and Toxicology",
-   "Environmental Bioanalytical Chemistry"
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "groups0": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Medicinal chemistry",
+   "Molecular Microbiology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "contributors": [
-   "Dulio, V.",
-   "Koschorreck, J.",
-   "van Bavel, B.",
-   "van den Brink, P.",
-   "Hollender, J.",
-   "Munthe, J.",
-   "Schlabach, M.",
-   "Aalizadeh, R.",
-   "Agerstrand, M.",
-   "Ahrens, L.",
-   "Allan, I.",
-   "Alygizakis, N.",
-   "Barcelo\u2019, D.",
-   "Bohlin-Nizzetto, P.",
-   "Boutroup, S.",
-   "Brack, W.",
-   "Bressy, A.",
-   "Christensen, J. H.",
-   "Cirka, L.",
-   "Covaci, A.",
-   "Derksen, A.",
-   "Deviller, G.",
-   "Dingemans, M. M.",
-   "Engwall, M.",
-   "Fatta-Kassinos, D.",
-   "Gago-Ferrero, P.",
-   "Hern\u00e1ndez, F.",
-   "Herzke, D.",
-   "Hilscherov\u00e1, K.",
-   "Hollert, H.",
-   "Junghans, M.",
-   "Kasprzyk-Hordern, B.",
-   "Keiter, S.",
-   "Kools, S. A.",
-   "Kruve, A.",
-   "Lambropoulou, D.",
-   "Lamoree, M.",
-   "Leonards, P.",
-   "Lopez, B.",
-   "L\u00f3pez de Alda, M.",
-   "Lundy, L.",
-   "Makovinsk\u00e1, J.",
-   "Marig\u00f3mez, I.",
-   "Martin, J. W.",
-   "McHugh, B.",
-   "Mi\u00e8ge, C.",
-   "O\u2019Toole, S.",
-   "Perkola, N.",
-   "Polesello, S.",
-   "Posthuma, L.",
-   "Rodriguez-Mozaz, S.",
-   "Roessink, I.",
-   "Rostkowski, P.",
-   "Ruedel, H.",
-   "Samanipour, S.",
-   "Schulze, T.",
-   "Schymanski, E. L.",
-   "Sengl, M.",
-   "Tar\u00e1bek, P.",
-   "Ten Hulscher, D.",
-   "Thomaidis, N.",
-   "Togola, A.",
-   "Valsecchi, S.",
-   "van Leeuwen, S.",
-   "von der Ohe, P.",
-   "Vorkamp, K.",
-   "Vrana, B.",
-   "Slobodnik, J."
-  ]
- },
- "https://doi.org/10.1007/s10661-020-08452-6": {
-  "groups": [
-   "Environmental Chemistry and Toxicology",
-   "Environment and Health"
+   "Glas, M.",
+   "Eiso, A. B.",
+   "Hollander, J.",
+   "Siegal, G.",
+   "Luirink, J.",
+   "de Esch, I."
   ],
-  "contributors": [
-   "Loha, K. M.",
-   "Lamoree, M.",
-   "De Boer, J."
-  ]
- },
- "https://doi.org/10.1016/j.chemosphere.2020.126588": {
-  "groups": [
-   "Environmental Health and Toxicology",
-   "Environmental Bioanalytical Chemistry",
-   "Environment and Health"
-  ],
-  "contributors": [
-   "Sugeng, E. J.",
-   "de Cock, M.",
-   "Leonards, P. E.",
-   "van de Bor, M."
-  ]
+  "title": "Interrogating the essential bacterial cell division protein Fts",
+  "year": "2019"
  },
  "https://doi.org/10.1016/j.scitotenv.2020.139028": {
   "groups": [
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health"
+  ],
+  "groups0": [
    "BioAnalytical Chemistry",
-   "Environmental Chemistry and Toxicology",
-   "Environmental Health and Toxicology",
-   "Molecular Microbiology"
+   "Molecular Microbiology",
+   "E&H: Environmental Health and Toxicology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology",
+   "Environment and Health"
   ],
   "contributors": [
    "Jonkers, T. J.",
@@ -774,465 +546,337 @@
    "Kool, J.",
    "Lamoree, M. H.",
    "Hamers, T."
-  ]
- },
- "https://doi.org/10.1016/j.etap.2020.103396": {
-  "groups": [
-   "Chemistry and Pharmaceutical Sciences",
-   "Toxicology"
   ],
-  "contributors": [
-   "Autrup, H.",
-   "Barile, F. A.",
-   "Berry, S. C.",
-   "Blaauboer, B. J.",
-   "Boobis, A.",
-   "Bolt, H.",
-   "Borgert, C. J.",
-   "Dekant, W.",
-   "Dietrich, D.",
-   "Domingo, J. L.",
-   "Gori, G. B.",
-   "Greim, H.",
-   "Hengstler, J.",
-   "Kacew, S.",
-   "Marquardt, H.",
-   "Pelkonen, O.",
-   "Savolainen, K.",
-   "Heslop-Harrison, P.",
-   "Vermeulen, N. P."
-  ]
+  "title": "Development of a high-throughput bioassay for screening of antibiotics in aquatic environmental samples",
+  "year": "2020"
  },
- "https://doi.org/10.1016/j.cbi.2020.109099": {
+ "https://doi.org/10.1007/s12223-021-00866-0": {
   "groups": [
-   "Chemistry and Pharmaceutical Sciences",
-   "Toxicology"
-  ],
-  "contributors": [
-   "Autrup, H.",
-   "Barile, F. A.",
-   "Berry, S. C.",
-   "Blaauboer, B. J.",
-   "Boobis, A.",
-   "Bolt, H.",
-   "Borgert, C. J.",
-   "Dekant, W.",
-   "Dietrich, D.",
-   "Domingo, J. L.",
-   "Gori, G. B.",
-   "Greim, H.",
-   "Hengstler, J.",
-   "Kacew, S.",
-   "Marquardt, H.",
-   "Pelkonen, O.",
-   "Savolainen, K.",
-   "Heslop-Harrison, P.",
-   "Vermeulen, N. P."
-  ]
- },
- "https://doi.org/10.3390/molecules25081918": {
-  "groups": [
-   "Theoretical Chemistry",
-   "Chemistry and Pharmaceutical Sciences"
-  ],
-  "contributors": [
-   "Hintzen, J. C.",
-   "Poater, J.",
-   "Kumar, K.",
-   "Al Temimi, A. H.",
-   "Pieters, B. J.",
-   "Paton, R. S.",
-   "Bickelhaupt, F. M.",
-   "Mecinovi\u0107, J."
-  ]
- },
- "https://doi.org/10.1016/j.toxlet.2020.04.008": {
-  "groups": [
-   "Chemistry and Pharmaceutical Sciences",
-   "Toxicology"
-  ],
-  "contributors": [
-   "Autrup, H.",
-   "Barile, F. A.",
-   "Berry, S. C.",
-   "Blaauboer, B. J.",
-   "Boobis, A.",
-   "Bolt, H.",
-   "Borgert, C. J.",
-   "Dekant, W.",
-   "Dietrich, D.",
-   "Domingo, J. L.",
-   "Gori, G. B.",
-   "Greim, H.",
-   "Hengstler, J.",
-   "Kacew, S.",
-   "Marquardt, H.",
-   "Pelkonen, O.",
-   "Savolainen, K.",
-   "Heslop-Harrison, P.",
-   "Vermeulen, N. P."
-  ]
- },
- "https://doi.org/10.1016/j.tiv.2020.104861": {
-  "groups": [
-   "Chemistry and Pharmaceutical Sciences",
-   "Toxicology"
-  ],
-  "contributors": [
-   "Autrup, H.",
-   "Barile, F. A.",
-   "Berry, S. C.",
-   "Blaauboer, B. J.",
-   "Boobis, A.",
-   "Bolt, H.",
-   "Borgert, C. J.",
-   "Dekant, W.",
-   "Dietrich, D.",
-   "Domingo, J. L.",
-   "Gori, G. B.",
-   "Greim, H.",
-   "Hengstler, J.",
-   "Kacew, S.",
-   "Marquardt, H.",
-   "Pelkonen, O.",
-   "Savolainen, K.",
-   "Heslop-Harrison, P.",
-   "Vermeulen, N. P."
-  ]
- },
- "https://doi.org/10.4230/LIPIcs.CPM.2020.10": {
-  "groups": [
-   "Bioinformatics",
+   "Molecular Cell Biology",
    "Bio Informatics (IBIVU)"
   ],
-  "contributors": [
-   "Charalampopoulos, P.",
-   "Pissis, S. P.",
-   "Radoszewski, J.",
-   "Walen, T.",
-   "Zuba, W."
-  ]
- },
- "https://doi.org/10.1007/s00204-020-02800-8": {
-  "groups": [
-   "Chemistry and Pharmaceutical Sciences",
-   "Toxicology"
-  ],
-  "contributors": [
-   "Autrup, H.",
-   "Barile, F. A.",
-   "Berry, S. C.",
-   "Blaauboer, B. J.",
-   "Boobis, A.",
-   "Bolt, H.",
-   "Borgert, C. J.",
-   "Dekant, W.",
-   "Dietrich, D.",
-   "Domingo, J. L.",
-   "Gori, G. B.",
-   "Greim, H.",
-   "Hengstler, J.",
-   "Kacew, S.",
-   "Marquardt, H.",
-   "Pelkonen, O.",
-   "Savolainen, K.",
-   "Heslop-Harrison, P.",
-   "Vermeulen, N. P."
-  ]
- },
- "https://doi.org/10.1002/adfm.202002064": {
-  "groups": [
-   "Theoretical Chemistry",
-   "Chemistry and Pharmaceutical Sciences"
-  ],
-  "contributors": [
-   "Narsaria, A. K.",
-   "Rauch, F.",
-   "Krebs, J.",
-   "Endres, P.",
-   "Friedrich, A.",
-   "Krummenacher, I.",
-   "Braunschweig, H.",
-   "Finze, M.",
-   "Nitsch, J.",
-   "Bickelhaupt, F. M.",
-   "Marder, T. B."
-  ]
- },
- "https://doi.org/10.1002/chem.202000857": {
-  "groups": [
-   "Theoretical Chemistry",
-   "Chemistry and Pharmaceutical Sciences"
-  ],
-  "contributors": [
-   "Yu, S.",
-   "Vermeeren, P.",
-   "van Dommelen, K.",
-   "Bickelhaupt, F. M.",
-   "Hamlin, T. A."
-  ]
- },
- "https://doi.org/10.1021/acs.joc.0c00575": {
-  "groups": [
-   "Theoretical Chemistry",
-   "Chemistry and Pharmaceutical Sciences",
-   "Organic Chemistry"
-  ],
-  "contributors": [
-   "Faltracco, M.",
-   "Sukowski, V.",
-   "Van Druenen, M.",
-   "Hamlin, T. A.",
-   "Bickelhaupt, F. M.",
-   "Ruijter, E."
-  ]
- },
- "https://doi.org/10.1002/jcc.26188": {
-  "groups": [
-   "Theoretical Chemistry",
-   "Chemistry and Pharmaceutical Sciences"
-  ],
-  "contributors": [
-   "Narsaria, A. K.",
-   "Ruijter, J. D.",
-   "Hamlin, T. A.",
-   "Ehlers, A. W.",
-   "Guerra, C. F.",
-   "Lammertsma, K.",
-   "Bickelhaupt, F. M."
-  ]
- },
- "https://doi.org/10.1039/d0sc02901g": {
-  "groups": [
-   "Theoretical Chemistry",
-   "Chemistry and Pharmaceutical Sciences"
-  ],
-  "contributors": [
-   "Vermeeren, P.",
-   "Hamlin, T. A.",
-   "Fern\u00e1ndez, I.",
-   "Bickelhaupt, F. M."
-  ]
- },
- "https://doi.org/10.1093/gbe/evaa171": {
-  "groups": [
-   "Bioinformatics",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Ayad, L. A.",
-   "Dourou, A. M.",
-   "Arhondakis, S.",
-   "Pissis, S. P."
-  ]
- },
- "https://doi.org/10.1021/acs.orglett.0c02773": {
-  "groups": [
-   "Theoretical Chemistry",
-   "Chemistry and Pharmaceutical Sciences"
-  ],
-  "contributors": [
-   "Jian, J.",
-   "Poater, J.",
-   "White, P. B.",
-   "Mckenzie, C. J.",
-   "Bickelhaupt, F. M.",
-   "Mecinovi\u0107, J."
-  ]
- },
- "https://doi.org/10.1007/s00453-020-00744-0": {
-  "groups": [
-   "Bioinformatics",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Amir, A.",
-   "Charalampopoulos, P.",
-   "Pissis, S. P.",
-   "Radoszewski, J."
-  ]
- },
- "https://doi.org/10.1016/j.apsb.2020.09.005": {
-  "groups": [
-   "Chemistry and Pharmaceutical Sciences",
-   "BioAnalytical Chemistry"
-  ],
-  "contributors": [
-   "Xie, C.",
-   "Slagboom, J.",
-   "Albulescu, L. O.",
-   "Somsen, G. W.",
-   "Vonk, F. J.",
-   "Casewell, N. R.",
-   "Kool, J."
-  ]
- },
- "https://doi.org/10.3390/molecules25214906": {
-  "groups": [
-   "Chemistry and Pharmaceutical Sciences",
-   "Organic Chemistry"
-  ],
-  "contributors": [
-   "Collet, J. W.",
-   "Roose, T. R.",
-   "Weijers, B.",
-   "Maes, B. U.",
-   "Ruijter, E.",
-   "Orru, R. V."
-  ]
- },
- "https://doi.org/10.1038/s41540-020-00150-w": {
-  "groups": [
+  "groups0": [
    "Systems Bioinformatics",
+   "Molecular Cell Physiology",
+   "Bioinformatics"
+  ],
+  "groups1": [
+   "Molecular Cell Biology",
+   "Molecular Cell Biology",
+   "Bio Informatics (IBIVU)"
+  ],
+  "contributors": [
+   "Iturbe-Espinoza, P.",
+   "Brandt, B. W.",
+   "Braster, M.",
+   "Bonte, M.",
+   "Brown, D. M.",
+   "van Spanning, R. J."
+  ],
+  "title": "Effects of DNA preservation solution and DNA extraction methods on microbial community profiling of soil",
+  "year": "2021"
+ },
+ "https://doi.org/10.1128/mBio.01346-18": {
+  "groups": [
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "groups0": [
+   "Medicinal chemistry",
+   "Organic Chemistry",
+   "Molecular Microbiology",
+   "Molecular and Computational Toxicology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Kureisaite-Ciziene, D.",
+   "Varadajan, A.",
+   "McLaughlin, S. H.",
+   "Glas, M.",
+   "Silva, A. M.",
+   "Luirink, R.",
+   "Mueller, C.",
+   "Blaauwen, T. D.",
+   "Grossmann, T. N.",
+   "Luirink, J.",
+   "L\u00f6we, J."
+  ],
+  "title": "Structural analysis of the interaction between the bacterial cell division proteins FTSQ and FTSBMost bacteria and archaea use the tubulin homologue Fts",
+  "year": "2018"
+ },
+ "https://doi.org/10.1016/j.chemosphere.2020.126816": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health"
+  ],
+  "groups0": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Zuiderveen, E. A.",
+   "Slootweg, J. C.",
+   "de Boer, J."
+  ],
+  "title": "Novel brominated flame retardants - A review of their occurrence in indoor air, dust, consumer goods and food",
+  "year": "2020"
+ },
+ "https://doi.org/10.1007/s00726-018-2613-8": {
+  "groups": [
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "groups0": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology",
+   "Molecular and Computational Toxicology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Huseinovic, A.",
+   "Dekker, S. J.",
+   "Boogaard, B.",
+   "Vermeulen, N. P.",
+   "Kooter, J. M.",
+   "Vos, J. C."
+  ],
+  "title": "Acetaminophen reduces the protein levels of high affinity amino acid permeases and causes tryptophan depletion",
+  "year": "2018"
+ },
+ "https://doi.org/10.1128/AEM.01528-17": {
+  "groups": [
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "groups0": [
+   "Systems Bioinformatics",
+   "BioAnalytical Chemistry",
+   "Molecular Cell Physiology"
+  ],
+  "groups1": [
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences",
    "Molecular Cell Biology"
   ],
   "contributors": [
-   "N. Kolodkin, A.",
-   "Sharma, R. P.",
-   "Colangelo, A. M.",
-   "Ignatenko, A.",
-   "Martorana, F.",
-   "Jennen, D.",
-   "Bried\u00e9, J. J.",
-   "Brady, N.",
-   "Barberis, M.",
-   "Mondeel, T. D.",
-   "Papa, M.",
-   "Kumar, V.",
-   "Peters, B.",
-   "Skupin, A.",
-   "Alberghina, L.",
-   "Balling, R.",
-   "Westerhoff, H. V."
-  ]
+   "dos Santos, F. B.",
+   "Olivier, B. G.",
+   "Boele, J.",
+   "Krumpochova, P.",
+   "Klau, G. W.",
+   "Giera, M.",
+   "Teusink, B."
+  ],
+  "title": "Probing the genome-scale metabolic landscape of Bordetella pertussis, the causative agent of whooping cough",
+  "year": "2017"
  },
- "https://doi.org/10.3390/a13110276": {
+ "https://doi.org/10.1007/s00253-018-9299-4": {
   "groups": [
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "groups0": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Organic Chemistry",
+   "Molecular Microbiology",
+   "Molecular and Computational Toxicology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Ortega Ugalde, S.",
+   "de Koning, C. P.",
+   "Wallraven, K.",
+   "Bruyneel, B.",
+   "Vermeulen, N.",
+   "Grossmann, T.",
+   "Bitter, W.",
+   "Commandeur, J.",
+   "Vos, J."
+  ],
+  "title": "Linking cytochrome P450 enzymes from Mycobacterium tuberculosis to their cognate ferredoxin partners",
+  "year": "2018"
+ },
+ "https://doi.org/10.1016/j.tiv.2017.08.004": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health"
+  ],
+  "groups0": [
+   "BioAnalytical Chemistry",
+   "Environment and Health",
+   "E&H: Environmental Health and Toxicology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Zwart, N.",
+   "Andringa, D.",
+   "de Leeuw, W. J.",
+   "Kojima, H.",
+   "Iida, M.",
+   "Houtman, C. J.",
+   "de Boer, J.",
+   "Kool, J.",
+   "Lamoree, M. H.",
+   "Hamers, T."
+  ],
+  "title": "Improved androgen specificity of AR-Eco",
+  "year": "2017"
+ },
+ "https://doi.org/10.1016/j.jinorgbio.2017.12.003": {
+  "groups": [
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "groups0": [
+   "Molecular Microbiology",
+   "Molecular and Computational Toxicology"
+  ],
+  "groups1": [
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Ortega Ugalde, S.",
+   "Luirink, R.",
+   "Geerke, D.",
+   "Vermeulen, N.",
+   "Bitter, W.",
+   "Commandeur, J."
+  ],
+  "title": "Engineering a self-sufficient Mycobacterium tuberculosis CYP130 by gene fusion with the reductase-domain of CYP102A1 from Bacillus megaterium",
+  "year": "2017"
+ },
+ "https://doi.org/10.1177/2472630319848768": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health"
+  ],
+  "groups0": [
+   "Chemistry and Pharmaceutical Sciences",
+   "BioAnalytical Chemistry",
+   "E&H: Environmental Health and Toxicology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Jonker, W.",
+   "de Vries, K.",
+   "Althuisius, N.",
+   "van Iperen, D.",
+   "Janssen, E.",
+   "ten Broek, R.",
+   "Houtman, C.",
+   "Zwart, N.",
+   "Hamers, T.",
+   "Lamoree, M. H.",
+   "Ooms, B.",
+   "Hidding, J.",
+   "Somsen, G. W.",
+   "Kool, J."
+  ],
+  "title": "Compound Identification Using Liquid Chromatography and High-Resolution Noncontact Fraction Collection with a Solenoid Valve",
+  "year": "2019"
+ },
+ "https://doi.org/10.1038/s41467-020-20141-z": {
+  "groups": [
+   "Molecular Cell Biology",
+   "Bio Informatics (IBIVU)"
+  ],
+  "groups0": [
+   "Systems Bioinformatics",
    "Bioinformatics",
    "Bio Informatics (IBIVU)"
   ],
-  "contributors": [
-   "Abedin, P.",
-   "Ganguly, A.",
-   "Pissis, S. P.",
-   "Thankachan, S. V."
-  ]
- },
- "https://doi.org/10.3390/ph13110362": {
-  "groups": [
-   "Chemistry and Pharmaceutical Sciences",
-   "Medicinal chemistry"
+  "groups1": [
+   "Molecular Cell Biology",
+   "Bio Informatics (IBIVU)",
+   "Bio Informatics (IBIVU)"
   ],
   "contributors": [
-   "Hamilton, D. J.",
-   "\u00c1br\u00e1nyi-Balogh, P.",
-   "Keeley, A.",
-   "Petri, L.",
-   "Hrast, M.",
-   "Imre, T.",
-   "Wijtmans, M.",
-   "Gobec, S.",
-   "de Esch, I. J.",
-   "Keser\u0171, G. M."
-  ]
- },
- "https://doi.org/10.3390/biomedicines8060165": {
-  "groups": [
-   "Chemistry and Pharmaceutical Sciences",
-   "BioAnalytical Chemistry"
+   "Baardman, J.",
+   "Verberk, S. G.",
+   "van der Velden, S.",
+   "Gijbels, M. J.",
+   "van Roomen, C. P.",
+   "Sluimer, J. C.",
+   "Broos, J. Y.",
+   "Griffith, G. R.",
+   "Prange, K. H.",
+   "van Weeghel, M.",
+   "Lakbir, S.",
+   "Molenaar, D.",
+   "Meinster, E.",
+   "Neele, A. E.",
+   "Kooij, G.",
+   "de Vries, H. E.",
+   "Lutgens, E.",
+   "Wellen, K. E.",
+   "de Winther, M. P.",
+   "Van den Bossche, J."
   ],
-  "contributors": [
-   "Xie, C.",
-   "Albulescu, L. O.",
-   "Still, K. B.",
-   "Slagboom, J.",
-   "Zhao, Y.",
-   "Jiang, Z.",
-   "Somsen, G. W.",
-   "Vonk, F. J.",
-   "Casewell, N. R.",
-   "Kool, J."
-  ]
+  "title": "Macrophage ATP citrate lyase deficiency stabilizes atherosclerotic plaques",
+  "year": "2020"
  },
- "https://doi.org/10.1002/chem.202003831": {
+ "https://doi.org/10.1038/s42003-021-01948-y": {
   "groups": [
-   "Theoretical Chemistry",
-   "Chemistry and Pharmaceutical Sciences"
+   "Molecular Cell Biology",
+   "Bio Informatics (IBIVU)"
   ],
-  "contributors": [
-   "Vermeeren, P.",
-   "Hansen, T.",
-   "Jansen, P.",
-   "Swart, M.",
-   "Hamlin, T. A.",
-   "Bickelhaupt, F. M."
-  ]
- },
- "https://doi.org/10.1021/acs.joc.0c0211210.1021/acs.joc.0c02112": {
-  "groups": [
-   "Theoretical Chemistry",
-   "Chemistry and Pharmaceutical Sciences"
-  ],
-  "contributors": [
-   "Vermeeren, P.",
-   "Hansen, T.",
-   "Grasser, M.",
-   "Silva, D. R.",
-   "Hamlin, T. A.",
-   "Bickelhaupt, F. M."
-  ]
- },
- "https://doi.org/10.1002/chem.202003768": {
-  "groups": [
-   "Theoretical Chemistry",
-   "Chemistry and Pharmaceutical Sciences"
-  ],
-  "contributors": [
-   "van der Lubbe, S. C.",
-   "Vermeeren, P.",
-   "Fonseca Guerra, C.",
-   "Bickelhaupt, F. M."
-  ]
- },
- "https://doi.org/10.1016/j.mec.2020.e00133": {
-  "groups": [
+  "groups0": [
    "Systems Bioinformatics",
-   "Molecular Cell Biology"
+   "Molecular Cell Physiology",
+   "Bioinformatics"
+  ],
+  "groups1": [
+   "Molecular Cell Biology",
+   "Molecular Cell Biology",
+   "Bio Informatics (IBIVU)"
   ],
   "contributors": [
-   "Hernandez-Valdes, J. A.",
-   "aan de Stegge, M.",
-   "Hermans, J.",
-   "Teunis, J.",
-   "van Tatenhove-Pel, R. J.",
-   "Teusink, B.",
-   "Bachmann, H.",
-   "Kuipers, O. P."
-  ]
- },
- "https://doi.org/10.1038/s41467-020-16362-x": {
-  "groups": [
-   "Chemistry and Pharmaceutical Sciences",
-   "BioAnalytical Chemistry"
+   "Melkonian, C.",
+   "Fillinger, L.",
+   "Atashgahi, S.",
+   "da Rocha, U. N.",
+   "Kuiper, E.",
+   "Olivier, B.",
+   "Braster, M.",
+   "Gottstein, W.",
+   "Helmus, R.",
+   "Parsons, J. R.",
+   "Smidt, H.",
+   "van der Waals, M.",
+   "Gerritse, J.",
+   "Brandt, B. W.",
+   "R\u00f6ling, W. F.",
+   "Molenaar, D.",
+   "van Spanning, R. J."
   ],
-  "contributors": [
-   "Hansen, T.",
-   "Elferink, H.",
-   "van Hengst, J. M.",
-   "Houthuijs, K. J.",
-   "Remmerswaal, W. A.",
-   "Kromm, A.",
-   "Berden, G.",
-   "van der Vorm, S.",
-   "Rijs, A. M.",
-   "Overkleeft, H. S.",
-   "Filippov, D. V.",
-   "Rutjes, F. P.",
-   "van der Marel, G. A.",
-   "Martens, J.",
-   "Oomens, J.",
-   "Cod\u00e9e, J. D.",
-   "Boltje, T. J."
-  ]
+  "title": "High biodiversity in a benzene-degrading nitrate-reducing culture is sustained by a few primary consumers",
+  "year": "2021"
  }
 }

@@ -33,8 +33,8 @@ cdir = os.path.dirname(os.path.abspath(os.sys.argv[0]))
 DB_FILE_NAME = 'aimmsDBtest.sqlite'
 DB_ACTIVE_TABLE = 'Y2020'
 # Production DB
-#DB_FILE_NAME = 'aimmsDB6yrs.sqlite'
-#DB_ACTIVE_TABLE = 'publications'
+DB_FILE_NAME = 'aimmsDB6yrs.sqlite'
+DB_ACTIVE_TABLE = 'publications'
 
 
 # Grab data from database and create a json dict and dump to file.
@@ -58,7 +58,7 @@ aimmsDB.closeDB()
 with open('data0.json', 'w') as F:
     json.dump(data, F, indent=1)
 
-def makeWordcloud(fname, kword_dict, size=(30, 16), height=1024, width=1280):
+def makeWordcloud(fname, kword_dict, size=(20, 10), height=1024, width=1280):
     wcloud = wordcloud.WordCloud(height=height, width=width).generate_from_frequencies(kword_dict)
     plt.figure(figsize=size)
     plt.imshow(wcloud)
@@ -179,6 +179,71 @@ createWordcloudSheet(
     'author_organisations_groups',
     all_author_organisations,
     'organisation',
+    FLT.org_group_list2,
+    FLT.org_group_exclude_list,
+    0,
+    apply_filter=True,
+    create_wordcloud=True,
+)
+
+
+
+# playing around with multi-refernces
+import pprint
+
+multigroup = {}
+mapped_depts = []
+cross_dept_frequency_list = []
+for paper in data:
+    groups = []
+    groups_nomap = []
+    for grp in FLT.org_group_list:
+        if grp in data[paper]['organisations']:
+            groups_nomap.append(grp)
+            groups.append(FLT.org_group_map_dept2[grp])
+            cross_dept_frequency_list.append(FLT.org_group_map_dept2[grp])
+    if len(groups) > 1:
+        multigroup[paper] = {'groups' : list(set([FLT.org_group_map_dept2[g] for g in groups])),
+                             'groups0' : groups_nomap,
+                             'groups1' : groups,
+                             'contributors' : data[paper]['contributors'],
+                             'title' : data[paper]['title'],
+                             'year' : data[paper]['year']
+                             }
+cross_dept_data = {}
+for paper in multigroup:
+    if len(multigroup[paper]['groups']) > 1:
+        cross_dept_data[paper] = {'groups' : multigroup[paper]['groups'],
+                                  'groups0' : multigroup[paper]['groups0'],
+                                  'groups1' : multigroup[paper]['groups1'],
+                                  'contributors' : multigroup[paper]['contributors'],
+                                  'title' : multigroup[paper]['title'],
+                                  'year' : multigroup[paper]['year']
+                                  }
+
+with open('data_multigroup_raw.json', 'w') as F:
+    json.dump(multigroup, F, indent=1)
+
+with open('data_multigroup.json', 'w') as F:
+    json.dump(cross_dept_data, F, indent=1)
+
+spread_out = []
+dept_combi_freq = []
+for p in cross_dept_data:
+    rowdat = [p, cross_dept_data[p]['year'], cross_dept_data[p]['title']]
+    grps = cross_dept_data[p]['groups']
+    grps.sort()
+    dept_combi_freq.append(','.join(grps))
+    spread_out.append(rowdat+groups)
+
+#print(spread_out)
+print(dept_combi_freq)
+
+createWordcloudSheet(
+    analysis_results,
+    'author_organisations_dept_freq',
+    cross_dept_frequency_list,
+    'organisation',
     FLT.org_group_list,
     FLT.org_group_exclude_list,
     0,
@@ -186,22 +251,56 @@ createWordcloudSheet(
     create_wordcloud=True,
 )
 
+#createWordcloudSheet(
+    #analysis_results,
+    #'dept_combi_freq',
+    #dept_combi_freq,
+    #'organisation',
+    #[],
+    #[],
+    #0,
+    #apply_filter=True,
+    #create_wordcloud=False,
+#)
+
+
+# write combinations to sheet
+dept_combi_freq.sort()
+dept_combi_freq = collections.Counter(dept_combi_freq)
+dept_combi_sheet = analysis_results.add_worksheet()
+dept_combi_sheet.name = 'dept_combi_freq'
+
+rcntr = 0
+for i in dept_combi_freq:
+    print(i)
+    grpl = i.split(',')
+    print(grpl)
+    for j in range(len(grpl)):
+        dept_combi_sheet.write(rcntr, j, grpl[j])
+    dept_combi_sheet.write(rcntr, 3, dept_combi_freq[i])
+    rcntr += 1
+
 analysis_results.close()
 
-# playing around with multi-refernces
-import pprint
+#pprint.pprint(cross_dept_data)
 
-multigroup = {}
-for paper in data:
-    groups = []
-    for grp in FLT.org_group_list:
-        if grp in data[paper]['organisations']:
-            groups.append(grp)
-    if len(groups) > 1:
-        multigroup[paper] = {'groups' : groups,
-                             'contributors' : data[paper]['contributors']}
-with open('data_multigroup.json', 'w') as F:
-    json.dump(multigroup, F, indent=1)
+#import numpy
+#import networkx as nx
+#import matplotlib.pyplot as plt
 
-pprint.pprint(multigroup)
+#dept_interactions = [[0,14,6,0],
+                     #[14,0,1,10],
+                     #[6,1,0,0],
+                     #[0,10,0,0]]
+
+#x = [0,0,0,0,1,1,1,1,2,2,2,2,3,3,3,3]
+#y = [0,1,2,3,0,1,2,3,0,1,2,3,0,1,2,3]
+#s = [0,14,6,0,14,0,1,10,6,1,0,0,0,10,0,0]
+#colors = numpy.random.rand(len(x))
+
+
+#plt.scatter(x, y, s=[a*50 for a in s], c=colors, alpha=0.5)
+#plt.show()
+#plt.savefig('dept_interaction_graph.png')
+
 
