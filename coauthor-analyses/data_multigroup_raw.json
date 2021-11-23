@@ -1,4 +1,28 @@
 {
+ "https://doi.org/10.1016/j.marenvres.2016.03.002": {
+  "groups": [
+   "Environment and Health"
+  ],
+  "groups0": [
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Health and Toxicology"
+  ],
+  "groups1": [
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Vethaak, A.",
+   "Hamers, T.",
+   "Martinez-Gomez, C.",
+   "Kamstra, J.",
+   "de Weert, J.",
+   "Leonards, P.",
+   "Smedes, F."
+  ],
+  "title": "Toxicity profiling of marine surface sediments: a case study using rapid screening bioassays of exhaustive total extracts, elutriates and passive sampler extracts",
+  "year": "2017"
+ },
  "https://doi.org/10.5530/pj.2018.4.134": {
   "groups": [
    "Chemistry and Pharmaceutical Sciences"
@@ -115,18 +139,15 @@
  },
  "https://doi.org/10.1186/s12862-018-1331-x": {
   "groups": [
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Systems Bioinformatics",
-   "Molecular Cell Physiology",
-   "Bioinformatics"
+   "Molecular Cell Physiology"
   ],
   "groups1": [
    "Molecular Cell Biology",
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
+   "Molecular Cell Biology"
   ],
   "contributors": [
    "Price, C. E.",
@@ -185,28 +206,27 @@
   "title": "Structure-based exploration and pharmacological evaluation of N-substituted piperidin-4-yl-methanamine CXCR4 chemokine receptor antagonists",
   "year": "2019"
  },
- "https://doi.org/10.1002/pro.3788": {
+ "https://doi.org/10.1016/j.envint.2019.105289": {
   "groups": [
-   "Bio Informatics (IBIVU)"
+   "Environment and Health"
   ],
   "groups0": [
-   "Bioinformatics",
-   "Bio Informatics (IBIVU)"
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
   ],
   "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
+   "Environment and Health",
+   "Environment and Health"
   ],
   "contributors": [
-   "Lange, J.",
-   "Baakman, C.",
-   "Pistorius, A.",
-   "Krieger, E.",
-   "Hooft, R.",
-   "Joosten, R. P.",
-   "Vriend, G."
+   "Holmquist, H.",
+   "Schellenberger, S.",
+   "van der Veen, I.",
+   "Peters, G. M.",
+   "Leonards, P. E.",
+   "Cousins, I. T."
   ],
-  "title": "Facilities that make the PDB data collection more powerful",
+  "title": "Corrigendum to \u201cProperties, performance and associated hazards of state-of-the-art durable water repellent (DWR) chemistry for textile finishing\u201d [Environ. Int. 91 (2016) 251\u2013264]: (Preliminary screening of perfluorooctane sulfonate (PFOS) and other fluorochemicals in fish, birds and marine mammals from Greenland and the Faroe Islands (2005) 136(2) (323\u2013329), (S0269749105000412), (10.1016/j.envpol.2004.12.020))The authors regret that the chemical formula of perfluorooctanoic acid (PFOA) was not correct in Fig. S7 in the Supplementary material. The authors would like to apologise for any inconvenience caused.General information",
   "year": "2020"
  },
  "https://doi.org/10.1016/j.watres.2019.115204": {
@@ -216,10 +236,14 @@
   ],
   "groups0": [
    "BioAnalytical Chemistry",
-   "E&H: Environmental Health and Toxicology"
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Health and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health",
+   "Environment and Health",
    "Environment and Health"
   ],
   "contributors": [
@@ -234,6 +258,52 @@
    "Lamoree, M. H."
   ],
   "title": "Identification of mutagenic and endocrine disrupting compounds in surface water and wastewater treatment plant effluents using high-resolution effect-directed analysis",
+  "year": "2020"
+ },
+ "https://doi.org/10.1016/j.chemosphere.2019.124643": {
+  "groups": [
+   "Environment and Health"
+  ],
+  "groups0": [
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
+  ],
+  "groups1": [
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Brits, M.",
+   "de Boer, J.",
+   "Rohwer, E. R.",
+   "De Vos, J.",
+   "Weiss, J. M.",
+   "Brandsma, S. H."
+  ],
+  "title": "Short-, medium-, and long-chain chlorinated paraffins in South African indoor dust and cat hair",
+  "year": "2020"
+ },
+ "https://doi.org/10.1016/j.chroma.2019.460550": {
+  "groups": [
+   "Environment and Health"
+  ],
+  "groups0": [
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
+  ],
+  "groups1": [
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Mourik, L. V.",
+   "Lava, R.",
+   "O'Brien, J.",
+   "Leonards, P.",
+   "de Boer, J.",
+   "Ricci, M."
+  ],
+  "title": "The underlying challenges that arise when analysing short-chain chlorinated paraffins in environmental matrices",
   "year": "2020"
  },
  "https://doi.org/10.3390/toxins12010053": {
@@ -311,49 +381,34 @@
   "title": "Transthyretin-binding activity of complex mixtures representing the composition of thyroid-hormone disrupting contaminants in house dust and human serum",
   "year": "2020"
  },
- "https://doi.org/10.1039/d0ew00776e": {
+ "https://doi.org/10.1016/j.envint.2020.106191": {
   "groups": [
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
+   "Environment and Health"
   ],
   "groups0": [
-   "Systems Bioinformatics",
-   "Bioinformatics"
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Health and Toxicology"
   ],
   "groups1": [
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
+   "Environment and Health",
+   "Environment and Health"
   ],
   "contributors": [
-   "Dalmijn, J. A.",
-   "Poursat, B. A.",
-   "Van Spanning, R. J.",
-   "Brandt, B. W.",
-   "De Voogt, P.",
-   "Parsons, J. R."
+   "Vinggaard, A. M.",
+   "Bonefeld-J\u00f8rgensen, E. C.",
+   "Jensen, T. K.",
+   "Fernandez, M. F.",
+   "Rosenmai, A. K.",
+   "Taxvig, C.",
+   "Rodriguez-Carrillo, A.",
+   "Wiels\u00f8e, M.",
+   "Long, M.",
+   "Olea, N.",
+   "Antignac, J. P.",
+   "Hamers, T.",
+   "Lamoree, M."
   ],
-  "title": "Influence of short- And long-term exposure on the biodegradation capacity of activated sludge microbial communities in ready biodegradability tests",
-  "year": "2021"
- },
- "https://doi.org/10.1016/j.tcs.2020.11.020": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Chen, H.",
-   "Loukides, G.",
-   "Pissis, S. P.",
-   "Chan, H."
-  ],
-  "title": "Influence maximization in the presence of vulnerable nodes: A ratio perspective",
+  "title": "Receptor-based in vitro activities to assess human exposure to chemical mixtures and related health impacts",
   "year": "2021"
  },
  "https://doi.org/10.3389/fchem.2020.608030": {
@@ -385,30 +440,6 @@
    "Leurs, R."
   ],
   "title": "Discovery of Diaryl Ether Substituted Tetrahydrophthalazinones as Tbr",
-  "year": "2021"
- },
- "https://doi.org/10.1101/2021.01.21.427716": {
-  "groups": [
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Molecular Cell Physiology",
-   "Bioinformatics"
-  ],
-  "groups1": [
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Hamoen, L. W.",
-   "Wang, B.",
-   "Staal, J.",
-   "Gao, Y.",
-   "Kort, R.",
-   "Syvertsson, S."
-  ],
-  "title": "Different resource allocation in a Bacillus subtilis population displaying bimodal motility",
   "year": "2021"
  },
  "https://doi.org/10.1002/ejoc.202001453": {
@@ -443,10 +474,14 @@
    "Environment and Health"
   ],
   "groups0": [
-   "Environment and Health",
-   "E&H: Environmental Health and Toxicology"
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Health and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry",
+   "Environment and Health"
   ],
   "groups1": [
+   "Environment and Health",
+   "Environment and Health",
    "Environment and Health",
    "Environment and Health"
   ],
@@ -460,6 +495,33 @@
    "Leonards, P."
   ],
   "title": "Determination of monoamine neurotransmitters in zebrafish (Danio rerio) by gas chromatography coupled to mass spectrometry with a two-step derivatization",
+  "year": "2017"
+ },
+ "https://doi.org/10.1021/acs.est.6b05318": {
+  "groups": [
+   "Environment and Health"
+  ],
+  "groups0": [
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
+  ],
+  "groups1": [
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Brandsma, S. H.",
+   "van Mourik, L.",
+   "O'Brien, J. W.",
+   "Eaglesham, G.",
+   "Leonards, P. E. G.",
+   "de Boer, J.",
+   "Gallen, C.",
+   "Mueller, J.",
+   "Gaus, C.",
+   "Bogdal, C."
+  ],
+  "title": "Medium-Chain Chlorinated Paraffins (CPs) Dominate in Australian Sewage Sludge",
   "year": "2017"
  },
  "https://doi.org/10.1021/acs.jcim.6b00686": {
@@ -497,10 +559,14 @@
    "Environment and Health"
   ],
   "groups0": [
-   "Environment and Health",
-   "E&H: Environmental Health and Toxicology"
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Health and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry",
+   "Environment and Health"
   ],
   "groups1": [
+   "Environment and Health",
+   "Environment and Health",
    "Environment and Health",
    "Environment and Health"
   ],
@@ -541,9 +607,11 @@
   ],
   "groups0": [
    "Chemistry and Pharmaceutical Sciences",
-   "Molecular and Computational Toxicology"
+   "Molecular and Computational Toxicology",
+   "AIMSS Division of BioAnalytical Chemistry"
   ],
   "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
    "Chemistry and Pharmaceutical Sciences",
    "Chemistry and Pharmaceutical Sciences"
   ],
@@ -584,8 +652,8 @@
  },
  "https://doi.org/10.1002/ejoc.201801562": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Systems Bioinformatics",
@@ -723,8 +791,8 @@
    "Molecular Cell Biology"
   ],
   "groups0": [
-   "Molecular Cell Biology",
-   "Molecular Microbiology"
+   "Molecular Microbiology",
+   "Molecular Cell Biology"
   ],
   "groups1": [
    "Molecular Cell Biology",
@@ -787,31 +855,6 @@
   "title": "Ligand-Mediated Regioselective Rhodium-Catalyzed Benzotriazole\u2013Allene Coupling: Mechanistic Exploration and Quantum Chemical Analysis",
   "year": "2020"
  },
- "https://doi.org/10.1016/j.jcss.2020.07.003": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Charalampopoulos, P.",
-   "Kociumaka, T.",
-   "Pissis, S. P.",
-   "Radoszewski, J.",
-   "Rytter, W.",
-   "Straszy\u0144ski, J.",
-   "Wale\u0144, T.",
-   "Zuba, W."
-  ],
-  "title": "Circular pattern matching with k mismatches",
-  "year": "2021"
- },
  "https://doi.org/10.1021/acs.joc.0c02955": {
   "groups": [
    "Chemistry and Pharmaceutical Sciences"
@@ -836,33 +879,6 @@
   "title": "How Lewis Acids Catalyze Ring-Openings of Cyclohexene Oxide",
   "year": "2021"
  },
- "https://doi.org/10.1109/ICDM50108.2020.00103": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Bernardini, G.",
-   "Conte, A.",
-   "Gourdel, G.",
-   "Grossi, R.",
-   "Loukides, G.",
-   "Pisanti, N.",
-   "Pissis, S. P.",
-   "Punzi, G.",
-   "Stougie, L.",
-   "Sweering, M."
-  ],
-  "title": "Hide and mine in strings: Hardness and algorithms",
-  "year": "2021"
- },
  "https://doi.org/10.1002/asia.202001201": {
   "groups": [
    "Chemistry and Pharmaceutical Sciences"
@@ -884,76 +900,6 @@
   ],
   "title": "Nature of Alkali- and Coinage-Metal Bonds versus Hydrogen Bonds",
   "year": "2021"
- },
- "https://doi.org/10.1038/sdata.2016.18": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Wilkinson, M. D.",
-   "Dumontier, M.",
-   "Aalbersberg, I. J.",
-   "Appleton, G.",
-   "Axton, M.",
-   "Baak, A.",
-   "Blomberg, N.",
-   "Boiten, J.",
-   "da Silva Santos, L. B.",
-   "Bourne, P. E.",
-   "Bouwman, J.",
-   "Brookes, A. J.",
-   "Clark, T.",
-   "Crosas, M.",
-   "Dillo, I.",
-   "Dumon, O.",
-   "Edmunds, S.",
-   "Evelo, C. T.",
-   "Finkers, R.",
-   "Gonzalez-Beltran, A.",
-   "Gray, A. J.",
-   "Groth, P.",
-   "Goble, C.",
-   "Grethe, J. S.",
-   "Heringa, J.",
-   "\u2019t Hoen, P. A.",
-   "Hooft, R.",
-   "Kuhn, T.",
-   "Kok, R.",
-   "Kok, J.",
-   "Lusher, S. J.",
-   "Martone, M. E.",
-   "Mons, A.",
-   "Packer, A. L.",
-   "Persson, B.",
-   "Rocca-Serra, P.",
-   "Roos, M.",
-   "van Schaik, R.",
-   "Sansone, S.",
-   "Schultes, E.",
-   "Sengstag, T.",
-   "Slater, T.",
-   "Strawn, G.",
-   "Swertz, M. A.",
-   "Thompson, M.",
-   "van der Lei, J.",
-   "van Mulligen, E.",
-   "Velterop, J.",
-   "Waagmeester, A.",
-   "Wittenburg, P.",
-   "Wolstencroft, K.",
-   "Zhao, J.",
-   "Mons, B."
-  ],
-  "title": "The FAIR Guiding Principles for scientific data management and stewardship",
-  "year": "2016"
  },
  "https://doi.org/10.1016/j.jqsrt.2016.12.023": {
   "groups": [
@@ -1009,10 +955,12 @@
   ],
   "groups0": [
    "BioAnalytical Chemistry",
-   "E&H: Environmental Health and Toxicology"
+   "E&H: Environmental Health and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health",
    "Environment and Health"
   ],
   "contributors": [
@@ -1060,9 +1008,11 @@
   ],
   "groups0": [
    "Chemistry and Pharmaceutical Sciences",
-   "Organic Chemistry"
+   "Organic Chemistry",
+   "AIMSS Division of BioAnalytical Chemistry"
   ],
   "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
    "Chemistry and Pharmaceutical Sciences",
    "Chemistry and Pharmaceutical Sciences"
   ],
@@ -1082,16 +1032,16 @@
  },
  "https://doi.org/10.1371/journal.pone.0173573": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
-   "Molecular Cell Biology",
-   "Molecular and Computational Toxicology"
+   "Molecular and Computational Toxicology",
+   "Molecular Cell Biology"
   ],
   "groups1": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "contributors": [
    "Huseinovic, A.",
@@ -1106,46 +1056,18 @@
   "title": "The effect of acetaminophen on ubiquitin homeostasis in Saccharomyces cerevisiae",
   "year": "2017"
  },
- "https://doi.org/10.1074/jbc.M116.757518": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Palma, A.",
-   "Tinti, M.",
-   "Paoluzi, S.",
-   "Santonico, E.",
-   "Brandt, B. W.",
-   "Hooft Van Huijsduijnen, R.",
-   "Masch, A.",
-   "Heringa, J.",
-   "Schutkowski, M.",
-   "Castagnoli, L.",
-   "Cesareni, G."
-  ],
-  "title": "Both intrinsic substrate preference and network context contribute to substrate selection of classical tyrosine phosphatases",
-  "year": "2017"
- },
  "https://doi.org/10.1016/j.tiv.2017.12.007": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
-   "Molecular Cell Biology",
-   "Molecular and Computational Toxicology"
+   "Molecular and Computational Toxicology",
+   "Molecular Cell Biology"
   ],
   "groups1": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "contributors": [
    "Huseinovic, A.",
@@ -1304,39 +1226,20 @@
   "title": "Harmonizing semantic annotations for computational models in biology",
   "year": "2019"
  },
- "https://doi.org/10.12688/f1000research.18553.1": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Mouhib, H.",
-   "Higuchi, A.",
-   "Abeln, S.",
-   "Yura, K.",
-   "Feenstra, K. A."
-  ],
-  "title": "Impact of pathogenic mutations of the GLUT1 glucose transporter on channel dynamics using consdyn enhanced sampling [version 1; peer review: 1 approved with reservations, 1 not approved]Background: The solute carrier (SLC) family of membrane proteins is a large class of transporters for many small molecules that are vital for the cell. Several pathogenic mutations are reported in the glucose transporter subfamily SLC2, causing Glut1-deficiency syndrome (GLUT1DS1, GLUT1DS2), epilepsy (EIG2) and cryohydrocytosis with neurological defects (Dystonia-9). Understanding the link between these mutations and transporter dynamics is crucial to elucidate their role in the dysfunction of the underlying transport mechanism. Methods: Predictions from SIFT and Poly",
-  "year": "2019"
- },
  "https://doi.org/10.1002/anie.201813110": {
   "groups": [
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Chemistry and Pharmaceutical Sciences",
-   "Medicinal chemistry"
+   "Medicinal chemistry",
+   "Structural Biology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "contributors": [
    "Hauwert, N. J.",
@@ -1521,31 +1424,6 @@
   "title": "How the Lewis Base F-Catalyzes the 1,3-Dipolar Cycloaddition between Carbon Dioxide and Nitrilimines",
   "year": "2021"
  },
- "https://doi.org/10.1038/s42003-021-01809-8": {
-  "groups": [
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Molecular Microbiology"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Molecular Cell Biology"
-  ],
-  "contributors": [
-   "Wenzel, M.",
-   "Dekker, M. P.",
-   "Wang, B.",
-   "Burggraaf, M. J.",
-   "Bitter, W.",
-   "van Weering, J. R.",
-   "Hamoen, L. W."
-  ],
-  "title": "A flat embedding method for transmission electron microscopy reveals an unknown mechanism of tetracycline",
-  "year": "2021"
- },
  "https://doi.org/10.1002/anie.202015514": {
   "groups": [
    "Chemistry and Pharmaceutical Sciences"
@@ -1656,6 +1534,34 @@
   "title": "How metallylenes activate small molecules",
   "year": "2021"
  },
+ "https://doi.org/10.1016/j.plaphy.2018.02.013": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology",
+   "Environment and Health"
+  ],
+  "groups0": [
+   "Medicinal chemistry",
+   "E&H: Environmental Bioanalytical Chemistry",
+   "Structural Biology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "van Kleeff, P. J.",
+   "Gao, J.",
+   "Mol, S.",
+   "Zwart, N.",
+   "Zhang, H.",
+   "Li, K. W.",
+   "de Boer, A. H."
+  ],
+  "title": "The Arabidopsis GORK K+-channel is phosphorylated by calcium-dependent protein kinase 21 (CPK21), which in turn is activated by 14-3-3 proteins",
+  "year": "2018"
+ },
  "https://doi.org/10.5530/jyp.2018.2s.2": {
   "groups": [
    "Chemistry and Pharmaceutical Sciences"
@@ -1689,10 +1595,14 @@
   ],
   "groups0": [
    "BioAnalytical Chemistry",
-   "E&H: Environmental Health and Toxicology"
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Health and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health",
+   "Environment and Health",
    "Environment and Health"
   ],
   "contributors": [
@@ -1709,18 +1619,15 @@
  },
  "https://doi.org/10.1038/s41598-018-23528-7": {
   "groups": [
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Systems Bioinformatics",
-   "Molecular Cell Physiology",
-   "Bioinformatics"
+   "Molecular Cell Physiology"
   ],
   "groups1": [
    "Molecular Cell Biology",
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
+   "Molecular Cell Biology"
   ],
   "contributors": [
    "Bosdriesz, E.",
@@ -1821,6 +1728,29 @@
   "title": "Screening of a PDE-focused library identifies imidazoles with in vitro and in vivo antischistosomal activity",
   "year": "2019"
  },
+ "https://doi.org/10.1016/j.chemosphere.2018.12.135": {
+  "groups": [
+   "Environment and Health"
+  ],
+  "groups0": [
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry",
+   "Environment and Health"
+  ],
+  "groups1": [
+   "Environment and Health",
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Brandsma, S. H.",
+   "Koekkoek, J. C.",
+   "van Velzen, M. J. M.",
+   "de Boer, J."
+  ],
+  "title": "The PFOA substitute Gen",
+  "year": "2019"
+ },
  "https://doi.org/10.1021/acsomega.8b02847": {
   "groups": [
    "Chemistry and Pharmaceutical Sciences"
@@ -1902,6 +1832,27 @@
   "title": "Aminergic GPCR-Ligand Interactions: A Chemical and Structural Map of Receptor Mutation Data",
   "year": "2019"
  },
+ "https://doi.org/10.1016/j.ecoenv.2018.12.049": {
+  "groups": [
+   "Environment and Health"
+  ],
+  "groups0": [
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
+  ],
+  "groups1": [
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Mohammed, S.",
+   "Lamoree, M.",
+   "Ansa-Asare, O. D.",
+   "de Boer, J."
+  ],
+  "title": "Review of the analysis of insecticide residues and their levels in different matrices in Ghana",
+  "year": "2019"
+ },
  "https://doi.org/10.1093/jac/dkz516": {
   "groups": [
    "Chemistry and Pharmaceutical Sciences"
@@ -1936,27 +1887,29 @@
   "title": "Evaluation of phthalazinone phosphodiesterase inhibitors with improved activity and selectivity against Trypanosoma cruzi",
   "year": "2020"
  },
- "https://doi.org/10.1093/bioinformatics/btz917": {
+ "https://doi.org/10.1016/j.chemosphere.2019.125574": {
   "groups": [
-   "Bio Informatics (IBIVU)"
+   "Environment and Health"
   ],
   "groups0": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
   ],
   "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
+   "Environment and Health",
+   "Environment and Health"
   ],
   "contributors": [
-   "Jacobsen, A.",
-   "Ivanova, O.",
-   "Amini, S.",
-   "Heringa, J.",
-   "Kemmeren, P.",
-   "Feenstra, K. A."
+   "van Mourik, L.",
+   "Toms, L.",
+   "He, C.",
+   "Banks, A.",
+   "Hobson, P.",
+   "Leonards, P.",
+   "de Boer, J.",
+   "Mueller, J."
   ],
-  "title": "A framework for exhaustive modelling of genetic interaction patterns using Petri nets",
+  "title": "Evaluating age and temporal trends of chlorinated paraffins in pooled serum collected from males in Australia between 2004 and 2015Chlorinated paraffins (CPs) are high production volume chemicals of which some show resistance to environmental degradation, long-rang transport, bioaccumulation and toxicity potential. Information regarding their presence in humans is limited, including their human bioaccumulation potential. The present study aimed to evaluate CP levels in human serum from Australia in order to better understand their exposure and current pollution status as well as trends associated with age and time between 2004 and 2015. For this, we selected a male sub-group of the Australian population under 60 years old (n = 16 pools, total 1600 serum samples). While long-chain CP (C18-20) and most short-chain CP (C10-13, SCCPs) levels were below method detection limits (MDL), medium-chain CPs (C14-17, MCCPs) were found in most serum samples (detection frequency 94%) as well as CPs with a carbon chain length of nine (detection frequency 76%). The levels of \u03a3SCCPs and \u03a3MCCPs ranged from <MDL\u2212140 and <MDL-520 ng/g lipid weight (lw), respectively, with a median value of 97 ng/g lw for SCCPs and 190 ng/g lw for MCCPs. Analysis by age stratification did not identify any trends but an increase of a factor of 2 in MCCPs levels was observed over time (p < 0.05). Plotting the MCCP/SCCP ratio of all available data in humans over time showed also an increasing trend, including for China. The reported levels are relatively low considering the levels reported in environmental media from Australia such which raises the question to what extent CPs accumulate in humans. Future studies on this aspect are required.General information",
   "year": "2020"
  },
  "https://doi.org/10.1371/journal.pntd.0007802": {
@@ -2048,44 +2001,24 @@
   "title": "How Lewis Acids Catalyze Diels\u2013Alder Reactions",
   "year": "2020"
  },
- "https://doi.org/10.12688/f1000research.20559.1": {
+ "https://doi.org/10.1007/s00216-020-02661-1": {
   "groups": [
-   "Bio Informatics (IBIVU)"
+   "Environment and Health"
   ],
   "groups0": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
+   "E&H: Environmental Health and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
   ],
   "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
+   "Environment and Health",
+   "Environment and Health"
   ],
   "contributors": [
-   "Orengo, C.",
-   "Velankar, S.",
-   "Wodak, S.",
-   "Zoete, V.",
-   "Bonvin, A. M. J. J.",
-   "Elofsson, A.",
-   "Feenstra, K. A.",
-   "Gerloff, D. L.",
-   "Hamelryck, T.",
-   "Hancock, J. M.",
-   "Helmer-Citterich, M.",
-   "Hospital, A.",
-   "Orozco, M.",
-   "Perrakis, A.",
-   "Rarey, M.",
-   "Soares, C.",
-   "Sussman, J. L.",
-   "Thornton, J. M.",
-   "Tuffery, P.",
-   "Tusnady, G.",
-   "Wierenga, R.",
-   "Salminen, T.",
-   "Schneider, B."
+   "Xu, M.",
+   "Legradi, J.",
+   "Leonards, P.Pages:4313-4325"
   ],
-  "title": "A community proposal to integrate structural bioinformatics activities in ELIXIR (3D-Bioinfo Community)Structural bioinformatics provides the scientific methods and tools to analyse, archive, validate, and present the biomolecular structure data generated by the structural biology community. It also provides an important link with the genomics community, as structural bioinformaticians also use the extensive sequence data to predict protein structures and their functional sites. A very broad and active community of structural bioinformaticians exists across Europe, and 3D-Bioinfo will establish formal platforms to address their needs and better integrate their activities and initiatives. Our mission will be to strengthen the ties with the structural biology research communities in Europe covering life sciences, as well as chemistry and physics and to bridge the gap between these researchers in order to fully realize the potential of structural bioinformatics. Our Community will also undertake dedicated educational, training and outreach efforts to facilitate this, bringing new insights and thus facilitating the development of much needed innovative applications e.g. for human health, drug and protein design. Our combined efforts will be of critical importance to keep the European research efforts competitive in this respect. Here we highlight the major European contributions to the field of structural bioinformatics, the most pressing challenges remaining and how Europe-wide interactions, enabled by ELIXIR and its platforms, will help in addressing these challenges and in coordinating structural bioinformatics resources across Europe. In particular, we present recent activities and future plans to consolidate an ELIXIR 3D-Bioinfo Community in structural bioinformatics and propose means to develop better links across the community. These include building new consortia, organising workshops to establish data standards and seeking community agreement on benchmark data sets and strategies. We also highlight existing and planned collaborations with other ELIXIR Communities and other European infrastructures, such as the structural biology community supported by Instruct-ERIC, with whom we have synergies and overlapping common interests.General information",
+  "title": "Evaluation of LC-MS and LC\u00d7LC-MS in analysis of zebrafish embryo samples for comprehensive lipid profiling",
   "year": "2020"
  },
  "https://doi.org/10.1016/j.toxicon.2020.02.015": {
@@ -2158,8 +2091,8 @@
  },
  "https://doi.org/10.1128/AAC.01445-20": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Organic Chemistry",
@@ -2311,65 +2244,15 @@
   "title": "The Pauli Repulsion-Lowering Concept in Catalysis",
   "year": "2021"
  },
- "https://doi.org/10.1186/s12860-021-00362-w": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Kagami, L.",
-   "Roca-Mart\u00ednez, J.",
-   "Gavald\u00e1-Garc\u00eda, J.",
-   "Ramasamy, P.",
-   "Feenstra, K. A.",
-   "Vranken, W. F."
-  ],
-  "title": "Online biophysical predictions for SARS-Co",
-  "year": "2021"
- },
- "https://doi.org/10.1093/nar/gkv1518": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Lelieveld, S. H.",
-   "Sch\u00fctte, J.",
-   "Dijkstra, M. J. J.",
-   "Bawono, P.",
-   "Kinston, S. J.",
-   "G\u00f6ttgens, B.",
-   "Heringa, J.",
-   "Bonzanni, N.Pages:e72"
-  ],
-  "title": "Con",
-  "year": "2016"
- },
  "https://doi.org/10.1371/journal.pone.0155251": {
   "groups": [
    "Bio Informatics (IBIVU)"
   ],
   "groups0": [
-   "Bioinformatics",
-   "Bio Informatics (IBIVU)",
-   "Integrative Bioinformatics"
+   "Integrative Bioinformatics",
+   "Bio Informatics (IBIVU)"
   ],
   "groups1": [
-   "Bio Informatics (IBIVU)",
    "Bio Informatics (IBIVU)",
    "Bio Informatics (IBIVU)"
   ],
@@ -2403,28 +2286,6 @@
    "Weckhuysen, B. M."
   ],
   "title": "Probing Zeolite Crystal Architecture and Structural Imperfections using Differently Sized Fluorescent Organic Probe Molecules",
-  "year": "2017"
- },
- "https://doi.org/10.1093/bioinformatics/btx00510.1093/bioinformatics/btx005": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Hou, Q.",
-   "De Geest, P. F.",
-   "Vranken, W. F.",
-   "Heringa, J.",
-   "Feenstra, K. A."
-  ],
-  "title": "Seeing the trees through the forest: sequence-based homo- and heteromeric protein-protein interaction sites prediction using random forest",
   "year": "2017"
  },
  "https://doi.org/10.1021/acs.jmedchem.7b01670": {
@@ -2469,35 +2330,6 @@
    "Leurs, R."
   ],
   "title": "Targeting a Subpocket in Trypanosoma brucei Phosphodiesterase B1 (Tbr",
-  "year": "2018"
- },
- "https://doi.org/10.1038/s41598-018-24982-z": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Jacobsen, A.",
-   "Bosch, L. J.",
-   "Martens-De Kemp, S. R.",
-   "Carvalho, B.",
-   "Sillars-Hardebol, A. H.",
-   "Dobson, R. J.",
-   "De Rinaldis, E.",
-   "Meijer, G. A.",
-   "Abeln, S.",
-   "Heringa, J.",
-   "Fijneman, R. J.",
-   "Feenstra, K. A.Pages:7522"
-  ],
-  "title": "Aurora kinase A (AURKA) interaction with Wnt and Ras-MAPK signalling pathways in colorectal cancer",
   "year": "2018"
  },
  "https://doi.org/10.1007/s11120-018-0572-2": {
@@ -2545,16 +2377,16 @@
  },
  "https://doi.org/10.1007/s00253-019-09697-z": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
-   "Molecular Microbiology",
-   "Molecular and Computational Toxicology"
+   "Molecular and Computational Toxicology",
+   "Molecular Microbiology"
   ],
   "groups1": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "contributors": [
    "Ortega Ugalde, S.",
@@ -2592,38 +2424,13 @@
   "title": "Microbial communities in sediments from four mildly acidic ephemeral salt lakes in the Yilgarn craton (Australia) \u2013 terrestrial analogs to ancient Mars",
   "year": "2019"
  },
- "https://doi.org/10.1371/journal.pcbi.1007061": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Amini, S.",
-   "Jacobsen, A.",
-   "Ivanova, O.",
-   "Lijnzaad, P.",
-   "Heringa, J.",
-   "Holstege, F. C.",
-   "Feenstra, K. A.",
-   "Kemmeren, P."
-  ],
-  "title": "The ability of transcription factors to differentially regulate gene expression is a crucial component of the mechanism underlying inversion, a frequently observed genetic interaction pattern",
-  "year": "2019"
- },
  "https://doi.org/10.1074/jbc.RA119.011682": {
   "groups": [
    "Molecular Cell Biology"
   ],
   "groups0": [
-   "Molecular Cell Biology",
-   "Molecular Microbiology"
+   "Molecular Microbiology",
+   "Molecular Cell Biology"
   ],
   "groups1": [
    "Molecular Cell Biology",
@@ -2638,6 +2445,30 @@
    "Houben, E. N. G."
   ],
   "title": "Modification of a PE/PPE substrate pair reroutes an Esx substrate pair from the mycobacterial ESX-1 type VII secretion system to the ESX-5 system",
+  "year": "2020"
+ },
+ "https://doi.org/10.3389/fmars.2020.00273": {
+  "groups": [
+   "Environment and Health"
+  ],
+  "groups0": [
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
+  ],
+  "groups1": [
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Maes, T.",
+   "van Diemen de Jel, J.",
+   "Vethaak, A. D.",
+   "Desender, M.",
+   "Bendall, V. A.",
+   "van Velzen, M.",
+   "Leslie, H. A."
+  ],
+  "title": "You Are What You Eat, Microplastics in Porbeagle Sharks From the North East Atlantic: Method Development and Analysis in Spiral Valve Content and Tissue",
   "year": "2020"
  },
  "https://doi.org/10.1073/pnas.191925011710.1073/pnas.1919250117": {
@@ -2719,12 +2550,10 @@
    "Bio Informatics (IBIVU)"
   ],
   "groups0": [
-   "Bioinformatics",
-   "Bio Informatics (IBIVU)",
-   "Integrative Bioinformatics"
+   "Integrative Bioinformatics",
+   "Bio Informatics (IBIVU)"
   ],
   "groups1": [
-   "Bio Informatics (IBIVU)",
    "Bio Informatics (IBIVU)",
    "Bio Informatics (IBIVU)"
   ],
@@ -2768,51 +2597,69 @@
   "title": "Exploring the Effect of Cyclization of Histamine H1Receptor Antagonists on Ligand Binding Kinetics",
   "year": "2021"
  },
- "https://doi.org/10.1093/bioinformatics/btv495": {
+ "https://doi.org/10.1111/bjh.14591": {
   "groups": [
-   "Bio Informatics (IBIVU)"
+   "Chemistry and Pharmaceutical Sciences"
   ],
   "groups0": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
+   "BioAnalytical Chemistry",
+   "AIMSS Division of BioAnalytical Chemistry"
   ],
   "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
+   "Chemistry and Pharmaceutical Sciences",
+   "Chemistry and Pharmaceutical Sciences"
   ],
   "contributors": [
-   "Pirola, Y.",
-   "Zaccaria, S.",
-   "Dondi, R.",
-   "Klau, G. W.",
-   "Pisanti, N.",
-   "Bonizzoni, P."
+   "Slagboom, J.",
+   "Kool, J.",
+   "Harrison, R. A.",
+   "Casewell, N. R."
   ],
-  "title": "Hap",
-  "year": "2016"
+  "title": "Haemotoxic snake venoms: their functional activity, impact on snakebite victims and pharmaceutical promise",
+  "year": "2017"
  },
- "https://doi.org/10.1093/bioinformatics/btw250": {
+ "https://doi.org/10.1016/j.drudis.2017.02.002": {
   "groups": [
-   "Bio Informatics (IBIVU)"
+   "Chemistry and Pharmaceutical Sciences"
   ],
   "groups0": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
+   "Medicinal chemistry",
+   "AIMSS Division of BioAnalytical Chemistry"
   ],
   "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
+   "Chemistry and Pharmaceutical Sciences",
+   "Chemistry and Pharmaceutical Sciences"
   ],
   "contributors": [
-   "Haydarlou, R.",
-   "Jacobsen, A.",
-   "Bonzanni, N.",
-   "Feenstra, K. A.",
-   "Abeln, S.",
-   "Heringa, J.Pages:60-69"
+   "Schuetz, D. A.",
+   "de Witte, W. E. A.",
+   "Wong, Y. C.",
+   "Knasmueller, B.",
+   "Richter, L.",
+   "Kokh, D. B.",
+   "Sadiq, S. K.",
+   "Bosma, R.",
+   "Nederpelt, I.",
+   "Heitman, L. H.",
+   "Segala, E.",
+   "Amaral, M.",
+   "Guo, D.",
+   "Andres, D.",
+   "Georgi, V.",
+   "Stoddart, L. A.",
+   "Hill, S.",
+   "Cooke, R. M.",
+   "de Graaf, C.",
+   "Leurs, R.",
+   "Frech, M.",
+   "Wade, R. C.",
+   "de Lange, E. C. M.",
+   "IJzerman, A. P.",
+   "M\u00fcller-Fahrnow, A.",
+   "Ecker, G. F."
   ],
-  "title": "Bio",
-  "year": "2016"
+  "title": "Kinetics for Drug Discovery: an industry-driven effort to target drug residence time",
+  "year": "2017"
  },
  "https://doi.org/10.1002/open.201700027": {
   "groups": [
@@ -2820,9 +2667,11 @@
   ],
   "groups0": [
    "Chemistry and Pharmaceutical Sciences",
-   "Organic Chemistry"
+   "Organic Chemistry",
+   "AIMSS Division of BioAnalytical Chemistry"
   ],
   "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
    "Chemistry and Pharmaceutical Sciences",
    "Chemistry and Pharmaceutical Sciences"
   ],
@@ -2860,6 +2709,52 @@
   "title": "Structural Analysis of Chemokine Receptor-Ligand Interactions",
   "year": "2017"
  },
+ "https://doi.org/10.1016/j.chemosphere.2018.02.161": {
+  "groups": [
+   "Environment and Health"
+  ],
+  "groups0": [
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
+  ],
+  "groups1": [
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Lucattini, L.",
+   "Poma, G.",
+   "Covaci, A.",
+   "de Boer, J.",
+   "Lamoree, M. H.",
+   "Leonards, P. E."
+  ],
+  "title": "A review of semi-volatile organic compounds (SVOCs) in the indoor environment occurrence in consumer products, indoor air and dust",
+  "year": "2018"
+ },
+ "https://doi.org/10.1016/j.aquatox.2018.03.028": {
+  "groups": [
+   "Environment and Health"
+  ],
+  "groups0": [
+   "E&H: Environmental Chemistry and Toxicology",
+   "Environment and Health"
+  ],
+  "groups1": [
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Rimayi, C.",
+   "Odusanya, D.",
+   "Weiss, J. M.",
+   "de Boer, J.",
+   "Chimuka, L.",
+   "Mbajiorgu, F."
+  ],
+  "title": "Effects of environmentally relevant sub-chronic atrazine concentrations on African clawed frog (Xenopus laevis) survival, growth and male gonad development",
+  "year": "2018"
+ },
  "https://doi.org/10.1016/j.bbagen.2018.03.005": {
   "groups": [
    "Molecular Cell Biology"
@@ -2888,6 +2783,43 @@
   "title": "Imaging linear and circular polarization features in leaves with complete Mueller matrix polarimetry",
   "year": "2018"
  },
+ "https://doi.org/10.1016/j.envint.2018.03.017": {
+  "groups": [
+   "Environment and Health"
+  ],
+  "groups0": [
+   "E&H: Environmental Health and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
+  ],
+  "groups1": [
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Govarts, E.",
+   "Iszatt, N.",
+   "Trnovec, T.",
+   "de Cock, M.",
+   "Eggesb\u00f8, M.",
+   "Palkovicova Murinova, L.",
+   "van de Bor, M.",
+   "Guxens, M.",
+   "Chevrier, C.",
+   "Koppen, G.",
+   "Lamoree, M.",
+   "Hertz-Picciotto, I.",
+   "Lopez-Espinosa, M. J.",
+   "Lertxundi, A.",
+   "Grimalt, J. O.",
+   "Torrent, M.",
+   "Go\u00f1i-Irigoyen, F.",
+   "Vermeulen, R.",
+   "Legler, J.",
+   "Schoeters, G."
+  ],
+  "title": "Prenatal exposure to endocrine disrupting chemicals and risk of being born small for gestational age: Pooled analysis of seven European birth cohorts",
+  "year": "2018"
+ },
  "https://doi.org/10.1007/s11244-018-0967-5": {
   "groups": [
    "Chemistry and Pharmaceutical Sciences"
@@ -2910,17 +2842,41 @@
   "title": "Toward Asymmetric Synthesis of Pentaorganosilicates",
   "year": "2018"
  },
+ "https://doi.org/10.1016/j.scitotenv.2018.01.263": {
+  "groups": [
+   "Environment and Health"
+  ],
+  "groups0": [
+   "E&H: Environmental Chemistry and Toxicology",
+   "Environment and Health"
+  ],
+  "groups1": [
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Rimayi, C.",
+   "Odusanya, D.",
+   "Weiss, J. M.",
+   "de Boer, J.",
+   "Chimuka, L."
+  ],
+  "title": "Contaminants of emerging concern in the Hartbeespoort Dam catchment and the u",
+  "year": "2018"
+ },
  "https://doi.org/10.1007/s12033-019-00175-5": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Medicinal chemistry",
-   "Molecular Cell Biology"
+   "Molecular Cell Biology",
+   "Structural Biology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology",
    "Molecular Cell Biology"
   ],
   "contributors": [
@@ -2980,6 +2936,53 @@
   "title": "Varespladib inhibits the phospholipase A2 and coagulopathic activities of venom components from hemotoxic snakes",
   "year": "2020"
  },
+ "https://doi.org/10.1016/j.envpol.2020.114141": {
+  "groups": [
+   "Environment and Health"
+  ],
+  "groups0": [
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
+  ],
+  "groups1": [
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "van Mourik, L. M.",
+   "Wang, X.",
+   "Paxman, C.",
+   "Leonards, P. E.",
+   "Wania, F.",
+   "de Boer, J.",
+   "Mueller, J. F."
+  ],
+  "title": "Spatial variation of short- and medium-chain chlorinated paraffins in ambient air across Australia",
+  "year": "2020"
+ },
+ "https://doi.org/10.1016/j.chemosphere.2020.126100": {
+  "groups": [
+   "Environment and Health"
+  ],
+  "groups0": [
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
+  ],
+  "groups1": [
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "van der Veen, I.",
+   "Hanning, A. C.",
+   "Stare, A.",
+   "Leonards, P. E.",
+   "de Boer, J.",
+   "Weiss, J. M."
+  ],
+  "title": "The effect of weathering on per- and polyfluoroalkyl substances (PFASs) from durable water repellent (DWR) clothing",
+  "year": "2020"
+ },
  "https://doi.org/10.1002/jcc.26188": {
   "groups": [
    "Chemistry and Pharmaceutical Sciences"
@@ -3027,63 +3030,6 @@
   "title": "Synthesis of Quinazolin-4-ones by Copper-Catalyzed Isocyanide Insertion",
   "year": "2020"
  },
- "https://doi.org/10.4230/LIPIcs.CPM.2020.10": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Charalampopoulos, P.",
-   "Pissis, S. P.",
-   "Radoszewski, J.",
-   "Walen, T.",
-   "Zuba, W."
-  ],
-  "title": "Unary Words Have the Smallest Levenshtein k-Neighbourhoods",
-  "year": "2020"
- },
- "https://doi.org/10.1038/s41467-020-16952-9": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Fernandes Neto, J. M.",
-   "Nadal, E.",
-   "Bosdriesz, E.",
-   "Ooft, S. N.",
-   "Farre, L.",
-   "McLean, C.",
-   "Klarenbeek, S.",
-   "Jurgens, A.",
-   "Hagen, H.",
-   "Wang, L.",
-   "Felip, E.",
-   "Martinez-Marti, A.",
-   "Vidal, A.",
-   "Voest, E.",
-   "Wessels, L. F. A.",
-   "van Tellingen, O.",
-   "Villanueva, A.",
-   "Bernards, R.Pages:3157"
-  ],
-  "title": "Multiple low dose therapy as an effective strategy to treat EGFR inhibitor-resistant NSCLC tumours",
-  "year": "2020"
- },
  "https://doi.org/10.1128/JB.00037-21": {
   "groups": [
    "Molecular Cell Biology",
@@ -3091,12 +3037,10 @@
   ],
   "groups0": [
    "Molecular Cell Physiology",
-   "Bioinformatics",
    "Bio Informatics (IBIVU)"
   ],
   "groups1": [
    "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)",
    "Bio Informatics (IBIVU)"
   ],
   "contributors": [
@@ -3108,6 +3052,32 @@
    "Hamoen, L. W."
   ],
   "title": "Different resource allocation in a bacillus subtilis population displaying bimodal motility",
+  "year": "2021"
+ },
+ "https://doi.org/10.1016/j.scitotenv.2021.145071": {
+  "groups": [
+   "Environment and Health"
+  ],
+  "groups0": [
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry",
+   "Environment and Health"
+  ],
+  "groups1": [
+   "Environment and Health",
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "van Mourik, L. M.",
+   "Crum, S.",
+   "Martinez-Frances, E.",
+   "van Bavel, B.",
+   "Leslie, H. A.",
+   "de Boer, J.",
+   "Cofino, W. P."
+  ],
+  "title": "Results of WEPAL-QUASIMEME/NORMANs first global interlaboratory study on microplastics reveal urgent need for harmonization",
   "year": "2021"
  },
  "https://doi.org/10.1038/s42003-021-02311-x": {
@@ -3144,6 +3114,34 @@
   "title": "Author Correction: High biodiversity in a benzene-degrading nitrate-reducing culture is sustained by a few primary consumers",
   "year": "2021"
  },
+ "https://doi.org/10.1016/j.scitotenv.2021.145174": {
+  "groups": [
+   "Environment and Health"
+  ],
+  "groups0": [
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry",
+   "Environment and Health"
+  ],
+  "groups1": [
+   "Environment and Health",
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Leslie, H. A.",
+   "Brandsma, S. H.",
+   "Barber, J. L.",
+   "Gabrielsen, G. W.",
+   "Bersuder, P.",
+   "Barry, J.",
+   "Shore, R. F.",
+   "Walker, L. A.",
+   "de Boer, J."
+  ],
+  "title": "Decabromodiphenylether trends in the European environment: Bird eggs, sewage sludge and surficial sediments",
+  "year": "2021"
+ },
  "https://doi.org/10.1002/anie.202102862": {
   "groups": [
    "Chemistry and Pharmaceutical Sciences"
@@ -3167,29 +3165,27 @@
   "title": "Palladium-Catalyzed Cascade to Benzoxepins by Using Vinyl-Substituted Donor\u2013Acceptor Cyclopropanes",
   "year": "2021"
  },
- "https://doi.org/10.12688/f1000research.9259.2": {
+ "https://doi.org/10.1111/apa.13877": {
   "groups": [
-   "Bio Informatics (IBIVU)"
+   "Environment and Health"
   ],
   "groups0": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
+   "E&H: Environmental Health and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
   ],
   "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
+   "Environment and Health",
+   "Environment and Health"
   ],
   "contributors": [
-   "Fijneman, R. J.",
-   "van den Broek, E.",
-   "van Lieshout, S.",
-   "Rausch, C.",
-   "Ylstra, B.",
-   "van de Wiel, M. A.",
-   "Meijer, G. A.",
-   "Abeln, S."
+   "de Cock, M.",
+   "Cechova, E.",
+   "Kocan, A.",
+   "de Boer, M.",
+   "Leonards, P.",
+   "van de Bor, M.Pages:28-29"
   ],
-  "title": "Gene",
+  "title": "EARLY LIFE EXPOSURE TO ORGANOCHLORINE PESTICIDES AND BEHAVIORAL DEVELOPMENT IN CHILDRENGeneral information",
   "year": "2017"
  },
  "https://doi.org/10.1002/chem.201701172": {
@@ -3262,6 +3258,31 @@
   "title": "A combined computational and experimental study on selective flucloxacillin hydroxylation by cytochrome P450 BM3 variants",
   "year": "2018"
  },
+ "https://doi.org/10.1016/j.talanta.2018.03.015": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "groups0": [
+   "BioAnalytical Chemistry",
+   "AIMSS Division of BioAnalytical Chemistry"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Dom\u00ednguez-Vega, E.",
+   "Tengattini, S.",
+   "Peintner, C.",
+   "van Angeren, J.",
+   "Temporini, C.",
+   "Haselberg, R.",
+   "Massolini, G.",
+   "Somsen, G. W."
+  ],
+  "title": "High-resolution glycoform profiling of intact therapeutic proteins by hydrophilic interaction chromatography-mass spectrometry",
+  "year": "2018"
+ },
  "https://doi.org/10.1093/bioinformatics/bty233": {
   "groups": [
    "Molecular Cell Biology",
@@ -3269,12 +3290,10 @@
   ],
   "groups0": [
    "Systems Bioinformatics",
-   "Bioinformatics",
    "Integrative Bioinformatics"
   ],
   "groups1": [
    "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)",
    "Bio Informatics (IBIVU)"
   ],
   "contributors": [
@@ -3312,44 +3331,10 @@
   "title": "High-performance liquid chromatography-based assay for glutathione transferase theta 2 activity: Application to characterize interindividual variability in human liver fractions",
   "year": "2018"
  },
- "https://doi.org/10.1158/1538-7445.am2019-1738": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Fijneman, R. J. A.",
-   "Mekkes, N.",
-   "Broek, E. V. D.",
-   "Stringer, B.",
-   "Glas, R. A.",
-   "Komor, M. A.",
-   "Rausch, C.",
-   "Lieshout, S. V.",
-   "Cuppen, E.",
-   "Smith, M. L.",
-   "Sebra, R. P.",
-   "Rowell, W. J.",
-   "Ashby, M.",
-   "Carvalho, B.",
-   "Heringa, J.",
-   "Meijer, G. A.",
-   "Abeln, S."
-  ],
-  "title": "Abstract 1738: Characterization of structural variants within MACROD2 in the pathogenesis of colorectal cancer",
-  "year": "2019"
- },
  "https://doi.org/10.1111/mmi.14255": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Medicinal chemistry",
@@ -3375,6 +3360,31 @@
    "Luirink, J."
   ],
   "title": "Inhibition of autotransporter biogenesis by small molecules",
+  "year": "2019"
+ },
+ "https://doi.org/10.1021/acs.est.9b01835": {
+  "groups": [
+   "Environment and Health"
+  ],
+  "groups0": [
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry",
+   "Environment and Health"
+  ],
+  "groups1": [
+   "Environment and Health",
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Brandsma, S. H.",
+   "Brits, M.",
+   "Groenewoud, Q. R.",
+   "van Velzen, M. J. M.",
+   "Leonards, P. E. G.",
+   "de Boer, J."
+  ],
+  "title": "Chlorinated Paraffins in Car Tires Recycled to Rubber Granulates and Playground Tiles",
   "year": "2019"
  },
  "https://doi.org/10.1002/chem.201901617": {
@@ -3430,18 +3440,18 @@
  },
  "https://doi.org/10.1016/j.bcp.2020.113938": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Organic Chemistry",
-   "Molecular Microbiology",
-   "Molecular and Computational Toxicology"
+   "Molecular and Computational Toxicology",
+   "Molecular Microbiology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "contributors": [
    "Ortega Ugalde, S.",
@@ -3501,47 +3511,119 @@
   "title": "Structure-Activity Relationship of Phenylpyrazolones against Trypanosoma cruzi",
   "year": "2020"
  },
- "https://doi.org/10.4230/LIPIcs.CPM.2021.9": {
+ "https://doi.org/10.1186/s12302-020-00375-w": {
   "groups": [
-   "Bio Informatics (IBIVU)"
+   "Environment and Health"
   ],
   "groups0": [
-   "Bioinformatics",
-   "Bio Informatics (IBIVU)"
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
   ],
   "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
+   "Environment and Health",
+   "Environment and Health"
   ],
   "contributors": [
-   "Bernardini, G.",
-   "Marchetti-Spaccamela, A.",
-   "Pissis, S. P.",
-   "Stougie, L.",
-   "Sweering, M."
+   "Dulio, V.",
+   "Koschorreck, J.",
+   "van Bavel, B.",
+   "van den Brink, P.",
+   "Hollender, J.",
+   "Munthe, J.",
+   "Schlabach, M.",
+   "Aalizadeh, R.",
+   "Agerstrand, M.",
+   "Ahrens, L.",
+   "Allan, I.",
+   "Alygizakis, N.",
+   "Barcelo\u2019, D.",
+   "Bohlin-Nizzetto, P.",
+   "Boutroup, S.",
+   "Brack, W.",
+   "Bressy, A.",
+   "Christensen, J. H.",
+   "Cirka, L.",
+   "Covaci, A.",
+   "Derksen, A.",
+   "Deviller, G.",
+   "Dingemans, M. M.",
+   "Engwall, M.",
+   "Fatta-Kassinos, D.",
+   "Gago-Ferrero, P.",
+   "Hern\u00e1ndez, F.",
+   "Herzke, D.",
+   "Hilscherov\u00e1, K.",
+   "Hollert, H.",
+   "Junghans, M.",
+   "Kasprzyk-Hordern, B.",
+   "Keiter, S.",
+   "Kools, S. A.",
+   "Kruve, A.",
+   "Lambropoulou, D.",
+   "Lamoree, M.",
+   "Leonards, P.",
+   "Lopez, B.",
+   "L\u00f3pez de Alda, M.",
+   "Lundy, L.",
+   "Makovinsk\u00e1, J.",
+   "Marig\u00f3mez, I.",
+   "Martin, J. W.",
+   "McHugh, B.",
+   "Mi\u00e8ge, C.",
+   "O\u2019Toole, S.",
+   "Perkola, N.",
+   "Polesello, S.",
+   "Posthuma, L.",
+   "Rodriguez-Mozaz, S.",
+   "Roessink, I.",
+   "Rostkowski, P.",
+   "Ruedel, H.",
+   "Samanipour, S.",
+   "Schulze, T.",
+   "Schymanski, E. L.",
+   "Sengl, M.",
+   "Tar\u00e1bek, P.",
+   "Ten Hulscher, D.",
+   "Thomaidis, N.",
+   "Togola, A.",
+   "Valsecchi, S.",
+   "van Leeuwen, S.",
+   "von der Ohe, P.",
+   "Vorkamp, K.",
+   "Vrana, B.",
+   "Slobodnik, J."
   ],
-  "title": "Constructing strings avoiding forbidden substrings",
-  "year": "2021"
+  "title": "The NORMAN Association and the European Partnership for Chemicals Risk Assessment (PARC): let\u2019s cooperate!The Partnership for Chemicals Risk Assessment (PARC) is currently under development as a joint research and innovation programme to strengthen the scientific basis for chemical risk assessment in the EU. The plan is to bring chemical risk assessors and managers together with scientists to accelerate method development and the production of necessary data and knowledge, and to facilitate the transition to next-generation evidence-based risk assessment, a non-toxic environment and the European Green Deal. The NORMAN Network is an independent, well-established and competent network of more than 80 organisations in the field of emerging substances and has enormous potential to contribute to the implementation of the PARC partnership. NORMAN stands ready to provide expert advice to PARC, drawing on its long experience in the development, harmonisation and testing of advanced tools in relation to chemicals of emerging concern and in support of a European Early Warning System to unravel the risks of contaminants of emerging concern (CECs) and close the gap between research and innovation and regulatory processes. In this commentary we highlight the tools developed by NORMAN that we consider most relevant to supporting the PARC initiative: (i) joint data space and cutting-edge research tools for risk assessment of contaminants of emerging concern; (ii) collaborative European framework to improve data quality and comparability; (iii) advanced data analysis tools for a European early warning system and (iv) support to national and European chemical risk assessment thanks to harnessing, combining and sharing evidence and expertise on CECs. By combining the extensive knowledge and experience of the NORMAN network with the financial and policy-related strengths of the PARC initiative, a large step towards the goal of a non-toxic environment can be taken.General information",
+  "year": "2020"
  },
- "https://doi.org/10.4230/LIPIcs.CPM.2021.19": {
+ "https://doi.org/10.1016/j.envint.2021.106511": {
   "groups": [
-   "Bio Informatics (IBIVU)"
+   "Environment and Health"
   ],
   "groups0": [
-   "Bioinformatics",
-   "Bio Informatics (IBIVU)"
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Health and Toxicology"
   ],
   "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
+   "Environment and Health",
+   "Environment and Health"
   ],
   "contributors": [
-   "Mieno, T.",
-   "Pissis, S. P.",
-   "Stougie, L.",
-   "Sweering, M."
+   "Meijer, J.",
+   "Lamoree, M.",
+   "Hamers, T.",
+   "Antignac, J. P.",
+   "Hutinet, S.",
+   "Debrauwer, L.",
+   "Covaci, A.",
+   "Huber, C.",
+   "Krauss, M.",
+   "Walker, D. I.",
+   "Schymanski, E. L.",
+   "Vermeulen, R.",
+   "Vlaanderen, J."
   ],
-  "title": "String sanitization under edit distance: Improved and generalized",
+  "title": "An annotation database for chemicals of emerging concern in exposome research",
   "year": "2021"
  },
  "https://doi.org/10.1002/chem.202101103": {
@@ -3594,9 +3676,11 @@
   ],
   "groups0": [
    "Systems Bioinformatics",
-   "Molecular Cell Biology"
+   "Molecular Cell Biology",
+   "Structural Biology"
   ],
   "groups1": [
+   "Molecular Cell Biology",
    "Molecular Cell Biology",
    "Molecular Cell Biology"
   ],
@@ -3635,6 +3719,27 @@
   "title": "Br\u00f8nsted Acid Promoted Reduction of Tertiary Phosphine Oxides",
   "year": "2017"
  },
+ "https://doi.org/10.1002/anie.201804506": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "groups0": [
+   "Organic Chemistry",
+   "AIMSS Division of BioAnalytical Chemistry"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Pelay-Gimeno, M.",
+   "Bange, T.",
+   "Hennig, S.",
+   "Grossmann, T. N."
+  ],
+  "title": "In Situ Cyclization of Native Proteins: Structure-Based Design of a Bicyclic Enzyme",
+  "year": "2018"
+ },
  "https://doi.org/10.3390/microorganisms7080246": {
   "groups": [
    "Molecular Cell Biology"
@@ -3662,8 +3767,8 @@
  },
  "https://doi.org/10.3390/ijms20153684": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Chemistry and Pharmaceutical Sciences",
@@ -3691,10 +3796,12 @@
    "Environment and Health"
   ],
   "groups0": [
-   "Environment and Health",
-   "E&H: Environmental Health and Toxicology"
+   "E&H: Environmental Health and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry",
+   "Environment and Health"
   ],
   "groups1": [
+   "Environment and Health",
    "Environment and Health",
    "Environment and Health"
   ],
@@ -3705,6 +3812,26 @@
    "van de Bor, M."
   ],
   "title": "Toddler behavior, the home environment, and flame retardant exposure",
+  "year": "2020"
+ },
+ "https://doi.org/10.1007/s10661-020-08452-6": {
+  "groups": [
+   "Environment and Health"
+  ],
+  "groups0": [
+   "E&H: Environmental Chemistry and Toxicology",
+   "Environment and Health"
+  ],
+  "groups1": [
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Loha, K. M.",
+   "Lamoree, M.",
+   "de Boer, J."
+  ],
+  "title": "Pesticide residue levels in vegetables and surface waters at the Central Rift Valley (CRV) of Ethiopia",
   "year": "2020"
  },
  "https://doi.org/10.1021/acs.joc.0c00575": {
@@ -3734,19 +3861,23 @@
  },
  "https://doi.org/10.1016/j.scitotenv.2020.139028": {
   "groups": [
-   "Molecular Cell Biology",
    "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology",
    "Environment and Health"
   ],
   "groups0": [
    "BioAnalytical Chemistry",
+   "E&H: Environmental Chemistry and Toxicology",
    "Molecular Microbiology",
-   "E&H: Environmental Health and Toxicology"
+   "E&H: Environmental Health and Toxicology",
+   "Structural Biology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health",
    "Molecular Cell Biology",
-   "Environment and Health"
+   "Environment and Health",
+   "Molecular Cell Biology"
   ],
   "contributors": [
    "Jonkers, T. J.",
@@ -3783,20 +3914,38 @@
   "title": "Origin of rate enhancement and asynchronicity in iminium catalyzed Diels-Alder reactions",
   "year": "2020"
  },
+ "https://doi.org/10.1016/j.chemosphere.2021.130076": {
+  "groups": [
+   "Environment and Health"
+  ],
+  "groups0": [
+   "E&H: Environmental Bioanalytical Chemistry",
+   "Environment and Health"
+  ],
+  "groups1": [
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Skoczy\u0144ska, E.",
+   "Leonards, P. E.",
+   "Llompart, M.",
+   "de Boer, J."
+  ],
+  "title": "Analysis of recycled rubber: Development of an analytical method and determination of polycyclic aromatic hydrocarbons and heterocyclic aromatic compounds in rubber matrices",
+  "year": "2021"
+ },
  "https://doi.org/10.1007/s12223-021-00866-0": {
   "groups": [
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Systems Bioinformatics",
-   "Molecular Cell Physiology",
-   "Bioinformatics"
+   "Molecular Cell Physiology"
   ],
   "groups1": [
    "Molecular Cell Biology",
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
+   "Molecular Cell Biology"
   ],
   "contributors": [
    "Iturbe-Espinoza, P.",
@@ -3829,89 +3978,28 @@
   "title": "Switch From Pauli-Lowering to LUMO-Lowering Catalysis in Br\u00f8nsted Acid-Catalyzed Aza-Diels-Alder Reactions",
   "year": "2021"
  },
- "https://doi.org/10.4230/LIPIcs.ESA.2021.64": {
+ "https://doi.org/10.1016/j.jhazmat.2021.125758Additional files:CPs and TCIPP in PUR foam 2021": {
   "groups": [
-   "Bio Informatics (IBIVU)"
+   "Environment and Health"
   ],
   "groups0": [
-   "Bioinformatics",
-   "Bio Informatics (IBIVU)"
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry",
+   "Environment and Health"
   ],
   "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
+   "Environment and Health",
+   "Environment and Health",
+   "Environment and Health"
   ],
   "contributors": [
-   "Loukides, G.",
-   "Pissis, S. P."
+   "Brandsma, S. H.",
+   "Brits, M.",
+   "de Boer, J.",
+   "Leonards, P. E."
   ],
-  "title": "Bidirectional string anchors: A new string sampling mechanism",
+  "title": "Chlorinated paraffins and tris (1-chloro-2-propyl) phosphate in spray polyurethane foams \u2013 A source for indoor exposure?",
   "year": "2021"
- },
- "https://doi.org/10.4230/LIPIcs.ESA.2021.30": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Charalampopoulos, P.",
-   "Kociumaka, T.",
-   "Pissis, S. P.",
-   "Radoszewski, J."
-  ],
-  "title": "Faster algorithms for longest common substring",
-  "year": "2021"
- },
- "https://doi.org/10.1093/bioinformatics/btw481": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Heringa, J.",
-   "Reinders, M.",
-   "Abeln, S.",
-   "de Ridder, J.Pages:389-392"
-  ],
-  "title": "ECCB 2016: The 15th European Conference on Computational Biology",
-  "year": "2016"
- },
- "https://doi.org/10.1089/cmb.2015.0220": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Bonizzoni, P.",
-   "Dondi, R.",
-   "Klau, G. W.",
-   "Pirola, Y.",
-   "Pisanti, N.",
-   "Zaccaria, S."
-  ],
-  "title": "On the Minimum Error Correction Problem for Haplotype Assembly in Diploid and Polyploid Genomes",
-  "year": "2016"
  },
  "https://doi.org/10.1002/chem.201702067": {
   "groups": [
@@ -3958,17 +4046,76 @@
   "title": "When fragments link: a bibliometric perspective on the development of fragment-based drug discovery",
   "year": "2018"
  },
+ "https://doi.org/10.1016/j.scitotenv.2018.04.356": {
+  "groups": [
+   "Environment and Health"
+  ],
+  "groups0": [
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry",
+   "Environment and Health"
+  ],
+  "groups1": [
+   "Environment and Health",
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Tousova, Z.",
+   "Oswald, P.",
+   "Slobodnik, J.",
+   "Blaha, L.",
+   "Muz, M.",
+   "Hu, M.",
+   "Brack, W.",
+   "Krauss, M.",
+   "Di Paolo, C.",
+   "Tarcai, Z.",
+   "Seiler, T. B.",
+   "Hollert, H.",
+   "Koprivica, S.",
+   "Ahel, M.",
+   "Scholl\u00e9e, J. E.",
+   "Hollender, J.",
+   "Suter, M. J.",
+   "Hidasi, A. O.",
+   "Schirmer, K.",
+   "Sonavane, M.",
+   "Ait-Aissa, S.",
+   "Creusot, N.",
+   "Brion, F.",
+   "Froment, J.",
+   "Almeida, A. C.",
+   "Thomas, K.",
+   "Tollefsen, K. E.",
+   "Tufi, S.",
+   "Ouyang, X.",
+   "Leonards, P.",
+   "Lamoree, M.",
+   "Torrens, V. O.",
+   "Kolkman, A.",
+   "Schriks, M.",
+   "Spirhanzlova, P.",
+   "Tindall, A.",
+   "Schulze, T."
+  ],
+  "title": "Corrigendum to \u201cEuropean demonstration program on the effect-based and chemical identification and monitoring of organic pollutants in European surface waters\u201d [Sci. Total Environ. 601\u2013602 (2017) 1849\u20131868]The authors regret that an error occurred in Table 5: The relative effect potency (REP) for estrone in the MELN estrogenicity assay used in the calculations is 0.11 (Neale et al., 2017) and not 0.02 (Kinani et al., 2010) as reported. The corrected Table 5 was attached to the corrigendum. The results in the main paper were based on the correct REP of 0.11 and hence the mistake does not affect the results of the original paper. We apologize for this error and possible misleading to our readers.General information",
+  "year": "2018"
+ },
  "https://doi.org/10.1002/anie.201804875": {
   "groups": [
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Chemistry and Pharmaceutical Sciences",
-   "Medicinal chemistry"
+   "Medicinal chemistry",
+   "Structural Biology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "contributors": [
    "G\u00f3mez-Santacana, X.",
@@ -3986,20 +4133,20 @@
  },
  "https://doi.org/10.1128/mBio.01346-18": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Medicinal chemistry",
    "Organic Chemistry",
-   "Molecular Microbiology",
-   "Molecular and Computational Toxicology"
+   "Molecular and Computational Toxicology",
+   "Molecular Microbiology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
    "Chemistry and Pharmaceutical Sciences",
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "contributors": [
    "Kureisaite-Ciziene, D.",
@@ -4015,6 +4162,32 @@
    "L\u00f6we, J."
   ],
   "title": "Structural analysis of the interaction between the bacterial cell division proteins FTSQ and FTSBMost bacteria and archaea use the tubulin homologue Fts",
+  "year": "2018"
+ },
+ "https://doi.org/10.1016/j.toxicon.2018.06.080": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "groups0": [
+   "BioAnalytical Chemistry",
+   "AIMSS Division of BioAnalytical Chemistry"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Vanzolini, K. L.",
+   "Ainsworth, S.",
+   "Bruyneel, B.",
+   "Herzig, V.",
+   "Seraus, M. G.",
+   "Somsen, G. W.",
+   "Casewell, N. R.",
+   "Cass, Q. B.",
+   "Kool, J."
+  ],
+  "title": "Rapid ligand fishing for identification of acetylcholinesterase-binding peptides in snake venom reveals new properties of dendrotoxins",
   "year": "2018"
  },
  "https://doi.org/10.3389/fmicb.2018.02218": {
@@ -4132,27 +4305,6 @@
   "title": "Development of high-throughput screening assays for profiling snake venom phospholipase A2 activity after chromatographic fractionation",
   "year": "2020"
  },
- "https://doi.org/10.1093/gbe/evaa171": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Ayad, L. A.",
-   "Dourou, A. M.",
-   "Arhondakis, S.",
-   "Pissis, S. P."
-  ],
-  "title": "Iso",
-  "year": "2020"
- },
  "https://doi.org/10.1016/j.chemosphere.2020.126816": {
   "groups": [
    "Chemistry and Pharmaceutical Sciences",
@@ -4160,10 +4312,12 @@
   ],
   "groups0": [
    "Chemistry and Pharmaceutical Sciences",
+   "E&H: Environmental Chemistry and Toxicology",
    "Environment and Health"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health",
    "Environment and Health"
   ],
   "contributors": [
@@ -4195,6 +4349,55 @@
   ],
   "title": "Understanding the 1,3-Dipolar Cycloadditions of Allenes",
   "year": "2020"
+ },
+ "https://doi.org/10.1016/j.chemosphere.2021.130383": {
+  "groups": [
+   "Environment and Health"
+  ],
+  "groups0": [
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
+  ],
+  "groups1": [
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Hjort, M.",
+   "den Haan, K. H.",
+   "Whale, G.",
+   "Koekkoek, J.",
+   "Leonards, P. E.",
+   "Redman, A. D.",
+   "Vaiopoulou, E."
+  ],
+  "title": "Conventional and high resolution chemical characterization to assess refinery effluent treatment performance",
+  "year": "2021"
+ },
+ "https://doi.org/10.3389/fpls.2021.697324": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "groups0": [
+   "Medicinal chemistry",
+   "Structural Biology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "Gao, J.",
+   "van Kleeff, P. J.",
+   "de Boer, M. H.",
+   "Erban, A.",
+   "Kopka, J.",
+   "Hincha, D. K.",
+   "de Boer, A. H."
+  ],
+  "title": "Ion Homeostasis and Metabolome Analysis of Arabidopsis 14-3-3 Quadruple Mutants to Salt Stress",
+  "year": "2021"
  },
  "https://doi.org/10.1002/anie.202106053": {
   "groups": [
@@ -4237,55 +4440,6 @@
   "title": "Origin of asynchronicity in Diels-Alder reactions",
   "year": "2021"
  },
- "https://doi.org/10.1016/S1476-9271(16)30509-6": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Heringa, J.",
-   "Li, W.",
-   "Madura, J.Pages:vii-viii"
-  ],
-  "title": "Editorial",
-  "year": "2016"
- },
- "https://doi.org/10.1038/srep35436": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Rajendran, R.",
-   "May, A.",
-   "Sherry, L.",
-   "Kean, R.",
-   "Williams, C.",
-   "Jones, B. L.",
-   "Burgess, K. V.",
-   "Heringa, J.",
-   "Abeln, S.",
-   "Brandt, B. W.",
-   "Munro, C. A.",
-   "Ramage, G."
-  ],
-  "title": "Integrating Candida albicans metabolism with biofilm heterogeneity by transcriptome mapping",
-  "year": "2016"
- },
  "https://doi.org/10.1016/j.scitotenv.2017.04.072": {
   "groups": [
    "Molecular Cell Biology"
@@ -4315,15 +4469,17 @@
  },
  "https://doi.org/10.1007/s00726-018-2613-8": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Chemistry and Pharmaceutical Sciences",
+   "Molecular and Computational Toxicology",
    "Molecular Cell Biology",
-   "Molecular and Computational Toxicology"
+   "AIMSS Division of BioAnalytical Chemistry"
   ],
   "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
    "Chemistry and Pharmaceutical Sciences",
    "Molecular Cell Biology",
    "Chemistry and Pharmaceutical Sciences"
@@ -4339,27 +4495,25 @@
   "title": "Acetaminophen reduces the protein levels of high affinity amino acid permeases and causes tryptophan depletion",
   "year": "2018"
  },
- "https://doi.org/10.1016/j.antiviral.2018.08.009": {
+ "https://doi.org/10.1016/j.cropro.2018.06.014": {
   "groups": [
-   "Bio Informatics (IBIVU)"
+   "Environment and Health"
   ],
   "groups0": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
   ],
   "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
+   "Environment and Health",
+   "Environment and Health"
   ],
   "contributors": [
-   "van der Ree, M. H.",
-   "Jansen, L.",
-   "Welkers, M. R. A.",
-   "Reesink, H. W.",
-   "Feenstra, K. A.",
-   "Kootstra, N. A."
+   "Loha, K. M.",
+   "Lamoree, M.",
+   "Weiss, J. M.",
+   "de Boer, J."
   ],
-  "title": "Deep sequencing identifies hepatitis B virus core protein signatures in chronic hepatitis B patients",
+  "title": "Import, disposal, and health impacts of pesticides in the East Africa Rift(EAR) zone: A review on management and policy analysis",
   "year": "2018"
  },
  "https://doi.org/10.1021/acs.inorgchem.8b01861": {
@@ -4368,9 +4522,11 @@
   ],
   "groups0": [
    "Chemistry and Pharmaceutical Sciences",
-   "Organic Chemistry"
+   "Organic Chemistry",
+   "AIMSS Division of BioAnalytical Chemistry"
   ],
   "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
    "Chemistry and Pharmaceutical Sciences",
    "Chemistry and Pharmaceutical Sciences"
   ],
@@ -4385,6 +4541,29 @@
   ],
   "title": "Chiral Control in Pentacoordinate Systems: The Case of Organosilicates",
   "year": "2018"
+ },
+ "https://doi.org/10.1016/j.envpol.2019.06.121": {
+  "groups": [
+   "Environment and Health"
+  ],
+  "groups0": [
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
+  ],
+  "groups1": [
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Brits, M.",
+   "Brandsma, S. H.",
+   "Rohwer, E. R.",
+   "De Vos, J.",
+   "Weiss, J. M.",
+   "de Boer, J."
+  ],
+  "title": "Brominated and organophosphorus flame retardants in South African indoor dust and cat hair",
+  "year": "2019"
  },
  "https://doi.org/10.4155/fmc-2019-0207": {
   "groups": [
@@ -4639,34 +4818,10 @@
   "title": "How Lewis Acids Catalyze Ene Reactions",
   "year": "2021"
  },
- "https://doi.org/10.1038/srep36812": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Knijnenburg, T. A.",
-   "Klau, G. W.",
-   "Iorio, F.",
-   "Garnett, M. J.",
-   "McDermott, U.",
-   "Shmulevich, I.",
-   "Wessels, L. F. A."
-  ],
-  "title": "Logic models to predict continuous outputs based on binary inputs with an application to personalized cancer therapy",
-  "year": "2016"
- },
  "https://doi.org/10.1128/AEM.01528-17": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Systems Bioinformatics",
@@ -4692,16 +4847,18 @@
  },
  "https://doi.org/10.1007/s00253-018-9299-4": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Chemistry and Pharmaceutical Sciences",
    "Organic Chemistry",
+   "Molecular and Computational Toxicology",
    "Molecular Microbiology",
-   "Molecular and Computational Toxicology"
+   "AIMSS Division of BioAnalytical Chemistry"
   ],
   "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
    "Chemistry and Pharmaceutical Sciences",
    "Chemistry and Pharmaceutical Sciences",
    "Molecular Cell Biology",
@@ -4719,51 +4876,6 @@
    "Vos, J."
   ],
   "title": "Linking cytochrome P450 enzymes from Mycobacterium tuberculosis to their cognate ferredoxin partners",
-  "year": "2018"
- },
- "https://doi.org/10.1371/journal.pcbi.1006547": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Dijkstra, M.",
-   "Bawono, P.",
-   "Abeln, S.",
-   "Feenstra, K. A.",
-   "Fokkink, W.",
-   "Heringa, J."
-  ],
-  "title": "Motif-Aware PRALINE: Improving the alignment of motif regions: Improving the alignment of motif regions",
-  "year": "2018"
- },
- "https://doi.org/10.1080/00268976.2018.1496290": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Dijkstra, M. J.",
-   "Fokkink, W. J.",
-   "Heringa, J.",
-   "van Dijk, E.",
-   "Abeln, S."
-  ],
-  "title": "The characteristics of molten globule states and folding pathways strongly depend on the sequence of a protein",
   "year": "2018"
  },
  "https://doi.org/10.1016/j.tips.2019.09.002": {
@@ -4788,54 +4900,6 @@
    "Kooistra, A. J."
   ],
   "title": "The Landscape of Atypical and Eukaryotic Protein Kinases",
-  "year": "2019"
- },
- "https://doi.org/10.1016/j.oraloncology.2019.09.003": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Willems, S. M.",
-   "Abeln, S.",
-   "Feenstra, K. A.",
-   "de Bree, R.",
-   "van der Poel, E. F.",
-   "Baatenburg de Jong, R. J.",
-   "Heringa, J.",
-   "van den Brekel, M. W."
-  ],
-  "title": "The potential use of big data in oncology",
-  "year": "2019"
- },
- "https://doi.org/10.1093/bioinformatics/btz428": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Hou, Q.",
-   "De Geest, P. F. G.",
-   "Griffioen, C. J.",
-   "Abeln, S.",
-   "Heringa, J.",
-   "Feenstra, K. A."
-  ],
-  "title": "Se",
   "year": "2019"
  },
  "https://doi.org/10.1074/jbc.RA119.007796": {
@@ -4901,34 +4965,13 @@
   "title": "Bromo-cyclobutenaminones as new covalent udp-n-acetylglucosamine enolpyruvyl transferase (Mura) inhibitors",
   "year": "2020"
  },
- "https://doi.org/10.3390/a13110276": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Abedin, P.",
-   "Ganguly, A.",
-   "Pissis, S. P.",
-   "Thankachan, S. V."
-  ],
-  "title": "Efficient data structures for range shortest unique substring queries\u2020Let T[1, n] be a string of length n and T[i, j] be the substring of T starting at position i and ending at position j. A substring T[i, j] of T is a repeat if it occurs more than once in T; otherwise, it is a unique substring of T. Repeats and unique substrings are of great interest in computational biology and information retrieval. Given string T as input, the Shortest Unique Substring problem is to find a shortest substring of T that does not occur elsewhere in T. In this paper, we introduce the range variant of this problem, which we call the Range Shortest Unique Substring problem. The task is to construct a data structure over T answering the following type of online queries efficiently. Given a range [\u03b1, \u03b2], return a shortest substring T[i, j] of T with exactly one occurrence in [\u03b1, \u03b2]. We present an O(n log n)-word data structure with O(logw n) query time, where w = \u03a9(log n) is the word size. Our construction is based on a non-trivial reduction allowing for us to apply a recently introduced optimal geometric data structure [Chan et al., ICALP 2018]. Additionally, we present an O(n)-word data structure with O(\u221a n log\u025b n) query time, where \u025b > 0 is an arbitrarily small constant. The latter data structure relies heavily on another geometric data structure [Nekrich and Navarro, SWAT 2012].General information",
-  "year": "2020"
- },
  "https://doi.org/10.1021/acs.analchem.0c02652": {
   "groups": [
    "Chemistry and Pharmaceutical Sciences"
   ],
   "groups0": [
-   "BioAnalytical Chemistry",
-   "Medicinal chemistry"
+   "Medicinal chemistry",
+   "BioAnalytical Chemistry"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
@@ -4968,6 +5011,26 @@
   ],
   "title": "The Hydrogenation Problem in Cobalt-based Catalytic Hydroaminomethylation",
   "year": "2020"
+ },
+ "https://doi.org/10.1016/j.talanta.2021.122688": {
+  "groups": [
+   "Environment and Health"
+  ],
+  "groups0": [
+   "E&H: Environmental Health and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
+  ],
+  "groups1": [
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Xu, M.",
+   "Legradi, J.",
+   "Leonards, P."
+  ],
+  "title": "Cross platform solutions to improve the zebrafish polar metabolome coverage using LC-QTOF MS: Optimization of separation mechanisms, solvent additives, and resuspension solvents",
+  "year": "2021"
  },
  "https://doi.org/10.1002/anie.202107253": {
   "groups": [
@@ -5014,6 +5077,60 @@
   "title": "Effects of growth rate and promoter activity on single-cell protein expression",
   "year": "2017"
  },
+ "https://doi.org/10.1016/j.scitotenv.2017.06.032": {
+  "groups": [
+   "Environment and Health"
+  ],
+  "groups0": [
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
+  ],
+  "groups1": [
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Tousova, Z.",
+   "Oswald, P.",
+   "Slobodnik, J.",
+   "Blaha, L.",
+   "Muz, M.",
+   "Hu, M.",
+   "Brack, W.",
+   "Krauss, M.",
+   "Di Paolo, C.",
+   "Tarcai, Z.",
+   "Seiler, T. B.",
+   "Hollert, H.",
+   "Koprivica, S.",
+   "Ahel, M.",
+   "Scholl\u00e9e, J. E.",
+   "Hollender, J.",
+   "Suter, M. J.",
+   "Hidasi, A. O.",
+   "Schirmer, K.",
+   "Sonavane, M.",
+   "Ait-Aissa, S.",
+   "Creusot, N.",
+   "Brion, F.",
+   "Froment, J.",
+   "Almeida, A. C.",
+   "Thomas, K.",
+   "Tollefsen, K. E.",
+   "Tufi, S.",
+   "Ouyang, X.",
+   "Leonards, P.",
+   "Lamoree, M.",
+   "Torrens, V. O.",
+   "Kolkman, A.",
+   "Schriks, M.",
+   "Spirhanzlova, P.",
+   "Tindall, A.",
+   "Schulze, T."
+  ],
+  "title": "European demonstration program on the effect-based and chemical identification and monitoring of organic pollutants in European surface waters",
+  "year": "2017"
+ },
  "https://doi.org/10.1016/j.tiv.2017.08.004": {
   "groups": [
    "Chemistry and Pharmaceutical Sciences",
@@ -5021,11 +5138,15 @@
   ],
   "groups0": [
    "BioAnalytical Chemistry",
-   "Environment and Health",
-   "E&H: Environmental Health and Toxicology"
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Health and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry",
+   "Environment and Health"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health",
+   "Environment and Health",
    "Environment and Health",
    "Environment and Health"
   ],
@@ -5075,16 +5196,16 @@
  },
  "https://doi.org/10.1016/j.jinorgbio.2017.12.003": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
-   "Molecular Microbiology",
-   "Molecular and Computational Toxicology"
+   "Molecular and Computational Toxicology",
+   "Molecular Microbiology"
   ],
   "groups1": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "contributors": [
    "Ortega Ugalde, S.",
@@ -5102,10 +5223,12 @@
    "Environment and Health"
   ],
   "groups0": [
-   "Environment and Health",
-   "E&H: Environmental Health and Toxicology"
+   "E&H: Environmental Health and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry",
+   "Environment and Health"
   ],
   "groups1": [
+   "Environment and Health",
    "Environment and Health",
    "Environment and Health"
   ],
@@ -5118,6 +5241,52 @@
    "Hamers, T."
   ],
   "title": "Effects of environmental pollutants on calcium release and uptake by rat cortical microsomes",
+  "year": "2018"
+ },
+ "https://doi.org/10.1016/j.etap.2018.09.005": {
+  "groups": [
+   "Environment and Health"
+  ],
+  "groups0": [
+   "E&H: Environmental Health and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
+  ],
+  "groups1": [
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Hamers, T.",
+   "Legradi, J.",
+   "Zwart, N.",
+   "Smedes, F.",
+   "de Weert, J.",
+   "van den Brandhof, E. J.",
+   "van de Meent, D.",
+   "de Zwart, D."
+  ],
+  "title": "Time-Integrative Passive sampling combined with TOxicity Profiling (TIPTOP): an effect-based strategy for cost-effective chemical water quality assessment",
+  "year": "2018"
+ },
+ "https://doi.org/10.1016/j.scitotenv.2018.07.127": {
+  "groups": [
+   "Environment and Health"
+  ],
+  "groups0": [
+   "E&H: Environmental Health and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
+  ],
+  "groups1": [
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Sugeng, E. J.",
+   "de Cock, M.",
+   "Leonards, P. E.",
+   "van de Bor, M."
+  ],
+  "title": "Electronics, interior decoration and cleaning patterns affect flame retardant levels in the dust from Dutch residences",
   "year": "2018"
  },
  "https://doi.org/10.1002/jcc.25731": {
@@ -5148,8 +5317,8 @@
    "Chemistry and Pharmaceutical Sciences"
   ],
   "groups0": [
-   "BioAnalytical Chemistry",
-   "Medicinal chemistry"
+   "Medicinal chemistry",
+   "BioAnalytical Chemistry"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
@@ -5193,11 +5362,15 @@
   "groups0": [
    "Chemistry and Pharmaceutical Sciences",
    "BioAnalytical Chemistry",
-   "E&H: Environmental Health and Toxicology"
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Health and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
    "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health",
+   "Environment and Health",
    "Environment and Health"
   ],
   "contributors": [
@@ -5302,29 +5475,6 @@
   "title": "Covalent inhibition of the histamine H3 receptor",
   "year": "2019"
  },
- "https://doi.org/10.1093/bioinformatics/btz572": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Integrative Bioinformatics"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Dijkstra, M. J. J.",
-   "van der Ploeg, A. J.",
-   "Feenstra, K. A.",
-   "Fokkink, W. J.",
-   "Abeln, S.",
-   "Heringa, J."
-  ],
-  "title": "Tailor-made multiple sequence alignments using the PRALINE 2 alignment toolkit",
-  "year": "2019"
- },
  "https://doi.org/10.1016/j.mec.2020.e00133": {
   "groups": [
    "Molecular Cell Biology"
@@ -5357,12 +5507,10 @@
   ],
   "groups0": [
    "Systems Bioinformatics",
-   "Bioinformatics",
    "Bio Informatics (IBIVU)"
   ],
   "groups1": [
    "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)",
    "Bio Informatics (IBIVU)"
   ],
   "contributors": [
@@ -5447,27 +5595,6 @@
   "title": "Characterization of glycosyl dioxolenium ions and their role in glycosylation reactions",
   "year": "2020"
  },
- "https://doi.org/10.1007/s00453-020-00744-0": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Amir, A.",
-   "Charalampopoulos, P.",
-   "Pissis, S. P.",
-   "Radoszewski, J."
-  ],
-  "title": "Dynamic and Internal Longest Common Substring",
-  "year": "2020"
- },
  "https://doi.org/10.1038/s41540-020-00150-w": {
   "groups": [
    "Molecular Cell Biology"
@@ -5545,63 +5672,40 @@
   "title": "A Comparative Interrupted Times Series on the Health Impact of Probiotic Yogurt Consumption Among School Children From Three to Six Years Old in Southwest Uganda",
   "year": "2020"
  },
- "https://doi.org/10.1186/s12859-021-03983-2": {
+ "https://doi.org/10.1186/s41476-021-00155-w": {
   "groups": [
-   "Bio Informatics (IBIVU)"
+   "Environment and Health"
   ],
   "groups0": [
-   "Bioinformatics",
-   "Bio Informatics (IBIVU)"
+   "E&H: Environmental Chemistry and Toxicology",
+   "Environment and Health"
   ],
   "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
+   "Environment and Health",
+   "Environment and Health"
   ],
   "contributors": [
-   "Alamro, H.",
-   "Alzamel, M.",
-   "Iliopoulos, C. S.",
-   "Pissis, S. P.",
-   "Watts, S."
+   "Zada, L.",
+   "Fokker, B.",
+   "Leslie, H. A.",
+   "Vethaak, A. D.",
+   "De Boer, J. F.",
+   "Ariese, F."
   ],
-  "title": "IUPACpal: efficient identification of inverted repeats in IUPAC-encoded DNA sequences",
-  "year": "2021"
- },
- "https://doi.org/10.1186/s13321-021-00525-z": {
-  "groups": [
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Bioinformatics",
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups1": [
-   "Bio Informatics (IBIVU)",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Gogishvili, D.",
-   "Nittinger, E.",
-   "Margreitter, C.",
-   "Tyrchan, C."
-  ],
-  "title": "Nonadditivity in public and inhouse data: implications for drug design",
+  "title": "Stimulated Raman scattering simulation for imaging optimization",
   "year": "2021"
  },
  "https://doi.org/10.1038/s42003-021-01948-y": {
   "groups": [
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Systems Bioinformatics",
-   "Molecular Cell Physiology",
-   "Bioinformatics"
+   "Molecular Cell Physiology"
   ],
   "groups1": [
    "Molecular Cell Biology",
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
+   "Molecular Cell Biology"
   ],
   "contributors": [
    "Melkonian, C.",

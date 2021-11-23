@@ -6,10 +6,13 @@ __version__ = 0.1
 
 import os
 import time
+import operator
+import numpy
 
 import CBNetDB
 import json
 import xlsxwriter
+import pprint
 
 import copy
 import collections
@@ -58,7 +61,7 @@ aimmsDB.closeDB()
 with open('data0.json', 'w') as F:
     json.dump(data, F, indent=1)
 
-def makeWordcloud(fname, kword_dict, size=(20, 10), height=1024, width=1280):
+def makeWordcloud(fname, kword_dict, size=(12, 12), height=600, width=800):
     wcloud = wordcloud.WordCloud(height=height, width=width).generate_from_frequencies(kword_dict)
     plt.figure(figsize=size)
     plt.imshow(wcloud)
@@ -66,20 +69,52 @@ def makeWordcloud(fname, kword_dict, size=(20, 10), height=1024, width=1280):
     plt.savefig(fname, bbox_inches='tight')
     plt.close()
 
-def writeFreqToSheet(wbook, sheet_name, col_header, thelist):
+def makeBarChart(wbook, wsheet, sheet_name, thetuplelist, descending=True):
+    #chart1 = wbook.add_chart({'type': 'bar'})
+    chart1 = wbook.add_chart({'type': 'radar', 'subtype': 'with_markers'})
+
+    # Configure the first series.
+    chart1.add_series({
+        'name':       '={}!$B$1'.format(sheet_name),
+        'categories': '={}!$A$2:$A${}'.format(sheet_name, len(thetuplelist)+1),
+        'values':     '={}!$B$2:$B${}'.format(sheet_name, len(thetuplelist)+1),
+    })
+
+    # Add a chart title and some axis labels.
+    chart1.set_title ({'name': 'Top {} {}'.format(len(thetuplelist), sheet_name)})
+    chart1.set_x_axis({'name': 'Papers'})
+    chart1.set_y_axis({'name': 'Organisation'})
+
+    # Set an Excel chart style.
+    chart1.set_style(11)
+    chart1.set_size({'x_scale': 3, 'y_scale': 5})
+
+    return chart1
+
+
+def writeFreqToSheet(wbook, sheet_name, col_header, thedict, addbarchart):
     sheet = wbook.add_worksheet()
     sheet.name = sheet_name
+    sheet.set_column('A:A', 50)
+
+    thelist = sorted(thedict.items(), key=operator.itemgetter(1))
 
     sheet.write(0, 0, col_header)
     sheet.write(0, 1, 'count')
     row = 1
-    for i in thelist:
-        sheet.write(row, 0, i)
-        sheet.write(row, 1, thelist[i])
+    outlist = []
+    for i in range(len(thelist)-1, -1, -1):
+        sheet.write(row, 0, thelist[i][0])
+        sheet.write(row, 1, thelist[i][1])
+        outlist.append((thelist[i][0], thelist[i][1]))
         row += 1
+    if addbarchart > 0:
+        chart1 = makeBarChart(wbook, sheet, sheet_name, outlist[:addbarchart+1])
+        sheet.insert_chart('D2', chart1, {'x_offset': 25, 'y_offset': 10})
+
     return sheet
 
-def filterFreq(thelist_freq, min_count_allowed, exclude_list, include_list):
+def filterFreq(thelist_freq, min_count_allowed, exclude_list, include_list, nasty_exclude):
     """
     If include list is not empty then exclude list is used as a filter
     """
@@ -94,6 +129,10 @@ def filterFreq(thelist_freq, min_count_allowed, exclude_list, include_list):
             for k_ in include_list:
                 if k_ in a and a in thelist_freq_filtered and a not in exclude_list:
                     out_dict_included[a] = thelist_freq_filtered.pop(a)
+        elif nasty_exclude:
+            for k_ in exclude_list:
+                if k_ in a and a in thelist_freq_filtered:
+                    thelist_freq_filtered.pop(a)
         else:
             if (a in exclude_list or thelist_freq_filtered[a] < min_count_allowed) and a in thelist_freq_filtered:
                 thelist_freq_filtered.pop(a)
@@ -111,6 +150,8 @@ def createWordcloudSheet(
     min_count_allowed,
     apply_filter=True,
     create_wordcloud=True,
+    nasty_exclude=False,
+    create_barchart=0
 ):
 
     thelist.sort()
@@ -118,13 +159,14 @@ def createWordcloudSheet(
 
     # filter, this probably needs some work
     if apply_filter:
-        thelist_freq = filterFreq(thelist_freq, min_count_allowed, exclude_list, include_list)
+        thelist_freq = filterFreq(thelist_freq, min_count_allowed, exclude_list, include_list, nasty_exclude)
 
     # write filtered data to sheet
-    orgsheet = writeFreqToSheet(wbook, sheet_name, theheader, thelist_freq)
+    orgsheet = writeFreqToSheet(wbook, sheet_name, theheader, thelist_freq, addbarchart=create_barchart)
     if create_wordcloud:
         makeWordcloud(sheet_name + '.png', thelist_freq)
-        orgsheet.insert_image('D2', sheet_name + '.png')
+        orgsheet.insert_image('D77', sheet_name + '.png', {'x_offset': 25, 'y_offset': 10})
+
 
 # ###################
 # Generate reports
@@ -147,6 +189,8 @@ createWordcloudSheet(
     0,
     apply_filter=False,
     create_wordcloud=True,
+    nasty_exclude=False,
+    create_barchart=60
 )
 
 createWordcloudSheet(
@@ -159,19 +203,22 @@ createWordcloudSheet(
     2,
     apply_filter=True,
     create_wordcloud=True,
+    nasty_exclude=False,
+    create_barchart=60
 )
-
 
 createWordcloudSheet(
     analysis_results,
-    'author_organisations_uni',
+    'author_organisations_noedu',
     all_author_organisations,
     'organisation',
-    FLT.org_uni_list,
-    ['VU University', 'Vrije Universiteit', 'Vrije Universiteit Amsterdam'],
+    [],
+    FLT.org_uni_list+FLT.org_exclude_list+FLT.org_nouni_exclude_list+FLT.org_group_list,
     0,
     apply_filter=True,
     create_wordcloud=True,
+    nasty_exclude=True,
+    create_barchart=60
 )
 
 createWordcloudSheet(
@@ -179,17 +226,19 @@ createWordcloudSheet(
     'author_organisations_groups',
     all_author_organisations,
     'organisation',
-    FLT.org_group_list2,
+    FLT.org_group_list,
     FLT.org_group_exclude_list,
     0,
     apply_filter=True,
     create_wordcloud=True,
+    nasty_exclude=False,
+    create_barchart=60
 )
 
 
 
 # playing around with multi-refernces
-import pprint
+
 
 multigroup = {}
 mapped_depts = []
@@ -200,10 +249,10 @@ for paper in data:
     for grp in FLT.org_group_list:
         if grp in data[paper]['organisations']:
             groups_nomap.append(grp)
-            groups.append(FLT.org_group_map_dept2[grp])
-            cross_dept_frequency_list.append(FLT.org_group_map_dept2[grp])
+            groups.append(FLT.org_group_map_dept[grp])
+            cross_dept_frequency_list.append(FLT.org_group_map_dept[grp])
     if len(groups) > 1:
-        multigroup[paper] = {'groups' : list(set([FLT.org_group_map_dept2[g] for g in groups])),
+        multigroup[paper] = {'groups' : list(set([FLT.org_group_map_dept[g] for g in groups])),
                              'groups0' : groups_nomap,
                              'groups1' : groups,
                              'contributors' : data[paper]['contributors'],
@@ -236,9 +285,6 @@ for p in cross_dept_data:
     dept_combi_freq.append(','.join(grps))
     spread_out.append(rowdat+groups)
 
-#print(spread_out)
-print(dept_combi_freq)
-
 createWordcloudSheet(
     analysis_results,
     'author_organisations_dept_freq',
@@ -249,20 +295,9 @@ createWordcloudSheet(
     0,
     apply_filter=True,
     create_wordcloud=True,
+    nasty_exclude=False,
+    create_barchart=20
 )
-
-#createWordcloudSheet(
-    #analysis_results,
-    #'dept_combi_freq',
-    #dept_combi_freq,
-    #'organisation',
-    #[],
-    #[],
-    #0,
-    #apply_filter=True,
-    #create_wordcloud=False,
-#)
-
 
 # write combinations to sheet
 dept_combi_freq.sort()
@@ -272,35 +307,27 @@ dept_combi_sheet.name = 'dept_combi_freq'
 
 rcntr = 0
 for i in dept_combi_freq:
-    print(i)
     grpl = i.split(',')
-    print(grpl)
     for j in range(len(grpl)):
         dept_combi_sheet.write(rcntr, j, grpl[j])
     dept_combi_sheet.write(rcntr, 3, dept_combi_freq[i])
     rcntr += 1
 
+# draw combinations as chord graph
+#print(spread_out)
+#print(dept_combi_freq)
+
+from mne.viz import plot_connectivity_circle
+
+N = 4
+node_names = ['IBIVU', 'C+PS', 'MCB', 'E+H']
+con = numpy.array([[numpy.nan,	numpy.nan,	3,	numpy.nan],
+                    [numpy.nan,	numpy.nan,	19,	8],
+                    [3,	19,	numpy.nan,	3],
+                    [numpy.nan,	8,	3,	numpy.nan]])
+fig, axes = plot_connectivity_circle(con, node_names, vmin=0, vmax=20, fontsize_names=9, title='Joint publications', show=False)
+fig.savefig('org_dept_chord.png')
+dept_combi_sheet.insert_image('F1', 'org_dept_chord.png', {'x_offset': 25, 'y_offset': 10})
+
 analysis_results.close()
-
-#pprint.pprint(cross_dept_data)
-
-#import numpy
-#import networkx as nx
-#import matplotlib.pyplot as plt
-
-#dept_interactions = [[0,14,6,0],
-                     #[14,0,1,10],
-                     #[6,1,0,0],
-                     #[0,10,0,0]]
-
-#x = [0,0,0,0,1,1,1,1,2,2,2,2,3,3,3,3]
-#y = [0,1,2,3,0,1,2,3,0,1,2,3,0,1,2,3]
-#s = [0,14,6,0,14,0,1,10,6,1,0,0,0,10,0,0]
-#colors = numpy.random.rand(len(x))
-
-
-#plt.scatter(x, y, s=[a*50 for a in s], c=colors, alpha=0.5)
-#plt.show()
-#plt.savefig('dept_interaction_graph.png')
-
 

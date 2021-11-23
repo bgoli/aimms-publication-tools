@@ -1,41 +1,4 @@
 {
- "https://doi.org/10.1186/s12862-018-1331-x": {
-  "groups": [
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Systems Bioinformatics",
-   "Molecular Cell Physiology",
-   "Bioinformatics"
-  ],
-  "groups1": [
-   "Molecular Cell Biology",
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Price, C. E.",
-   "Branco Dos Santos, F.",
-   "Hesseling, A.",
-   "Uusitalo, J. J.",
-   "Bachmann, H.",
-   "Benavente, V.",
-   "Goel, A.",
-   "Berkhout, J.",
-   "Bruggeman, F. J.",
-   "Marrink, S. J.",
-   "Montalban-Lopez, M.",
-   "De Jong, A.",
-   "Kok, J.",
-   "Molenaar, D.",
-   "Poolman, B.",
-   "Teusink, B.",
-   "Kuipers, O. P."
-  ],
-  "title": "Adaption to glucose limitation is modulated by the pleotropic regulator Ccp",
-  "year": "2019"
- },
  "https://doi.org/10.1016/j.watres.2019.115204": {
   "groups": [
    "Chemistry and Pharmaceutical Sciences",
@@ -43,10 +6,14 @@
   ],
   "groups0": [
    "BioAnalytical Chemistry",
-   "E&H: Environmental Health and Toxicology"
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Health and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health",
+   "Environment and Health",
    "Environment and Health"
   ],
   "contributors": [
@@ -87,58 +54,10 @@
   "title": "Transthyretin-binding activity of complex mixtures representing the composition of thyroid-hormone disrupting contaminants in house dust and human serum",
   "year": "2020"
  },
- "https://doi.org/10.1039/d0ew00776e": {
-  "groups": [
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Systems Bioinformatics",
-   "Bioinformatics"
-  ],
-  "groups1": [
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Dalmijn, J. A.",
-   "Poursat, B. A.",
-   "Van Spanning, R. J.",
-   "Brandt, B. W.",
-   "De Voogt, P.",
-   "Parsons, J. R."
-  ],
-  "title": "Influence of short- And long-term exposure on the biodegradation capacity of activated sludge microbial communities in ready biodegradability tests",
-  "year": "2021"
- },
- "https://doi.org/10.1101/2021.01.21.427716": {
-  "groups": [
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Molecular Cell Physiology",
-   "Bioinformatics"
-  ],
-  "groups1": [
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Hamoen, L. W.",
-   "Wang, B.",
-   "Staal, J.",
-   "Gao, Y.",
-   "Kort, R.",
-   "Syvertsson, S."
-  ],
-  "title": "Different resource allocation in a Bacillus subtilis population displaying bimodal motility",
-  "year": "2021"
- },
  "https://doi.org/10.1002/ejoc.201801562": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Systems Bioinformatics",
@@ -166,10 +85,12 @@
   ],
   "groups0": [
    "BioAnalytical Chemistry",
-   "E&H: Environmental Health and Toxicology"
+   "E&H: Environmental Health and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health",
    "Environment and Health"
   ],
   "contributors": [
@@ -188,16 +109,16 @@
  },
  "https://doi.org/10.1371/journal.pone.0173573": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
-   "Molecular Cell Biology",
-   "Molecular and Computational Toxicology"
+   "Molecular and Computational Toxicology",
+   "Molecular Cell Biology"
   ],
   "groups1": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "contributors": [
    "Huseinovic, A.",
@@ -214,16 +135,16 @@
  },
  "https://doi.org/10.1016/j.tiv.2017.12.007": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
-   "Molecular Cell Biology",
-   "Molecular and Computational Toxicology"
+   "Molecular and Computational Toxicology",
+   "Molecular Cell Biology"
   ],
   "groups1": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "contributors": [
    "Huseinovic, A.",
@@ -236,30 +157,62 @@
   "title": "Drug toxicity profiling of a Saccharomyces cerevisiae deubiquitinase deletion panel shows that acetaminophen mimics tyrosine",
   "year": "2018"
  },
- "https://doi.org/10.1038/s42003-021-01809-8": {
+ "https://doi.org/10.1002/anie.201813110": {
   "groups": [
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
-   "Bioinformatics",
-   "Molecular Microbiology"
+   "Chemistry and Pharmaceutical Sciences",
+   "Medicinal chemistry",
+   "Structural Biology"
   ],
   "groups1": [
-   "Bio Informatics (IBIVU)",
+   "Chemistry and Pharmaceutical Sciences",
+   "Chemistry and Pharmaceutical Sciences",
    "Molecular Cell Biology"
   ],
   "contributors": [
-   "Wenzel, M.",
-   "Dekker, M. P.",
-   "Wang, B.",
-   "Burggraaf, M. J.",
-   "Bitter, W.",
-   "van Weering, J. R.",
-   "Hamoen, L. W."
+   "Hauwert, N. J.",
+   "Mocking, T. A.",
+   "Da Costa Pereira, D.",
+   "Lion, K.",
+   "Huppelschoten, Y.",
+   "Vischer, H. F.",
+   "De Esch, I. J.",
+   "Wijtmans, M.",
+   "Leurs, R."
   ],
-  "title": "A flat embedding method for transmission electron microscopy reveals an unknown mechanism of tetracycline",
-  "year": "2021"
+  "title": "None",
+  "year": "2019"
+ },
+ "https://doi.org/10.1016/j.plaphy.2018.02.013": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology",
+   "Environment and Health"
+  ],
+  "groups0": [
+   "Medicinal chemistry",
+   "E&H: Environmental Bioanalytical Chemistry",
+   "Structural Biology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "van Kleeff, P. J.",
+   "Gao, J.",
+   "Mol, S.",
+   "Zwart, N.",
+   "Zhang, H.",
+   "Li, K. W.",
+   "de Boer, A. H."
+  ],
+  "title": "The Arabidopsis GORK K+-channel is phosphorylated by calcium-dependent protein kinase 21 (CPK21), which in turn is activated by 14-3-3 proteins",
+  "year": "2018"
  },
  "https://doi.org/10.1021/acs.est.7b06604": {
   "groups": [
@@ -268,10 +221,14 @@
   ],
   "groups0": [
    "BioAnalytical Chemistry",
-   "E&H: Environmental Health and Toxicology"
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Health and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health",
+   "Environment and Health",
    "Environment and Health"
   ],
   "contributors": [
@@ -286,36 +243,10 @@
   "title": "High-Throughput Effect-Directed Analysis Using Downscaled in Vitro Reporter Gene Assays to Identify Endocrine Disruptors in Surface Water",
   "year": "2018"
  },
- "https://doi.org/10.1038/s41598-018-23528-7": {
-  "groups": [
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Systems Bioinformatics",
-   "Molecular Cell Physiology",
-   "Bioinformatics"
-  ],
-  "groups1": [
-   "Molecular Cell Biology",
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Bosdriesz, E.",
-   "Wortel, M. T.",
-   "Haanstra, J. R.",
-   "Wagner, M. J.",
-   "De La Torre Cort\u00e9s, P.",
-   "Teusink, B."
-  ],
-  "title": "Low affinity uniporter carrier proteins can increase net substrate uptake rate by reducing efflux",
-  "year": "2018"
- },
  "https://doi.org/10.1128/AAC.01445-20": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Organic Chemistry",
@@ -338,16 +269,16 @@
  },
  "https://doi.org/10.1007/s00253-019-09697-z": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
-   "Molecular Microbiology",
-   "Molecular and Computational Toxicology"
+   "Molecular and Computational Toxicology",
+   "Molecular Microbiology"
   ],
   "groups1": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "contributors": [
    "Ortega Ugalde, S.",
@@ -362,15 +293,17 @@
  },
  "https://doi.org/10.1007/s12033-019-00175-5": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Medicinal chemistry",
-   "Molecular Cell Biology"
+   "Molecular Cell Biology",
+   "Structural Biology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology",
    "Molecular Cell Biology"
   ],
   "contributors": [
@@ -390,12 +323,10 @@
   ],
   "groups0": [
    "Molecular Cell Physiology",
-   "Bioinformatics",
    "Bio Informatics (IBIVU)"
   ],
   "groups1": [
    "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)",
    "Bio Informatics (IBIVU)"
   ],
   "contributors": [
@@ -416,12 +347,10 @@
   ],
   "groups0": [
    "Systems Bioinformatics",
-   "Bioinformatics",
    "Integrative Bioinformatics"
   ],
   "groups1": [
    "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)",
    "Bio Informatics (IBIVU)"
   ],
   "contributors": [
@@ -439,8 +368,8 @@
  },
  "https://doi.org/10.1111/mmi.14255": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Medicinal chemistry",
@@ -470,18 +399,18 @@
  },
  "https://doi.org/10.1016/j.bcp.2020.113938": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Organic Chemistry",
-   "Molecular Microbiology",
-   "Molecular and Computational Toxicology"
+   "Molecular and Computational Toxicology",
+   "Molecular Microbiology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "contributors": [
    "Ortega Ugalde, S.",
@@ -496,8 +425,8 @@
  },
  "https://doi.org/10.3390/ijms20153684": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Chemistry and Pharmaceutical Sciences",
@@ -522,19 +451,23 @@
  },
  "https://doi.org/10.1016/j.scitotenv.2020.139028": {
   "groups": [
-   "Molecular Cell Biology",
    "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology",
    "Environment and Health"
   ],
   "groups0": [
    "BioAnalytical Chemistry",
+   "E&H: Environmental Chemistry and Toxicology",
    "Molecular Microbiology",
-   "E&H: Environmental Health and Toxicology"
+   "E&H: Environmental Health and Toxicology",
+   "Structural Biology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health",
    "Molecular Cell Biology",
-   "Environment and Health"
+   "Environment and Health",
+   "Molecular Cell Biology"
   ],
   "contributors": [
    "Jonkers, T. J.",
@@ -550,48 +483,51 @@
   "title": "Development of a high-throughput bioassay for screening of antibiotics in aquatic environmental samples",
   "year": "2020"
  },
- "https://doi.org/10.1007/s12223-021-00866-0": {
+ "https://doi.org/10.1002/anie.201804875": {
   "groups": [
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
-   "Systems Bioinformatics",
-   "Molecular Cell Physiology",
-   "Bioinformatics"
+   "Chemistry and Pharmaceutical Sciences",
+   "Medicinal chemistry",
+   "Structural Biology"
   ],
   "groups1": [
-   "Molecular Cell Biology",
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
+   "Chemistry and Pharmaceutical Sciences",
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "contributors": [
-   "Iturbe-Espinoza, P.",
-   "Brandt, B. W.",
-   "Braster, M.",
-   "Bonte, M.",
-   "Brown, D. M.",
-   "van Spanning, R. J."
+   "G\u00f3mez-Santacana, X.",
+   "de Munnik, S. M.",
+   "Vijayachandran, P.",
+   "Da Costa Pereira, D.",
+   "Bebelman, J. P. M.",
+   "de Esch, I. J.",
+   "Vischer, H. F.",
+   "Wijtmans, M.",
+   "Leurs, R."
   ],
-  "title": "Effects of DNA preservation solution and DNA extraction methods on microbial community profiling of soil",
-  "year": "2021"
+  "title": "Photoswitching the Efficacy of a Small-Molecule Ligand for a Peptidergic GPCR: from Antagonism to Agonism",
+  "year": "2018"
  },
  "https://doi.org/10.1128/mBio.01346-18": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Medicinal chemistry",
    "Organic Chemistry",
-   "Molecular Microbiology",
-   "Molecular and Computational Toxicology"
+   "Molecular and Computational Toxicology",
+   "Molecular Microbiology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
    "Chemistry and Pharmaceutical Sciences",
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "contributors": [
    "Kureisaite-Ciziene, D.",
@@ -616,10 +552,12 @@
   ],
   "groups0": [
    "Chemistry and Pharmaceutical Sciences",
+   "E&H: Environmental Chemistry and Toxicology",
    "Environment and Health"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health",
    "Environment and Health"
   ],
   "contributors": [
@@ -630,17 +568,44 @@
   "title": "Novel brominated flame retardants - A review of their occurrence in indoor air, dust, consumer goods and food",
   "year": "2020"
  },
+ "https://doi.org/10.3389/fpls.2021.697324": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "groups0": [
+   "Medicinal chemistry",
+   "Structural Biology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "Gao, J.",
+   "van Kleeff, P. J.",
+   "de Boer, M. H.",
+   "Erban, A.",
+   "Kopka, J.",
+   "Hincha, D. K.",
+   "de Boer, A. H."
+  ],
+  "title": "Ion Homeostasis and Metabolome Analysis of Arabidopsis 14-3-3 Quadruple Mutants to Salt Stress",
+  "year": "2021"
+ },
  "https://doi.org/10.1007/s00726-018-2613-8": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Chemistry and Pharmaceutical Sciences",
+   "Molecular and Computational Toxicology",
    "Molecular Cell Biology",
-   "Molecular and Computational Toxicology"
+   "AIMSS Division of BioAnalytical Chemistry"
   ],
   "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
    "Chemistry and Pharmaceutical Sciences",
    "Molecular Cell Biology",
    "Chemistry and Pharmaceutical Sciences"
@@ -658,8 +623,8 @@
  },
  "https://doi.org/10.1128/AEM.01528-17": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Systems Bioinformatics",
@@ -685,16 +650,18 @@
  },
  "https://doi.org/10.1007/s00253-018-9299-4": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Chemistry and Pharmaceutical Sciences",
    "Organic Chemistry",
+   "Molecular and Computational Toxicology",
    "Molecular Microbiology",
-   "Molecular and Computational Toxicology"
+   "AIMSS Division of BioAnalytical Chemistry"
   ],
   "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
    "Chemistry and Pharmaceutical Sciences",
    "Chemistry and Pharmaceutical Sciences",
    "Molecular Cell Biology",
@@ -721,11 +688,15 @@
   ],
   "groups0": [
    "BioAnalytical Chemistry",
-   "Environment and Health",
-   "E&H: Environmental Health and Toxicology"
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Health and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry",
+   "Environment and Health"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health",
+   "Environment and Health",
    "Environment and Health",
    "Environment and Health"
   ],
@@ -746,16 +717,16 @@
  },
  "https://doi.org/10.1016/j.jinorgbio.2017.12.003": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
-   "Molecular Microbiology",
-   "Molecular and Computational Toxicology"
+   "Molecular and Computational Toxicology",
+   "Molecular Microbiology"
   ],
   "groups1": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "contributors": [
    "Ortega Ugalde, S.",
@@ -776,11 +747,15 @@
   "groups0": [
    "Chemistry and Pharmaceutical Sciences",
    "BioAnalytical Chemistry",
-   "E&H: Environmental Health and Toxicology"
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Health and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
    "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health",
+   "Environment and Health",
    "Environment and Health"
   ],
   "contributors": [
@@ -809,12 +784,10 @@
   ],
   "groups0": [
    "Systems Bioinformatics",
-   "Bioinformatics",
    "Bio Informatics (IBIVU)"
   ],
   "groups1": [
    "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)",
    "Bio Informatics (IBIVU)"
   ],
   "contributors": [
@@ -841,42 +814,5 @@
   ],
   "title": "Macrophage ATP citrate lyase deficiency stabilizes atherosclerotic plaques",
   "year": "2020"
- },
- "https://doi.org/10.1038/s42003-021-01948-y": {
-  "groups": [
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
-  ],
-  "groups0": [
-   "Systems Bioinformatics",
-   "Molecular Cell Physiology",
-   "Bioinformatics"
-  ],
-  "groups1": [
-   "Molecular Cell Biology",
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
-  ],
-  "contributors": [
-   "Melkonian, C.",
-   "Fillinger, L.",
-   "Atashgahi, S.",
-   "da Rocha, U. N.",
-   "Kuiper, E.",
-   "Olivier, B.",
-   "Braster, M.",
-   "Gottstein, W.",
-   "Helmus, R.",
-   "Parsons, J. R.",
-   "Smidt, H.",
-   "van der Waals, M.",
-   "Gerritse, J.",
-   "Brandt, B. W.",
-   "R\u00f6ling, W. F.",
-   "Molenaar, D.",
-   "van Spanning, R. J."
-  ],
-  "title": "High biodiversity in a benzene-degrading nitrate-reducing culture is sustained by a few primary consumers",
-  "year": "2021"
  }
 }
