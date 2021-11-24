@@ -172,8 +172,10 @@ def createWordcloudSheet(
 # Generate reports
 # ###################
 
+max_barchart_items = 50
+
 # create organisation reports
-analysis_results = xlsxwriter.Workbook('organisation_analysis.xlsx')
+analysis_results = xlsxwriter.Workbook('coauthor_organisation_analysis.xlsx')
 all_author_organisations = []
 for p in data:
     for a in data[p]['organisations']:
@@ -181,7 +183,7 @@ for p in data:
 
 createWordcloudSheet(
     analysis_results,
-    'author_organisations_all',
+    'organisations_raw',
     all_author_organisations,
     'organisation',
     [],
@@ -190,12 +192,12 @@ createWordcloudSheet(
     apply_filter=False,
     create_wordcloud=True,
     nasty_exclude=False,
-    create_barchart=60
+    create_barchart=max_barchart_items
 )
 
 createWordcloudSheet(
     analysis_results,
-    'author_organisations_cleaned',
+    'organisations_cleaner',
     all_author_organisations,
     'organisation',
     [],
@@ -204,12 +206,12 @@ createWordcloudSheet(
     apply_filter=True,
     create_wordcloud=True,
     nasty_exclude=False,
-    create_barchart=60
+    create_barchart=max_barchart_items
 )
 
 createWordcloudSheet(
     analysis_results,
-    'author_organisations_noedu',
+    'organisations_noedu',
     all_author_organisations,
     'organisation',
     [],
@@ -218,21 +220,21 @@ createWordcloudSheet(
     apply_filter=True,
     create_wordcloud=True,
     nasty_exclude=True,
-    create_barchart=60
+    create_barchart=max_barchart_items
 )
 
 createWordcloudSheet(
     analysis_results,
-    'author_organisations_groups',
+    'aimms_research_groups',
     all_author_organisations,
-    'organisation',
+    'group',
     FLT.org_group_list,
     FLT.org_group_exclude_list,
     0,
     apply_filter=True,
     create_wordcloud=True,
     nasty_exclude=False,
-    create_barchart=60
+    create_barchart=max_barchart_items
 )
 
 
@@ -287,23 +289,23 @@ for p in cross_dept_data:
 
 createWordcloudSheet(
     analysis_results,
-    'author_organisations_dept_freq',
+    'aimms_departments',
     cross_dept_frequency_list,
-    'organisation',
+    'department',
     FLT.org_group_list,
     FLT.org_group_exclude_list,
     0,
     apply_filter=True,
     create_wordcloud=True,
     nasty_exclude=False,
-    create_barchart=20
+    create_barchart=max_barchart_items
 )
 
 # write combinations to sheet
 dept_combi_freq.sort()
 dept_combi_freq = collections.Counter(dept_combi_freq)
 dept_combi_sheet = analysis_results.add_worksheet()
-dept_combi_sheet.name = 'dept_combi_freq'
+dept_combi_sheet.name = 'aimms_multi_department'
 
 rcntr = 0
 for i in dept_combi_freq:
@@ -326,8 +328,8 @@ con = numpy.array([[numpy.nan,	numpy.nan,	3,	numpy.nan],
                     [3,	19,	numpy.nan,	3],
                     [numpy.nan,	8,	3,	numpy.nan]])
 fig, axes = plot_connectivity_circle(con, node_names, vmin=0, vmax=20, fontsize_names=9, title='Joint publications', show=False)
-fig.savefig('org_dept_chord.png')
-dept_combi_sheet.insert_image('F1', 'org_dept_chord.png', {'x_offset': 25, 'y_offset': 10})
+fig.savefig('org_multi_dept_chord.png')
+dept_combi_sheet.insert_image('F1', 'org_multi_dept_chord.png', {'x_offset': 25, 'y_offset': 10})
 
 analysis_results.close()
 
