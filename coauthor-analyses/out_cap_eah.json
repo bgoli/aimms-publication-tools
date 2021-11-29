@@ -1,0 +1,186 @@
+{
+ "https://doi.org/10.1016/j.watres.2019.115204": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health"
+  ],
+  "groups0": [
+   "BioAnalytical Chemistry",
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Health and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health",
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Zwart, N.",
+   "Jonker, W.",
+   "Broek, R. T.",
+   "de Boer, J.",
+   "Somsen, G.",
+   "Kool, J.",
+   "Hamers, T.",
+   "Houtman, C. J.",
+   "Lamoree, M. H."
+  ],
+  "title": "Identification of mutagenic and endocrine disrupting compounds in surface water and wastewater treatment plant effluents using high-resolution effect-directed analysis",
+  "year": "2020"
+ },
+ "https://doi.org/10.1016/j.talanta.2017.02.067": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health"
+  ],
+  "groups0": [
+   "BioAnalytical Chemistry",
+   "E&H: Environmental Health and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Jonker, W.",
+   "Zwart, N.",
+   "Stockl, J. B.",
+   "de Koning, S.",
+   "Schaap, J.",
+   "Lamoree, M. H.",
+   "Somsen, G. W.",
+   "Hamers, T.",
+   "Kool, J."
+  ],
+  "title": "Continuous fraction collection of gas chromatographic separations with parallel mass spectrometric detection applied to cell-based bioactivity analysis",
+  "year": "2017"
+ },
+ "https://doi.org/10.1021/acs.est.7b06604": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health"
+  ],
+  "groups0": [
+   "BioAnalytical Chemistry",
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Health and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health",
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Zwart, N.",
+   "Nio, S. L.",
+   "Houtman, C. J.",
+   "De Boer, J.",
+   "Kool, J.",
+   "Hamers, T.",
+   "Lamoree, M. H."
+  ],
+  "title": "High-Throughput Effect-Directed Analysis Using Downscaled in Vitro Reporter Gene Assays to Identify Endocrine Disruptors in Surface Water",
+  "year": "2018"
+ },
+ "https://doi.org/10.1016/j.chemosphere.2020.126816": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health"
+  ],
+  "groups0": [
+   "Chemistry and Pharmaceutical Sciences",
+   "E&H: Environmental Chemistry and Toxicology",
+   "Environment and Health"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Zuiderveen, E. A.",
+   "Slootweg, J. C.",
+   "de Boer, J."
+  ],
+  "title": "Novel brominated flame retardants - A review of their occurrence in indoor air, dust, consumer goods and food",
+  "year": "2020"
+ },
+ "https://doi.org/10.1016/j.tiv.2017.08.004": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health"
+  ],
+  "groups0": [
+   "BioAnalytical Chemistry",
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Health and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry",
+   "Environment and Health"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health",
+   "Environment and Health",
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Zwart, N.",
+   "Andringa, D.",
+   "de Leeuw, W. J.",
+   "Kojima, H.",
+   "Iida, M.",
+   "Houtman, C. J.",
+   "de Boer, J.",
+   "Kool, J.",
+   "Lamoree, M. H.",
+   "Hamers, T."
+  ],
+  "title": "Improved androgen specificity of AR-Eco",
+  "year": "2017"
+ },
+ "https://doi.org/10.1177/2472630319848768": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health"
+  ],
+  "groups0": [
+   "Chemistry and Pharmaceutical Sciences",
+   "BioAnalytical Chemistry",
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Health and Toxicology",
+   "E&H: Environmental Bioanalytical Chemistry"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health",
+   "Environment and Health",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Jonker, W.",
+   "de Vries, K.",
+   "Althuisius, N.",
+   "van Iperen, D.",
+   "Janssen, E.",
+   "ten Broek, R.",
+   "Houtman, C.",
+   "Zwart, N.",
+   "Hamers, T.",
+   "Lamoree, M. H.",
+   "Ooms, B.",
+   "Hidding, J.",
+   "Somsen, G. W.",
+   "Kool, J."
+  ],
+  "title": "Compound Identification Using Liquid Chromatography and High-Resolution Noncontact Fraction Collection with a Solenoid Valve",
+  "year": "2019"
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "https://doi.org/10.1289/EHP5911": {
+  "groups": [
+   "Environment and Health",
+   "Molecular Cell Biology"
+  ],
+  "groups0": [
+   "Systems Bioinformatics",
+   "E&H: Environmental Health and Toxicology"
+  ],
+  "groups1": [
+   "Molecular Cell Biology",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Hamers, T.",
+   "Kortenkamp, A.",
+   "Scholze, M.",
+   "Molenaar, D.",
+   "Cenijn, P. H.",
+   "Weiss, J. M."
+  ],
+  "title": "Transthyretin-binding activity of complex mixtures representing the composition of thyroid-hormone disrupting contaminants in house dust and human serum",
+  "year": "2020"
+ }
+}

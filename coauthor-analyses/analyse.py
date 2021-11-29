@@ -280,12 +280,42 @@ with open('data_multigroup.json', 'w') as F:
 
 spread_out = []
 dept_combi_freq = []
+
+out_all = {}
+out_cap_mcb = {}
+out_eah_mcb = {}
+out_cap_eah = {}
+cap = 'Chemistry and Pharmaceutical Sciences'
+eah = 'Environment and Health'
+mcb = 'Molecular Cell Biology'
+
 for p in cross_dept_data:
     rowdat = [p, cross_dept_data[p]['year'], cross_dept_data[p]['title']]
     grps = cross_dept_data[p]['groups']
     grps.sort()
+    print(grps)
+    if len(grps) == 3:
+        out_all[p] = cross_dept_data[p]
+    elif cap in grps and mcb in grps:
+        out_cap_mcb[p] = cross_dept_data[p]
+    elif cap in grps and eah in grps:
+        out_cap_eah[p] = cross_dept_data[p]
+    elif mcb in grps and eah in grps:
+        out_eah_mcb[p] = cross_dept_data[p]
+
     dept_combi_freq.append(','.join(grps))
     spread_out.append(rowdat+groups)
+
+with open('out_all.json', 'w') as F:
+    json.dump(out_all, F, indent=1)
+with open('out_cap_mcb.json', 'w') as F:
+    json.dump(out_cap_mcb, F, indent=1)
+with open('out_cap_eah.json', 'w') as F:
+    json.dump(out_cap_eah, F, indent=1)
+with open('out_eah_mcb.json', 'w') as F:
+    json.dump(out_eah_mcb, F, indent=1)
+
+os.sys.exit()
 
 createWordcloudSheet(
     analysis_results,
