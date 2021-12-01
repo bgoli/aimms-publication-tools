@@ -311,18 +311,6 @@
   "journal": "Journal of Organic Chemistry",
   "description": "How Lewis Acids Catalyze Ring-Openings of Cyclohexene OxideWe have quantum chemically studied the Lewis acid-catalyzed epoxide ring-opening reaction of cyclohexene epoxide by MeZH (Z = O, S, and NH) using relativistic dispersion-corrected density functional theory. We found that the reaction barrier of the Lewis acid-catalyzed epoxide ring-opening reactions decreases upon ascending in group 1 along the series Cs+ > Rb+ > K+ > Na+ > Li+ > H+. Our activation strain and Kohn-Sham molecular orbital analyses reveal that the enhanced reactivity of the Lewis acid-catalyzed ring-opening reaction is caused by the reduced steric (Pauli) repulsion between the filled orbitals of the epoxide and the nucleophile, as the Lewis acid polarizes the filled orbitals of the epoxide more efficiently away from the incoming nucleophile. Furthermore, we established that the regioselectivity of these ring-opening reactions is, aside from the \"classical\"strain control, also dictated by a hitherto unknown mechanism, namely, the steric (Pauli) repulsion between the nucleophile and the substrate, which could be traced back to the asymmetric orbital density on the epoxide. In all, this work again demonstrates that the concept of Pauli-lowering catalysis is a general phenomenon. "
  },
- "https://doi.org/10.1186/s12859-021-03983-2": {
-  "month": "2",
-  "pub_date": "Dec 2021",
-  "year": 2021,
-  "early_online": "6 Feb 2021",
-  "title": "IUPACpal: efficient identification of inverted repeats in IUPAC-encoded DNA sequences",
-  "contributors": "Alamro, H., Alzamel, M., Iliopoulos, C. S., Pissis, S. P., Watts, S.",
-  "corresponding": "Pissis, S. P.",
-  "organisations": "Bioinformatics, AIMMS, Bio Informatics (IBIVU), King's College London, Princess Nourah Bint Abdulrahman University, King Saud University",
-  "journal": "BMC Bioinformatics",
-  "description": "IUPACpal: efficient identification of inverted repeats in IUPAC-encoded DNA sequencesBackground: An inverted repeat is a DNA sequence followed downstream by its reverse complement, potentially with a gap in the centre. Inverted repeats are found in both prokaryotic and eukaryotic genomes and they have been linked with countless possible functions. Many international consortia provide a comprehensive description of common genetic variation making alternative sequence representations, such as IUPAC encoding, necessary for leveraging the full potential of such broad variation datasets. Results: We present IUPACpal, an exact tool for efficient identification of inverted repeats in IUPAC-encoded DNA sequences allowing also for potential mismatches and gaps in the inverted repeats. Conclusion: Within the parameters that were tested, our experimental results show that IUPACpal compares favourably to a similar application packaged with EMBOSS. We show that IUPACpal identifies many previously unidentified inverted repeats when compared with EMBOSS, and thatthis is also performed with orders of magnitude improved speed."
- },
  "https://doi.org/10.1109/ICDM50108.2020.00103": {
   "month": "2",
   "pub_date": "9 Feb 2021",
@@ -430,6 +418,18 @@
   "organisations": "Theoretical Chemistry, Chemistry and Pharmaceutical Sciences, AIMMS, University of California at Los Angeles",
   "journal": "The Journal of organic chemistry",
   "description": "How the Lewis Base F-Catalyzes the 1,3-Dipolar Cycloaddition between Carbon Dioxide and NitriliminesThe mechanism of the Lewis base F- catalyzed 1,3-dipolar cycloaddition between CO2 and nitrilimines is interrogated using DFT calculations. F- activates the nitrilimine, not CO2 as proposed in the literature, and imparts a significant rate enhancement for the cycloaddition. The origin of this catalysis is in the strength of the primary orbital interactions between the reactants. The Lewis base activated nitrilimine-F- has high-lying filled FMOs. The smaller FMO-LUMO gap promotes a rapid nucleophilic attack and overall cycloaddition with CO2. "
+ },
+ "https://doi.org/10.1021/acs.jproteome.0c00875": {
+  "month": "3",
+  "pub_date": "5 Mar 2021",
+  "year": 2021,
+  "early_online": "9 Feb 2021",
+  "title": "Site-Specific N-Linked Glycosylation Analysis of Human Carcinoembryonic Antigen by Sheathless Capillary Electrophoresis-Tandem Mass Spectrometry",
+  "contributors": "Pont, L., Kuzyk, V., Benavente, F., Sanz-Nebot, V., Mayboroda, O. A., Wuhrer, M., Lageveen-Kammeijer, G. S.",
+  "corresponding": "Benavente, F.",
+  "organisations": "BioAnalytical Chemistry, AIMMS, University of Barcelona, Leiden University",
+  "journal": "Journal of Proteome Research",
+  "description": "Site-Specific N-Linked Glycosylation Analysis of Human Carcinoembryonic Antigen by Sheathless Capillary Electrophoresis-Tandem Mass SpectrometryWith 28 potential N-glycosylation sites, human carcinoembryonic antigen (CEA) bears an extreme amount of N-linked glycosylation, and approximately 60% of its molecular mass can be attributed to its carbohydrates. CEA is often overexpressed and released by many solid tumors, including colorectal carcinomas. CEA displays an impressive heterogeneity and variability in sugar content; however, site-specific distribution of carbohydrate structures has not been reported so far. The present study investigated CEA samples purified from human colon carcinoma and human liver metastases and enabled the characterization of 21 out of 28 potential N-glycosylation sites with respect to their occupancy. The coverage was achieved by a multienzymatic digestion approach with specific enzymes, such as trypsin, endoproteinase Glu-C, and the nonspecific enzyme, Pronase, followed by analysis using sheathless CE-MS/MS. In total, 893 different N-glycopeptides and 128 unique N-glycan compositions were identified. Overall, a great heterogeneity was found both within (micro) and in between (macro) individual N-glycosylation sites. Moreover, notable differences were found on certain N-glycosylation sites between primary adenocarcinoma and metastatic tumor in regard to branching, bisection, sialylation, and fucosylation. Those features, if further investigated in a targeted manner, may pave the way toward improved diagnostics and monitoring of colorectal cancer progression and recurrence. Raw mass spectrometric data and Skyline processed data files that support the findings of this study are available in the MassIVE repository with the identifier MSV000086774 [DOI: 10.25345/C5Z50X]. "
  },
  "https://doi.org/10.1021/acs.jctc.0c00964": {
   "month": "3",
@@ -574,6 +574,30 @@
   "organisations": "E&H: Environmental Bioanalytical Chemistry, AIMMS, Environment and Health, University of Santiago de Compostela",
   "journal": "Chemosphere",
   "description": "Analysis of recycled rubber: Development of an analytical method and determination of polycyclic aromatic hydrocarbons and heterocyclic aromatic compounds in rubber matricesRecycled crumb rubber (CR) is rich in compounds with unrecognized toxic potency; this study aims at the development of an analytical method that would allow identification and quantification of a very wide range of organic compounds extractable from the complex rubber matrix. The analytical set-up includes target analysis of polycyclic aromatic hydrocarbons (PAHs) and methyl-PAHs and suspect screening of raw extracts to tentatively identify primary organic compounds present, but not included in the standard target analysis of recycled rubber, followed by analytical method development and target analysis of identified compounds. Analyzed samples included weathered and new CR originating from football turf granulates, rubber mats, and end-of-life car tires (ELTs). The developed analytical method involves sonication extraction, followed by solid phase extraction (SPE) fractionation that enables simple and efficient separation of analytes with broad polarity scale. The application of SPE fractionation resolves coelution problems and simplifies the chromatograms. This analytical approach allowed to identify and quantify 46 sample specific compounds, including several heterocyclic PAHs like 2-methylthiobenzothiazole, benzonapthothiophenes, benzonaphthofuranes and aromatic amines like diphenylamine and N-phenyl-2-naphthylamine, which to our knowledge were not determined before. The PAHs concentrations determined in CR tiles purchased in Dutch and Spanish shops exceed the EU limits for articles marketed for use by the public. Furthermore, sets of methylated PAHs, dibenzothiazoles and aromatic amines were identified and quantified, and several other compounds were tentatively identified. The obtained results stress the need for expanding the list of target compounds analyzed in CR and the need for longitudinal studies on weathering processes taking place in CR."
+ },
+ "https://doi.org/10.1002/anie.202107253": {
+  "month": "11",
+  "pub_date": "2 Nov 2021",
+  "year": 2021,
+  "early_online": "27 Feb 2021",
+  "title": "Switchable, Reagent-Controlled Diastereodivergent Photocatalytic Carbocyclisation of Imine-Derived \u03b1-Amino Radicals",
+  "contributors": "Maitland, J. A. P., Leitch, J. A., Yamazaki, K., Christensen, K. E., Cassar, D. J., Hamlin, T. A., Dixon, D. J.",
+  "corresponding": "Dixon, D. J.",
+  "organisations": "Chemistry and Pharmaceutical Sciences, Theoretical Chemistry, AIMMS, University of Oxford, University College London, AstraZeneca",
+  "journal": "Angewandte Chemie - International Edition",
+  "description": "Switchable, Reagent-Controlled Diastereodivergent Photocatalytic Carbocyclisation of Imine-Derived \u03b1-Amino RadicalsA reagent-controlled stereodivergent carbocyclisation of aryl aldimine-derived, photocatalytically generated, \u03b1-amino radicals possessing adjacent conjugated alkenes, affording either bicyclic or tetracyclic products, is described. Under net reductive conditions using commercial Hantzsch ester, the \u03b1-amino radical species underwent a single stereoselective cyclisation to give trans-configured amino-indane structures in good yield, whereas using a substituted Hantzsch ester as a milder reductant afforded cis-fused tetracyclic tetrahydroquinoline frameworks, resulting from two consecutive radical cyclisations. Judicious choice of the reaction conditions allowed libraries of both single and dual cyclisation products to be synthesised with high selectivity, notable predictability, and good-to-excellent yields. Computational analysis employing DFT revealed the reaction pathway and mechanistic rationale behind this finely balanced yet readily controlled photocatalytic system."
+ },
+ "https://doi.org/10.1186/s12859-021-03983-2": {
+  "month": "12",
+  "pub_date": "Dec 2021",
+  "year": 2021,
+  "early_online": "6 Feb 2021",
+  "title": "IUPACpal: efficient identification of inverted repeats in IUPAC-encoded DNA sequences",
+  "contributors": "Alamro, H., Alzamel, M., Iliopoulos, C. S., Pissis, S. P., Watts, S.",
+  "corresponding": "Pissis, S. P.",
+  "organisations": "Bioinformatics, AIMMS, Bio Informatics (IBIVU), King's College London, Princess Nourah Bint Abdulrahman University, King Saud University",
+  "journal": "BMC Bioinformatics",
+  "description": "IUPACpal: efficient identification of inverted repeats in IUPAC-encoded DNA sequencesBackground: An inverted repeat is a DNA sequence followed downstream by its reverse complement, potentially with a gap in the centre. Inverted repeats are found in both prokaryotic and eukaryotic genomes and they have been linked with countless possible functions. Many international consortia provide a comprehensive description of common genetic variation making alternative sequence representations, such as IUPAC encoding, necessary for leveraging the full potential of such broad variation datasets. Results: We present IUPACpal, an exact tool for efficient identification of inverted repeats in IUPAC-encoded DNA sequences allowing also for potential mismatches and gaps in the inverted repeats. Conclusion: Within the parameters that were tested, our experimental results show that IUPACpal compares favourably to a similar application packaged with EMBOSS. We show that IUPACpal identifies many previously unidentified inverted repeats when compared with EMBOSS, and thatthis is also performed with orders of magnitude improved speed."
  },
  "https://doi.org/10.1038/s41380-019-0436-y": {
   "month": "3",
@@ -863,6 +887,18 @@
   "journal": "Chemosphere",
   "description": "Conventional and high resolution chemical characterization to assess refinery effluent treatment performanceRefinery effluents represent an emission source of hydrocarbons (HCs) and other constituents to the environment. Thus, characterisation of effluent quality in terms of concentrations of key parameters relative to permitted standards is important and for total petroleum hydrocarbons (TPH), the specific composition of the HC mixture can affect its toxicity to aquatic organisms. Therefore, this study was designed to analyse TPH, benzene, toluene, ethyl benzene, xylenes (BTEX), polycyclic aromatic hydrocarbons (PAHs), (bio) chemical oxygen demand, total nitrogen, total suspended solids and selected metals before, and after, treatment steps to demonstrate removal efficiencies across 13 refineries with variable wastewater treatment systems. Final discharge concentrations of the measured parameters were by 97% within the so called Best Available Technique Associated Emission Levels (BAT-AELs). Further, TPH composition was characterised using high-resolution two-dimensional gas chromatography (GCxGC) analysis to understand the mass distribution by carbon number and specific chemical class. Measurements were compared to SimpleTreat model predictions for validation. SimpleTreat successfully predicted the shape of the effluent composition since it is essentially a removal constant applied to the influent composition. The predictions were of similar magnitude as, or were greater than, the effluent concentrations since SimpleTreat is based on typical performance and is intended to be conservative. This was especially true for aromatic constituents. Reduction in potential HC exposures also coincided with a decrease in predicted toxicity using a mechanistic oil toxicity model, PETROTOX. Overall, the results indicate that EU petroleum refineries are likely to achieve a high performance level regarding effluent treatment."
  },
+ "https://doi.org/10.1002/open.202100066": {
+  "month": "4",
+  "pub_date": "Apr 2021",
+  "year": 2021,
+  "early_online": "1 Apr 2021",
+  "title": "A Quantitative Molecular Orbital Perspective of the Chalcogen Bond",
+  "contributors": "de Azevedo Santos, L., van der Lubbe, S. C., Hamlin, T. A., Ramalho, T. C., Matthias Bickelhaupt, F.",
+  "corresponding": null,
+  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, Vrije Universiteit Amsterdam, Universidade Federal de Lavras, Radboud University Nijmegen, University of Hradec Kralove",
+  "journal": "ChemistryOpen",
+  "description": "A Quantitative Molecular Orbital Perspective of the Chalcogen BondInvited for this month's cover are the groups of Prof. Dr. Teodorico C. Ramalho (Federal University of Lavras and University Hradec Kralove) and Prof. Dr. F. Matthias Bickelhaupt (Vrije Universiteit Amsterdam and Radboud University). The cover picture shows the key message of their work, that is, the covalency of the chalcogen bonds, in an elegantly simple and attractive manner. To that end, the chalcogen bonds are represented by schematic 3D structures of the bond donor D2 Ch and the bond acceptor A- , and their attractive interaction in green. Then, a colorful molecular orbital (MO) diagram where the HOMO-LUMO mixing is represented by the mixing of red (HOMO) and blue (LUMO) into purple (MO) is presented. Read the full text of their Full Paper at 10.1002/open.202000323."
+ },
  "https://doi.org/10.4324/9780429299506-4": {
   "month": "4",
   "pub_date": "Apr 2021",
@@ -947,6 +983,18 @@
   "journal": "Molecular Systems Biology",
   "description": "Proteome constraints reveal targets for improving microbial fitness in nutrient-rich environmentsCells adapt to different conditions via gene expression that tunes metabolism for maximal fitness. Constraints on cellular proteome may limit such expression strategies and introduce trade-offs. Resource allocation under proteome constraints has explained regulatory strategies in bacteria. It is unclear, however, to what extent these constraints can predict evolutionary changes, especially for microorganisms that evolved under nutrient-rich conditions, i.e., multiple available nitrogen sources, such as Lactococcus lactis. Here, we present a proteome-constrained genome-scale metabolic model of L.lactis (pcLactis) to interpret growth on multiple nutrients. Through integration of proteomics and flux data, in glucose-limited chemostats, the model predicted glucose and arginine uptake as dominant constraints at low growth rates. Indeed, glucose and arginine catabolism were found upregulated in evolved mutants. At high growth rates, pcLactis correctly predicted the observed shutdown of arginine catabolism because limited proteome availability favored lactate for ATP production. Thus, our model-based analysis is able to identify and explain the proteome constraints that limit growth rate in nutrient-rich environments and thus form targets of fitness improvement."
  },
+ "https://doi.org/10.1021/acs.analchem.1c00049": {
+  "month": "4",
+  "pub_date": "9 Apr 2021",
+  "year": 2021,
+  "early_online": "9 Apr 2021",
+  "title": "Combining High-Resolution Gas Chromatographic Continuous Fraction Collection with Nuclear Magnetic Resonance Spectroscopy: Possibilities of Analyzing a Whole GC Chromatogram",
+  "contributors": "Van Mourik, L. M., Janssen, E., Breeuwer, R., Jonker, W., Koekkoek, J., Arrahman, A., Kool, J., Leonards, P. E.Pages:6158-6168",
+  "corresponding": "Van Mourik, L. M.",
+  "organisations": "E&H: Environmental Bioanalytical Chemistry, AIMMS, BioAnalytical Chemistry, E&H: Environmental Chemistry and Toxicology, Vrije Universiteit Amsterdam",
+  "journal": "Analytical chemistry",
+  "description": "Combining High-Resolution Gas Chromatographic Continuous Fraction Collection with Nuclear Magnetic Resonance Spectroscopy: Possibilities of Analyzing a Whole GC ChromatogramThis study presents, for the first time, the successful application of analyzing a whole gas chromatography (GC) chromatogram by nuclear magnetic resonance (NMR) spectroscopy using a continuous repeatable and stable (n = 280) high-resolution (HR) GC fractionation platform with a 96-well plate. Typically with GC- or liquid chromatography-mass spectrometry analysis, (isomer) standards and/or additional NMR analysis are needed to confirm the identification and/or structure of the analyte of interest. In the case of complex substances (e.g., UVCBs), isomer standards are often unavailable and NMR spectra too complex to achieve this. This proof of concept study shows that a HR GC fractionation collection platform was successfully applied to separate, purify, and enrich isomers in complex substances from a whole GC chromatogram, which would facilitate NMR analysis. As a model substance, a chlorinated paraffin (CP) mixture (>8,000 isomers) was chosen. NMR spectra were obtained from all 96 collected fractions, which provides important information for unravelling their full structure. As a proof of concept, a spectral interpretation of a few NMR spectra was made to assign sub-structures. More research is ongoing for the full characterization of CP isomers using multivariate statistical analysis. For the first time, up to only a few CP isomers per fraction were isolated from a highly complex mixture. These may be further purified and certified as standards, which are urgently needed, and can also be used for persistency, bioaccumulation, or toxicity studies. "
+ },
  "https://doi.org/10.3390/biom11040555": {
   "month": "4",
   "pub_date": "9 Apr 2021",
@@ -958,18 +1006,6 @@
   "organisations": "Medicinal chemistry, AIMMS, University of Florence, Universidade Federal de S\u00e3o Carlos",
   "journal": "Biomolecules",
   "description": "Short\u2010 and long\u2010term social recognition memory are differentially modulated by neuronal histamineThe ability of recognizing familiar conspecifics is essential for many forms of social interaction including reproduction, establishment of dominance hierarchies, and pair bond formation in monogamous species. Many hormones and neurotransmitters have been suggested to play key roles in social discrimination. Here we demonstrate that disruption or potentiation of histaminergic neu-rotransmission differentially affects short (STM) and long\u2010term (LTM) social recognition memory. Impairments of LTM, but not STM, were observed in histamine\u2010deprived animals, either chronically (Hdc\u2212/\u2212 mice lacking the histamine\u2010synthesizing enzyme histidine decarboxylase) or acutely (mice treated with the HDC irreversible inhibitor \u03b1\u2010fluoromethylhistidine). On the contrary, restriction of histamine release induced by stimulation of the H3R agonist (VUF16839) impaired both STM and LTM. H3R agonism\u2010induced amnesic effect was prevented by pre\u2010treatment with donepezil, an ac-etylcholinesterase inhibitor. The blockade of the H3R with ciproxifan, which in turn augmented histamine release, resulted in a procognitive effect. In keeping with this hypothesis, the procognitive effect of ciproxifan was absent in both Hdc\u2212/\u2212 and \u03b1FMH\u2010treated mice. Our results suggest that brain histamine is essential for the consolidation of LTM but not STM in the social recognition test. STM impairments observed after H3R stimulation are probably related to their function as heterorecep-tors on cholinergic neurons."
- },
- "https://doi.org/10.1038/s41598-021-87354-0": {
-  "month": "4",
-  "pub_date": "Dec 2021",
-  "year": 2021,
-  "early_online": "13 Apr 2021",
-  "title": "Cardiolipin enhances the enzymatic activity of cytochrome bd and cytochrome bo 3 solubilized in dodecyl-maltoside",
-  "contributors": "Asseri, A. H., Godoy-Hernandez, A., Goojani, H. G., Lill, H., Sakamoto, J., McMillan, D. G., Bald, D.",
-  "corresponding": "Bald, D.",
-  "organisations": "Structural Biology, AIMMS, Delft University of Technology, Kyushu Institute of Technology",
-  "journal": "Scientific Reports",
-  "description": "Cardiolipin enhances the enzymatic activity of cytochrome bd and cytochrome bo 3 solubilized in dodecyl-maltosideCardiolipin (CL) is a lipid that is found in the membranes of bacteria and the inner membranes of mitochondria. CL can increase the activity of integral membrane proteins, in particular components of respiratory pathways. We here report that CL activated detergent-solubilized cytochrome bd, a terminal oxidase from Escherichia coli. CL enhanced the oxygen consumption activity ~ twofold and decreased the apparent KM value for ubiquinol-1 as substrate from 95\u00b5M to 35\u00b5M. Activation by CL was also observed for cytochrome bd from two Gram-positive species, Geobacillus thermodenitrificans and Corynebacterium glutamicum, and for cytochrome bo3 from E. coli. Taken together, CL can enhance the activity of detergent-solubilized cytochrome bd and cytochrome bo3."
  },
  "https://doi.org/10.1186/s12860-021-00362-w": {
   "month": "4",
@@ -1102,6 +1138,18 @@
   "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, St. John's University, Queen Mary University of London, Utrecht University, Imperial College London, Dortmund University, Inc, University of W\u00fcrzburg, University of Konstanz, Pere Virgili Health Research Institute, The Health Policy Center, Technical University of Munich, University of Ottawa, Toxicology, University of Oulu, Finnish Institute of Occupational Health, University of Leicester, University of Crete",
   "journal": "Toxicology Letters",
   "description": "Corrigendum to \u201cCritique of the \u201cComment\u201d etitled \u201cPyrethroid exposure: not so harmless after all\u201d by Demeniex et al. (2020) published in the lancet diabetes endocrinology\"The authors regret that the letter inaccurately refers to \u201cthe lancet diabetes endocrinology\u201d and \u201cThe Lancet\u201d while it should read: \u201cThe Lancet Diabetes & Endocrinology\u201d. The correct title of the letter should read: \u201cCritique of the \u201cComment\u201d entitled: \u201cPyrethroid exposure: Not so harmless after all\u201d by Demeneix et al. (2020) published in The Lancet Diabetes & Endocrinology\u201d. The authors wish to clarify that the comment was published in The Lancet Diabetes & Endocrinology and not The Lancet. The authors also wish to clarify that The Lancet Diabetes & Endocrinology chose not to publish their criticism of the article because the correspondence content published in The Lancet Diabetes & Endocrinology is only accepted within 8 weeks of publication of the original item."
+ },
+ "https://doi.org/10.1038/s41598-021-87354-0": {
+  "month": "12",
+  "pub_date": "Dec 2021",
+  "year": 2021,
+  "early_online": "13 Apr 2021",
+  "title": "Cardiolipin enhances the enzymatic activity of cytochrome bd and cytochrome bo 3 solubilized in dodecyl-maltoside",
+  "contributors": "Asseri, A. H., Godoy-Hernandez, A., Goojani, H. G., Lill, H., Sakamoto, J., McMillan, D. G., Bald, D.",
+  "corresponding": "Bald, D.",
+  "organisations": "Structural Biology, AIMMS, Delft University of Technology, Kyushu Institute of Technology",
+  "journal": "Scientific Reports",
+  "description": "Cardiolipin enhances the enzymatic activity of cytochrome bd and cytochrome bo 3 solubilized in dodecyl-maltosideCardiolipin (CL) is a lipid that is found in the membranes of bacteria and the inner membranes of mitochondria. CL can increase the activity of integral membrane proteins, in particular components of respiratory pathways. We here report that CL activated detergent-solubilized cytochrome bd, a terminal oxidase from Escherichia coli. CL enhanced the oxygen consumption activity ~ twofold and decreased the apparent KM value for ubiquinol-1 as substrate from 95\u00b5M to 35\u00b5M. Activation by CL was also observed for cytochrome bd from two Gram-positive species, Geobacillus thermodenitrificans and Corynebacterium glutamicum, and for cytochrome bo3 from E. coli. Taken together, CL can enhance the activity of detergent-solubilized cytochrome bd and cytochrome bo3."
  },
  "https://doi.org/10.1016/j.chemosphere.2020.128610": {
   "month": "5",
@@ -1259,6 +1307,18 @@
   "journal": "Psychoneuroendocrinology",
   "description": "Salivary biomarkers of stress and inflammation in first graders in C\u00f4te d\u2032Ivoire: Effects of a probiotic food interventionThis semi-randomized controlled trial examined the effects of a probiotic food supplement on cortisol and C-reactive protein (CRP) in a sample of 262 four-to seven-year-old children (56% girls) in two economically-disadvantaged schools in an urban setting in C\u00f4te d\u2032Ivoire. For one semester, children in one school were randomized to receive a probiotic (N = 79) or placebo (N = 85) fermented dairy food each day they attended school; one child (due to medical reasons) and all children in the other school (N = 98) continued their diets as usual. Children provided two saliva samples at 11:30 on consecutive days at the end of the study. Analyses revealed that the probiotic group had lower cortisol than the placebo or diet-as-usual groups (p =.015); CRP levels were comparable across groups (p =.549). Exploratory analyses suggested that dose and regularity of consumption may impact the biomarkers as well. This study provides the first evidence that a probiotic milk product may lower cortisol in a sample of young, economically-disadvantaged children."
  },
+ "https://doi.org/10.1007/978-1-0716-1499-0_13": {
+  "month": "6",
+  "pub_date": "2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "FRET Analysis of RNA \u2013Protein Interactions Using Spinach Aptamers",
+  "contributors": "Gerhard, L., Hennig, S.",
+  "corresponding": "Hennig, S.",
+  "organisations": "Organic Chemistry, AIMMS, Vrije Universiteit Amsterdam",
+  "journal": null,
+  "description": "FRET Analysis of RNA \u2013Protein Interactions Using Spinach AptamersThe method development to analyze direct RNA\u2013protein interaction is of high importance as not many homogeneous assay formats are available. The discovery of fluorescent light-up aptamers (FLAPs), short RNA aptamers that switch the fluorescence of small, cell-permeable, and nontoxic organic chromophores on, paved the road for their utilization in direct RNA\u2013protein interactions. The combination with fluorescent proteins as biological fluorophores enabled the development of homogeneous assays that are in principle even encodable on genomic level. Here the rules and methods to design a homogeneous in vitro assay for the detection and quantification of a direct RNA\u2013protein interaction will be described. The design and application of a homogeneous assay to observe and quantify the interaction of the Pseudomonas aeruginosa bacteriophage coat protein 7 (PP7) with its binding RNA sequence (pp7-RNA) will be shown. For this, the Spinach-DFHBI aptamer as RNA fusion and the red fluorescent mCherry as protein fusion was used. The methods presented here do not require any chemical modification of proteins or RNAs which make them relatively easy to use and to adopt on other systems. As all fluorophores are fusion tags to the according biomolecules, standard cloning strategies and molecular biology technologies are sufficient and make this method available for a broad community of researchers."
+ },
  "https://doi.org/10.1007/978-1-0716-1221-7_11": {
   "month": "6",
   "pub_date": "2021",
@@ -1270,6 +1330,30 @@
   "organisations": "Systems Bioinformatics, AIMMS, University of Amsterdam",
   "journal": null,
   "description": "Imaging of Genetically Encoded FRET-Based Biosensors to Detect GPCR ActivityA wealth of assays for screening GPCR activity have been developed. Biosensors that employ F\u00f6rster Resonance Energy transfer (FRET) are specific and enable dynamic measurements. Moreover, FRET biosensors are ideally suited for the analysis of single living cells. The FRET biosensors described in this manuscript are entirely genetically encoded by plasmids. Here, protocols for employing FRET-based biosensors to detect G protein activity upon GPCR activation are reported. The protocols include details on the isolation of plasmids, transfection, generation of stable cell lines with the FRET biosensors, FRET ratio imaging, and data analysis."
+ },
+ "https://doi.org/10.4230/LIPIcs.CPM.2021.6": {
+  "month": "6",
+  "pub_date": "2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Internal shortest absent word queries",
+  "contributors": "Badkobeh, G., Charalampopoulos, P., Pissis, S. P.",
+  "corresponding": "Badkobeh, G.",
+  "organisations": "Bioinformatics, AIMMS, Bio Informatics (IBIVU), Goldsmiths, University of London, Interdisciplinary Center Herzliya",
+  "journal": null,
+  "description": "Internal shortest absent word queriesGiven a string T of length n over an alphabet \u03a3 \u2282 {1, 2, . . ., nO(1)} of size s, we are to preprocess T so that given a range [i, j], we can return a representation of a shortest string over \u03a3 that is absent in the fragment T[i] \u00b7 \u00b7 \u00b7 T[j] of T. For any positive integer k \u03f5 [1, log log\u03c3 n], we present an O((n/k) \u00b7 log log\u03c3 n)-size data structure, which can be constructed in O(n logs n) time, and answers queries in time O(log log\u03c3 k)."
+ },
+ "https://doi.org/10.1016/B978-0-12-809633-8.21068-6": {
+  "month": "6",
+  "pub_date": "2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Metabolic modeling of fungi",
+  "contributors": "Mendoza, S. N., Calhoun, S., Teusink, B., Aguilar-Pontes, M. V.",
+  "corresponding": "Mendoza, S. N.",
+  "organisations": "Systems Bioinformatics, AIMMS, Systems Bioinformatics, United States Department of Energy, Utrecht University",
+  "journal": null,
+  "description": "Metabolic modeling of fungiFungi have received special interest from the biotechnological sector focused on the production of active biomolecules and strain engineering. Genome-scale metabolic models (GEMs) are used to understand and improve their metabolism. GEMs can be obtained using computational methods, but they are susceptible to errors. Here, we describe the process to reconstruct a GEM and discuss several methodologies for analysis and validation of the model. We review different applications and explore the latest advances in GEM reconstruction to ease the process. With the new developments, we will be able to reconstruct and analyze high-quality GEMs for non-model species."
  },
  "https://doi.org/10.1007/978-1-0716-1221-7_16": {
   "month": "6",
@@ -1331,18 +1415,6 @@
   "journal": "Toxicology Letters",
   "description": "Corrigendum to \u201cBioactivation of trichloroethylene to three regioisomeric glutathione conjugates by liver fractions and recombinant human glutathione transferases: Species differences and implications for human risk assessment\u201d [Toxicol. Lett. 341 (2021) 94\u2013106]The authors regret that in Fig. 1 the letters indicating the enzymes involved in the reactions were not added to the arrows. A corrected Figure is shown below. [Figure presented] Fig. 1. Regioselective GSH-conjugation of trichloroethylene (TCE) and subsequent processing to corresponding mercapturic acids (N-acetylcysteine S-conjugates) and beta-lyase-dependent bioactivation of cysteine S-conjugates to reactive products. Enzymes involved: a. glutathione S-transferases; b. gamma-glutamyltransferase; c. cysteinyl-glycine dipeptidase; d. cysteine conjugate beta-lyase; e. cysteine conjugate N-acetyltransferase; f. aminoacylase. Formation of sulfoxides of mercapturic acids is not shown to avoid an overcomplicated figure. The authors would like to apologise for any inconvenience caused."
  },
- "https://doi.org/10.1038/s41598-021-89550-4": {
-  "month": "6",
-  "pub_date": "Dec 2021",
-  "year": 2021,
-  "early_online": "2 Jun 2021",
-  "title": "Generation and characterization of i",
-  "contributors": "Chandrasekaran, V., Carta, G., da Costa Pereira, D., Gupta, R., Murphy, C., Feifel, E., Kern, G., Lechner, J., Cavallo, A. L., Gupta, S., Caiment, F., Kleinjans, J. C., Gstraunthaler, G., Jennings, P., Wilmes, A.",
-  "corresponding": "Jennings, P.",
-  "organisations": "Molecular and Computational Toxicology, AIMMS, Maastricht University, Innsbruck Medical University, AstraZeneca Sweden",
-  "journal": "Scientific Reports",
-  "description": "Generation and characterization of iPSC-derived renal proximal tubule-like cells with extended stabilityThe renal proximal tubule is responsible for re-absorption of the majority of the glomerular filtrate and its proper function is necessary for whole-body homeostasis. Aging, certain diseases and chemical-induced toxicity are factors that contribute to proximal tubule injury and chronic kidney disease progression. To better understand these processes, it would be advantageous to generate renal tissues from human induced pluripotent stem cells (iPSC). Here, we report the differentiation and characterization of iPSC lines into proximal tubular-like cells (PTL). The protocol is a step wise exposure of small molecules and growth factors, including the GSK3 inhibitor (CHIR99021), the retinoic acid receptor activator (TTNPB), FGF9 and EGF, to drive iPSC to PTL via cell stages representing characteristics of early stages of renal development. Genome-wide RNA sequencing showed that PTL clustered within a kidney phenotype. PTL expressed proximal tubular-specific markers, including megalin (LRP2), showed a polarized phenotype, and were responsive to parathyroid hormone. PTL could take up albumin and exhibited ABCB1 transport activity. The phenotype was stable for up to 7days and was maintained after passaging. This protocol will form the basis of an optimized strategy for molecular investigations using iPSC derived PTL."
- },
  "https://doi.org/10.3389/fmicb.2021.681485": {
   "month": "6",
   "pub_date": "2 Jun 2021",
@@ -1355,17 +1427,17 @@
   "journal": "Frontiers in Microbiology",
   "description": "Model Selection Reveals the Butyrate-Producing Gut Bacterium Coprococcus eutactus as Predictor for Language Development in 3-Year-Old Rural Ugandan ChildrenIntroduction: The metabolic activity of the gut microbiota plays a pivotal role in the gut-brain axis through the effects of bacterial metabolites on brain function and development. In this study we investigated the association of gut microbiota composition with language development of 3-year-old rural Ugandan children. Methods: We studied the language ability in 139 children of 36 months in our controlled maternal education intervention trial to stimulate children\u2019s growth and development. The dataset includes 1170 potential predictors, including anthropometric and cognitive parameters at 24 months, 542 composition parameters of the children\u2019s gut microbiota at 24 months and 621 of these parameters at 36 months. We applied a novel computationally efficient version of the all-subsets regression methodology and identified predictors of language ability of 36-months-old children scored according to the Bayley Scales of Infant and Toddler Development (BSID-III). Results: The best three-term model, selected from more than 266 million models, includes the predictors Coprococcus eutactus at 24 months of age, Bifidobacterium at 36 months of age, and language development at 24 months. The top 20 four-term models, selected from more than 77 billion models, consistently include C. eutactus abundance at 24 months, while 14 of these models include the other two predictors as well. Mann\u2013Whitney U tests suggest that the abundance of gut bacteria in language non-impaired children (n = 78) differs from that in language impaired children (n = 61). While anaerobic butyrate-producers, including C. eutactus, Faecalibacterium prausnitzii, Holdemanella biformis, Roseburia hominis are less abundant, facultative anaerobic bacteria, including Granulicatella elegans, Escherichia/Shigella and Campylobacter coli, are more abundant in language impaired children. The overall predominance of oxygen tolerant species in the gut microbiota was slightly higher in the language impaired group than in the non-impaired group (P = 0.09). Conclusion: Application of the all-subsets regression methodology to microbiota data established a correlation between the relative abundance of the anaerobic butyrate-producing gut bacterium C. eutactus and language development in Ugandan children. We propose that the gut redox potential and the overall bacterial butyrate-producing capacity in the gut are important factors for language development."
  },
- "https://doi.org/10.1016/j.chemosphere.2021.131208": {
+ "https://doi.org/10.1002/anie.202102082": {
   "month": "6",
-  "pub_date": "Nov 2021",
+  "pub_date": "14 Jun 2021",
   "year": 2021,
-  "early_online": "14 Jun 2021",
-  "title": "A review of bottom-up and top-down emission estimates of hydrofluorocarbons (HFCs) in different parts of the world",
-  "contributors": "Flerlage, H., Velders, G. J., de Boer, J.",
-  "corresponding": "Flerlage, H.",
-  "organisations": "Environment and Health, AIMMS, Vrije Universiteit Amsterdam, National Institute of Public Health and the Environment, Utrecht University",
-  "journal": "Chemosphere",
-  "description": "A review of bottom-up and top-down emission estimates of hydrofluorocarbons (HFCs) in different parts of the worldHydrofluorocarbons (HFCs) are widespread alternatives for the ozone-depleting substances chlorofluorocarbons and hydrochlorofluorocarbons. They are used mainly as refrigerants or as foam-blowing agents. HFCs do not deplete the ozone layer, but they are very potent greenhouse gases, already contributing to global warming. Since 2019 HFCs are regulated under the Kigali Amendment to the Montreal Protocol, which demands reliable emission estimates to monitor the phase-down. Quantification of emissions is performed with two methods: bottom-up from product inventories or data on chemical sales; or top-down, inferred from atmospheric measurements by inverse modelling or interspecies correlation. Here, we review and compare the two methods and give an overview of HFC emissions from different parts of the world. Emission estimates reported by the different methods vary considerably. HFC emissions of developed countries (Annex I) are reported to the United Nations Framework Convention on Climate Change. These bottom-up estimates add up to only half of global emissions estimated from atmospheric data. Several studies with regional top-down estimates have shown that this gap is not owed to large-scale underreporting of emissions from developed countries, but mostly due to emissions from developing countries (non-Annex I). China accounts for a large fraction of the emissions causing the gap, but not entirely. Bottom-up and top-down estimations of emissions from other developing countries that could identify other large emitters are largely unavailable. Especially South America, West-, Central- and East-Africa, India, the Arabian Peninsula and Northern Australia are not well covered by measurement stations that could provide atmospheric data for top-down estimates."
+  "early_online": null,
+  "title": "Bicyclic \u03b2-Sheet Mimetics that Target the Transcriptional Coactivator \u03b2-Catenin and Inhibit Wnt Signaling",
+  "contributors": "Wendt, M., Bellavita, R., Gerber, A., Efr\u00e9m, N. L., van Ramshorst, T., Pearce, N. M., Davey, P. R., Everard, I., Vazquez-Chantada, M., Chiarparin, E., Grieco, P., Hennig, S., Grossmann, T. N.Pages:13937-13944",
+  "corresponding": "Grossmann, T. N.",
+  "organisations": "Organic Chemistry, AIMMS, Vrije Universiteit Amsterdam, AstraZeneca, University of Naples Federico II",
+  "journal": "Angewandte Chemie - International Edition",
+  "description": "Bicyclic \u03b2-Sheet Mimetics that Target the Transcriptional Coactivator \u03b2-Catenin and Inhibit Wnt SignalingProtein complexes are defined by the three-dimensional structure of participating binding partners. Knowledge about these structures can facilitate the design of peptidomimetics which have been applied for example, as inhibitors of protein\u2013protein interactions (PPIs). Even though \u03b2-sheets participate widely in PPIs, they have only rarely served as the basis for peptidomimetic PPI inhibitors, in particular when addressing intracellular targets. Here, we present the structure-based design of \u03b2-sheet mimetics targeting the intracellular protein \u03b2-catenin, a central component of the Wnt signaling pathway. Based on a protein binding partner of \u03b2-catenin, a macrocyclic peptide was designed and its crystal structure in complex with \u03b2-catenin obtained. Using this structure, we designed a library of bicyclic \u03b2-sheet mimetics employing a late-stage diversification strategy. Several mimetics were identified that compete with transcription factor binding to \u03b2-catenin and inhibit Wnt signaling in cells. The presented design strategy can support the development of inhibitors for other \u03b2-sheet-mediated PPIs."
  },
  "https://doi.org/10.1091/mbc.E20-05-0319": {
   "month": "6",
@@ -1378,18 +1450,6 @@
   "organisations": "AIMMS, Systems Bioinformatics, Systems Bioinformatics, Vrije Universiteit Amsterdam, University of Amsterdam",
   "journal": "Molecular Biology of the Cell",
   "description": "A yeast FRET biosensor enlightens cAMP signalingThe cAMP-PKA signaling cascade in budding yeast regulates adaptation to changing environments. We developed yEPAC, a FRET-based biosensor for cAMP measurements in yeast. We used this sensor with flow cytometry for high-throughput single cell-level quantification during dynamic changes in response to sudden nutrient transitions. We found that the characteristic cAMP peak differentiates between different carbon source transitions and is rather homogenous among single cells, especially for transitions to glucose. The peaks are mediated by a combination of extracellular sensing and intracellular metabolism. Moreover, the cAMP peak follows the Weber-Fechner law; its height scales with the relative, and not the absolute, change in glucose. Last, our results suggest that the cAMP peak height conveys information about prospective growth rates. In conclusion, our yEPAC-sensor makes possible new avenues for understanding yeast physiology, signaling, and metabolic adaptation."
- },
- "https://doi.org/10.1186/s41476-021-00155-w": {
-  "month": "6",
-  "pub_date": "Dec 2021",
-  "year": 2021,
-  "early_online": "16 Jun 2021",
-  "title": "Stimulated Raman scattering simulation for imaging optimization",
-  "contributors": "Zada, L., Fokker, B., Leslie, H. A., Vethaak, A. D., De Boer, J. F., Ariese, F.",
-  "corresponding": null,
-  "organisations": "Biophotonics and Medical Imaging, LaserLaB - Biophotonics and Microscopy, E&H: Environmental Chemistry and Toxicology, AIMMS, Environment and Health, Amsterdam Neuroscience - Brain Imaging, Deltares",
-  "journal": "Journal of the European Optical Society. Rapid Publications",
-  "description": "Stimulated Raman scattering simulation for imaging optimizationTwo simulation programs of a stimulated Raman scattering microscopy (SRS) imaging system with lock-in amplifier (LIA) detection were developed. SRS is an imaging technique based on the vibrational Raman cross-section as the contrast mechanism and enables fast, label-free imaging. Most SRS implementations are based on LIA detection of a modulated signal. However, building and operating such SRS set-ups still poses a challenge when selecting the LIA parameter settings for optimized acquisition speed or image quality. Moreover, the type of sample, e.g. a sparse sample vs. a densely packed sample, the required resolution as well as the Raman cross-section and the laser powers affect the parameter choice.A simulation program was used to find these optimal parameters. The focal spot diameters of the individual lasers (pump and Stokes) were used to estimate the effective SRS signal focal spot and the (optical) spatial resolution. By calibrating the signal and noise propagation through an SRS system for a known molecule, we estimated the signal and noise input to the LIA. We used a low pass filter model to simulate the LIA behavior in order to find the optimal parameters (i.e. filter order and time constant).Optimization was done for either image quality (expressed as contrast to noise ratio) or acquisition time. The targeted object size was first determined as a measure for the required resolution. The simulation output consisted of the LIA parameters, pixel dwell time and contrast to noise ratio.In a second simulation we evaluated SRS imaging based on the same principles as the optimal setting simulation, i.e. the signals were propagated through an imaging system and LIA detection. The simulated images were compared to experimental SRS images of polystyrene beads.Finally, the same software was used to simulate multiplexed SRS imaging. In this study we modeled a six-channel frequency-encoded multiplexed SRS system demodulated with six LIA channels. We evaluated the inter-channel crosstalk as a function of chosen LIA parameters, which in multiplex SRS imaging also needs to be considered.These programs to optimize the contrast to noise ratio, acquisition speed, resolution and crosstalk will be useful for operating stimulated Raman scattering imaging setup, as well as for designing novel setups."
  },
  "https://doi.org/10.1038/s42003-021-02311-x": {
   "month": "6",
@@ -1415,8 +1475,68 @@
   "journal": "International Journal of Environmental Research and Public Health",
   "description": "Developmental neurotoxicity of environmentally relevant pharmaceuticals and mixtures thereof in a zebrafish embryo behavioural testHumans are exposed daily to complex mixtures of chemical substances via food intake, inhalation, and dermal contact. Developmental neurotoxicity is an understudied area and entails one of the most complex areas in toxicology. Animal studies for developmental neurotoxicity (DNT) are hardly performed in the context of regular hazard studies, as they are costly and time consuming and provide only limited information as to human relevance. There is a need for a combination of in vitro and in silico tests for the assessment of chemically induced DNT in humans. The zebrafish (Danio rerio) embryo (ZFE) provides a powerful model to study DNT because it shows fast neurodevelopment with a large resemblance to the higher vertebrate, including the human system. One of the suitable readouts for DNT testing in the zebrafish is neurobehaviour (stimulus-provoked locomotion) since this provides integrated information on the functionality and status of the entire nervous system of the embryo. In the current study, environmentally relevant pharmaceuticals and their mixtures were investigated using the zebrafish light-dark transition test. Zebrafish embryos were exposed to three neuroactive compounds of concern, carbamazepine (CBZ), fluoxetine (FLX), and venlafaxine (VNX), as well as their main metabolites, carbamazepine 10,11-epoxide (CBZ 10,11E), norfluoxetine (norFLX), and desvenlafaxine (desVNX). All the studied compounds, except CBZ 10,11E, dose-dependently inhibited zebrafish locomotor activity, providing a distinct behavioural phenotype. Mixture experiments with these pharmaceuticals identified that dose addition was confirmed for all the studied binary mixtures (CBZ-FLX, CBZ-VNX, and VNX-FLX), thereby supporting the zebrafish embryo as a model for studying the cumulative effect of chemical mixtures in DNT. This study shows that pharmaceuticals and a mixture thereof affect locomotor activity in zebrafish. The test is directly applicable in environmental risk assessment; however, further studies are required to assess the relevance of these findings for developmental neurotoxicity in humans."
  },
+ "https://doi.org/10.1108/JHTT-08-2020-0190": {
+  "month": "8",
+  "pub_date": "5 Aug 2021",
+  "year": 2021,
+  "early_online": "25 Jun 2021",
+  "title": "Managing service innovations at online travel agencies: evidence from China",
+  "contributors": "Mu, Y., Bossink, B., Vinig, T., You, S.",
+  "corresponding": "Mu, Y.",
+  "organisations": "Science & Business Innovation, AIMMS, Sichuan Agricultural University, University of Amsterdam, Trip International",
+  "journal": "Journal of Hospitality and Tourism Technology",
+  "description": "Managing service innovations at online travel agencies: evidence from ChinaPurposeResearch on service innovation management of online travel agencies (OTAs) remains relatively scarce. This study aims to illuminate the detailed components of managing service innovations at OTAs.Design/methodology/approachAn in-depth case study is conducted at Trip, the largest OTA in China. A coherent framework of managing service innovations at OTAs is proposed through refining an existing framework from new service development (NSD), and concerning the success factors of service innovation. Based on theoretical synthesis and empirical analysis, the NSD framework is adapted, restructured and refined for service innovation management at OTAs.FindingsThe proposed framework contains three facets and associated managerial elements: (1) resources, including stakeholders, technologies and systems; (2) contexts, including innovation strategy, structure and culture; and (3) ideation, including idea generation and idea application. Different success factors are attached to the managerial elements. The facets, managerial elements and success factors serve as the components in the framework.Research limitations/implicationsThis study provides academia with an analytical framework to understand and interpret service innovation management at OTAs, which can be used as a point of departure for future research.Practical implicationsThe analytical framework inspires OTA managers to adopt a structured approach in service innovation management, and policymakers to design related interventions.Originality/valueThis study offers a first step toward the investigation of service innovation management at OTAs, specifically in China. The proposed framework is potentially applicable to other industries.[With also Chinese summary, see DOI.]"
+ },
+ "https://doi.org/10.1002/anie.202106053": {
+  "month": "9",
+  "pub_date": "13 Sep 2021",
+  "year": 2021,
+  "early_online": "4 Jun 2021",
+  "title": "Origin of the \u03b1-Effect in SN2 Reactions",
+  "contributors": "Hansen, T., Vermeeren, P., Bickelhaupt, F. M., Hamlin, T. A.",
+  "corresponding": "Hamlin, T. A.",
+  "organisations": "Chemistry and Pharmaceutical Sciences, Theoretical Chemistry, AIMMS",
+  "journal": "Angewandte Chemie - International Edition",
+  "description": "Origin of the \u03b1-Effect in SN2 ReactionsThe \u03b1-effect is a term used to explain the dramatically enhanced reactivity of \u03b1-nucleophiles (R\u2212Y\u2212X:\u2212) compared to their parent normal nucleophile (R\u2212X:\u2212) by deviating from the classical Br\u00f8nsted-type reactivity-basicity relationship. The exact origin of this effect is, however, still heavily under debate. In this work, we have quantum chemically analyzed the \u03b1-effect of a set of anionic nucleophiles, including O-, N- and S-based normal and \u03b1-nucleophiles, participating in an SN2 reaction with ethyl chloride using relativistic density functional theory at ZORA-OLYP/QZ4P. Our activation strain and Kohn\u2013Sham molecular orbital analyses identified two criteria an \u03b1-nucleophile needs to fulfill in order to show \u03b1-effect: (i) a small HOMO lobe on the nucleophilic center, pointing towards the substrate, to reduce the repulsive occupied\u2013occupied orbital overlap and hence (steric) Pauli repulsion with the substrate; and (ii) a sufficiently high energy HOMO to overcome the loss of favorable HOMO\u2013LUMO orbital overlap with the substrate, as a consequence of the first criterion, by reducing the HOMO\u2013LUMO orbital energy gap. If one of these two criteria is not fulfilled, one can expect no \u03b1-effect or inverse \u03b1-effect."
+ },
+ "https://doi.org/10.1016/j.envadv.2021.100077": {
+  "month": "10",
+  "pub_date": "Oct 2021",
+  "year": 2021,
+  "early_online": "12 Jun 2021",
+  "title": "Association of exposure to organophosphate flame retardants and children's behavior at a median age of 18 months",
+  "contributors": "Sugeng, E. J., de Cock, M., Leonards, P. E., van de Bor, M.",
+  "corresponding": "Sugeng, E. J.",
+  "organisations": "E&H: Environmental Health and Toxicology, AIMMS, Environment and Health, E&H: Environmental Bioanalytical Chemistry",
+  "journal": "Environmental Advances",
+  "description": "Association of exposure to organophosphate flame retardants and children's behavior at a median age of 18 monthsExposure to polybrominated diphenyl ether (PBDE) flame retardants (FRs) could have adverse effects on neurodevelopment in children. Some organophosphate (OPFRs) are used as alternatives for the phased-out decabromodiphenylether such as resorcinol bis(diphenyl phosphate (PBDPP) and bisphenol A bis(diphenyl phosphate (BPA-BDPP). This study aims to investigate the relationship between indoor OPFR exposure and neurodevelopmental behavior in children. OPFRs were measured in house dust and hand wipes from 42 children, aged 8-16 months, from the LInking maternal Nutrition to Child health (LINC) study. At the median age of 18 months, the children's behavior was assessed with the Child Behavior Checklist, using three composite behavior scales: externalizing problems, internalizing problems, and total problems. Linear regression analysis was performed, adjusting for maternal education and smoking by the partner. Children with higher BPA-BDPP, PBDPP, and tris(chloroethyl) phosphate (TCEP) house dust concentrations were found to have higher scores on the behavioral problems scales. A 10-fold increase in BPA-BDPP and PBDPP concentration was associated with a 4.1 and 2.6 point increase on the internalizing problems scale (respectively p=0.004 and p=0.042). Increased BPA-BDPP concentrations were associated with elevated scores on the externalizing problems scale and total behavioral problems scale (respectively 7.6 and 16 points increase per 10-fold BPA-BDPP concentration increase, p=0.015 and p=0.007). TCEP dust concentrations were associated with the externalizing problems scale (13 point increase per 10-fold TCEP concentration increase, p=0.043). This study showed the importance of investigating the health effects of exposure to organophosphate flame retardants. Further research on neurodevelopmental health effects of OPFR exposure is warranted."
+ },
+ "https://doi.org/10.1002/stem.3422": {
+  "month": "10",
+  "pub_date": "Oct 2021",
+  "year": 2021,
+  "early_online": "21 Jun 2021",
+  "title": "SARS-Co",
+  "contributors": "Djidrovski, I., Georgiou, M., Hughes, G. L., Patterson, E. I., Casas-Sanchez, A., Pennington, S. H., Biagini, G. A., Moya-Molina, M., van den Bor, J., Smit, M. J., Chung, G., Lako, M., Armstrong, L.",
+  "corresponding": "Armstrong, L.",
+  "organisations": "Medicinal chemistry, AIMMS, Newcells Biotech, Newcastle University, Liverpool School of Tropical Medicine",
+  "journal": "Stem Cells",
+  "description": "SARS-CoV-2 infects an upper airway model derived from induced pluripotent stem cellsAs one of the primary points of entry of xenobiotic substances and infectious agents into the body, the lungs are subject to a range of dysfunctions and diseases that together account for a significant number of patient deaths. In view of this, there is an outstanding need for in vitro systems in which to assess the impact of both infectious agents and xenobiotic substances of the lungs. To address this issue, we have developed a protocol to generate airway epithelial basal-like cells from induced pluripotent stem cells, which simplifies the manufacture of cellular models of the human upper airways. Basal-like cells generated in this study were cultured on transwell inserts to allow formation of a confluent monolayer and then exposed to an air-liquid interface to induce differentiation into a pseudostratified epithelial construct with a marked similarity to the upper airway epithelium in vivo. These constructs contain the component cell types required of an epithelial model system, produce mucus and functional cilia, and can support SARS-CoV-2 infection/replication and the secretion of cytokines in a manner similar to that of in vivo airways. This method offers a readily accessible and highly scalable protocol for the manufacture of upper airway models that could find applications in development of therapies for respiratory viral infections and the assessment of drug toxicity on the human lungs."
+ },
+ "https://doi.org/10.1016/j.chemosphere.2021.131208": {
+  "month": "11",
+  "pub_date": "Nov 2021",
+  "year": 2021,
+  "early_online": "14 Jun 2021",
+  "title": "A review of bottom-up and top-down emission estimates of hydrofluorocarbons (HFCs) in different parts of the world",
+  "contributors": "Flerlage, H., Velders, G. J., de Boer, J.",
+  "corresponding": "Flerlage, H.",
+  "organisations": "Environment and Health, AIMMS, Vrije Universiteit Amsterdam, National Institute of Public Health and the Environment, Utrecht University",
+  "journal": "Chemosphere",
+  "description": "A review of bottom-up and top-down emission estimates of hydrofluorocarbons (HFCs) in different parts of the worldHydrofluorocarbons (HFCs) are widespread alternatives for the ozone-depleting substances chlorofluorocarbons and hydrochlorofluorocarbons. They are used mainly as refrigerants or as foam-blowing agents. HFCs do not deplete the ozone layer, but they are very potent greenhouse gases, already contributing to global warming. Since 2019 HFCs are regulated under the Kigali Amendment to the Montreal Protocol, which demands reliable emission estimates to monitor the phase-down. Quantification of emissions is performed with two methods: bottom-up from product inventories or data on chemical sales; or top-down, inferred from atmospheric measurements by inverse modelling or interspecies correlation. Here, we review and compare the two methods and give an overview of HFC emissions from different parts of the world. Emission estimates reported by the different methods vary considerably. HFC emissions of developed countries (Annex I) are reported to the United Nations Framework Convention on Climate Change. These bottom-up estimates add up to only half of global emissions estimated from atmospheric data. Several studies with regional top-down estimates have shown that this gap is not owed to large-scale underreporting of emissions from developed countries, but mostly due to emissions from developing countries (non-Annex I). China accounts for a large fraction of the emissions causing the gap, but not entirely. Bottom-up and top-down estimations of emissions from other developing countries that could identify other large emitters are largely unavailable. Especially South America, West-, Central- and East-Africa, India, the Arabian Peninsula and Northern Australia are not well covered by measurement stations that could provide atmospheric data for top-down estimates."
+ },
  "https://doi.org/10.1038/s41467-021-24308-0": {
-  "month": "6",
+  "month": "12",
   "pub_date": "Dec 2021",
   "year": 2021,
   "early_online": "24 Jun 2021",
@@ -1426,6 +1546,30 @@
   "organisations": "BioAnalytical Chemistry, AIMMS, Liverpool School of Tropical Medicine",
   "journal": "Nature Communications",
   "description": "Author Correction: A therapeutic combination of two small molecule toxin inhibitors provides broad preclinical efficacy against viper snakebite (Nature Communications, (2020), 11, 1, (6094), 10.1038/s41467-020-19981-6)The original version of this articles contained an error in Fig. 4. The graphs in panel B report the neutralization of SVSP venom by decreasing concentrations of the inhibitor nafamostat, from 150 \u03bcm to 150 nm, but the lowest concentration on the X-axis was incorrectly reported as 150 \u03bcm. This error has now been corrected on the PDF and HTML version of the article."
+ },
+ "https://doi.org/10.1038/s41598-021-89550-4": {
+  "month": "12",
+  "pub_date": "Dec 2021",
+  "year": 2021,
+  "early_online": "2 Jun 2021",
+  "title": "Generation and characterization of i",
+  "contributors": "Chandrasekaran, V., Carta, G., da Costa Pereira, D., Gupta, R., Murphy, C., Feifel, E., Kern, G., Lechner, J., Cavallo, A. L., Gupta, S., Caiment, F., Kleinjans, J. C., Gstraunthaler, G., Jennings, P., Wilmes, A.",
+  "corresponding": "Jennings, P.",
+  "organisations": "Molecular and Computational Toxicology, AIMMS, Maastricht University, Innsbruck Medical University, AstraZeneca Sweden",
+  "journal": "Scientific Reports",
+  "description": "Generation and characterization of iPSC-derived renal proximal tubule-like cells with extended stabilityThe renal proximal tubule is responsible for re-absorption of the majority of the glomerular filtrate and its proper function is necessary for whole-body homeostasis. Aging, certain diseases and chemical-induced toxicity are factors that contribute to proximal tubule injury and chronic kidney disease progression. To better understand these processes, it would be advantageous to generate renal tissues from human induced pluripotent stem cells (iPSC). Here, we report the differentiation and characterization of iPSC lines into proximal tubular-like cells (PTL). The protocol is a step wise exposure of small molecules and growth factors, including the GSK3 inhibitor (CHIR99021), the retinoic acid receptor activator (TTNPB), FGF9 and EGF, to drive iPSC to PTL via cell stages representing characteristics of early stages of renal development. Genome-wide RNA sequencing showed that PTL clustered within a kidney phenotype. PTL expressed proximal tubular-specific markers, including megalin (LRP2), showed a polarized phenotype, and were responsive to parathyroid hormone. PTL could take up albumin and exhibited ABCB1 transport activity. The phenotype was stable for up to 7days and was maintained after passaging. This protocol will form the basis of an optimized strategy for molecular investigations using iPSC derived PTL."
+ },
+ "https://doi.org/10.1186/s41476-021-00155-w": {
+  "month": "12",
+  "pub_date": "Dec 2021",
+  "year": 2021,
+  "early_online": "16 Jun 2021",
+  "title": "Stimulated Raman scattering simulation for imaging optimization",
+  "contributors": "Zada, L., Fokker, B., Leslie, H. A., Vethaak, A. D., De Boer, J. F., Ariese, F.",
+  "corresponding": null,
+  "organisations": "Biophotonics and Medical Imaging, LaserLaB - Biophotonics and Microscopy, E&H: Environmental Chemistry and Toxicology, AIMMS, Environment and Health, Amsterdam Neuroscience - Brain Imaging, Deltares",
+  "journal": "Journal of the European Optical Society. Rapid Publications",
+  "description": "Stimulated Raman scattering simulation for imaging optimizationTwo simulation programs of a stimulated Raman scattering microscopy (SRS) imaging system with lock-in amplifier (LIA) detection were developed. SRS is an imaging technique based on the vibrational Raman cross-section as the contrast mechanism and enables fast, label-free imaging. Most SRS implementations are based on LIA detection of a modulated signal. However, building and operating such SRS set-ups still poses a challenge when selecting the LIA parameter settings for optimized acquisition speed or image quality. Moreover, the type of sample, e.g. a sparse sample vs. a densely packed sample, the required resolution as well as the Raman cross-section and the laser powers affect the parameter choice.A simulation program was used to find these optimal parameters. The focal spot diameters of the individual lasers (pump and Stokes) were used to estimate the effective SRS signal focal spot and the (optical) spatial resolution. By calibrating the signal and noise propagation through an SRS system for a known molecule, we estimated the signal and noise input to the LIA. We used a low pass filter model to simulate the LIA behavior in order to find the optimal parameters (i.e. filter order and time constant).Optimization was done for either image quality (expressed as contrast to noise ratio) or acquisition time. The targeted object size was first determined as a measure for the required resolution. The simulation output consisted of the LIA parameters, pixel dwell time and contrast to noise ratio.In a second simulation we evaluated SRS imaging based on the same principles as the optimal setting simulation, i.e. the signals were propagated through an imaging system and LIA detection. The simulated images were compared to experimental SRS images of polystyrene beads.Finally, the same software was used to simulate multiplexed SRS imaging. In this study we modeled a six-channel frequency-encoded multiplexed SRS system demodulated with six LIA channels. We evaluated the inter-channel crosstalk as a function of chosen LIA parameters, which in multiplex SRS imaging also needs to be considered.These programs to optimize the contrast to noise ratio, acquisition speed, resolution and crosstalk will be useful for operating stimulated Raman scattering imaging setup, as well as for designing novel setups."
  },
  "https://doi.org/10.1038/s41580-021-00374-6": {
   "month": "7",
@@ -1451,6 +1595,18 @@
   "journal": "JAMA Neurology",
   "description": "SARS-CoV-2 Antibodies in Adult Patients with Multiple Sclerosis in the Amsterdam MS Cohort"
  },
+ "https://doi.org/10.1134/S1063074021040052": {
+  "month": "7",
+  "pub_date": "Jul 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Seasonal Changes in Hemolymph Parameters of the Bivalve Modiolus kurilensis Bernard, 1983 from Vostok Bay, Sea of Japan",
+  "contributors": "Grinchenko, A. V., Sokolnikova, Y. N., Ilyaskina, D. V., Kumeiko, V. V.",
+  "corresponding": "Grinchenko, A. V.",
+  "organisations": "AIMMS, E&H: Environmental Bioanalytical Chemistry, RAS - National Scientific Center of Marine Biology, Far Eastern Branch, Far Eastern Federal University",
+  "journal": "Russian Journal of Marine Biology",
+  "description": "Seasonal Changes in Hemolymph Parameters of the Bivalve Modiolus kurilensis Bernard, 1983 from Vostok Bay, Sea of JapanAbstract: Hemolymph is one of the main tissues providing invertebrates\u2019 immunity and homeostasis. Earlier, we showed that some of the hemolymph immune parameters of the common Far Eastern mollusk Modiolus kurilensis are sensitive to bacterial and anthropogenic challenges. In this work, a number of cellular parameters such as total hemocyte count (THC), hemocyte phagocytic activity (PA), and reactive oxygen species (ROS) and humoral parameters such as hemagglutination (HA) and hemolytic (HL) activity of plasma, as well as its protein concentration (CP) and profiling in M. kurilensis were studied depending on the season and environmental indicators (temperature, salinity, and oxygen concentration). The total hemocyte count was weakly correlated with water oxygen concentration (R = \u20130.25) and temperature (R = 0.27), and the 36 kDa plasma protein was weakly correlated with temperature (R = \u20130.33). Also, there was a correlation (R = 0.38) between hemagglutination activity and the 19 kDa protein fraction. The minimum values for a number of parameters were noted in January (THC, PA, ROS, HA, HL), while the maximum values were observed in late spring (THC, PA, ROS, HA, HL). At the same time, in other months, these and most other parameters had metastable values. Thus, the indicators that were identified in previous studies (THC, PA, ROS, HA, HL, CP, protein fractions 55 and 124 kDa) are suitable for assessing the physiological state of M. kurilensis during most of the year."
+ },
  "https://doi.org/10.4230/LIPIcs.CPM.2021.9": {
   "month": "7",
   "pub_date": "1 Jul 2021",
@@ -1475,18 +1631,6 @@
   "journal": null,
   "description": "String sanitization under edit distance: Improved and generalizedLet W be a string of length n over an alphabet S, k be a positive integer, and S be a set of length-k substrings of W. The ETFS problem (Edit distance, Total order, Frequency, Sanitization) asks us to construct a string XEDsuch that: (i) no string of S occurs in XED; (ii) the order of all other length-k substrings over \u03a3 (and thus the frequency) is the same in W and in XED; and (iii) XEDhas minimal edit distance to W. When W represents an individual's data and S represents a set of confidential patterns, the ETFS problem asks for transforming W to preserve its privacy and its utility [Bernardini et al., ECML PKDD 2019]. ETFS can be solved in O(n2k) time [Bernardini et al., CPM 2020]. The same paper shows that ETFS cannot be solved in O(n2-\u03b4) time, for any \u03b4 > 0, unless the Strong Exponential Time Hypothesis (SETH) is false. Our main results can be summarized as follows: An O(n2log2k)-time algorithm to solve ETFS. An O(n2log2n)-time algorithm to solve AETFS (Arbitrary lengths, Edit distance, Total order, Frequency, Sanitization), a generalization of ETFS in which the elements of S can have arbitrary lengths. Our algorithms are thus optimal up to subpolynomial factors, unless SETH fails. In order to arrive at these results, we develop new techniques for computing a variant of the standard dynamic programming (DP) table for edit distance. In particular, we simulate the DP table computation using a directed acyclic graph in which every node is assigned to a smaller DP table. We then focus on redundancy in these DP tables and exploit a tabulation technique according to dyadic intervals to obtain an optimal alignment in O(n2) total time1. Beyond string sanitization, our techniques may inspire solutions to other problems related to regular expressions or context-free grammars."
  },
- "https://doi.org/10.1186/s13321-021-00525-z": {
-  "month": "7",
-  "pub_date": "Dec 2021",
-  "year": 2021,
-  "early_online": "2 Jul 2021",
-  "title": "Nonadditivity in public and inhouse data: implications for drug design",
-  "contributors": "Gogishvili, D., Nittinger, E., Margreitter, C., Tyrchan, C.",
-  "corresponding": "Nittinger, E.",
-  "organisations": "Bio Informatics (IBIVU), AIMMS, Bioinformatics, AstraZeneca Sweden",
-  "journal": "Journal of Cheminformatics",
-  "description": "Nonadditivity in public and inhouse data: implications for drug designNumerous ligand-based drug discovery projects are based on structure-activity relationship (SAR) analysis, such as Free-Wilson (FW) or matched molecular pair (MMP) analysis. Intrinsically they assume linearity and additivity of substituent contributions. These techniques are challenged by nonadditivity (NA) in protein\u2013ligand binding where the change of two functional groups in one molecule results in much higher or lower activity than expected from the respective single changes. Identifying nonlinear cases and possible underlying explanations is crucial for a drug design project since it might influence which lead to follow. By systematically analyzing all AstraZeneca (AZ) inhouse compound data and publicly available ChEMBL25 bioactivity data, we show significant NA events in almost every second assay among the inhouse and once in every third assay in public data sets. Furthermore, 9.4% of all compounds of the AZ database and 5.1% from public sources display significant additivity shifts indicating important SAR features or fundamental measurement errors. Using NA data in combination with machine learning showed that nonadditive data is challenging to predict and even the addition of nonadditive data into training did not result in an increase in predictivity. Overall, NA analysis should be applied on a regular basis in many areas of computational chemistry and can further improve rational drug design."
- },
  "https://doi.org/10.3389/fimmu.2021.702359": {
   "month": "7",
   "pub_date": "2 Jul 2021",
@@ -1498,18 +1642,6 @@
   "organisations": "Molecular Microbiology, AIMMS, University of Stellenbosch, University of Oxford, Flemish Institute for Technological Research, Vrije Universiteit Amsterdam",
   "journal": "Frontiers in Immunology",
   "description": "PPE38-Secretion-Dependent Proteins of M. tuberculosis Alter NF-kB Signalling and Inflammatory Responses in MacrophagesIt was previously shown that secretion of PE-PGRS and PPE-MPTR proteins is abolished in clinical M. tuberculosis isolates with a deletion in the ppe38-71 operon, which is associated with increased virulence. Here we investigate the proteins dependent on PPE38 for their secretion and their role in the innate immune response using temporal proteomics and protein turnover analysis in a macrophage infection model. A decreased pro-inflammatory response was observed in macrophages infected with PPE38-deficient M. tuberculosis CDC1551 as compared to wild type bacteria. We could show that dampening of the pro-inflammatory response is associated with activation of a RelB/p50 pathway, while the canonical inflammatory pathway is active during infection with wild type M. tuberculosis CDC1551. These results indicate a molecular mechanism by which M. tuberculosis PE/PPE proteins controlled by PPE38 have an effect on modulating macrophage responses through NF-kB signalling."
- },
- "https://doi.org/10.1016/j.talanta.2021.122688": {
-  "month": "7",
-  "pub_date": "1 Nov 2021",
-  "year": 2021,
-  "early_online": "6 Jul 2021",
-  "title": "Cross platform solutions to improve the zebrafish polar metabolome coverage using LC-QTOF MS: Optimization of separation mechanisms, solvent additives, and resuspension solvents",
-  "contributors": "Xu, M., Legradi, J., Leonards, P.",
-  "corresponding": "Xu, M.",
-  "organisations": "E&H: Environmental Bioanalytical Chemistry, E&H: Environmental Health and Toxicology, AIMMS",
-  "journal": "Talanta",
-  "description": "Cross platform solutions to improve the zebrafish polar metabolome coverage using LC-QTOF MS: Optimization of separation mechanisms, solvent additives, and resuspension solventsUntargeted metabolomics has been widely used for studies with zebrafish embryos. Until now, the number of analytical approaches to determine metabolites in zebrafish is limited, and there is a lack of consensus on the best platforms for comprehensive metabolomics analysis of zebrafish embryos. In addition, the capacity of these methods to detect metabolites is unsatisfactory and the confidence level for identifying compounds is relatively low. To improve the metabolome coverage, we mainly focused on the optimization of separation mechanisms, mobile phase additives, and resuspension solvents based on liquid chromatography (LC) coupling to high-resolution mass spectrometry (HRMS) techniques. Moreover, the procedures for optimizing methods were assessed when taking metabolite profiles in both positive and negative ionization modes into account. Four LC columns were studied: C18, T3, PFP, and HILIC. In positive ionization mode, it was strongly recommended to employ the HILIC approach operated at the neutral condition, which led to the presence of more than 4700 features and the annotation of 151 metabolites, mainly zwitterionic and basic compounds, in comparison to reverse phase (RP)-based methods with less than 1000 features. In negative ionization mode, the PFP column operated at 0.02% acetic acid showed the best performance in terms of metabolite coverage: 3100 metabolic features were detected and 218 metabolites were annotated in zebrafish embryos. Metabolite profiles mainly contained acidic and zwitterionic compounds. HILIC-based platforms were complementary to RP columns when analyzing highly polar metabolites. Additionally, it was preferable to reconstitute zebrafish extracts in 100% water for analysis of metabolites on RP columns, with a 20\u201330% increase in the number of identified metabolites compared to a 50% water in methanol solution. However, water/methanol (1:9, v/v), as resuspension solution, was advantageous over water/methanol (1:1, v/v) for HILIC analysis showing an 8\u201315% increase in detected metabolites. In total 336 polar metabolites were annotated by the combination of the optimized HILIC (positive) and PFP (negative) approaches. The largest metabolome coverage of polar metabolites in zebrafish embryos was obtained when three approaches were combined (negative PFP and HILIC, and HILIC positive) resulting in more than 420 annotated compounds."
  },
  "https://doi.org/10.2807/1560-7917.ES.2021.26.27.2100568": {
   "month": "7",
@@ -1559,6 +1691,30 @@
   "journal": "Scientific Reports",
   "description": "Torpor enhances synaptic strength and restores memory performance in a mouse model of Alzheimer\u2019s diseaseHibernation induces neurodegeneration-like changes in the brain, which are completely reversed upon arousal. Hibernation-induced plasticity may therefore be of great relevance for the treatment of neurodegenerative diseases, but remains largely unexplored. Here we show that a single torpor and arousal sequence in mice does not induce dendrite retraction and synapse loss as observed in seasonal hibernators. Instead, it increases hippocampal long-term potentiation and contextual fear memory. This is accompanied by increased levels of key postsynaptic proteins and mitochondrial complex I and IV proteins, indicating mitochondrial reactivation and enhanced synaptic plasticity upon arousal. Interestingly, a single torpor and arousal sequence was also sufficient to restore contextual fear memory in an APP/PS1 mouse model of Alzheimer\u2019s disease. Our study demonstrates that torpor in mice evokes an exceptional state of hippocampal plasticity and that naturally occurring plasticity mechanisms during torpor provide an opportunity to identify unique druggable targets for the treatment of cognitive impairment."
  },
+ "https://doi.org/10.1021/acs.jctc.1c00308": {
+  "month": "8",
+  "pub_date": "10 Aug 2021",
+  "year": 2021,
+  "early_online": "8 Jul 2021",
+  "title": "GW100: A Slater-Type Orbital Perspective",
+  "contributors": "F\u00f6rster, A., Visscher, L.",
+  "corresponding": "F\u00f6rster, A.",
+  "organisations": "AIMMS, Theoretical Chemistry",
+  "journal": "Journal of chemical theory and computation",
+  "description": "GW100: A Slater-Type Orbital PerspectiveWe calculate complete basis set (CBS) limit-extrapolated ionization potentials (IPs) and electron affinities (EA) with Slater-type basis sets for the molecules in the GW100 database. To this end, we present two new Slater-type orbital (STO) basis sets of triple-(TZ) and quadruple-\u03b6 (QZ) quality, whose polarization is adequate for correlated-electron methods and which contain extra diffuse functions to be able to correctly calculate EAs of molecules with a positive lowest unoccupied molecular orbital (LUMO). We demonstrate that going from TZ to QZ quality consistently reduces the basis set error of our computed IPs and EAs, and we conclude that a good estimate of these quantities at the CBS limit can be obtained by extrapolation. With mean absolute deviations (MAD) from 70 to 85 meV, our CBS limit-extrapolated IP are in good agreement with results from FHI-AIMS, TURBOMOLE, VASP, and WEST, while they differ by more than 130 meV on average from nanoGW. With a MAD of 160 meV, our EA are also in good agreement with the WEST code. Especially for systems with positive LUMOs, the agreement is excellent. With respect to other codes, the STO-type basis sets generally underestimate EAs of small molecules with strongly bound LUMOs. With 62 meV for IPs and 93 meV for EAs, we find much better agreement with CBS limit-extrapolated results from FHI-AIMS for a set of 250 medium to large organic molecules."
+ },
+ "https://doi.org/10.1002/cphc.202100505": {
+  "month": "9",
+  "pub_date": "15 Sep 2021",
+  "year": 2021,
+  "early_online": "10 Jul 2021",
+  "title": "Boron Tunneling in the \u201cWeak\u201d Bond-Stretch Isomerization of N\u2212B Lewis Adducts",
+  "contributors": "Nandi, A., Tarannam, N., Rodrigues Silva, D., Fonseca Guerra, C., Hamlin, T. A., Kozuch, S.",
+  "corresponding": "Kozuch, S.",
+  "organisations": "Theoretical Chemistry, AIMMS, Ben-Gurion University of the Negev",
+  "journal": "ChemPhysChem",
+  "description": "Boron Tunneling in the \u201cWeak\u201d Bond-Stretch Isomerization of N\u2212B Lewis AdductsSome nitrile-boron halide adducts exhibit a double-well potential energy surface with two distinct minima: a \u201clong bond\u201d geometry (LB, a van der Waals interaction mostly based on electrostatics, but including a residual charge transfer component) and a \u201cshort bond\u201d structure (SB, a covalent dative bond). This behavior can be considered as a \u201cweak\u201d form of bond stretch isomerism. Our computations reveal that complexes RCN\u2212BX3 (R=CH3, FCH2, BrCH2, and X=Cl, Br) exhibit a fast interconversion from LB to SB geometries even close to the absolute zero thanks to a boron atom tunneling mechanism. The computed half-lives of the meta-stable LB compounds vary between minutes to nanoseconds at cryogenic conditions. Accordingly, we predict that the long bond structures are practically impossible to isolate or characterize, which agrees with previous matrix-isolation experiments."
+ },
  "https://doi.org/10.1002/jcc.26721": {
   "month": "10",
   "pub_date": "5 Oct 2021",
@@ -1570,6 +1726,42 @@
   "organisations": "AIMMS, Theoretical Chemistry, Leiden University",
   "journal": "Journal of Computational Chemistry",
   "description": "Efficient workflow for the investigation of the catalytic cycle of water oxidation catalysts: Combining GFN-xTB and density functional theoryPhotocatalytic water oxidation remains the bottleneck in many artificial photosynthesis devices. The efficiency of this challenging process is inherently linked to the thermodynamic and electronic properties of the chromophore and the water oxidation catalyst (WOC). Computational investigations can facilitate the search for favorable chromophore-catalyst combinations. However, this remains a demanding task due to the requirements on the computational method that should be able to correctly describe different spin and oxidation states of the transition metal, the influence of solvation and the different rates of the charge transfer and water oxidation processes. To determine a suitable method with favorable cost/accuracy ratios, the full catalytic cycle of a molecular ruthenium based WOC is investigated using different computational methods, including density functional theory (DFT) with different functionals (GGA, Hybrid, Double Hybrid) as well as the semi-empirical tight binding approach GFN-xTB. A workflow with low computational cost is proposed that combines GFN-xTB and DFT and provides reliable results. GFN-xTB geometries and frequencies combined with single-point DFT energies give free energy changes along the catalytic cycle that closely follow the full DFT results and show satisfactory agreement with experiment, while significantly decreasing the computational cost. This workflow allows for cost efficient determination of energetic, thermodynamic and dynamic properties of WOCs."
+ },
+ "https://doi.org/10.1016/j.talanta.2021.122688": {
+  "month": "11",
+  "pub_date": "1 Nov 2021",
+  "year": 2021,
+  "early_online": "6 Jul 2021",
+  "title": "Cross platform solutions to improve the zebrafish polar metabolome coverage using LC-QTOF MS: Optimization of separation mechanisms, solvent additives, and resuspension solvents",
+  "contributors": "Xu, M., Legradi, J., Leonards, P.",
+  "corresponding": "Xu, M.",
+  "organisations": "E&H: Environmental Bioanalytical Chemistry, E&H: Environmental Health and Toxicology, AIMMS",
+  "journal": "Talanta",
+  "description": "Cross platform solutions to improve the zebrafish polar metabolome coverage using LC-QTOF MS: Optimization of separation mechanisms, solvent additives, and resuspension solventsUntargeted metabolomics has been widely used for studies with zebrafish embryos. Until now, the number of analytical approaches to determine metabolites in zebrafish is limited, and there is a lack of consensus on the best platforms for comprehensive metabolomics analysis of zebrafish embryos. In addition, the capacity of these methods to detect metabolites is unsatisfactory and the confidence level for identifying compounds is relatively low. To improve the metabolome coverage, we mainly focused on the optimization of separation mechanisms, mobile phase additives, and resuspension solvents based on liquid chromatography (LC) coupling to high-resolution mass spectrometry (HRMS) techniques. Moreover, the procedures for optimizing methods were assessed when taking metabolite profiles in both positive and negative ionization modes into account. Four LC columns were studied: C18, T3, PFP, and HILIC. In positive ionization mode, it was strongly recommended to employ the HILIC approach operated at the neutral condition, which led to the presence of more than 4700 features and the annotation of 151 metabolites, mainly zwitterionic and basic compounds, in comparison to reverse phase (RP)-based methods with less than 1000 features. In negative ionization mode, the PFP column operated at 0.02% acetic acid showed the best performance in terms of metabolite coverage: 3100 metabolic features were detected and 218 metabolites were annotated in zebrafish embryos. Metabolite profiles mainly contained acidic and zwitterionic compounds. HILIC-based platforms were complementary to RP columns when analyzing highly polar metabolites. Additionally, it was preferable to reconstitute zebrafish extracts in 100% water for analysis of metabolites on RP columns, with a 20\u201330% increase in the number of identified metabolites compared to a 50% water in methanol solution. However, water/methanol (1:9, v/v), as resuspension solution, was advantageous over water/methanol (1:1, v/v) for HILIC analysis showing an 8\u201315% increase in detected metabolites. In total 336 polar metabolites were annotated by the combination of the optimized HILIC (positive) and PFP (negative) approaches. The largest metabolome coverage of polar metabolites in zebrafish embryos was obtained when three approaches were combined (negative PFP and HILIC, and HILIC positive) resulting in more than 420 annotated compounds."
+ },
+ "https://doi.org/10.1186/s13321-021-00525-z": {
+  "month": "12",
+  "pub_date": "Dec 2021",
+  "year": 2021,
+  "early_online": "2 Jul 2021",
+  "title": "Nonadditivity in public and inhouse data: implications for drug design",
+  "contributors": "Gogishvili, D., Nittinger, E., Margreitter, C., Tyrchan, C.",
+  "corresponding": "Nittinger, E.",
+  "organisations": "Bio Informatics (IBIVU), AIMMS, Bioinformatics, AstraZeneca Sweden",
+  "journal": "Journal of Cheminformatics",
+  "description": "Nonadditivity in public and inhouse data: implications for drug designNumerous ligand-based drug discovery projects are based on structure-activity relationship (SAR) analysis, such as Free-Wilson (FW) or matched molecular pair (MMP) analysis. Intrinsically they assume linearity and additivity of substituent contributions. These techniques are challenged by nonadditivity (NA) in protein\u2013ligand binding where the change of two functional groups in one molecule results in much higher or lower activity than expected from the respective single changes. Identifying nonlinear cases and possible underlying explanations is crucial for a drug design project since it might influence which lead to follow. By systematically analyzing all AstraZeneca (AZ) inhouse compound data and publicly available ChEMBL25 bioactivity data, we show significant NA events in almost every second assay among the inhouse and once in every third assay in public data sets. Furthermore, 9.4% of all compounds of the AZ database and 5.1% from public sources display significant additivity shifts indicating important SAR features or fundamental measurement errors. Using NA data in combination with machine learning showed that nonadditive data is challenging to predict and even the addition of nonadditive data into training did not result in an increase in predictivity. Overall, NA analysis should be applied on a regular basis in many areas of computational chemistry and can further improve rational drug design."
+ },
+ "https://doi.org/10.1016/B978-0-12-819460-7.00601-0": {
+  "month": "8",
+  "pub_date": "2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Bioenergetics theory and components | Periplasmic electron-transport systems in bacteria",
+  "contributors": "Richardson, D. J., Sawers, G., Van Spanning, R. J.",
+  "corresponding": "Richardson, D. J.",
+  "organisations": "Systems Bioinformatics, AIMMS, University of East Anglia, John Innes Centre",
+  "journal": null,
+  "description": "Bioenergetics theory and components | Periplasmic electron-transport systems in bacteriaThe periplasmic compartment lies between the inner (cytoplasmic) and outer membranes of Gram-negative bacteria. It is frequently termed the \u2018periplasmic space\u2019, but this is a misnomer as the term \u2018space\u2019 suggests a void and the periplasmic compartment is far from that. In fact, it is a highly metabolically active compartment where many important respiratory electron-transfer proteins are located. In bacteria these periplasmic redox proteins result in a great respiratory diversity, as they can facilitate electron transfer between a range of electron donors (e.g., formate, hydrogen, reduced nitrogen species, and reduced sulfur species) and electron acceptors (e.g., nitrogen and sulfur oxyanions, dimethylsulfoxide, and trimethylamine N oxide). This underlies the success of bacteria in colonizing a wide range of the Earth\u05f3s oxic and anoxic environments and the important contribution of bacteria to critical biogeochemical element cycles, such as the nitrogen, sulfur, and carbon cycles."
  },
  "https://doi.org/10.31635/ccschem.020.202000473": {
   "month": "8",
@@ -1607,6 +1799,18 @@
   "journal": "Folia Microbiologica",
   "description": "Effects of DNA preservation solution and DNA extraction methods on microbial community profiling of soilMicrobial community profiling using high-throughput sequencing relies in part on the preservation of the DNA and the effectiveness of the DNA extraction method. This study aimed at understanding to what extent these parameters affect the profiling. We obtained samples treated with and without a preservation solution. Also, we compared DNA extraction kits from Qiagen and Zymo-Research. The types of samples were defined strains, both as single species and mixtures, as well as undefined indigenous microbial communities from soil. We show that the use of a preservation solution resulted in substantial changes in the 16S rRNA gene profiles either due to an overrepresentation of Gram-positive bacteria or to an underrepresentation of Gram-negative bacteria. In addition, 16S rRNA gene profiles were substantially different depending on the type of kit that was used for extraction. The kit from Zymo extracted DNA from different types of bacteria in roughly equal amounts. In contrast, the kit from Qiagen preferentially extracted DNA from Gram-negative bacteria while DNA from Gram-positive bacteria was extracted less effectively. These differences in kit performance strongly influenced the interpretation of our microbial ecology studies."
  },
+ "https://doi.org/10.1002/open.202100172": {
+  "month": "8",
+  "pub_date": "Aug 2021",
+  "year": 2021,
+  "early_online": "5 Aug 2021",
+  "title": "Switch From Pauli-Lowering to LUMO-Lowering Catalysis in Br\u00f8nsted Acid-Catalyzed Aza-Diels-Alder Reactions",
+  "contributors": "Yu, S., Bickelhaupt, F. M., Hamlin, T. A.",
+  "corresponding": "Bickelhaupt, F. M.",
+  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences",
+  "journal": "ChemistryOpen",
+  "description": "Switch From Pauli-Lowering to LUMO-Lowering Catalysis in Br\u00f8nsted Acid-Catalyzed Aza-Diels-Alder ReactionsBr\u00f8nsted acid-catalyzed inverse-electron demand (IED) aza-Diels-Alder reactions between 2-aza-dienes and ethylene were studied using quantum chemical calculations. The computed activation energy systematically decreases as the basic sites of the diene progressively become protonated. Our activation strain and Kohn-Sham molecular orbital analyses traced the origin of this enhanced reactivity to i) \u201cPauli-lowering catalysis\u201d for mono-protonated 2-aza-dienes due to the induction of an asynchronous, but still concerted, reaction pathway that reduces the Pauli repulsion between the reactants; and ii) \u201cLUMO-lowering catalysis\u201d for multi-protonated 2-aza-dienes due to their highly stabilized LUMO(s) and more concerted synchronous reaction path that facilitates more efficient orbital overlaps in IED interactions. In all, we illustrate how the novel concept of \u201cPauli-lowering catalysis\u201d can be overruled by the traditional concept of \u201cLUMO-lowering catalysis\u201d when the degree of LUMO stabilization is extreme as in the case of multi-protonated 2-aza-dienes."
+ },
  "https://doi.org/10.3390/genes12081221": {
   "month": "8",
   "pub_date": "Aug 2021",
@@ -1619,8 +1823,128 @@
   "journal": "Genes",
   "description": "Using functional annotations to study pairwise interactions in urinary tract infection communitiesThe behaviour of microbial communities depends on environmental factors and on the interactions of the community members. This is also the case for urinary tract infection (UTI) microbial communities. Here, we devise a computational approach that uses indices of complementarity and competition based on metabolic gene annotation to rapidly predict putative interactions between pair of organisms with the aim to explain pairwise growth effects. We apply our method to 66 genomes selected from online databases, which belong to 6 genera representing members of UTI communities. This resulted in a selection of metabolic pathways with high correlation for each pairwise combination between a complementarity index and the experimentally derived growth data. Our results indicated that Enteroccus spp. were most complemented in its metabolism by the other members of the UTI community. This suggests that the growth of Enteroccus spp. can potentially be enhanced by complementary metabolites produced by other community members. We tested a few putative predicted interactions by experimental supplementation of the relevant predicted metabolites. As predicted by our method, folic acid supplementation led to the increase in the population density of UTI Enterococcus isolates. Overall, we believe our method is a rapid initial in silico screening for the prediction of metabolic interactions in microbial communities."
  },
- "https://doi.org/10.1186/s13568-021-01273-x": {
+ "https://doi.org/10.4230/LIPIcs.ESA.2021.64": {
   "month": "8",
+  "pub_date": "31 Aug 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Bidirectional string anchors: A new string sampling mechanism",
+  "contributors": "Loukides, G., Pissis, S. P.",
+  "corresponding": "Loukides, G.",
+  "organisations": "Bioinformatics, AIMMS, Bio Informatics (IBIVU), King's College London",
+  "journal": null,
+  "description": "Bidirectional string anchors: A new string sampling mechanismThe minimizers sampling mechanism is a popular mechanism for string sampling introduced independently by Schleimer et al. [SIGMOD 2003] and by Roberts et al. [Bioinf. 2004]. Given two positive integers w and k, it selects the lexicographically smallest length-k substring in every fragment of w consecutive length-k substrings (in every sliding window of length w + k \u2212 1). Minimizers samples are approximately uniform, locally consistent, and computable in linear time. Although they do not have good worst-case guarantees on their size, they are often small in practice. They thus have been successfully employed in several string processing applications. Two main disadvantages of minimizers sampling mechanisms are: first, they also do not have good guarantees on the expected size of their samples for every combination of w and k; and, second, indexes that are constructed over their samples do not have good worst-case guarantees for on-line pattern searches. To alleviate these disadvantages, we introduce bidirectional string anchors (bd-anchors), a new string sampling mechanism. Given a positive integer \u2113, our mechanism selects the lexicographically smallest rotation in every length-\u2113 fragment (in every sliding window of length \u2113). We show that bd-anchors samples are also approximately uniform, locally consistent, and computable in linear time. In addition, our experiments using several datasets demonstrate that the bd-anchors sample sizes decrease proportionally to \u2113; and that these sizes are competitive to or smaller than the minimizers sample sizes using the analogous sampling parameters. We provide theoretical justification for these results by analyzing the expected size of bd-anchors samples. We also show that by using any bd-anchors sample, we can construct, in near-linear time, an index which requires linear (extra) space in the size of the sample and answers on-line pattern searches in near-optimal time. We further show, using several datasets, that a simple implementation of our index is consistently faster for on-line pattern searches than an analogous implementation of a minimizers-based index [Grabowski and Raniszewski, Softw. Pract. Exp. 2017]. Finally, we highlight the applicability of bd-anchors by developing an efficient and effective heuristic for top-K similarity search under edit distance. We show, using synthetic datasets, that our heuristic is more accurate and more than one order of magnitude faster in top-K similarity searches than the state-of-the-art tool for the same purpose [Zhang and Zhang, KDD 2020]."
+ },
+ "https://doi.org/10.4230/LIPIcs.ESA.2021.30": {
+  "month": "8",
+  "pub_date": "31 Aug 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Faster algorithms for longest common substring",
+  "contributors": "Charalampopoulos, P., Kociumaka, T., Pissis, S. P., Radoszewski, J.",
+  "corresponding": "Charalampopoulos, P.",
+  "organisations": "Bioinformatics, AIMMS, Bio Informatics (IBIVU), Interdisciplinary Center Herzliya, University of California at Berkeley, University of Warsaw, Samsung R&D Institute Poland",
+  "journal": null,
+  "description": "Faster algorithms for longest common substringIn the classic longest common substring (LCS) problem, we are given two strings S and T, each of length at most n, over an alphabet of size \u03c3, and we are asked to find a longest string occurring as a fragment of both S and T. Weiner, in his seminal paper that introduced the suffix tree, presented an O(nlog \u03c3)-time algorithm for this problem [SWAT 1973]. For polynomially-bounded integer alphabets, the linear-time construction of suffix trees by Farach yielded an O(n)-time algorithm for the LCS problem [FOCS 1997]. However, for small alphabets, this is not necessarily optimal for the LCS problem in the word RAM model of computation, in which the strings can be stored in O(nlog \u03c3/log n) space and read in O(nlog \u03c3/log n) time. We show that, in this model, we can compute an LCS in time O(nlog \u03c3/\u221alog n), which is sublinear in n if \u03c3 = 2o(\u221alog n) (in particular, if \u03c3 = O(1)), using optimal space O(nlog \u03c3/log n). We then lift our ideas to the problem of computing a k-mismatch LCS, which has received considerable attention in recent years. In this problem, the aim is to compute a longest substring of S that occurs in T with at most k mismatches. Flouri et al. showed how to compute a 1-mismatch LCS in O(nlog n) time [IPL 2015]. Thankachan et al. extended this result to computing a k-mismatch LCS in O(nlogk n) time for k = O(1) [J. Comput. Biol. 2016]. We show an O(nlogk\u22121/2 n)-time algorithm, for any constant integer k > 0 and irrespective of the alphabet size, using O(n) space as the previous approaches. We thus notably break through the well-known nlogk n barrier, which stems from a recursive heavy-path decomposition technique that was first introduced in the seminal paper of Cole et al. [STOC 2004] for string indexing with k errors."
+ },
+ "https://doi.org/10.1103/PhysRevResearch.3.033127": {
+  "month": "9",
+  "pub_date": "Sep 2021",
+  "year": 2021,
+  "early_online": "6 Aug 2021",
+  "title": "Orbital transformations to reduce the 1-norm of the electronic structure Hamiltonian for quantum computing applications",
+  "contributors": "Koridon, E., Yalouz, S., Senjean, B., Buda, F., Obrien, T. E., Visscher, L.",
+  "corresponding": "Senjean, B.",
+  "organisations": "Theoretical Chemistry, AIMMS, Leiden University, Alphabet Inc.",
+  "journal": "Physical Review Research",
+  "description": "Orbital transformations to reduce the 1-norm of the electronic structure Hamiltonian for quantum computing applicationsReducing the complexity of quantum algorithms to treat quantum chemistry problems is essential to demonstrate an eventual quantum advantage of noisy-intermediate scale quantum devices over their classical counterpart. Significant improvements have been made recently to simulate the time-evolution operator U(t)=ei\u0124t, where \u0124 is the electronic structure Hamiltonian, or to simulate \u0124 directly (when written as a linear combination of unitaries) by using block encoding or qubitization techniques. A fundamental measure quantifying the practical implementation complexity of these quantum algorithms is the so-called 1-norm of the qubit representation of the Hamiltonian, which can be reduced by writing the Hamiltonian in factorized or tensor-hypercontracted forms, for instance. In this paper, we investigate the effect of classical preoptimization of the electronic structure Hamiltonian representation, via single-particle basis transformation, on the 1-norm. Specifically, we employ several localization schemes and benchmark the 1-norm of several systems of different sizes (number of atoms and active space sizes). We also derive a formula for the 1-norm as a function of the electronic integrals and use this quantity as a cost function for an orbital-optimization scheme that improves over localization schemes. This paper gives more insights about the importance of the 1-norm in quantum computing for quantum chemistry and provides simple ways of decreasing its value to reduce the complexity of quantum algorithms."
+ },
+ "https://doi.org/10.1007/s00204-021-03125-w": {
+  "month": "9",
+  "pub_date": "Sep 2021",
+  "year": 2021,
+  "early_online": "7 Aug 2021",
+  "title": "The EU chemicals strategy for sustainability: in support of the Bf",
+  "contributors": "Barile, F. A., Berry, S. C., Blaauboer, B., Boobis, A., Bolt, H. M., Borgert, C., Dekant, W., Dietrich, D., Domingo, J. L., Galli, C. L., Gori, G. B., Greim, H., Hengstler, J. G., Heslop-Harrison, P., Kacew, S., Marquardt, H., Mally, A., Pelkonen, O., Savolainen, K., Testai, E., Tsatsakis, A., Vermeulen, N. P.",
+  "corresponding": "Greim, H.",
+  "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, St. John's University, Queen Mary University of London, Utrecht University, Imperial College London, Dortmund University, Inc, University of W\u00fcrzburg, University of Konstanz, Universidad Rovira i Virgili, University of Milan, The Health Policy Center, Technical University of Munich, University of Leicester, University of Ottawa, University of Hamburg, University of Oulu, Finnish Institute of Occupational Health, Istituto Superiore di Sanita, University of Crete",
+  "journal": "Archives of Toxicology",
+  "description": "The EU chemicals strategy for sustainability: in support of the BfR positionThe EU chemicals strategy for sustainability (CSS) asserts that both human health and the environment are presently threatened and that further regulation is necessary. In a recent Guest Editorial, members of the German competent authority for risk assessment, the BfR, raised concerns about the scientific justification for this strategy. The complexity and interdependence of the networks of regulation of chemical substances have ensured that public health and wellbeing in the EU have continuously improved. A continuous process of improvement in consumer protection is clearly desirable but any initiative directed towards this objective must be based on scientific knowledge. It must not confound risk with other factors in determining policy. This conclusion is fully supported in the present Commentary including the request to improve both, data collection and the time-consuming and bureaucratic procedures that delay the publication of regulations."
+ },
+ "https://doi.org/10.1039/d1cp03220h": {
+  "month": "9",
+  "pub_date": "7 Sep 2021",
+  "year": 2021,
+  "early_online": "11 Aug 2021",
+  "title": "Effects of ligands on (de-)enhancement of plasmonic excitations of silver, gold and bimetallic nanoclusters: TD-DFT+TB calculations",
+  "contributors": "Asadi-Aghbolaghi, N., Pototschnig, J., Jamshidi, Z., Visscher, L.",
+  "corresponding": "Visscher, L.",
+  "organisations": "Theoretical Chemistry, AIMMS",
+  "journal": "Physical Chemistry Chemical Physics",
+  "description": "Effects of ligands on (de-)enhancement of plasmonic excitations of silver, gold and bimetallic nanoclusters: TD-DFT+TB calculationsMetal nanoclusters can be synthesized in various sizes and shapes and are typically protected with ligands to stabilize them. These ligands can also be used to tune the plasmonic properties of the clusters as the absorption spectrum of a protected cluster can be significantly altered compared to the bare cluster. In this paper, we computationally investigate the influence of thiolate ligands on the plasmonic intensity for silver, gold and alloy clusters. Using time-dependent density functional theory with tight-binding approximations, TD-DFT+TB, we show that this level of theory can reproduce the broad experimental spectra of Au144(SR)60 and Ag53Au91(SR)60 (R = CH3) compounds with satisfactory agreement. As TD-DFT+TB does not depend on atom-type parameters we were able to apply this approach on large ligand-protected clusters with various compositions. With these calculations we predict that the effect of ligands on the absorption can be a quenching as well as an enhancement. We furthermore show that it is possible to unambiguously identify the plasmonic peaks by the scaled Coulomb kernel technique and explain the influence of ligands on the intensity (de-)enhancement by analyzing the plasmonic excitations in terms of the dominant orbital contributions."
+ },
+ "https://doi.org/10.1021/acs.jctc.1c00260": {
+  "month": "9",
+  "pub_date": "14 Sep 2021",
+  "year": 2021,
+  "early_online": "9 Aug 2021",
+  "title": "Implementation of Relativistic Coupled Cluster Theory for Massively Parallel GPU-Accelerated Computing Architectures",
+  "contributors": "Pototschnig, J. V., Papadopoulos, A., Lyakh, D. I., Repisky, M., Halbert, L., Severo Pereira Gomes, A., Jensen, H. J. A., Visscher, L.",
+  "corresponding": "Pototschnig, J. V.",
+  "organisations": "Theoretical Chemistry, AIMMS, Vrije Universiteit Amsterdam, Oak Ridge National Laboratory, UiT The Arctic University of Norway, Universite de Lille 2, University of Southern Denmark",
+  "journal": "Journal of chemical theory and computation",
+  "description": "Implementation of Relativistic Coupled Cluster Theory for Massively Parallel GPU-Accelerated Computing ArchitecturesIn this paper, we report reimplementation of the core algorithms of relativistic coupled cluster theory aimed at modern heterogeneous high-performance computational infrastructures. The code is designed for parallel execution on many compute nodes with optional GPU coprocessing, accomplished via the new ExaTENSOR back end. The resulting ExaCorr module is primarily intended for calculations of molecules with one or more heavy elements, as relativistic effects on the electronic structure are included from the outset. In the current work, we thereby focus on exact two-component methods and demonstrate the accuracy and performance of the software. The module can be used as a stand-alone program requiring a set of molecular orbital coefficients as the starting point, but it is also interfaced to the DIRAC program that can be used to generate these. We therefore also briefly discuss an improvement of the parallel computing aspects of the relativistic self-consistent field algorithm of the DIRAC program."
+ },
+ "https://doi.org/10.1016/j.comptc.2021.113392": {
+  "month": "10",
+  "pub_date": "Oct 2021",
+  "year": 2021,
+  "early_online": "5 Aug 2021",
+  "title": "SARS-Co",
+  "contributors": "Margiotta, E., Fonseca Guerra, C.",
+  "corresponding": "Margiotta, E.",
+  "organisations": "Theoretical Chemistry, AIMMS",
+  "journal": "COMPUTATIONAL AND THEORETICAL CHEMISTRY",
+  "description": "SARS-CoV spike proteins can compete for electrolytes in physiological fluids according to structure-based quantum-chemical calculationsThe trimeric spike (S) glycoprotein is the trojan horse and the stronghold of the severe acute respiratory syndrome coronaviruses. Although several structures of the S-protein have been solved, a complete understanding of all its functions is still lacking. Our multi-approach study, based on the combination of structural experimental data and quantum-chemical DFT calculations, led to identify a sequestration site for sodium, potassium and chloride ions within the central cavity of both the SARS-CoV-1 and SARS-CoV-2 spike proteins. The same region was found as strictly conserved, even among the sequences of the bat-respective coronaviruses. Due to the prominent role of the main three electrolytes at many levels, and their possible implication in the molecular mechanisms of COVID-19 disease, our study can take the lead in important discoveries related to the SARS-CoV-2 biology, as well as in the design of novel effective therapeutic strategies."
+ },
+ "https://doi.org/10.1016/j.tiv.2021.105229": {
+  "month": "10",
+  "pub_date": "Oct 2021",
+  "year": 2021,
+  "early_online": "3 Aug 2021",
+  "title": "Temporal transcriptomic alterations of cadmium exposed human i",
+  "contributors": "Singh, P., Chandrasekaran, V., Hardy, B., Wilmes, A., Jennings, P., Exner, T. E.",
+  "corresponding": "Jennings, P.",
+  "organisations": "Molecular and Computational Toxicology, AIMMS, Edelweiss Connect GmbH, University of Basel, Seven Past Nine d.o.o.",
+  "journal": "Toxicology in Vitro",
+  "description": "Temporal transcriptomic alterations of cadmium exposed human iPSC-derived renal proximal tubule-like cellsCadmium is a well-studied environmental pollutant where the kidney and particularly the proximal tubule cells are especially sensitive as they are exposed to higher concentrations of cadmium than other tissues. Here we investigated the temporal transcriptomic alterations (TempO-Seq) of human induced pluripotent stem cell (iPSC)-derived renal proximal tubule-like (PTL) cells exposed to 5 \u03bcM cadmium chloride for 1, 2, 4, 8, 12, 16, 20, 24, 72 and 168 h. There was an early activation (within 4 h) of the metal and oxidative stress responses (metal-responsive transcription factor-1 (MTF1) and nuclear factor erythroid-2-related factor 2 (Nrf2) genes). The Nrf2 response returned to baseline within 24 h. The Activator Protein 1 (AP-1) regulated genes HSPA6 and FOSL-1 followed the Nrf2 time course. While the MTF1 genes also spiked at 4 h, they remained strongly elevated over the entire exposure period. The data and cell culture model utilised will be useful in further research aimed at the refinement of safe human exposure limits for cadmium, other metals and their mixtures."
+ },
+ "https://doi.org/10.1039/d1cb00134e": {
+  "month": "10",
+  "pub_date": "1 Oct 2021",
+  "year": 2021,
+  "early_online": "19 Aug 2021",
+  "title": "Macrocyclic peptides as allosteric inhibitors of nicotinamide: N-methyltransferase (NNMT)Nicotinamide N-methyltransferase (NNMT) methylates nicotinamide to form 1-methylnicotinamide (MNA) using S-Adenosyl-l-methionine (SAM) as the methyl donor. The complexity of the role of NNMT in healthy and disease states is slowly being elucidated and provides an indication that NNMT may be an interesting therapeutic target for a variety of diseases including cancer, diabetes, and obesity. Most inhibitors of NNMT described to date are structurally related to one or both of its substrates. In the search for structurally diverse NNMT inhibitors, an m",
+  "contributors": "Van Haren, M. J., Zhang, Y., Thijssen, V., Buijs, N., Gao, Y., Mateuszuk, L., Fedak, F. A., Kij, A., Campagna, R., Sartini, D., Emanuelli, M., Chlopicki, S., Jongkees, S. A., Martin, N. I.",
+  "corresponding": "Martin, N. I.",
+  "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, Leiden University, Utrecht University, Jagiellonian University in Krak\u00f3w, Marche Polytechnic University",
+  "journal": "RSC Chemical Biology",
+  "description": "Macrocyclic peptides as allosteric inhibitors of nicotinamide: N-methyltransferase (NNMT)Nicotinamide N-methyltransferase (NNMT) methylates nicotinamide to form 1-methylnicotinamide (MNA) using S-Adenosyl-l-methionine (SAM) as the methyl donor. The complexity of the role of NNMT in healthy and disease states is slowly being elucidated and provides an indication that NNMT may be an interesting therapeutic target for a variety of diseases including cancer, diabetes, and obesity. Most inhibitors of NNMT described to date are structurally related to one or both of its substrates. In the search for structurally diverse NNMT inhibitors, an mRNA display screening technique was used to identify macrocyclic peptides which bind to NNMT. Several of the cyclic peptides identified in this manner show potent inhibition of NNMT with IC50 values as low as 229 nM. The peptides were also found to downregulate MNA production in cellular assays. Interestingly, substrate competition experiments reveal that these cyclic peptide inhibitors are noncompetitive with either SAM or NA indicating they may be the first allosteric inhibitors reported for NNMT."
+ },
+ "https://doi.org/10.1002/chem.202101921": {
+  "month": "10",
+  "pub_date": "7 Oct 2021",
+  "year": 2021,
+  "early_online": "17 Aug 2021",
+  "title": "Atypical and Asymmetric 1,3-P,N Ligands: Synthesis, Coordination and Catalytic Performance of Cycloiminophosphanes",
+  "contributors": "Rong, M. K., Holtrop, F., Bobylev, E. O., Nieger, M., Ehlers, A. W., Slootweg, J. C., Lammertsma, K.",
+  "corresponding": "Lammertsma, K.",
+  "organisations": "Organic Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, Theoretical Chemistry, Vrije Universiteit Amsterdam, University of Helsinki",
+  "journal": "Chemistry - A European Journal",
+  "description": "Atypical and Asymmetric 1,3-P,N Ligands: Synthesis, Coordination and Catalytic Performance of CycloiminophosphanesNovel seven-membered cyclic imine-based 1,3-P,N ligands were obtained by capturing a Beckmann nitrilium ion intermediate generated in situ from cyclohexanone with benzotriazole, and then displacing it by a secondary phosphane under triflic acid promotion. These \u201ccycloiminophosphanes\u201d possess flexible non-isomerizable tetrahydroazepine rings with a high basicity; this sets them apart from previously reported iminophophanes. The donor strength of the ligands was investigated by using their P-\u03ba1- and P,N-\u03ba2-tungsten(0) carbonyl complexes, by determining the IR frequency of the trans-CO ligands. Complexes with [RhCp*Cl2]2 demonstrated the hemilability of the ligands, giving a dynamic equilibrium of \u03ba1 and \u03ba2 species; treatment with AgOTf gives full conversion to the \u03ba2 complex. The potential for catalysis was shown in the RuII-catalyzed, solvent-free hydration of benzonitrile and the RuII- and IrI-catalyzed transfer hydrogenation of cyclohexanone in isopropanol. Finally, to enable access to asymmetric catalysts, chiral cycloiminophosphanes were prepared from l-menthone, as well as their P,N-\u03ba2-RhIII and a P-\u03ba1-RuII complexes."
+ },
+ "https://doi.org/10.1186/s13568-021-01273-x": {
+  "month": "12",
   "pub_date": "Dec 2021",
   "year": 2021,
   "early_online": "9 Aug 2021",
@@ -1632,7 +1956,7 @@
   "description": "Imaging and modelling of poly(3-hydroxybutyrate) synthesis in Paracoccus denitrificansPoly(3-hydroxybutyrate) (PHB) granule formation in Paracoccus denitrificans Pd1222 was investigated by laser scanning confocal microscopy (LSCM) and gas chromatography analysis. Cells that had been starved for 2days were free of PHB granules but resynthesized them within 30min of growth in fresh medium with succinate. In most cases, the granules were distributed randomly, although in some cases they appeared in a more organized pattern. The rates of growth and PHB accumulation were analyzed within the frame of a Genome-Scale Metabolic Model (GSMM) containing 781 metabolic genes, 1403 reactions and 1503 metabolites. The model was used to obtain quantitative predictions of biomass yields and PHB synthesis during aerobic growth on succinate as sole carbon and energy sources. The results revealed an initial fast stage of PHB accumulation, during which all of the acetyl-CoA originating from succinate was diverted to PHB production. The next stage was characterized by a tenfold lower PHB production rate and the simultaneous onset of exponential growth, during which acetyl-CoA was predominantly drained into the TCA cycle. Previous research has shown that PHB accumulation correlates with cytosolic acetyl-CoA concentration. It has also been shown that PHB accumulation is not transcriptionally regulated. Our results are consistent with the mentioned findings and suggest that, in absence of cell growth, most of the cellular acetyl-CoA is channeled to PHB synthesis, while during exponential growth, it is drained to the TCA cycle, causing a reduction of the cytosolic acetyl-CoA pool and a concomitant decrease of the synthesis of acetoacetyl-CoA (the precursor of PHB synthesis)."
  },
  "https://doi.org/10.1038/s41597-021-01002-w": {
-  "month": "8",
+  "month": "12",
   "pub_date": "Dec 2021",
   "year": 2021,
   "early_online": "24 Aug 2021",
@@ -1642,6 +1966,54 @@
   "organisations": "E&H: Environmental Chemistry and Toxicology, AIMMS, University of Queensland, University of Amsterdam, Norwegian Institute for Water Research, Jaume I University, University of the Basque Country, Aarhus University, Irstea, Masaryk University, National and Kapodistrian University of Athens, Vitens N.V., \u00d6rebro University, Eurolab Srl, Universite Claude Bernard Lyon 1, University of South Bohemia, University of Girona, Swiss Federal Institute of Aquatic Science and Technology, Universit\u00e9 Paris-Est Cr\u00e9teil, Flemish Institute for Technological Research, University of Natural Resources and Life Sciences, Vienna, National Research Council of Italy, Swedish University of Agricultural Sciences, Centre for Water Management of Rijkswaterstaat, Bureau de recherches g\u00e9ologiques et mini\u00e8res, Colorado State University",
   "journal": "Scientific Data",
   "description": "Inter-laboratory mass spectrometry dataset based on passive sampling of drinking water for non-target analysisNon-target analysis (NTA) employing high-resolution mass spectrometry is a commonly applied approach for the detection of novel chemicals of emerging concern in complex environmental samples. NTA typically results in large and information-rich datasets that require computer aided (ideally automated) strategies for their processing and interpretation. Such strategies do however raise the challenge of reproducibility between and within different processing workflows. An effective strategy to mitigate such problems is the implementation of inter-laboratory studies (ILS) with the aim to evaluate different workflows and agree on harmonized/standardized quality control procedures. Here we present the data generated during such an ILS. This study was organized through the Norman Network and included 21 participants from 11 countries. A set of samples based on the passive sampling of drinking water pre and post treatment was shipped to all the participating laboratories for analysis, using one pre-defined method and one locally (i.e. in-house) developed method. The data generated represents a valuable resource (i.e. benchmark) for future developments of algorithms and workflows for NTA experiments."
+ },
+ "https://doi.org/10.1007/978-3-030-86593-1_11": {
+  "month": "9",
+  "pub_date": "2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Beyond the BEST Theorem: Fast Assessment of Eulerian Trails",
+  "contributors": "Conte, A., Grossi, R., Loukides, G., Pisanti, N., Pissis, S. P., Punzi, G.",
+  "corresponding": "Punzi, G.",
+  "organisations": "Bioinformatics, AIMMS, Bio Informatics (IBIVU), University of Pisa, ERABLE Team, King's College London",
+  "journal": null,
+  "description": "Beyond the BEST Theorem: Fast Assessment of Eulerian TrailsGiven a directed multigraph G= (V, E), with | V| = n nodes and | E| = m edges, and an integer z, we are asked to assess whether the number # ET(G) of node-distinct Eulerian trails of G is at least z; two trails are called node-distinct if their node sequences are different. This problem has been formalized by Bernardini et al.[ALENEX 2020] as it is the core computational problem in several string processing applications. It can be solved in O(n\u03c9) arithmetic operations by applying the well-known BEST theorem, where \u03c9&lt; 2.373 denotes the matrix multiplication exponent. The algorithmic challenge is: Can we solve this problem faster for certain values of m and z? Namely, we want to design a combinatorial algorithm for assessing whether # ET(G) \u2265 z, which does not resort to the BEST theorem and has a predictably bounded cost as a function of m and z. We address this challenge here by providing a combinatorial algorithm requiring O(m\u00b7 min { z, # ET(G) }) time."
+ },
+ "https://doi.org/10.3389/fpls.2021.697324": {
+  "month": "9",
+  "pub_date": "Sep 2021",
+  "year": 2021,
+  "early_online": "13 Sep 2021",
+  "title": "Ion Homeostasis and Metabolome Analysis of Arabidopsis 14-3-3 Quadruple Mutants to Salt Stress",
+  "contributors": "Gao, J., van Kleeff, P. J., de Boer, M. H., Erban, A., Kopka, J., Hincha, D. K., de Boer, A. H.",
+  "corresponding": "de Boer, A. H.",
+  "organisations": "Structural Biology, Medicinal chemistry, AIMMS, Vrije Universiteit Amsterdam, Max Planck Institute of Molecular Plant Physiology",
+  "journal": "Frontiers in Plant Science",
+  "description": "Ion Homeostasis and Metabolome Analysis of Arabidopsis 14-3-3 Quadruple Mutants to Salt StressSalinity is one of the major abiotic stresses that limits agricultural productivity worldwide. Many proteins with defined functions in salt stress adaptation are controlled through interactions with members of the 14-3-3 family. In the present study, we generated three 14-3-3 quadruple knockout mutants (qKOs: klpc, klun, and unpc) to study the role of six non-epsilon group 14-3-3 proteins for salt stress adaptation. The relative growth inhibition under 100 mM of NaCl stress was the same for wild-type (Wt) and qKOs, but the accumulation of Na+ in the shoots of klpc was significantly lower than that in Wt. This difference correlated with the higher expression of the HKT1 gene in klpc. Considering the regulatory role of 14-3-3 proteins in metabolism and the effect of salt stress on metabolite accumulation, we analyzed the effect of a 24-h salt treatment on the root metabolome of nutrient solution-grown genotypes. The results indicated that the klpc mutant had metabolome responses that were different from those of Wt. Notably, the reducing sugars, glucose and fructose, were lower in klpc under control and salt stress. On the other hand, their phosphorylated forms, glucose-6P and fructose-6P, were lower under salt stress as compared to Wt. This study provided insight into the functions of the 14-3-3 proteins from non-epsilon group members. In summary, it was found that these proteins control ion homeostasis and metabolite composition under salt stress conditions and non-stressed conditions. The analyses of single, double, and triple mutants that modify subsets from the most effective qKO mutant (klpc) may also reveal the potential redundancy for the observed phenotypes."
+ },
+ "https://doi.org/10.3389/fchem.2021.736591": {
+  "month": "9",
+  "pub_date": "Sep 2021",
+  "year": 2021,
+  "early_online": "3 Sep 2021",
+  "title": "Low-Order Scaling Quasiparticle Self-Consistent GW for Molecules",
+  "contributors": "F\u00f6rster, A., Visscher, L.",
+  "corresponding": "F\u00f6rster, A.",
+  "organisations": "Theoretical Chemistry, AIMMS",
+  "journal": "Frontiers in Chemistry",
+  "description": "Low-Order Scaling Quasiparticle Self-Consistent GW for MoleculesLow-order scaling GW implementations for molecules are usually restricted to approximations with diagonal self-energy. Here, we present an all-electron implementation of quasiparticle self-consistent GW for molecular systems. We use an efficient algorithm for the evaluation of the self-energy in imaginary time, from which a static non-local exchange-correlation potential is calculated via analytical continuation. By using a direct inversion of iterative subspace method, fast and stable convergence is achieved for almost all molecules in the GW100 database. Exceptions are systems which are associated with a breakdown of the single quasiparticle picture in the valence region. The implementation is proven to be starting point independent and good agreement of QP energies with other codes is observed. We demonstrate the computational efficiency of the new implementation by calculating the quasiparticle spectrum of a DNA oligomer with 1,220 electrons using a basis of 6,300 atomic orbitals in less than 4days on a single compute node with 16 cores. We use then our implementation to study the dependence of quasiparticle energies of DNA oligomers consisting of adenine-thymine pairs on the oligomer size. The first ionization potential in vacuum decreases by nearly 1 electron volt and the electron affinity increases by 0.4eV going from the smallest to the largest considered oligomer. This shows that the DNA environment stabilizes the hole/electron resulting from photoexcitation/photoattachment. Upon inclusion of the aqueous environment via a polarizable continuum model, the differences between the ionization potentials reduce to 130meV, demonstrating that the solvent effectively compensates for the stabilizing effect of the DNA environment. The electron affinities of the different oligomers are almost identical in the aqueous environment."
+ },
+ "https://doi.org/10.1103/PhysRevA.104.032210": {
+  "month": "9",
+  "pub_date": "Sep 2021",
+  "year": 2021,
+  "early_online": "10 Sep 2021",
+  "title": "Noninterfering and simultaneous Stern-Gerlach and Heisenberg microscope experiments to measure the full electron coordinate in an entangled state",
+  "contributors": "Gritsenko, O. V.",
+  "corresponding": "Gritsenko, O. V.",
+  "organisations": "Theoretical Chemistry, AIMMS",
+  "journal": "Physical Review A",
+  "description": "Noninterfering and simultaneous Stern-Gerlach and Heisenberg microscope experiments to measure the full electron coordinate in an entangled stateIn two celebrated experiments of quantum mechanics, the Stern-Gerlach (SG) and Heisenberg microscope (HM) experiments, the electron spin sz and spatial r coordinates are measured separately. In this paper, the combined SG+HM experiment is proposed to measure the full electron coordinate x={r,sz}. To this end, noninterfering and (virtually) simultaneous SG and HM experiments are proposed to apply to the individual fragments A and B of an entangled dissociating system A-B. The theoretical description of a spin-collapsed and partially spatially collapsed state of the SG+HM experiment is given for the prototype \"perfectly\"entangled system, the dissociating H2 molecule. "
  },
  "https://doi.org/10.1007/s00204-021-03127-810.1007/s00204-021-03127-8": {
   "month": "9",
@@ -1655,8 +2027,92 @@
   "journal": "Archives of Toxicology",
   "description": "Fluorescent tagging of endogenous Heme oxygenase-1 in human induced pluripotent stem cells for high content imaging of oxidative stress in various differentiated lineagesTagging of endogenous stress response genes can provide valuable in vitro models for chemical safety assessment. Here, we present the generation and application of a fluorescent human induced pluripotent stem cell (hiPSC) reporter line for Heme oxygenase-1 (HMOX1), which is considered a sensitive and reliable biomarker for the oxidative stress response. CRISPR/Cas9 technology was used to insert an enhanced green fluorescent protein (eGFP) at the C-terminal end of the endogenous HMOX1 gene. Individual clones were selected and extensively characterized to confirm precise editing and retained stem cell properties. Bardoxolone-methyl (CDDO-Me) induced oxidative stress caused similarly increased expression of both the wild-type and eGFP-tagged HMOX1 at the mRNA and protein level. Fluorescently tagged hiPSC-derived proximal tubule-like, hepatocyte-like, cardiomyocyte-like and neuron-like progenies were treated with CDDO-Me (5.62-1000 nM) or diethyl maleate (5.62-1000 \u00b5M) for 24 h and 72 h. Multi-lineage oxidative stress responses were assessed through transcriptomics analysis, and HMOX1-eGFP reporter expression was carefully monitored using live-cell confocal imaging. We found that eGFP intensity increased in a dose-dependent manner with dynamics varying amongst lineages and stressors. Point of departure modelling further captured the specific lineage sensitivities towards oxidative stress. We anticipate that the newly developed HMOX1 hiPSC reporter will become a valuable tool in understanding and quantifying critical target organ cell-specific oxidative stress responses induced by (newly developed) chemical entities."
  },
- "https://doi.org/10.1038/s41467-021-25814-x": {
+ "https://doi.org/10.1039/d1cp02456f": {
   "month": "9",
+  "pub_date": "28 Sep 2021",
+  "year": 2021,
+  "early_online": "3 Sep 2021",
+  "title": "Origin of asynchronicity in Diels-Alder reactions",
+  "contributors": "Vermeeren, P., Hamlin, T. A., Bickelhaupt, F. M.",
+  "corresponding": "Vermeeren, P.",
+  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences",
+  "journal": "Physical Chemistry Chemical Physics",
+  "description": "Origin of asynchronicity in Diels-Alder reactionsAsynchronicity in Diels-Alder reactions plays a crucial role in determining the height of the reaction barrier. Currently, the origin of asynchronicity is ascribed to the stronger orbital interaction between the diene and the terminal carbon of an asymmetric dienophile, which shortens the corresponding newly formed C-C bond and hence induces asynchronicity in the reaction. Here, we show, using the activation strain model and Kohn-Sham molecular orbital theory at ZORA-BP86/TZ2P, that this rationale behind asynchronicity is incorrect. We, in fact, found that following a more asynchronous reaction mode costs favorable HOMO-LUMO orbital overlap and, therefore, weakens (not strengthens) these orbital interactions. Instead, it is the Pauli repulsion that induces asynchronicity in Diels-Alder reactions. An asynchronous reaction pathway also lowers repulsive occupied-occupied orbital overlap which, therefore, reduces the unfavorable Pauli repulsion. As soon as this mechanism of reducing Pauli repulsion dominates, the reaction begins to deviate from synchronicity and adopts an asynchronous mode. The eventual degree of asynchronicity, as observed in the transition state of a Diels-Alder reaction, is ultimately achieved when the gain in stability, as a response to the reduced Pauli repulsion, balances with the loss of favorable orbital interactions."
+ },
+ "https://doi.org/10.3390/ijms221910598": {
+  "month": "10",
+  "pub_date": "1 Oct 2021",
+  "year": 2021,
+  "early_online": "30 Sep 2021",
+  "title": "A method to monitor the NAD+ metabolome\u2014from mechanistic to clinical applications",
+  "contributors": "Giner, M. P., Christen, S., Bartova, S., Makarov, M. V., Migaud, M. E., Canto, C., Moco, S.",
+  "corresponding": "Moco, S.",
+  "organisations": "Molecular and Computational Toxicology, AIMMS, Nestle, University of South Alabama, Olon Ricerca Bioscience",
+  "journal": "International Journal of Molecular Sciences",
+  "description": "A method to monitor the NAD+ metabolome\u2014from mechanistic to clinical applicationsNicotinamide adenine dinucleotide (NAD+) and its reduced form (NADH) are coenzymes employed in hundreds of metabolic reactions. NAD+ also serves as a substrate for enzymes such as sirtuins, poly(ADP\u2010ribose) polymerases (PARPs) and ADP\u2010ribosyl cyclases. Given the pivotal role of NAD(H) in health and disease, studying NAD+ metabolism has become essential to monitor ge-netic\u2010 and/or drug\u2010induced perturbations related to metabolic status and diseases (such as ageing, cancer or obesity), and its possible therapies. Here, we present a strategy based on liquid chroma-tography\u2010tandem mass spectrometry (LC\u2010MS/MS), for the analysis of the NAD+ metabolome in biological samples. In this method, hydrophilic interaction chromatography (HILIC) was used to sep-arate a total of 18 metabolites belonging to pathways leading to NAD+ biosynthesis, including pre-cursors, intermediates and catabolites. As redox cofactors are known for their instability, a sample preparation procedure was developed to handle a variety of biological matrices: cell models, rodent tissues and biofluids, as well as human biofluids (urine, plasma, serum, whole blood). For clinical applications, quantitative LC\u2010MS/MS for a subset of metabolites was demonstrated for the analysis of the human whole blood of nine volunteers. Using this developed workflow, our methodology allows studying NAD+ biology from mechanistic to clinical applications."
+ },
+ "https://doi.org/10.1021/acs.orglett.1c02795": {
+  "month": "10",
+  "pub_date": "1 Oct 2021",
+  "year": 2021,
+  "early_online": "20 Sep 2021",
+  "title": "Synthesis of Carbazoles and Dihydrocarbazoles by a Divergent Cascade Reaction of Donor-Acceptor Cyclopropanes",
+  "contributors": "Faltracco, M., Damian, M., Ruijter, E.",
+  "corresponding": "Ruijter, E.",
+  "organisations": "Organic Chemistry, AIMMS, Vrije Universiteit Amsterdam, University of Genoa",
+  "journal": "Organic letters",
+  "description": "Synthesis of Carbazoles and Dihydrocarbazoles by a Divergent Cascade Reaction of Donor-Acceptor CyclopropanesAn alkylation/olefination cascade of indolecarboxaldehydes and phosphonate-functionalized donor-acceptor cyclopropanes affords functionalized dihydrocarbazoles and cyclohepta[cd]indoles in formal (3 + 3) and (4 + 3) cycloadditions. A minor modification to the reaction conditions also allows access to the fully aromatic heterocyclic scaffolds by thermal loss of an electron-rich aryl moiety. "
+ },
+ "https://doi.org/10.1039/d1cp02502c": {
+  "month": "10",
+  "pub_date": "7 Oct 2021",
+  "year": 2021,
+  "early_online": "1 Sep 2021",
+  "title": "Dipolar repulsion in \u03b1-halocarbonyl compounds revisited",
+  "contributors": "Rodrigues Silva, D., De Azevedo Santos, L., Hamlin, T. A., Bickelhaupt, F. M., P. Freitas, M., Fonseca Guerra, C.",
+  "corresponding": "Bickelhaupt, F. M.",
+  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, Universidade Federal de Lavras",
+  "journal": "Physical Chemistry Chemical Physics",
+  "description": "Dipolar repulsion in \u03b1-halocarbonyl compounds revisitedThe concept of dipolar repulsion has been widely used to explain several phenomena in organic chemistry, including the conformational preferences of carbonyl compounds. This model, in which atoms and bonds are viewed as point charges and dipole moment vectors, respectively, is however oversimplified. To provide a causal model rooted in quantitative molecular orbital theory, we have analyzed the rotational isomerism of haloacetaldehydes OHC-CH2X (X = F, Cl, Br, I), using relativistic density functional theory. We have found that the overall trend in the rotational energy profiles is set by the combined effects of Pauli repulsion (introducing a barrier around gauche that separates minima at syn and anti), orbital interactions (which can pull the anti minimum towards anticlinal to maximize hyperconjugation), and electrostatic interactions. Only for X = F, not for X = Cl-I, electrostatic interactions push the preference from syn to anti. Our bonding analyses show how this trend is related to the compact nature of F versus the more diffuse nature of the heavier halogens."
+ },
+ "https://doi.org/10.1002/ejoc.202101107": {
+  "month": "10",
+  "pub_date": "7 Oct 2021",
+  "year": 2021,
+  "early_online": "12 Sep 2021",
+  "title": "How Lewis Acids Catalyze Ene Reactions",
+  "contributors": "Tiekink, E. H., Vermeeren, P., Bickelhaupt, F. M., Hamlin, T. A.",
+  "corresponding": "Vermeeren, P.",
+  "organisations": "AIMMS, Theoretical Chemistry, Chemistry and Pharmaceutical Sciences",
+  "journal": "European Journal of Organic Chemistry",
+  "description": "How Lewis Acids Catalyze Ene ReactionsThe catalytic effect of various Lewis acids (LAs) on the ene reaction between propene (ene) and but-3-en-2-one (enophile) was studied quantum chemically using density functional theory and with coupled-cluster theory. The studied LAs efficiently accelerate the ene reaction by lowering the reaction barrier up to 12 kcal mol\u22121 compared to the uncatalyzed reaction. Our detailed activation strain and Kohn-Sham molecular orbital analyses reveal that coordination of a LA catalyst to the enophile decreases the reaction barrier of the ene reaction by inducing an asymmetry in the \u03c0-electronic system, which increases the asynchronicity and hence relieves the otherwise highly destabilizing activation strain and Pauli repulsion between the closed-shell filled \u03c0-orbitals of the ene and enophile. In all, these findings further demonstrate the generality of the Pauli-lowering catalysis concept."
+ },
+ "https://doi.org/10.1039/d1cp03237b": {
+  "month": "10",
+  "pub_date": "7 Oct 2021",
+  "year": 2021,
+  "early_online": "15 Sep 2021",
+  "title": "Probing the formation of isolated cyclo-FF peptide clusters by far-infrared action spectroscopy",
+  "contributors": "Bakels, S., Stroganova, I., Rijs, A. M.",
+  "corresponding": "Rijs, A. M.",
+  "organisations": "BioAnalytical Chemistry, AIMMS",
+  "journal": "Physical Chemistry Chemical Physics",
+  "description": "Probing the formation of isolated cyclo-FF peptide clusters by far-infrared action spectroscopySmall cyclic peptides containing phenylalanine residues are prone to aggregate in the gas phase into highly hydrophobic chains. A combination of laser desorption, mass spectrometry and conformational selective IR-UV action spectroscopy allows us to obtain detailed structural insights into the formation processes of the cyclic l-phenylalanyl-l-phenylalanine dipeptide (named cyclo-FF) aggregates. The rigid properties of cyclo-FF result in highly resolved IR spectra for the smaller clusters (n \u2264 3) and corresponding conformational assignments. For the higher order clusters (n > 3) the spectra are less resolved, however the observed ratios, peak positions and trends in IR shifts are key to make predictions on their structural details. Whereas the mid-IR spectral region between 1000-1800 cm-1 turns out to be undiagnostic for these small aggregates and the 3 \u03bcm region only for specific calculated structures, the far-IR contains valuable information that allows for clear assignments. "
+ },
+ "https://doi.org/10.1007/s00374-021-01599-5": {
+  "month": "11",
+  "pub_date": "Nov 2021",
+  "year": 2021,
+  "early_online": "25 Sep 2021",
+  "title": "Steering microbiomes by organic amendments towards climate-smart agricultural soils",
+  "contributors": "Brenzinger, K., Costa, O. Y., Ho, A., Koorneef, G., Robroek, B., Molenaar, D., Korthals, G., Bodelier, P. L.",
+  "corresponding": "Brenzinger, K.",
+  "organisations": "Systems Bioinformatics, AIMMS, Royal Netherlands Academy of Arts and Sciences, University of W\u00fcrzburg, Leibniz University Hannover, Wageningen University & Research, Radboud University Nijmegen",
+  "journal": "Biology and Fertility of Soils",
+  "description": "Steering microbiomes by organic amendments towards climate-smart agricultural soilsWe steered the soil microbiome via applications of organic residues (mix of cover crop residues, sewage sludge + compost, and digestate + compost) to enhance multiple ecosystem services in line with climate-smart agriculture. Our result highlights the potential to reduce greenhouse gases (GHG) emissions from agricultural soils by the application of specific organic amendments (especially digestate + compost). Unexpectedly, also the addition of mineral fertilizer in our mesocosms led to similar combined GHG emissions than one of the specific organic amendments. However, the application of organic amendments has the potential to increase soil C, which is not the case when using mineral fertilizer. While GHG emissions from cover crop residues were significantly higher compared to mineral fertilizer and the other organic amendments, crop growth was promoted. Furthermore, all organic amendments induced a shift in the diversity and abundances of key microbial groups. We show that organic amendments have the potential to not only lower GHG emissions by modifying the microbial community abundance and composition, but also favour crop growth-promoting microorganisms. This modulation of the microbial community by organic amendments bears the potential to turn soils into more climate-smart soils in comparison to the more conventional use of mineral fertilizers."
+ },
+ "https://doi.org/10.1038/s41467-021-25814-x": {
+  "month": "12",
   "pub_date": "Dec 2021",
   "year": 2021,
   "early_online": "17 Sep 2021",
@@ -1668,7 +2124,7 @@
   "description": "A method for intuitively extracting macromolecular dynamics from structural disorderMacromolecular dynamics manifest as disorder in structure determination, which is subsequently accounted for by displacement parameters (also called temperature factors, or B-factors) or alternate conformations. Though B-factors contain detailed information about structural dynamics, they are the total of multiple sources of disorder, making them difficult to interpret and thus little-used in structural analysis. We report here an analytical approach for decomposing molecular disorder into a parsimonious hierarchical series of contributions, providing an intuitive basis for quantitative structural-dynamics analysis. We demonstrate the decomposition of disorder on example SARS-CoV-2 and STEAP4 structures, from both crystallographic and cryo-electron microscopy data, and reveal how understanding of the macromolecular disorder leads to deeper understanding of molecular motions and flexibility, and suggests hypotheses for molecular mechanisms."
  },
  "https://doi.org/10.1016/j.nantod.2021.101296": {
-  "month": "9",
+  "month": "12",
   "pub_date": "Dec 2021",
   "year": 2021,
   "early_online": "23 Sep 2021",
@@ -1702,5 +2158,161 @@
   "organisations": "Complex Trait Genetics, Amsterdam Neuroscience - Complex Trait Genetics, Molecular and Cellular Neurobiology, AIMMS, Amsterdam Neuroscience - Cellular & Molecular Mechanisms, Amsterdam Neuroscience - Neurodegeneration, Center for Neurogenomics and Cognitive Research",
   "journal": "Stem Cell Research",
   "description": "Systematic assessment of variability in the proteome of iPSC derivativesThe use of induced pluripotent stem cells (iPSC) to model human complex diseases is gaining popularity as it allows investigation of human cells that are otherwise sparsely available. However, due to its laborious and cost intensive nature, iPSC research is often plagued by limited sample size and putative large variability between clones, decreasing statistical power for detecting experimental effects. Here, we investigate the source and magnitude of variability in the proteome of parallel differentiated astrocytes using mass spectrometry. We compare three possible sources of variability: inter-donor variability, inter- and intra-clonal variability, at different stages of maturation. We show that the interclonal variability is significantly smaller than the inter-donor variability, and that including more donors has a much larger influence on statistical power than adding more clones per donor. Our results provide insight into the sources of variability at protein level between iPSC samples derived in parallel and will aid in optimizing iPSC studies."
+ },
+ "https://doi.org/10.3390/ijerph182010654": {
+  "month": "10",
+  "pub_date": "2 Oct 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Project earthrise: Proceedings of the ninth annual conference of in",
+  "contributors": "Prescott, S. L., Wegienka, G., Kort, R., Nelson, D. H., Gabrysch, S., Hancock, T., Kozyrskyj, A., Lowry, C. A., Redvers, N., Poland, B., Robinson, J., Moubarac, J. C., Warber, S., Jansson, J., Sinkkonen, A., Penders, J., Erdman, S., Nanan, R., Van Den Bosch, M., Schneider, K., Schroeck, N. J., Sobko, T., Harvie, J., Kaplan, G. A., Moodie, R., Lengnick, L., Prilleltensky, I., Celidwen, Y., Berman, S. H., Logan, A. C., Berman, B.",
+  "corresponding": "Prescott, S. L.",
+  "organisations": "Molecular Cell Physiology, AIMMS, Places and Planet, University of Western Australia, Telethon Kids Institute, University of Maryland, Baltimore, Henry Ford Health System, Independent Researcher, Heidelberg University, Member of the Leibniz Association, Charit\u00e9 \u2013 Universit\u00e4tsmedizin Berlin, University of Victoria BC, Alberta Learning, University of Colorado Boulder, University of North Dakota, University of Toronto, University of Sheffield, University of Montr\u00e9al, University of Michigan, Ann Arbor, Pacific Northwest National Laboratory, Luke Natural Resources Institute Finland, Maastricht University, Massachusetts Institute of Technology, University of Sydney, University of British Columbia, Existential-Humanistic Institute, Saybrook University, Columbia University, University of Detroit Mercy, The University of Hong Kong, Institute for a Sustainable Future, University of Melbourne, LLC, University of Miami, Independent Researcher",
+  "journal": "International Journal of Environmental Research and Public Health",
+  "description": "Project earthrise: Proceedings of the ninth annual conference of inVIVO planetary healthThe \u201cEarthrise\u201d photograph, taken on the 1968 Apollo 8 mission, became one of the most significant images of the 20th Century. It triggered a profound shift in environmental awareness and the potential for human unity\u2014inspiring the first Earth Day in 1970. Taking inspiration from these events 50 years later, we initiated Project Earthrise at our 2020 annual conference of inVIVO Planetary Health. This builds on the emergent concept of planetary health, which provides a shared narrative to integrate rich and diverse approaches from all aspects of society towards shared solutions to global challenges. The acute catastrophe of the COVID-19 pandemic has drawn greater attention to many other interconnected global health, environmental, social, spiritual, and economic problems that have been underappreciated or neglected for decades. This is accelerating opportunities for greater collaborative action, as many groups now focus on the necessity of a \u201cGreat Transition\u201d. While ambitious integrative efforts have never been more important, it is imperative to apply these with mutualistic value systems as a compass, as we seek to make wiser choices. Project Earthrise is our contribution to this important process. This underscores the imperative for creative ecological solutions to challenges in all systems, on all scales with advancing global urbanization in the digital age\u2014for personal, environmental, economic and societal health alike. At the same time, our agenda seeks to equally consider our social and spiritual ecology as it does natural ecology. Revisiting the inspiration of \u201cEarthrise\u201d, we welcome diverse perspectives from across all dimensions of the arts and the sciences, to explore novel solutions and new normative values. Building on academic rigor, we seek to place greater value on imagination, kindness and mutualism as we address our greatest challenges, for the health of people, places and planet."
+ },
+ "https://doi.org/10.1039/d1cp03701c": {
+  "month": "10",
+  "pub_date": "21 Oct 2021",
+  "year": 2021,
+  "early_online": "1 Oct 2021",
+  "title": "Electronic spectra of ytterbium fluoride from relativistic electronic structure calculations",
+  "contributors": "Pototschnig, J. V., Dyall, K. G., Visscher, L., Gomes, A. S. P.",
+  "corresponding": "Pototschnig, J. V.",
+  "organisations": "Theoretical Chemistry, AIMMS, Dirac Solutions, Universite de Lille 2",
+  "journal": "Physical Chemistry Chemical Physics",
+  "description": "Electronic spectra of ytterbium fluoride from relativistic electronic structure calculationsWe report an investigation of the low-lying excited states of the YbF molecule-a candidate molecule for experimental measurements of the electron electric dipole moment-with 2-component based multi-reference configuration interaction (MRCI), equation of motion coupled cluster (EOM-CCSD) and the extrapolated intermediate Hamiltonian Fock-space coupled cluster (XIHFS-CCSD). Specifically, we address the question of the nature of these low-lying states in terms of configurations containing filled or partially-filled Yb 4f shells. We show that while it does not appear possible to carry out calculations with both kinds of configurations contained in the same active space, reliable information can be extracted from different sectors of Fock space-that is, by performing electron attachment and detachment IHFS-CCSD and EOM-CCSD calculation on the closed-shell YbF+ and YbF- species, respectively. From these calculations we predict \u03a9 = 1/2, 3/2 states, arising from the 4f13\u03c326s, 4f145d1/6p1, and 4f135d1\u03c316s configurations to be able to interact as they appear in the same energy range around the ground-state equilibrium geometry. As these states are generated from different sectors of Fock space, they are almost orthogonal and provide complementary descriptions of parts of the excited state manifold. To obtain a comprehensive picture, we introduce a simple adiabatization model to extract energies of interacting \u03a9 = 1/2, 3/2 states that can be compared to experimental observations."
+ },
+ "https://doi.org/10.1021/acs.nanolett.1c02537": {
+  "month": "10",
+  "pub_date": "27 Oct 2021",
+  "year": 2021,
+  "early_online": "13 Oct 2021",
+  "title": "Fast Intrinsic Emission Quenching in Cs4Pb",
+  "contributors": "Petralanda, U., Biffi, G., Boehme, S. C., Baranov, D., Krahne, R., Manna, L., Infante, I.",
+  "corresponding": "Manna, L.",
+  "organisations": "Photo Conversion Materials, Theoretical Chemistry, AIMMS, Italian Institute of Technology, University of Genoa",
+  "journal": "Nano Letters",
+  "description": "Fast Intrinsic Emission Quenching in Cs4PbBr6NanocrystalsCs4PbBr6 (0D) nanocrystals at room temperature have both been reported as nonemissive and green-emissive systems in conflicting reports, with no consensus regarding both the origin of the green emission and the emission quenching mechanism. Here, via ab initio molecular dynamics (AIMD) simulations and temperature-dependent photoluminescence (PL) spectroscopy, we show that the PL in these 0D metal halides is thermally quenched well below 300 K via strong electron-phonon coupling. To unravel the source of green emission reported for bulk 0D systems, we further study two previously suggested candidate green emitters: (i) a Br vacancy, which we demonstrate to present a strong thermal emission quenching at room temperature; (ii) an impurity, based on octahedral connectivity, that succeeds in suppressing nonradiative quenching via a reduced electron-phonon coupling in the corner-shared lead bromide octahedral network. These findings contribute to unveiling the mechanism behind the temperature-dependent PL in lead halide materials of different dimensionality. "
+ },
+ "https://doi.org/10.1002/chem.202103544": {
+  "month": "11",
+  "pub_date": "11 Nov 2021",
+  "year": 2021,
+  "early_online": "5 Oct 2021",
+  "title": "The Chemical Bond: When Atom Size Instead of Electronegativity Difference Determines Trend in Bond Strength",
+  "contributors": "Blokker, E., Sun, X., Poater, J., van der Schuur, J. M., Hamlin, T. A., Bickelhaupt, F. M.",
+  "corresponding": "Bickelhaupt, F. M.",
+  "organisations": "AIMMS, Theoretical Chemistry, Chemistry and Pharmaceutical Sciences, Nouryon",
+  "journal": "Chemistry - A European Journal",
+  "description": "The Chemical Bond: When Atom Size Instead of Electronegativity Difference Determines Trend in Bond StrengthWe have quantum chemically analyzed element\u2212element bonds of archetypal HnX\u2212YHn molecules (X, Y=C, N, O, F, Si, P, S, Cl, Br, I), using density functional theory. One purpose is to obtain a set of consistent homolytic bond dissociation energies (BDE) for establishing accurate trends across the periodic table. The main objective is to elucidate the underlying physical factors behind these chemical bonding trends. On one hand, we confirm that, along a period (e. g., from C\u2212C to C\u2212F), bonds strengthen because the electronegativity difference across the bond increases. But, down a period, our findings constitute a paradigm shift. From C\u2212F to C\u2212I, for example, bonds do become weaker, however, not because of the decreasing electronegativity difference. Instead, we show that the effective atom size (via steric Pauli repulsion) is the causal factor behind bond weakening in this series, and behind the weakening in orbital interactions at the equilibrium distance. We discuss the actual bonding mechanism and the importance of analyzing this mechanism as a function of the bond distance."
+ },
+ "https://doi.org/10.1016/j.vaccine.2021.10.006": {
+  "month": "11",
+  "pub_date": "16 Nov 2021",
+  "year": 2021,
+  "early_online": "23 Oct 2021",
+  "title": "Intranasal vaccination with protein bodies elicit strong protection against Streptococcus pneumoniae colonization",
+  "contributors": "van Beek, L. F., Langereis, J. D., van den Berg van Saparoea, H. B., Gillard, J., Jong, W. S., van Opzeeland, F. J., Mesman, R., van Niftrik, L., Joosten, I., Diavatopoulos, D. A., Luirink, J., de Jonge, M. I.",
+  "corresponding": "van Beek, L. F.",
+  "organisations": "Molecular Microbiology, AIMMS, LaserLaB - Molecular Biophysics, Radboud University Nijmegen",
+  "journal": "Vaccine",
+  "description": "Intranasal vaccination with protein bodies elicit strong protection against Streptococcus pneumoniae colonizationProtein bodies (PBs) are particles consisting of insoluble, aggregated proteins with potential as a vaccine formulation. PBs can contain high concentrations of antigen, are stable and relatively resistant to proteases, release antigen slowly and are cost-effective to manufacture. Yet, the capacity of PBs to provoke immune responses and protection in the upper respiratory tract, a major entry route of respiratory pathogens, is largely unknown. In this study, we vaccinated mice intranasally with PBs comprising antigens from Streptococcus pneumoniae and evaluated the level of protection against nasopharyngeal colonization. PBs composed of the \u03b1-helical domain of pneumococcal surface protein A (PspA\u03b1) provided superior protection against colonization with S. pneumoniae compared to soluble PspA\u03b1. Immunization with soluble protein or PBs induced differences in antibody binding to pneumococci as well as a highly distinct antigen-specific nasal cytokine profile upon in vivo stimulation with inactivated S. pneumoniae. Moreover, immunization with PBs composed of conserved putative pneumococcal antigens reduced colonization by S. pneumoniae in mice, both as a single- and as a multi-antigen formulation. In conclusion, PBs represent a vaccine formulation that elicits strong mucosal immune responses and protection. The versatility of this platform offers opportunities for development of next-generation vaccine formulations."
+ },
+ "https://doi.org/10.1038/s41467-021-26193-z": {
+  "month": "12",
+  "pub_date": "Dec 2021",
+  "year": 2021,
+  "early_online": "20 Oct 2021",
+  "title": "Time-resolved relaxation and fragmentation of polycyclic aromatic hydrocarbons investigated in the ultrafast XUV-IR regime",
+  "contributors": "Lee, J. W., Tikhonov, D. S., Chopra, P., Maclot, S., Steber, A. L., Gruet, S., Allum, F., Boll, R., Cheng, X., D\u00fcsterer, S., Erk, B., Garg, D., He, L., Heathcote, D., Johny, M., Kazemi, M. M., K\u00f6ckert, H., Lahl, J., Lemmens, A. K., Loru, D., Mason, R., M\u00fcller, E., Mullins, T., Olshin, P., Passow, C., Peschel, J., Ramm, D., Rompotis, D., Schirmel, N., Trippel, S., Wiese, J., Ziaee, F., Bari, S., Burt, M., K\u00fcpper, J., Rijs, A. M., Rolles, D., Techert, S., Eng-Johnsson, P., Brouard, M., Vallance, C., Manschwetus, B., Schnell, M.",
+  "corresponding": "Manschwetus, B.",
+  "organisations": "BioAnalytical Chemistry, AIMMS, German Electron Synchrotron, University of Oxford, Kiel University, Lund University, University of Gothenburg, University of Hamburg, European XFEL, Radboud University Nijmegen, University of Amsterdam, St. Petersburg State University, Kansas State University, University of G\u00f6ttingen",
+  "journal": "Nature Communications",
+  "description": "Time-resolved relaxation and fragmentation of polycyclic aromatic hydrocarbons investigated in the ultrafast XUV-IR regimePolycyclic aromatic hydrocarbons (PAHs) play an important role in interstellar chemistry and are subject to high energy photons that can induce excitation, ionization, and fragmentation. Previous studies have demonstrated electronic relaxation of parent PAH monocations over 10\u2013100 femtoseconds as a result of beyond-Born-Oppenheimer coupling between the electronic and nuclear dynamics. Here, we investigate three PAH molecules: fluorene, phenanthrene, and pyrene, using ultrafast XUV and IR laser pulses. Simultaneous measurements of the ion yields, ion momenta, and electron momenta as a function of laser pulse delay allow a detailed insight into the various molecular processes. We report relaxation times for the electronically excited PAH*, PAH+* and PAH2+* states, and show the time-dependent conversion between fragmentation pathways. Additionally, using recoil-frame covariance analysis between ion images, we demonstrate that the dissociation of the PAH2+ ions favors reaction pathways involving two-body breakup and/or loss of neutral fragments totaling an even number of carbon atoms."
+ },
+ "https://doi.org/10.3390/ijms222212101": {
+  "month": "11",
+  "pub_date": "2 Nov 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "The escherichia coli outer membrane \u03b2-barrel assembly machinery (Bam) crosstalks with the divisome",
+  "contributors": "Consoli, E., Luirink, J., Den Blaauwen, T.",
+  "corresponding": "Den Blaauwen, T.",
+  "organisations": "Molecular Microbiology, AIMMS, LaserLaB - Molecular Biophysics, University of Amsterdam",
+  "journal": "International Journal of Molecular Sciences",
+  "description": "The escherichia coli outer membrane \u03b2-barrel assembly machinery (Bam) crosstalks with the divisomeThe BAM is a macromolecular machine responsible for the folding and the insertion of integral proteins into the outer membrane of diderm Gram-negative bacteria. In Escherichia coli, it consists of a transmembrane \u03b2-barrel subunit, BamA, and four outer membrane lipoproteins (BamB-E). Using BAM-specific antibodies, in E. coli cells, the complex is shown to localize in the lateral wall in foci. The machinery was shown to be enriched at midcell with specific cell cycle timing. The inhibition of septation by aztreonam did not alter the BAM midcell localization substantially. Furthermore, the absence of late cell division proteins at midcell did not impact BAM timing or localization. These results imply that the BAM enrichment at the site of constriction does not require an active cell division machinery. Expression of the Tre1 toxin, which impairs the FtsZ filamentation and therefore midcell localization, resulted in the complete loss of BAM midcell enrichment. A similar effect was observed for YidC, which is involved in the membrane insertion of cell division proteins in the inner membrane. The presence of the Z-ring is needed for preseptal peptidoglycan (PG) synthesis. As BAM was shown to be embedded in the PG layer, it is possible that BAM is inserted preferentially simultaneously with de novo PG synthesis to facilitate the insertion of OMPs in the newly synthesized outer membrane."
+ },
+ "https://doi.org/10.3390/ijms222212279": {
+  "month": "11",
+  "pub_date": "2 Nov 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "The two-way interaction between the molecules that cause vaginal malodour and lactobacilli: An opportunity for probiotics",
+  "contributors": "Puebla-Barragan, S., Akouris, P. P., Al, K. F., Carr, C., Lamb, B., Sumarah, M., van der Veer, C., Kort, R., Burton, J., Reid, G.",
+  "corresponding": "Puebla-Barragan, S.",
+  "organisations": "Molecular Cell Physiology, AIMMS, Western University, AgriFood Canada, Municipal Health Service of Amsterdam",
+  "journal": "International Journal of Molecular Sciences",
+  "description": "The two-way interaction between the molecules that cause vaginal malodour and lactobacilli: An opportunity for probioticsVaginal malodour is a sign of dysbiosis. The biogenic amines (BAs) cadaverine, putrescine and tyramine are known to be causative compounds. Recent reports suggest these compounds produced by pathogens might have a role beyond causing malodour; namely inhibiting the growth of lactobacilli bacteria that are crucial in the maintenance of vaginal homeostasis. The aim of this study was to identify whether certain lactobacilli strains could reduce BAs and to evaluate how Lactobacillus species were affected by these compounds. Using LC\u2013MS and HPLC-UV, five Lactobacillus crispatus strains were identified as being capable of significantly reducing BAs from the media under in vitro conditions. Through 16S rRNA gene sequencing of vaginal swabs exposed to Bas, cadaverine was found to reduce the relative abundance of lactobacilli. When L. crispatus was exposed to media supplemented with BAs with an HCl adjusted lower pH, its growth was enhanced, demonstrating the relevance of the maintenance of an acidic vaginal environment. If strains are to be developed for probiotic application to alleviate bacterial vaginosis and other conditions affecting large numbers of women worldwide, their ability to adapt to Bas and regulate pH should be part of the experimentation."
+ },
+ "https://doi.org/10.1186/s12915-021-01082-5": {
+  "month": "12",
+  "pub_date": "Dec 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Age-related susceptibility to insulin resistance arises from a combination of CPT1B decline and lipid overload",
+  "contributors": "Vieira-Lara, M. A., Dommerholt, M. B., Zhang, W., Blankestijn, M., Wolters, J. C., Abegaz, F., Gerding, A., van der Veen, Y. T., Thomas, R., van Os, R. P., Reijngoud, D. J., Jonker, J. W., Kruit, J. K., Bakker, B. M.",
+  "corresponding": "Bakker, B. M.",
+  "organisations": "Molecular Cell Physiology, AIMMS, University of Groningen, Utrecht University",
+  "journal": "BMC Biology",
+  "description": "Age-related susceptibility to insulin resistance arises from a combination of CPT1B decline and lipid overloadBackground: The skeletal muscle plays a central role in glucose homeostasis through the uptake of glucose from the extracellular medium in response to insulin. A number of factors are known to disrupt the normal response to insulin leading to the emergence of insulin resistance (IR). Advanced age and a high-fat diet are factors that increase the susceptibility to IR, with lipid accumulation in the skeletal muscle being a key driver of this phenomenon. It is debated, however, whether lipid accumulation arises due to dietary lipid overload or from a decline of mitochondrial function. To gain insights into the interplay of diet and age in the flexibility of muscle lipid and glucose handling, we combined lipidomics, proteomics, mitochondrial function analysis and computational modelling to investigate young and aged mice on a low- or high-fat diet (HFD). Results: As expected, aged mice were more susceptible to IR when given a HFD than young mice. The HFD induced intramuscular lipid accumulation specifically in aged mice, including C18:0-containing ceramides and diacylglycerols. This was reflected by the mitochondrial \u03b2-oxidation capacity, which was upregulated by the HFD in young, but not in old mice. Conspicuously, most \u03b2-oxidation proteins were upregulated by the HFD in both groups, but carnitine palmitoyltransferase 1B (CPT1B) declined in aged animals. Computational modelling traced the flux control mostly to CPT1B, suggesting a CPT1B-driven loss of flexibility to the HFD with age. Finally, in old animals, glycolytic protein levels were reduced and less flexible to the diet. Conclusion: We conclude that intramuscular lipid accumulation and decreased insulin sensitivity are not due to age-related mitochondrial dysfunction or nutritional overload alone, but rather to their combined effects. Moreover, we identify CPT1B as a potential target to counteract age-dependent intramuscular lipid accumulation and thereby IR."
+ },
+ "https://doi.org/10.1038/s42003-021-01948-y": {
+  "month": "12",
+  "pub_date": "Dec 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "High biodiversity in a benzene-degrading nitrate-reducing culture is sustained by a few primary consumers",
+  "contributors": "Melkonian, C., Fillinger, L., Atashgahi, S., da Rocha, U. N., Kuiper, E., Olivier, B., Braster, M., Gottstein, W., Helmus, R., Parsons, J. R., Smidt, H., van der Waals, M., Gerritse, J., Brandt, B. W., R\u00f6ling, W. F., Molenaar, D., van Spanning, R. J.",
+  "corresponding": "Melkonian, C.",
+  "organisations": "Systems Bioinformatics, AIMMS, Molecular Cell Physiology, Bioinformatics, University of Vienna, Wageningen University & Research, Vrije Universiteit Amsterdam, University of Amsterdam, Deltares",
+  "journal": "Communications biology",
+  "description": "High biodiversity in a benzene-degrading nitrate-reducing culture is sustained by a few primary consumersA key question in microbial ecology is what the driving forces behind the persistence of large biodiversity in natural environments are. We studied a microbial community with more than 100 different types of species which evolved in a 15-years old bioreactor with benzene as the main carbon and energy source and nitrate as the electron acceptor. Using genome-centric metagenomics plus metatranscriptomics, we demonstrate that most of the community members likely feed on metabolic left-overs or on necromass while only a few of them, from families Rhodocyclaceae and Peptococcaceae, are candidates to degrade benzene. We verify with an additional succession experiment using metabolomics and metabarcoding that these few community members are the actual drivers of benzene degradation. As such, we hypothesize that high species richness is maintained and the complexity of a natural community is stabilized in a controlled environment by the interdependencies between the few benzene degraders and the rest of the community members, ultimately resulting in a food web with different trophic levels."
+ },
+ "https://doi.org/10.1016/j.fm.2021.103872": {
+  "month": "12",
+  "pub_date": "Dec 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "High throughput screening of technological and biopreservation traits of a large set of wild lactic acid bacteria from Brazilian artisanal cheeses",
+  "contributors": "Margalho, L. P., Kamimura, B. A., Brex\u00f3, R. P., Alvarenga, V. O., Cebeci, A. S., Janssen, P. W., Dijkstra, A., Starrenburg, M. J., Sheombarsing, R. S., Cruz, A. G., Alkema, W., Bachmann, H., Sant'Ana, A. S.",
+  "corresponding": "Sant'Ana, A. S.",
+  "organisations": "Systems Bioinformatics, AIMMS, Universidade Estadual de Campinas, Universidade Federal de Minas Gerais, NIZO food research, Instituto Federal de Educa\u00e7\u00e3o, Ci\u00eancia e Tecnologia do Rio de Janeiro",
+  "journal": "Food microbiology",
+  "description": "High throughput screening of technological and biopreservation traits of a large set of wild lactic acid bacteria from Brazilian artisanal cheesesThis study aimed to evaluate technological (acidification, proteolysis, lipolysis, resistance to low pH, NaCl, and bile salts) and biopreservation (antimicrobial activity against foodborne pathogens) features of 1002 LAB by high throughput screening (HTS) methods. The LAB was isolated from 11 types of Brazilian artisanal cheeses (BAC) marketed in the main 5 producing regions. Remarkable intra-species variability in acidification rates have been found, which was most pronounced between isolates from Mina's artisanal cheeses, Caipira and Coalho cheeses. Lacticaseibacillus paracasei and Levilactobacillus brevis showed the fastest acidification rate; however, all isolates showed slower acidification rates than a lactococcal control strain (4.3 \u00d7 lower). When testing inhibitory effects, > 75% of LAB isolates could inhibit the growth of Staphylococcus aureus ATCC 19095 and Listeria monocytogenes ATCC 7644. Two of these isolates, identified as Lactiplantibacillus plantarum and Lentilactobacillus buchneri, the sterile and neutral supernatants alone, were sufficient to inhibit L. monocytogenes growth. Principal component analysis (PCA) allowed the identification of functional groups based on proteolytic and lipolytic activity, osmotic stress resistance, and inhibition of L. monocytogenes. The type of cheese the isolates were recovered from influenced properties such as anti-listerial compounds and lipolytic enzyme production. The use of HTS and multivariate statistics allowed insights into a diverse set of LAB technological and biopreservation properties. These findings allow a profound knowledge of the heterogeneity of a large set of isolates, which can be further used to design starter cultures with varied and combined properties, such as biopreservation and technological features. Besides that, HTS makes it possible to analyze a vast panel of LAB strains, reducing costs and time within laboratory analysis, while avoiding the loss of information once all LAB are tested at the same time (differently from the traditional labor-intensive approach, in which a few numbers of strains is tested per time)."
+ },
+ "https://doi.org/10.1038/s41467-021-21669-4": {
+  "month": "12",
+  "pub_date": "Dec 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Metabolomics of sebum reveals lipid dysregulation in Parkinson\u2019s disease",
+  "contributors": "Sinclair, E., Trivedi, D. K., Sarkar, D., Walton-Doyle, C., Milne, J., Kunath, T., Rijs, A. M., de Bie, R. M., Goodacre, R., Silverdale, M., Barran, P.",
+  "corresponding": "Barran, P.",
+  "organisations": "BioAnalytical Chemistry, AIMMS, University of Manchester, University of Edinburgh, University of Liverpool, VU University Medical Center",
+  "journal": "Nature Communications",
+  "description": "Metabolomics of sebum reveals lipid dysregulation in Parkinson\u2019s diseaseParkinson\u2019s disease (PD) is a progressive neurodegenerative disorder, which is characterised by degeneration of distinct neuronal populations, including dopaminergic neurons of the substantia nigra. Here, we use a metabolomics profiling approach to identify changes to lipids in PD observed in sebum, a non-invasively available biofluid. We used liquid chromatography-mass spectrometry (LC-MS) to analyse 274 samples from participants (80 drug na\u00efve PD, 138 medicated PD and 56 well matched control subjects) and detected metabolites that could predict PD phenotype. Pathway enrichment analysis shows alterations in lipid metabolism related to the carnitine shuttle, sphingolipid metabolism, arachidonic acid metabolism and fatty acid biosynthesis. This study shows sebum can be used to identify potential biomarkers for PD."
+ },
+ "https://doi.org/10.1186/s12934-021-01668-2": {
+  "month": "12",
+  "pub_date": "Dec 2021",
+  "year": 2021,
+  "early_online": null,
+  "title": "Overproducing the BAM complex improves secretion of difficult-to-secrete recombinant autotransporter chimeras",
+  "contributors": "Phan, T. H., Kuijl, C., Huynh, D. T., Jong, W. S., Luirink, J., van Ulsen, P.",
+  "corresponding": "van Ulsen, P.",
+  "organisations": "Molecular Microbiology, AIMMS, LaserLaB - Molecular Biophysics, LaserLaB - Analytical Chemistry and Spectroscopy, Amsterdam UMC",
+  "journal": "Microbial Cell Factories",
+  "description": "Overproducing the BAM complex improves secretion of difficult-to-secrete recombinant autotransporter chimerasMonomeric autotransporters have been used extensively to transport recombinant proteins or protein domains to the cell surface of Gram-negative bacteria amongst others for antigen display. Genetic fusion of such antigens into autotransporters has yielded chimeras that can be used for vaccination purposes. However, not every fusion construct is transported efficiently across the cell envelope. Problems occur in particular when the fused antigen attains a relatively complex structure in the periplasm, prior to its translocation across the outer membrane. The latter step requires the interaction with periplasmic chaperones and the BAM (\u03b2-barrel assembly machinery) complex in the outer membrane. This complex catalyzes insertion and folding of \u03b2-barrel outer membrane proteins, including the \u03b2-barrel domain of autotransporters. Here, we investigated whether the availability of periplasmic chaperones or the BAM complex is a limiting factor for the surface localization of difficult-to-secrete chimeric autotransporter constructs. Indeed, we found that overproduction of in particular the BAM complex, increases surface display of difficult-to-secrete chimeras. Importantly, this beneficial effect appeared to be generic not only for a number of monomeric autotransporter fusions but also for fusions to trimeric autotransporters. Therefore, overproduction of BAM might be an attractive strategy to improve the production of recombinant autotransporter constructs."
  }
 }
