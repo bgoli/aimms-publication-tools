@@ -281,10 +281,10 @@ with open('data_multigroup.json', 'w') as F:
 spread_out = []
 dept_combi_freq = []
 
-out_all = {}
-out_cap_mcb = {}
-out_eah_mcb = {}
-out_cap_eah = {}
+out_all = {'dois' : []}
+out_cap_mcb = {'dois' : []}
+out_eah_mcb = {'dois' : []}
+out_cap_eah = {'dois' : []}
 cap = 'Chemistry and Pharmaceutical Sciences'
 eah = 'Environment and Health'
 mcb = 'Molecular Cell Biology'
@@ -296,12 +296,16 @@ for p in cross_dept_data:
     print(grps)
     if len(grps) == 3:
         out_all[p] = cross_dept_data[p]
+        out_all['dois'].append(p)
     elif cap in grps and mcb in grps:
         out_cap_mcb[p] = cross_dept_data[p]
+        out_cap_mcb['dois'].append(p)
     elif cap in grps and eah in grps:
         out_cap_eah[p] = cross_dept_data[p]
+        out_cap_eah['dois'].append(p)
     elif mcb in grps and eah in grps:
         out_eah_mcb[p] = cross_dept_data[p]
+        out_eah_mcb['dois'].append(p)
 
     dept_combi_freq.append(','.join(grps))
     spread_out.append(rowdat+groups)

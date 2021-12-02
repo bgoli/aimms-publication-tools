@@ -1,4 +1,23 @@
 {
+ "dois": [
+  "https://doi.org/10.1002/ejoc.201801562",
+  "https://doi.org/10.1371/journal.pone.0173573",
+  "https://doi.org/10.1016/j.tiv.2017.12.007",
+  "https://doi.org/10.1002/anie.201813110",
+  "https://doi.org/10.1128/AAC.01445-20",
+  "https://doi.org/10.1007/s00253-019-09697-z",
+  "https://doi.org/10.1007/s12033-019-00175-5",
+  "https://doi.org/10.1111/mmi.14255",
+  "https://doi.org/10.1016/j.bcp.2020.113938",
+  "https://doi.org/10.3390/ijms20153684",
+  "https://doi.org/10.1002/anie.201804875",
+  "https://doi.org/10.1128/mBio.01346-18",
+  "https://doi.org/10.3389/fpls.2021.697324",
+  "https://doi.org/10.1007/s00726-018-2613-8",
+  "https://doi.org/10.1128/AEM.01528-17",
+  "https://doi.org/10.1007/s00253-018-9299-4",
+  "https://doi.org/10.1016/j.jinorgbio.2017.12.003"
+ ],
  "https://doi.org/10.1002/ejoc.201801562": {
   "groups": [
    "Chemistry and Pharmaceutical Sciences",
