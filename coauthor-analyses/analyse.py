@@ -253,6 +253,7 @@ for paper in data:
             groups_nomap.append(grp)
             groups.append(FLT.org_group_map_dept[grp])
             cross_dept_frequency_list.append(FLT.org_group_map_dept[grp])
+    groups_nomap.sort()
     if len(groups) > 1:
         multigroup[paper] = {'groups' : list(set([FLT.org_group_map_dept[g] for g in groups])),
                              'groups0' : groups_nomap,
@@ -262,6 +263,7 @@ for paper in data:
                              'year' : data[paper]['year']
                              }
 cross_dept_data = {}
+cross_group_data = {}
 for paper in multigroup:
     if len(multigroup[paper]['groups']) > 1:
         cross_dept_data[paper] = {'groups' : multigroup[paper]['groups'],
@@ -271,6 +273,17 @@ for paper in multigroup:
                                   'title' : multigroup[paper]['title'],
                                   'year' : multigroup[paper]['year']
                                   }
+    if len(multigroup[paper]['groups0']) > 1:
+        cross_group_data[paper] = {'groups' : multigroup[paper]['groups'],
+                                  'groups0' : multigroup[paper]['groups0'],
+                                  'groups1' : multigroup[paper]['groups1'],
+                                  'contributors' : multigroup[paper]['contributors'],
+                                  'title' : multigroup[paper]['title'],
+                                  'year' : multigroup[paper]['year']
+                                  }
+
+
+
 
 with open('data_multigroup_raw.json', 'w') as F:
     json.dump(multigroup, F, indent=1)
@@ -278,8 +291,12 @@ with open('data_multigroup_raw.json', 'w') as F:
 with open('data_multigroup.json', 'w') as F:
     json.dump(cross_dept_data, F, indent=1)
 
+with open('data_multigroup_group.json', 'w') as F:
+    json.dump(cross_group_data, F, indent=1)
+
 spread_out = []
 dept_combi_freq = []
+grp_combi_freq = []
 
 out_all = {'dois' : []}
 out_cap_mcb = {'dois' : []}
@@ -319,7 +336,31 @@ with open('out_cap_eah.json', 'w') as F:
 with open('out_eah_mcb.json', 'w') as F:
     json.dump(out_eah_mcb, F, indent=1)
 
-os.sys.exit()
+for p in cross_group_data:
+    rowdat = [p, cross_group_data[p]['year'], cross_group_data[p]['title']]
+    grps = cross_group_data[p]['groups0']
+    grps.sort()
+    multi_group_group = []
+    for g in grps:
+        if g in FLT.org_multigroup_list:
+            multi_group_group.append(g)
+    multi_group_group.sort()
+    if len(multi_group_group) > 1:
+        grp_combi_freq.append(','.join(multi_group_group))
+
+createWordcloudSheet(
+    analysis_results,
+    'aimms_multi_groups',
+    grp_combi_freq,
+    'group',
+    FLT.org_group_list,
+    FLT.org_group_exclude_list,
+    0,
+    apply_filter=True,
+    create_wordcloud=True,
+    nasty_exclude=False,
+    create_barchart=max_barchart_items
+)
 
 createWordcloudSheet(
     analysis_results,
@@ -334,6 +375,9 @@ createWordcloudSheet(
     nasty_exclude=False,
     create_barchart=max_barchart_items
 )
+
+
+
 
 # write combinations to sheet
 dept_combi_freq.sort()

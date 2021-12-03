@@ -6,9 +6,9 @@
   ],
   "groups0": [
    "BioAnalytical Chemistry",
+   "E&H: Environmental Bioanalytical Chemistry",
    "E&H: Environmental Chemistry and Toxicology",
-   "E&H: Environmental Health and Toxicology",
-   "E&H: Environmental Bioanalytical Chemistry"
+   "E&H: Environmental Health and Toxicology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
@@ -32,12 +32,12 @@
  },
  "https://doi.org/10.1289/EHP5911": {
   "groups": [
-   "Molecular Cell Biology",
-   "Environment and Health"
+   "Environment and Health",
+   "Molecular Cell Biology"
   ],
   "groups0": [
-   "Systems Bioinformatics",
-   "E&H: Environmental Health and Toxicology"
+   "E&H: Environmental Health and Toxicology",
+   "Systems Bioinformatics"
   ],
   "groups1": [
    "Molecular Cell Biology",
@@ -56,12 +56,12 @@
  },
  "https://doi.org/10.1002/ejoc.201801562": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
-   "Systems Bioinformatics",
-   "Organic Chemistry"
+   "Organic Chemistry",
+   "Systems Bioinformatics"
   ],
   "groups1": [
    "Molecular Cell Biology",
@@ -85,8 +85,8 @@
   ],
   "groups0": [
    "BioAnalytical Chemistry",
-   "E&H: Environmental Health and Toxicology",
-   "E&H: Environmental Bioanalytical Chemistry"
+   "E&H: Environmental Bioanalytical Chemistry",
+   "E&H: Environmental Health and Toxicology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
@@ -109,12 +109,12 @@
  },
  "https://doi.org/10.1371/journal.pone.0173573": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
-   "Molecular and Computational Toxicology",
-   "Molecular Cell Biology"
+   "Molecular Cell Biology",
+   "Molecular and Computational Toxicology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
@@ -135,12 +135,12 @@
  },
  "https://doi.org/10.1016/j.tiv.2017.12.007": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
-   "Molecular and Computational Toxicology",
-   "Molecular Cell Biology"
+   "Molecular Cell Biology",
+   "Molecular and Computational Toxicology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
@@ -159,8 +159,8 @@
  },
  "https://doi.org/10.1002/anie.201813110": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Chemistry and Pharmaceutical Sciences",
@@ -188,13 +188,13 @@
  },
  "https://doi.org/10.1016/j.plaphy.2018.02.013": {
   "groups": [
-   "Molecular Cell Biology",
    "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology",
    "Environment and Health"
   ],
   "groups0": [
-   "Medicinal chemistry",
    "E&H: Environmental Bioanalytical Chemistry",
+   "Medicinal chemistry",
    "Structural Biology"
   ],
   "groups1": [
@@ -221,9 +221,9 @@
   ],
   "groups0": [
    "BioAnalytical Chemistry",
+   "E&H: Environmental Bioanalytical Chemistry",
    "E&H: Environmental Chemistry and Toxicology",
-   "E&H: Environmental Health and Toxicology",
-   "E&H: Environmental Bioanalytical Chemistry"
+   "E&H: Environmental Health and Toxicology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
@@ -245,12 +245,12 @@
  },
  "https://doi.org/10.1128/AAC.01445-20": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
-   "Organic Chemistry",
-   "Molecular Microbiology"
+   "Molecular Microbiology",
+   "Organic Chemistry"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
@@ -269,12 +269,12 @@
  },
  "https://doi.org/10.1007/s00253-019-09697-z": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
-   "Molecular and Computational Toxicology",
-   "Molecular Microbiology"
+   "Molecular Microbiology",
+   "Molecular and Computational Toxicology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
@@ -293,8 +293,8 @@
  },
  "https://doi.org/10.1007/s12033-019-00175-5": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Medicinal chemistry",
@@ -318,12 +318,12 @@
  },
  "https://doi.org/10.1128/JB.00037-21": {
   "groups": [
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
+   "Bio Informatics (IBIVU)",
+   "Molecular Cell Biology"
   ],
   "groups0": [
-   "Molecular Cell Physiology",
-   "Bio Informatics (IBIVU)"
+   "Bio Informatics (IBIVU)",
+   "Molecular Cell Physiology"
   ],
   "groups1": [
    "Molecular Cell Biology",
@@ -342,12 +342,12 @@
  },
  "https://doi.org/10.1093/bioinformatics/bty233": {
   "groups": [
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
+   "Bio Informatics (IBIVU)",
+   "Molecular Cell Biology"
   ],
   "groups0": [
-   "Systems Bioinformatics",
-   "Integrative Bioinformatics"
+   "Integrative Bioinformatics",
+   "Systems Bioinformatics"
   ],
   "groups1": [
    "Molecular Cell Biology",
@@ -368,8 +368,8 @@
  },
  "https://doi.org/10.1111/mmi.14255": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Medicinal chemistry",
@@ -399,13 +399,13 @@
  },
  "https://doi.org/10.1016/j.bcp.2020.113938": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
-   "Organic Chemistry",
+   "Molecular Microbiology",
    "Molecular and Computational Toxicology",
-   "Molecular Microbiology"
+   "Organic Chemistry"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
@@ -425,8 +425,8 @@
  },
  "https://doi.org/10.3390/ijms20153684": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Chemistry and Pharmaceutical Sciences",
@@ -451,15 +451,15 @@
  },
  "https://doi.org/10.1016/j.scitotenv.2020.139028": {
   "groups": [
-   "Molecular Cell Biology",
    "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology",
    "Environment and Health"
   ],
   "groups0": [
    "BioAnalytical Chemistry",
    "E&H: Environmental Chemistry and Toxicology",
-   "Molecular Microbiology",
    "E&H: Environmental Health and Toxicology",
+   "Molecular Microbiology",
    "Structural Biology"
   ],
   "groups1": [
@@ -485,8 +485,8 @@
  },
  "https://doi.org/10.1002/anie.201804875": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Chemistry and Pharmaceutical Sciences",
@@ -514,14 +514,14 @@
  },
  "https://doi.org/10.1128/mBio.01346-18": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Medicinal chemistry",
-   "Organic Chemistry",
+   "Molecular Microbiology",
    "Molecular and Computational Toxicology",
-   "Molecular Microbiology"
+   "Organic Chemistry"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
@@ -570,8 +570,8 @@
  },
  "https://doi.org/10.3389/fpls.2021.697324": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
    "Medicinal chemistry",
@@ -595,14 +595,14 @@
  },
  "https://doi.org/10.1007/s00726-018-2613-8": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
+   "AIMSS Division of BioAnalytical Chemistry",
    "Chemistry and Pharmaceutical Sciences",
-   "Molecular and Computational Toxicology",
    "Molecular Cell Biology",
-   "AIMSS Division of BioAnalytical Chemistry"
+   "Molecular and Computational Toxicology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
@@ -623,13 +623,13 @@
  },
  "https://doi.org/10.1128/AEM.01528-17": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
-   "Systems Bioinformatics",
    "BioAnalytical Chemistry",
-   "Molecular Cell Physiology"
+   "Molecular Cell Physiology",
+   "Systems Bioinformatics"
   ],
   "groups1": [
    "Molecular Cell Biology",
@@ -650,15 +650,15 @@
  },
  "https://doi.org/10.1007/s00253-018-9299-4": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
+   "AIMSS Division of BioAnalytical Chemistry",
    "Chemistry and Pharmaceutical Sciences",
-   "Organic Chemistry",
-   "Molecular and Computational Toxicology",
    "Molecular Microbiology",
-   "AIMSS Division of BioAnalytical Chemistry"
+   "Molecular and Computational Toxicology",
+   "Organic Chemistry"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
@@ -688,9 +688,9 @@
   ],
   "groups0": [
    "BioAnalytical Chemistry",
+   "E&H: Environmental Bioanalytical Chemistry",
    "E&H: Environmental Chemistry and Toxicology",
    "E&H: Environmental Health and Toxicology",
-   "E&H: Environmental Bioanalytical Chemistry",
    "Environment and Health"
   ],
   "groups1": [
@@ -717,12 +717,12 @@
  },
  "https://doi.org/10.1016/j.jinorgbio.2017.12.003": {
   "groups": [
-   "Molecular Cell Biology",
-   "Chemistry and Pharmaceutical Sciences"
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
   ],
   "groups0": [
-   "Molecular and Computational Toxicology",
-   "Molecular Microbiology"
+   "Molecular Microbiology",
+   "Molecular and Computational Toxicology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
@@ -745,11 +745,11 @@
    "Environment and Health"
   ],
   "groups0": [
-   "Chemistry and Pharmaceutical Sciences",
    "BioAnalytical Chemistry",
+   "Chemistry and Pharmaceutical Sciences",
+   "E&H: Environmental Bioanalytical Chemistry",
    "E&H: Environmental Chemistry and Toxicology",
-   "E&H: Environmental Health and Toxicology",
-   "E&H: Environmental Bioanalytical Chemistry"
+   "E&H: Environmental Health and Toxicology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
@@ -779,12 +779,12 @@
  },
  "https://doi.org/10.1038/s41467-020-20141-z": {
   "groups": [
-   "Molecular Cell Biology",
-   "Bio Informatics (IBIVU)"
+   "Bio Informatics (IBIVU)",
+   "Molecular Cell Biology"
   ],
   "groups0": [
-   "Systems Bioinformatics",
-   "Bio Informatics (IBIVU)"
+   "Bio Informatics (IBIVU)",
+   "Systems Bioinformatics"
   ],
   "groups1": [
    "Molecular Cell Biology",

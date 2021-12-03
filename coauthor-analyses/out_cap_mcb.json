@@ -24,8 +24,8 @@
    "Molecular Cell Biology"
   ],
   "groups0": [
-   "Systems Bioinformatics",
-   "Organic Chemistry"
+   "Organic Chemistry",
+   "Systems Bioinformatics"
   ],
   "groups1": [
    "Molecular Cell Biology",
@@ -48,8 +48,8 @@
    "Molecular Cell Biology"
   ],
   "groups0": [
-   "Molecular and Computational Toxicology",
-   "Molecular Cell Biology"
+   "Molecular Cell Biology",
+   "Molecular and Computational Toxicology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
@@ -74,8 +74,8 @@
    "Molecular Cell Biology"
   ],
   "groups0": [
-   "Molecular and Computational Toxicology",
-   "Molecular Cell Biology"
+   "Molecular Cell Biology",
+   "Molecular and Computational Toxicology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
@@ -127,8 +127,8 @@
    "Molecular Cell Biology"
   ],
   "groups0": [
-   "Organic Chemistry",
-   "Molecular Microbiology"
+   "Molecular Microbiology",
+   "Organic Chemistry"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
@@ -151,8 +151,8 @@
    "Molecular Cell Biology"
   ],
   "groups0": [
-   "Molecular and Computational Toxicology",
-   "Molecular Microbiology"
+   "Molecular Microbiology",
+   "Molecular and Computational Toxicology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
@@ -231,9 +231,9 @@
    "Molecular Cell Biology"
   ],
   "groups0": [
-   "Organic Chemistry",
+   "Molecular Microbiology",
    "Molecular and Computational Toxicology",
-   "Molecular Microbiology"
+   "Organic Chemistry"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
@@ -313,9 +313,9 @@
   ],
   "groups0": [
    "Medicinal chemistry",
-   "Organic Chemistry",
+   "Molecular Microbiology",
    "Molecular and Computational Toxicology",
-   "Molecular Microbiology"
+   "Organic Chemistry"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
@@ -370,10 +370,10 @@
    "Molecular Cell Biology"
   ],
   "groups0": [
+   "AIMSS Division of BioAnalytical Chemistry",
    "Chemistry and Pharmaceutical Sciences",
-   "Molecular and Computational Toxicology",
    "Molecular Cell Biology",
-   "AIMSS Division of BioAnalytical Chemistry"
+   "Molecular and Computational Toxicology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
@@ -398,9 +398,9 @@
    "Molecular Cell Biology"
   ],
   "groups0": [
-   "Systems Bioinformatics",
    "BioAnalytical Chemistry",
-   "Molecular Cell Physiology"
+   "Molecular Cell Physiology",
+   "Systems Bioinformatics"
   ],
   "groups1": [
    "Molecular Cell Biology",
@@ -425,11 +425,11 @@
    "Molecular Cell Biology"
   ],
   "groups0": [
+   "AIMSS Division of BioAnalytical Chemistry",
    "Chemistry and Pharmaceutical Sciences",
-   "Organic Chemistry",
-   "Molecular and Computational Toxicology",
    "Molecular Microbiology",
-   "AIMSS Division of BioAnalytical Chemistry"
+   "Molecular and Computational Toxicology",
+   "Organic Chemistry"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
@@ -458,8 +458,8 @@
    "Molecular Cell Biology"
   ],
   "groups0": [
-   "Molecular and Computational Toxicology",
-   "Molecular Microbiology"
+   "Molecular Microbiology",
+   "Molecular and Computational Toxicology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",

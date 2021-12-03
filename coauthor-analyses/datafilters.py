@@ -325,6 +325,23 @@ org_group_list = ['Theoretical Chemistry',
                   'AIMSS Division of BioAnalytical Chemistry'
 ]
 
+org_multigroup_list = ['Theoretical Chemistry',
+                  'Systems Bioinformatics',
+                  'Medicinal chemistry',
+                  'BioAnalytical Chemistry',
+                  'Organic Chemistry',
+                  'E&H: Environmental Chemistry and Toxicology',
+                  'Molecular and Computational Toxicology',
+                  'Molecular Microbiology',
+                  'E&H: Environmental Health and Toxicology',
+                  'E&H: Environmental Bioanalytical Chemistry',
+                  'Integrative Bioinformatics',
+                  'Science & Business Innovation',
+                  'Bio Informatics (IBIVU)',
+                  'Structural Biology',
+                  'AIMSS Division of BioAnalytical Chemistry'
+]
+
 org_group_exclude_list = ['Aquatic Ecology and Toxicology Group',
                           'Bioinformatics and Computational Science (BioCoS)',
                           'Bioinformatics center',

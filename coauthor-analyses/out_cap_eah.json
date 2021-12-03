@@ -14,9 +14,9 @@
   ],
   "groups0": [
    "BioAnalytical Chemistry",
+   "E&H: Environmental Bioanalytical Chemistry",
    "E&H: Environmental Chemistry and Toxicology",
-   "E&H: Environmental Health and Toxicology",
-   "E&H: Environmental Bioanalytical Chemistry"
+   "E&H: Environmental Health and Toxicology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
@@ -45,8 +45,8 @@
   ],
   "groups0": [
    "BioAnalytical Chemistry",
-   "E&H: Environmental Health and Toxicology",
-   "E&H: Environmental Bioanalytical Chemistry"
+   "E&H: Environmental Bioanalytical Chemistry",
+   "E&H: Environmental Health and Toxicology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
@@ -74,9 +74,9 @@
   ],
   "groups0": [
    "BioAnalytical Chemistry",
+   "E&H: Environmental Bioanalytical Chemistry",
    "E&H: Environmental Chemistry and Toxicology",
-   "E&H: Environmental Health and Toxicology",
-   "E&H: Environmental Bioanalytical Chemistry"
+   "E&H: Environmental Health and Toxicology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
@@ -126,9 +126,9 @@
   ],
   "groups0": [
    "BioAnalytical Chemistry",
+   "E&H: Environmental Bioanalytical Chemistry",
    "E&H: Environmental Chemistry and Toxicology",
    "E&H: Environmental Health and Toxicology",
-   "E&H: Environmental Bioanalytical Chemistry",
    "Environment and Health"
   ],
   "groups1": [
@@ -159,11 +159,11 @@
    "Environment and Health"
   ],
   "groups0": [
-   "Chemistry and Pharmaceutical Sciences",
    "BioAnalytical Chemistry",
+   "Chemistry and Pharmaceutical Sciences",
+   "E&H: Environmental Bioanalytical Chemistry",
    "E&H: Environmental Chemistry and Toxicology",
-   "E&H: Environmental Health and Toxicology",
-   "E&H: Environmental Bioanalytical Chemistry"
+   "E&H: Environmental Health and Toxicology"
   ],
   "groups1": [
    "Chemistry and Pharmaceutical Sciences",
