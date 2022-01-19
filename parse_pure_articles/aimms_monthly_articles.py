@@ -82,7 +82,8 @@ __version__ = 1.5
 # data_file = 'AIMMS_research_2021-28_06_21.xls'
 # data_file = 'AIMMS_research_2021-13_09_21.xls'
 #data_file = 'AIMMS_research_2021-20_10_21.xls'
-data_file = 'AIMMS_research_2021-1_12_21.xls'
+#data_file = 'AIMMS_research_2021-1_12_21.xls'
+data_file = 'AIMMS_research_2022-19_01_22.xls'
 
 import os
 import time
@@ -98,7 +99,7 @@ assert os.environ['CONDA_DEFAULT_ENV'] == 'sandbox', 'Guess what ...'
 CURRENT_YEAR = int(time.strftime('%Y'))
 CURRENT_MONTH = int(time.strftime('%m'))
 # manual override for specific month/year
-# CURRENT_YEAR = 2020
+# CURRENT_YEAR = 2022
 # CURRENT_MONTH = 12
 
 # set up current env.
