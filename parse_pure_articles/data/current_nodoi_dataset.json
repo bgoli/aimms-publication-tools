@@ -1,1 +1,26 @@
-{}
+{
+ "1649232261.858656": {
+  "month": "2",
+  "pub_date": "22 Jun 2022",
+  "year": 2022,
+  "early_online": "16 Feb 2022",
+  "title": "An in vitro strategy using multiple human induced pluripotent stem cell-derived models to assess the toxicity of chemicals: A case study on paraquat",
+  "contributors": "Nunes, C., Singh, P., Mazidi, Z., Murphy, C., Bourguignon, A., Wellens, S., Chandrasekaran, V., Ghosh, S., Zana, M., Pamies, D., Thomas, A., Verfaillie, C., Culot, M., Dinnyes, A., Hardy, B., Wilmes, A., Jennings, P., Grillari, R., Grillari, J., Zurich, M., Exner, T.Pages:105333",
+  "corresponding": null,
+  "organisations": "Molecular and Computational Toxicology, AIMMS, Bone Tumour Reference Centre, Institute of Pathology, University Hospital Basel, University of Basel, Basel, Switzerland., BOKU - University of Natural Resource and Life science (BOKU), Hungarian University of Agriculture and Life Sciences, University of Artois, BioTalentum Ltd., Aulich Lajos str. 26, G\u00f6d\u00f6ll\u0151, 2100, Hungary., Department of Psychiatry, University of Lausanne-University Hospital of Lausanne (UNIL-CHUV), Lausanne, Switzerland., Heidelberg Institute for Stem Cell Technology and Experimental Medicine (HI-STEM gGmbH), University of Szeged, Edelweiss Connect GmbH, Evercyte GmbH",
+  "journal": "Toxicology in Vitro",
+  "description": "An in vitro strategy using multiple human induced pluripotent stem cell-derived models to assess the toxicity of chemicals: A case study on paraquatMost OECD guidelines for chemical risk assessment include tests performed on animals, raising financial, ethical and scientific concerns. Thus, the development of human-based models for toxicity testing is highly encouraged. Here, we propose an in vitro multi-organ strategy to assess the toxicity of chemicals. Human induced pluripotent stem cells (hiPSCs)-derived models of the brain, blood-brain barrier, kidney, liver and vasculature were generated and exposed to paraquat (PQ), a widely employed herbicide with known toxic effects in kidneys and brain. The models showed differential cytotoxic sensitivity to PQ after acute exposure. TempO-Seq\u2122 analysis with a set of 3565 probes revealed the deregulation of oxidative stress, unfolded protein response and Estrogen Receptor-mediated signaling pathways, in line with the existing knowledge on PQ mechanisms of action. The main advantages of this strategy are to assess chemical toxicity on multiple tissues/organs in parallel, exclusively in human cells, eliminating the interspecies bias, allowing a better evaluation of the differential sensitivity of the models representing the diverse organs, and increasing the chance to identify toxic compounds. Furthermore, although we focused on the mechanisms of action of PQ shared by the different models, this strategy would also allow for organ-specific toxicity testing, by including more cell type-specific probes for TempO-Seq analyses. In conclusion, we believe this strategy will participate in the further improvement of chemical risk assessment for human health."
+ },
+ "1649232261.8635361": {
+  "month": "3",
+  "pub_date": "Mar 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Implementation of Zebrafish Ontologies for Toxicology Screening",
+  "contributors": "Legradi, J.",
+  "corresponding": null,
+  "organisations": "E&H: Environmental Health and Toxicology, AIMMS",
+  "journal": "Frontiers in toxicology",
+  "description": "Implementation of Zebrafish Ontologies for Toxicology Screening"
+ }
+}
