@@ -1,5 +1,5 @@
 {
- "1649232261.858656": {
+ "1652859772.8022072": {
   "month": "2",
   "pub_date": "22 Jun 2022",
   "year": 2022,
@@ -11,16 +11,28 @@
   "journal": "Toxicology in Vitro",
   "description": "An in vitro strategy using multiple human induced pluripotent stem cell-derived models to assess the toxicity of chemicals: A case study on paraquatMost OECD guidelines for chemical risk assessment include tests performed on animals, raising financial, ethical and scientific concerns. Thus, the development of human-based models for toxicity testing is highly encouraged. Here, we propose an in vitro multi-organ strategy to assess the toxicity of chemicals. Human induced pluripotent stem cells (hiPSCs)-derived models of the brain, blood-brain barrier, kidney, liver and vasculature were generated and exposed to paraquat (PQ), a widely employed herbicide with known toxic effects in kidneys and brain. The models showed differential cytotoxic sensitivity to PQ after acute exposure. TempO-Seq\u2122 analysis with a set of 3565 probes revealed the deregulation of oxidative stress, unfolded protein response and Estrogen Receptor-mediated signaling pathways, in line with the existing knowledge on PQ mechanisms of action. The main advantages of this strategy are to assess chemical toxicity on multiple tissues/organs in parallel, exclusively in human cells, eliminating the interspecies bias, allowing a better evaluation of the differential sensitivity of the models representing the diverse organs, and increasing the chance to identify toxic compounds. Furthermore, although we focused on the mechanisms of action of PQ shared by the different models, this strategy would also allow for organ-specific toxicity testing, by including more cell type-specific probes for TempO-Seq analyses. In conclusion, we believe this strategy will participate in the further improvement of chemical risk assessment for human health."
  },
- "1649232261.8635361": {
+ "1652859772.8091886": {
   "month": "3",
   "pub_date": "Mar 2022",
   "year": 2022,
-  "early_online": null,
+  "early_online": "11 Mar 2022",
   "title": "Implementation of Zebrafish Ontologies for Toxicology Screening",
   "contributors": "Legradi, J.",
   "corresponding": null,
   "organisations": "E&H: Environmental Health and Toxicology, AIMMS",
-  "journal": "Frontiers in toxicology",
-  "description": "Implementation of Zebrafish Ontologies for Toxicology Screening"
+  "journal": "Frontiers in Toxicology",
+  "description": "Implementation of Zebrafish Ontologies for Toxicology ScreeningToxicological evaluation of chemicals using early-life stage zebrafish (Danio rerio) involves the observation and recording of altered phenotypes. Substantial variability has been observed among researchers in phenotypes reported from similar studies, as well as a lack of consistent data annotation, indicating a need for both terminological and data harmonization. When examined from a data science perspective, many of these apparent differences can be parsed into the same or similar endpoints whose measurements differ only in time, methodology, or nomenclature. Ontological knowledge structures can be leveraged to integrate diverse data sets across terminologies, scales, and modalities. Building on this premise, the National Toxicology Program\u2019s Systematic Evaluation of the Application of Zebrafish in Toxicology undertook a collaborative exercise to evaluate how the application of standardized phenotype terminology improved data consistency. To accomplish this, zebrafish researchers were asked to assess images of zebrafish larvae for morphological malformations in two surveys. In the first survey, researchers were asked to annotate observed malformations using their own terminology. In the second survey, researchers were asked to annotate the images from a list of terms and definitions from the Zebrafish Phenotype Ontology. Analysis of the results suggested that the use of ontology terms increased consistency and decreased ambiguity, but a larger study is needed to confirm. We conclude that utilizing a common data standard will not only reduce the heterogeneity of reported terms but increases agreement and repeatability between different laboratories. Thus, we advocate for the development of a zebrafish phenotype atlas to help laboratories create interoperable, computable data."
+ },
+ "1652859772.8252964": {
+  "month": "4",
+  "pub_date": "19 Apr 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "BIOGENESIS OF BACTERIAL MEMBRANES: A TARGET FOR NOVEL ANTIBIOTICS?",
+  "contributors": "Steenhuis, M.",
+  "corresponding": null,
+  "organisations": "AIMMS, Molecular Microbiology",
+  "journal": null,
+  "description": null
  }
 }
