@@ -514,7 +514,7 @@ guimgr.overall-gui-state = {'windowing-policy': 'combined-window',
                                 'selection_end': 116,
                                 'selection_start': 116,
                                 'zoom': 0})],
-        'has-focus': True,
+        'has-focus': False,
         'locked': False},
         [loc('aimms_monthly_articles.py'),
          loc('generate_publication_report.py')]),
@@ -539,7 +539,7 @@ guimgr.overall-gui-state = {'windowing-policy': 'combined-window',
         'window-alloc': (7,
                          4,
                          1851,
-                         1384)}]}
+                         1391)}]}
 guimgr.recent-documents = [loc('aimms_monthly_articles.py'),
                            loc('generate_publication_report.py')]
 guimgr.visual-state = {loc('../../../Anaconda3/envs/sandbox/Lib/site-packages/docx/__init__.py'): {'attrib-starts': [],

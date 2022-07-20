@@ -203,6 +203,18 @@
   "journal": "Toxicon",
   "description": "Taxon-selective venom variation in adult and neonate Daboia russelii (Russell's Viper), and antivenom efficacyMajor variations in venom composition can occur between juvenile and adult venomous snakes. However, due to logistical constraints, antivenoms are produced using adult venoms in immunising mixtures, possibly resulting in limited neutralisation of juvenile snake venoms. Daboia russelii is one of the leading causes of snakebite death across South Asia. Its venom is potently procoagulant, causing stroke in prey animals but causing in humans consumptive coagulopathy\u2014a net anticoagulant state\u2014and sometimes death resulting from hemorrhage. In this in vitro study, we compared the venom activity of\u2014and antivenom efficacy against\u2014six 2-week-old D. russelii relative to that of their parents. Using a coagulation analyser, we quantified the relative coagulotoxicity of these venoms in human, avian, and amphibian plasma. The overall potency on human plasma was similar across all adult and neonate venoms, and SII (Serum Institute of India) antivenom was equipotent in neutralising these coagulotoxic effects. In addition, all venoms were also similar in their action upon avian plasma. In contrast, the neonate venoms were more potent on amphibian plasma, suggesting amphibians make up a larger proportion of neonate diet than adult diet. A similar venom potency in human and avian plasmas but varying selectivity for amphibian plasma suggests ontogenetic differences in toxin isoforms within the factor X or factor V activating classes, thereby providing a testable hypothesis for future transcriptomics work. By providing insights into the functional venom differences between adult and neonate D. russelii venoms, we hope to inform clinical treatment of patients envenomated by this deadly species and to shed new light on the natural history of these extremely medically important snakes."
  },
+ "https://doi.org/10.1038/s41388-021-02111-x": {
+  "month": "1",
+  "pub_date": "21 Jan 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "IGF-1R is a molecular determinant for response to p53 reactivation therapy in conjunctival melanoma",
+  "contributors": "Song, D., Cismas, S., Crudden, C., Trocme, E., Worrall, C., Suleymanova, N., Lin, T., Zheng, H., Seregard, S., Girnita, A., Girnita, L.Pages:600-611",
+  "corresponding": null,
+  "organisations": "Medicinal chemistry, AIMMS",
+  "journal": "Oncogene",
+  "description": "IGF-1R is a molecular determinant for response to p53 reactivation therapy in conjunctival melanoma"
+ },
  "https://doi.org/10.1021/jacs.1c12040": {
   "month": "1",
   "pub_date": "26 Jan 2022",
@@ -299,6 +311,18 @@
   "journal": "Science of the Total Environment",
   "description": "Corrigendum to \u201cResults of WEPAL-QUASIMEME/NORMANs first global interlaboratory study on microplastics reveal urgent need for harmonization\u201d: [Sci. Total Environ. 772 (2021) 145071 10.1016/j.scitotenv.2021.145071 (ISSN 0048-9697)]In the printed version of the above article the following contributors, Luca Nizzetto, Nina Buenaventura and Rachel Hurley were mistakenly not included in the final list of authors for their role in the development of the concept for the reference materials and the effervescent pills vectors used in the study."
  },
+ "https://doi.org/10.1002/cbic.202100685": {
+  "month": "6",
+  "pub_date": "20 Jun 2022",
+  "year": 2022,
+  "early_online": "31 Jan 2022",
+  "title": "Opportunities for Expanding Encoded Chemical Diversification and Improving Hit Enrichment in m",
+  "contributors": "Melsen, P. R., Yoshisada, R., Jongkees, S. A.",
+  "corresponding": "Jongkees, S. A.",
+  "organisations": "AIMMS, Chemistry and Pharmaceutical Sciences, Vrije Universiteit Amsterdam",
+  "journal": "ChemBioChem",
+  "description": "Opportunities for Expanding Encoded Chemical Diversification and Improving Hit Enrichment in mRNA-Displayed Peptide LibrariesDNA-encoded small-molecule libraries and mRNA displayed peptide libraries both use numerically large pools of oligonucleotide-tagged molecules to identify potential hits for protein targets. They differ dramatically, however, in the \u2018drug-likeness\u2019 of the molecules that each can be used to discover. We give here an overview of the two techniques, comparing some advantages and disadvantages of each, and suggest areas where particularly mRNA display can benefit from adopting advances developed with DNA-encoded small molecule libraries. We outline cases where chemical modification of the peptide library has already been used in mRNA display, and survey opportunities to expand this using examples from DNA-encoded small molecule libraries. We also propose potential opportunities for encoding such reactions within the mRNA/cDNA tag of an mRNA-displayed peptide library to allow a more diversity-oriented approach to library modification. Finally, we outline alternate approaches for enriching target-binding hits from a pooled and tagged library, and close by detailing several examples of how an adjusted mRNA-display based approach could be used to discover new \u2018drug-like\u2019 modified small peptides."
+ },
  "https://doi.org/10.1016/j.technovation.2021.102363": {
   "month": "2",
   "pub_date": "Feb 2022",
@@ -383,18 +407,6 @@
   "journal": "Journal of Organic Chemistry",
   "description": "How Solvation Influences the SN2 versus E2 CompetitionWe have quantum chemically investigated how solvation influences the competition between the SN2 and E2 pathways of the model F- + C2H5Cl reaction. The system is solvated in a stepwise manner by going from the gas phase, then via microsolvation of one to three explicit solvent molecules, then last to bulk solvation using relativistic density functional theory at (COSMO)-ZORA-OLYP/QZ4P. We explain how and why the mechanistic pathway of the system shifts from E2 in the gas phase to SN2 upon strong solvation of the Lewis base (i.e., nucleophile/protophile). The E2 pathway is preferred under weak solvation of the system by dichloromethane, whereas a switch in reactivity from E2 to SN2 is observed under strong solvation by water. Our activation strain and Kohn-Sham molecular orbital analyses reveal that solvation of the Lewis base has a significant impact on the strength of the Lewis base. We show how strong solvation furnishes a weaker Lewis base that is unable to overcome the high characteristic distortivity associated with the E2 pathway, and thus the SN2 pathway becomes viable. "
  },
- "https://doi.org/10.1016/j.jgar.2022.01.026": {
-  "month": "2",
-  "pub_date": "Jun 2022",
-  "year": 2022,
-  "early_online": "4 Feb 2022",
-  "title": "Targeting the ATP synthase in bacterial and fungal pathogens: beyond Mycobacterium tuberculosis",
-  "contributors": "Vestergaard, M., Bald, D., Ingmer, H.",
-  "corresponding": "Ingmer, H.",
-  "organisations": "AIMMS, Structural Biology, University of Copenhagen",
-  "journal": "Journal of Global Antimicrobial Resistance",
-  "description": "Targeting the ATP synthase in bacterial and fungal pathogens: beyond Mycobacterium tuberculosisThe ATP synthase is a multicomponent enzyme that is largely conserved across the kingdoms of life. In many species the ATP synthase is central in the synthesis of ATP by using the electrochemical proton gradient generated via the electron transport chain. Bacteria inhabit very diverse ecological niches; hence their metabolism to extract nutrients and generation of ATP varies from species to species. Some species are obligate aerobes (e.g., Mycobacterium tuberculosis), relying on oxidative phosphorylation for ATP synthesis, whereas others are strict anaerobes (e.g., Clostridioides difficile) relying primarily on substrate-level phosphorylation using various fermentative pathways. Yet other species, such as Staphylococcus aureus and Escherichia coli are facultative anaerobes and can convert energy via both respiratory and fermentative pathways. The metabolic propensity and growth conditions experienced by bacterial species have a great impact on the necessity of a functional ATP synthase for viability. The ATP synthase has been validated as a druggable target with the approval of the ATP synthase inhibitor bedaquiline for treatment of M. tuberculosis, an organism in which the ATP synthase is essential for growth. Currently, no ATP synthase inhibitors are in clinical use against non-mycobacterial pathogens. In this review, the physiological functions of the ATP synthase in various bacterial pathogens are discussed in relation to the metabolic pathways utilized for providing energy. The ATP synthase is essential in important pathogenic species that are obligate aerobes, obligate anaerobes and aerotolerant anaerobes, whereas it is dispensable for growth in most facultative anaerobic pathogens. Interference with the ATP synthase in facultative anaerobes has physiological consequences, such as membrane hyperpolarization, which can be exploited for combination therapies. Collectively, the available data indicate that the ATP synthase is an interesting target for development of new antimicrobials beyond M. tuberculosis."
- },
  "https://doi.org/10.1016/j.aca.2021.339396": {
   "month": "2",
   "pub_date": "8 Feb 2022",
@@ -442,18 +454,6 @@
   "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, University of Southern Denmark, Radboud University Nijmegen",
   "journal": "Chemistry - A European Journal",
   "description": "Probing the Lewis Acidity of Boronic Acids through Interactions with Arene SubstituentsBoronic acids are Lewis acids that exist in equilibrium with boronate forms in aqueous solution. Here we experimentally and computationally investigated the Lewis acidity of 2,6-diarylphenylboronic acids; specially designed phenylboronic acids that possess two flanking aromatic rings with tunable aromatic character. Hammett analysis of 2,6-diarylphenylboronic acids reveals that their Lewis acidity remains unchanged upon the introduction of EWG/EDG at the distant para position of the flanking aromatic rings. Structural and computational studies demonstrate that polar-\u03c0 interactions and solvation effects contribute to the stabilization of boronic acids and boronate forms by aromatic rings. Our physical-organic chemistry work highlights that boronic acids and boronates can be stabilized by aromatic systems, leading to an important molecular knowledge for rational design and development of boronic acid-based catalysts and inhibitors of biomedically important proteins."
- },
- "https://doi.org/10.1016/j.jece.2022.107421": {
-  "month": "2",
-  "pub_date": "Jun 2022",
-  "year": 2022,
-  "early_online": "17 Feb 2022",
-  "title": "Innovations in analytical methods to assess the occurrence of microplastics in soil",
-  "contributors": "Perez, C. N., Carr\u00e9, F., Hoarau-Belkhiri, A., Joris, A., Leonards, P. E., Lamoree, M. H.",
-  "corresponding": "Lamoree, M. H.",
-  "organisations": "E&H: Environmental Bioanalytical Chemistry, AIMMS, E&H: Environmental Chemistry and Toxicology, Vrije Universiteit Amsterdam, Institut national de l'environnement industriel et des risques, Institut Scientifique de Service Public",
-  "journal": "Journal of Environmental Chemical Engineering",
-  "description": "Innovations in analytical methods to assess the occurrence of microplastics in soilThe occurrence of microplastics (MPs, particles <5 mm) in the environment has raised concerns globally due to their extensive use, slow degradation, low recycling rates, and potential risks to the ecosystem and human health. In the last decade, research on MPs in soil ecosystems has increased but is relatively limited compared to studies on MPs in aquatic environments. The soil matrix complexity and the ubiquitous presence of MPs in the environment make the analytical method development, validation, and Quality Assurance/ Quality Control (QA/QC) procedures challenging to analyze MPs in soil. This review paper comprehensively summarizes the emerging techniques and state-of-the-art methods for extracting, analyzing, and characterizing MPs in soil. The choice in analytical technique ultimately relies on the research objectives, whether polymer type, morphological information, quantity, or the presence of MPs in soil is of interest. Among the reviewed studies, globally, a broad range of concentrations (up to 6.9 \u00d7 105 particles/kg) of MPs was observed. However, the data was mainly limited to China. Lastly, the validation of analytical methods, QA/QC procedures, and recommendations for future research are addressed. There are no standardized methods to analyze MPs in soil and validate analytical processes, making it difficult to compare methods and results among studies, resulting in large differences in reported results between laboratories participating in interlaboratory studies. This indicates a need to improve and further develop more robust and efficient analytical techniques for analyzing MPs in soil, conduct more interlaboratory studies, manufacture and use certified reference materials, and promote large-scale monitoring research globally. "
  },
  "https://doi.org/10.1210/clinem/dgab773": {
   "month": "2",
@@ -587,6 +587,54 @@
   "journal": "Chemosphere",
   "description": "Global interlaboratory assessments on PCBs, organochlorine pesticides and brominated flame retardants in various environmental matrices 2017/2019In support of the United Nations Environment Programme (UNEP) global monitoring plan under the Stockholm Convention contributing laboratories were offered to take part in a series of interlaboratory assessments on persistent organic pollutants (POPs). The results of two rounds of these assessments are reported. The target compounds were polychlorinated biphenyls, organochlorine pesticides, polybrominated diphenylethers, one polybrominated biphenyl and hexabromocyclododecane diastereomers. The matrices distributed were a test solution, fish, sediment, human milk, and air extracts. The number of participants in each round was well over 100, showing the interest of laboratories worldwide. The results showed that many laboratories still struggle to obtain acceptable standard deviations of around 25% for their determinations. In particular for organochlorine pesticides serious improvement in quality is required. Acceptable results were obtained for the air extracts and for the determination of polybrominated diphenylethers in various matrices."
  },
+ "https://doi.org/10.1016/j.jece.2022.107421": {
+  "month": "6",
+  "pub_date": "Jun 2022",
+  "year": 2022,
+  "early_online": "17 Feb 2022",
+  "title": "Innovations in analytical methods to assess the occurrence of microplastics in soil",
+  "contributors": "Perez, C. N., Carr\u00e9, F., Hoarau-Belkhiri, A., Joris, A., Leonards, P. E., Lamoree, M. H.",
+  "corresponding": "Lamoree, M. H.",
+  "organisations": "E&H: Environmental Bioanalytical Chemistry, AIMMS, E&H: Environmental Chemistry and Toxicology, Vrije Universiteit Amsterdam, Institut national de l'environnement industriel et des risques, Institut Scientifique de Service Public",
+  "journal": "Journal of Environmental Chemical Engineering",
+  "description": "Innovations in analytical methods to assess the occurrence of microplastics in soilThe occurrence of microplastics (MPs, particles <5 mm) in the environment has raised concerns globally due to their extensive use, slow degradation, low recycling rates, and potential risks to the ecosystem and human health. In the last decade, research on MPs in soil ecosystems has increased but is relatively limited compared to studies on MPs in aquatic environments. The soil matrix complexity and the ubiquitous presence of MPs in the environment make the analytical method development, validation, and Quality Assurance/ Quality Control (QA/QC) procedures challenging to analyze MPs in soil. This review paper comprehensively summarizes the emerging techniques and state-of-the-art methods for extracting, analyzing, and characterizing MPs in soil. The choice in analytical technique ultimately relies on the research objectives, whether polymer type, morphological information, quantity, or the presence of MPs in soil is of interest. Among the reviewed studies, globally, a broad range of concentrations (up to 6.9 \u00d7 105 particles/kg) of MPs was observed. However, the data was mainly limited to China. Lastly, the validation of analytical methods, QA/QC procedures, and recommendations for future research are addressed. There are no standardized methods to analyze MPs in soil and validate analytical processes, making it difficult to compare methods and results among studies, resulting in large differences in reported results between laboratories participating in interlaboratory studies. This indicates a need to improve and further develop more robust and efficient analytical techniques for analyzing MPs in soil, conduct more interlaboratory studies, manufacture and use certified reference materials, and promote large-scale monitoring research globally. "
+ },
+ "https://doi.org/10.1016/j.jgar.2022.01.026": {
+  "month": "6",
+  "pub_date": "Jun 2022",
+  "year": 2022,
+  "early_online": "4 Feb 2022",
+  "title": "Targeting the ATP synthase in bacterial and fungal pathogens: beyond Mycobacterium tuberculosis",
+  "contributors": "Vestergaard, M., Bald, D., Ingmer, H.",
+  "corresponding": "Ingmer, H.",
+  "organisations": "AIMMS, Structural Biology, University of Copenhagen",
+  "journal": "Journal of Global Antimicrobial Resistance",
+  "description": "Targeting the ATP synthase in bacterial and fungal pathogens: beyond Mycobacterium tuberculosisThe ATP synthase is a multicomponent enzyme that is largely conserved across the kingdoms of life. In many species the ATP synthase is central in the synthesis of ATP by using the electrochemical proton gradient generated via the electron transport chain. Bacteria inhabit very diverse ecological niches; hence their metabolism to extract nutrients and generation of ATP varies from species to species. Some species are obligate aerobes (e.g., Mycobacterium tuberculosis), relying on oxidative phosphorylation for ATP synthesis, whereas others are strict anaerobes (e.g., Clostridioides difficile) relying primarily on substrate-level phosphorylation using various fermentative pathways. Yet other species, such as Staphylococcus aureus and Escherichia coli are facultative anaerobes and can convert energy via both respiratory and fermentative pathways. The metabolic propensity and growth conditions experienced by bacterial species have a great impact on the necessity of a functional ATP synthase for viability. The ATP synthase has been validated as a druggable target with the approval of the ATP synthase inhibitor bedaquiline for treatment of M. tuberculosis, an organism in which the ATP synthase is essential for growth. Currently, no ATP synthase inhibitors are in clinical use against non-mycobacterial pathogens. In this review, the physiological functions of the ATP synthase in various bacterial pathogens are discussed in relation to the metabolic pathways utilized for providing energy. The ATP synthase is essential in important pathogenic species that are obligate aerobes, obligate anaerobes and aerotolerant anaerobes, whereas it is dispensable for growth in most facultative anaerobic pathogens. Interference with the ATP synthase in facultative anaerobes has physiological consequences, such as membrane hyperpolarization, which can be exploited for combination therapies. Collectively, the available data indicate that the ATP synthase is an interesting target for development of new antimicrobials beyond M. tuberculosis."
+ },
+ "https://doi.org/10.1016/B978-0-323-89773-0.00013-8": {
+  "month": "6",
+  "pub_date": "Jun 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Using zebrafish to assess developmental neurotoxicity",
+  "contributors": "Padilla, S., Hill, B. N., Legradi, J., Kl\u00fcver, N.",
+  "corresponding": null,
+  "organisations": "E&H: Environmental Health and Toxicology, AIMMS, United States Environmental Protection Agency, Oak Ridge Institute for Science and Educatio, Helmholtz Centre for Environmental Research",
+  "journal": null,
+  "description": "Using zebrafish to assess developmental neurotoxicityIt is widely accepted that the developing nervous system is especially vulnerable to a variety of chemicals, including drugs and environmental contaminants; however our understanding of the risks from chemical exposures during development is rudimentary. Zebrafish have become a popular test species in toxicology, pharmacology, and biomedical research. This chapter was written as an introduction to the use of zebrafish in developmental neurotoxicology, and to encourage the use of this model either for human or ecological risk characterizations. We have endeavored to make the reader aware of significant research findings, and to offer a balanced view of the advantages and limitations in using zebrafish as a model for investigating developmental neurotoxicity."
+ },
+ "https://doi.org/10.3390/biom12030424": {
+  "month": "3",
+  "pub_date": "Mar 2022",
+  "year": 2022,
+  "early_online": "12 Mar 2022",
+  "title": "ENT-A010, a Novel Steroid Derivative, Displays Neuroprotective Functions and Modulates Microglial Responses",
+  "contributors": "Yilmaz, C., Rogdakis, T., Latorrata, A., Thanou, E., Karadima, E., Papadimitriou, E., Siapi, E., Li, K. W., Katsila, T., Calogeropoulou, T., Charalampopoulos, I., Alexaki, V. I.",
+  "corresponding": "Alexaki, V. I.",
+  "organisations": "Amsterdam Neuroscience - Neurodegeneration, Molecular and Cellular Neurobiology, AIMMS, Amsterdam Neuroscience - Cellular & Molecular Mechanisms, University Hospital Carl Gustav Carus, University of Crete, Foundation for Research and Technology-Hellas, National Hellenic Research Foundation",
+  "journal": "Biomolecules",
+  "description": "ENT-A010, a Novel Steroid Derivative, Displays Neuroprotective Functions and Modulates Microglial ResponsesTackling neurodegeneration and neuroinflammation is particularly challenging due to the complexity of central nervous system (CNS) disorders, as well as the limited drug accessibility to the brain. The activation of tropomyosin-related kinase A (TRKA) receptor signaling by the nerve growth factor (NGF) or the neurosteroid dehydroepiandrosterone (DHEA) may combat neurodegeneration and regulate microglial function. In the present study, we synthesized a C-17-spiro-cyclopropyl DHEA derivative (ENT-A010), which was capable of activating TRKA. ENT-A010 protected PC12 cells against serum starvation-induced cell death, dorsal root ganglia (DRG) neurons against NGF deprivation-induced apoptosis and hippocampal neurons against A\u03b2-induced apoptosis. In addition, ENT-A010 pretreatment partially restored homeostatic features of microglia in the hippocampus of lipopolysaccharide (LPS)-treated mice, enhanced A\u03b2 phagocytosis, and increased Ngf expression in microglia in vitro. In conclusion, the small molecule ENT-A010 elicited neuroprotective effects and modulated microglial function, thereby emerging as an interesting compound, which merits further study in the treatment of CNS disorders."
+ },
  "https://doi.org/10.1016/j.tiv.2021.105269": {
   "month": "3",
   "pub_date": "Mar 2022",
@@ -611,18 +659,6 @@
   "journal": "International Journal of Molecular Sciences",
   "description": "BRET-Based Biosensors to Measure Agonist Efficacies in Histamine H1 Receptor-Mediated G Protein Activation, Signaling and Interactions with GRKs and \u03b2-ArrestinsThe histamine H1 receptor (H1R) is a G protein-coupled receptor (GPCR) and plays a key role in allergic reactions upon activation by histamine which is locally released from mast cells and basophils. Consequently, H1R is a well-established therapeutic target for antihistamines that relieve allergy symptoms. H1R signals via heterotrimeric Gq proteins and is phosphorylated by GPCR kinase (GRK) subtypes 2, 5, and 6, consequently facilitating the subsequent recruitment of \u03b2-arrestin1 and/or 2. Stimulation of a GPCR with structurally different agonists can result in preferential engagement of one or more of these intracellular signaling molecules. To evaluate this so-called biased agonism for H1R, bioluminescence resonance energy transfer (BRET)-based biosensors were applied to measure H1R signaling through heterotrimeric Gq proteins, second messengers (inositol 1,4,5-triphosphate and Ca2+), and receptor-protein interactions (GRKs and \u03b2-arrestins) in response to histamine, 2-phenylhistamines, and histaprodifens in a similar cellular background. Although differences in efficacy were observed for these agonists between some functional readouts as compared to reference agonist histamine, subsequent data analysis using an operational model of agonism revealed only signaling bias of the agonist Br-phHA-HA in recruiting \u03b2-arrestin2 to H1R over Gq biosensor activation."
  },
- "https://doi.org/10.1016/j.toxcx.2022.100118": {
-  "month": "3",
-  "pub_date": "Jun 2022",
-  "year": 2022,
-  "early_online": "7 Mar 2022",
-  "title": "In vitro and in vivo preclinical venom inhibition assays identify metalloproteinase inhibiting drugs as potential future treatments for snakebite envenoming by Dispholidus typus",
-  "contributors": "Menzies, S. K., Clare, R. H., Xie, C., Westhorpe, A., Hall, S. R., Edge, R. J., Alsolaiss, J., Crittenden, E., Marriott, A. E., Harrison, R. A., Kool, J., Casewell, N. R.",
-  "corresponding": "Menzies, S. K.",
-  "organisations": "AIMMS, BioAnalytical Chemistry, Liverpool School of Tropical Medicine",
-  "journal": "Toxicon: X",
-  "description": "In vitro and in vivo preclinical venom inhibition assays identify metalloproteinase inhibiting drugs as potential future treatments for snakebite envenoming by Dispholidus typusSnakebite envenoming affects more than 250,000 people annually in sub-Saharan Africa. Envenoming by Dispholidus typus (boomslang) results in venom-induced consumption coagulopathy (VICC), whereby highly abundant prothrombin-activating snake venom metalloproteinases (SVMPs) consume clotting factors and deplete fibrinogen. The only available treatment for D. typus envenoming is the monovalent SAIMR Boomslang antivenom. Treatment options are urgently required because this antivenom is often difficult to source and, at US$6000/vial, typically unaffordable for most snakebite patients. We therefore investigated the in vitro and in vivo preclinical efficacy of four SVMP inhibitors to neutralise the effects of D. typus venom; the matrix metalloproteinase inhibitors marimastat and prinomastat, and the metal chelators dimercaprol and DMPS. The venom of D. typus exhibited an SVMP-driven procoagulant phenotype in vitro. Marimastat and prinomastat demonstrated equipotent inhibition of the SVMP-mediated procoagulant activity of the venom in vitro, whereas dimercaprol and DMPS showed considerably lower potency. However, when tested in preclinical murine models of envenoming using mixed sex CD1 mice, DMPS and marimastat demonstrated partial protection against venom lethality, demonstrated by prolonged survival times of experimental animals, whereas dimercaprol and prinomastat failed to confer any protection at the doses tested. The preclinical results presented here demonstrate that DMPS and marimastat show potential as novel small molecule-based therapeutics for D. typus snakebite envenoming. These two drugs have been previously shown to be effective against Echis ocellatus VICC in preclinical models, and thus we conclude that marimastat and DMPS should be further explored as potentially valuable early intervention therapeutics to broadly treat VICC following snakebite envenoming in sub-Saharan Africa."
- },
  "https://doi.org/10.1038/s42004-022-00640-4": {
   "month": "3",
   "pub_date": "Dec 2022",
@@ -646,18 +682,6 @@
   "organisations": "E&H: Environmental Chemistry and Toxicology, AIMMS, Helmholtz Centre for Environmental Research, Goethe University Frankfurt, Catalan Institute for Water Research, CSIC, University of York, Universit\u00e9 de Bordeaux, IRCCS Istituto di ricerche farmacologiche Mario Negri- Milano, Bergamo, Ranica, University of Antwerp, Institut national de l'environnement industriel et des risques, University of T\u00fcbingen, Technical University of Denmark, Moi University, University of Cyprus, Jaume I University, Masaryk University, Swiss Federal Institute of Aquatic Science and Technology, Swiss Federal Institute of Technology Zurich, RWTH Aachen University, University of Bath, University of New South Wales, Brunel University London, Leuphana University of L\u00fcneburg, The French Water Academy, University of C\u00e1diz, Universidade Estadual de Campinas, ComUE Paris-Saclay, University of South Africa, National Institute of Public Health and the Environment, Radboud University Nijmegen, Norwegian Institute for Water Research, Stanford University, University of South Carolina, Norwegian Institute for Air Research, University of Luxembourg, Institute for Social-Ecological Research (ISOE), Environmental Institute (EI), Tokyo University of Science, Nanyang Technological University, Universidade de Bras\u00edlia, University of Novi Sad, University of Queensland, Vietnam National University, Hanoi, National University of Singapore, Nanjing University",
   "journal": "Environmental Sciences Europe",
   "description": "One planet: one health. A call to support the initiative on a global science\u2013policy body on chemicals and wasteThe chemical pollution crisis severely threatens human and environmental health globally. To tackle this challenge the establishment of an overarching international science\u2013policy body has recently been suggested. We strongly support this initiative based on the awareness that humanity has already likely left the safe operating space within planetary boundaries for novel entities including chemical pollution. Immediate action is essential and needs to be informed by sound scientific knowledge and data compiled and critically evaluated by an overarching science\u2013policy interface body. Major challenges for such a body are (i) to foster global knowledge production on exposure, impacts and governance going beyond data-rich regions (e.g., Europe and North America), (ii) to cover the entirety of hazardous chemicals, mixtures and wastes, (iii) to follow a one-health perspective considering the risks posed by chemicals and waste on ecosystem and human health, and (iv) to strive for solution-oriented assessments based on systems thinking. Based on multiple evidence on urgent action on a global scale, we call scientists and practitioners to mobilize their scientific networks and to intensify science\u2013policy interaction with national governments to support the negotiations on the establishment of an intergovernmental body based on scientific knowledge explaining the anticipated benefit for human and environmental health."
- },
- "https://doi.org/10.1016/j.tiv.2022.105345": {
-  "month": "3",
-  "pub_date": "Jun 2022",
-  "year": 2022,
-  "early_online": "10 Mar 2022",
-  "title": "A quantitative AOP of mitochondrial toxicity based on data from three cell lines",
-  "contributors": "Tebby, C., Gao, W., Delp, J., Carta, G., van der Stel, W., Leist, M., Jennings, P., van de Water, B., Bois, F. Y.",
-  "corresponding": "Tebby, C.",
-  "organisations": "Molecular and Computational Toxicology, AIMMS, Institut national de l'environnement industriel et des risques, Universit\u00e9 de technologie de Compi\u00e8gne, University of Konstanz, Leiden University, Certara",
-  "journal": "Toxicology in Vitro",
-  "description": "A quantitative AOP of mitochondrial toxicity based on data from three cell linesAdverse Outcome Pathways (AOPs) are increasingly used to support the integration of in vitro data in hazard assessment for chemicals. Quantitative AOPs (qAOPs) use mathematical models to describe the relationship between key events (KEs). In this paper, data obtained in three cell lines, LHUMES, HepG2 and RPTEC/TERT1, using similar experimental protocols, was used to calibrate a qAOP of mitochondrial toxicity for two chemicals, rotenone and deguelin. The objectives were to determine whether the same qAOP could be used for the three cell types, and to test chemical-independence by cross-validation with a dataset obtained on eight other chemicals in LHUMES cells. Repeating the calibration approach for both chemicals in three cell lines highlighted various practical difficulties. Even when the same readouts of KEs are measured, the mathematical functions used to describe the key event relationships may not be the same. Cross-validation in LHUMES cells was attempted by estimating chemical-specific potency at the molecular initiating events and using the rest of the calibrated qAOP to predict downstream KEs: toxicity of azoxystrobin, carboxine, mepronil and thifluzamide was underestimated. Selection of most relevant readouts and accurate characterization of the molecular initiating event for cross-validation are critical when designing in vitro experiments targeted at calibrating qAOPs."
  },
  "https://doi.org/10.1002/cmdc.202200113": {
   "month": "3",
@@ -731,6 +755,18 @@
   "journal": "Environment International",
   "description": "Discovery and quantification of plastic particle pollution in human blood"
  },
+ "https://doi.org/10.1039/d2ob00410k": {
+  "month": "3",
+  "pub_date": "24 Mar 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Phosphine addition to dehydroalanine for peptide modification",
+  "contributors": "Liu, M., Sovrovic, M., Suga, H., Jongkees, S. A.",
+  "corresponding": "Jongkees, S. A.",
+  "organisations": "AIMMS, Chemistry and Pharmaceutical Sciences, Utrecht University, University of Tokyo",
+  "journal": "Organic and Biomolecular Chemistry",
+  "description": "Phosphine addition to dehydroalanine for peptide modificationThiols are a functional group commonly used for selective reactions in a biochemical setting because of their high nucleophilicity. Phosphorus nucleophiles can undergo some similar reactions to thiols, but remain underexploited in this setting. In this work we show that phosphine nucleophiles react cleanly and quickly with a dehydroalanine electrophile, itself generated from cysteine, to give a stable adduct in a peptide context. NMR reveals the product to be a phosphonium ion and indicates some backbone conformational constraint, possibly arising from transient carbonyl coordination. The reaction proceeded quickly, with a pseudo-first order rate constant of 0.126 min\u22121 at 1 mM peptide (80% conversion in 10 min), and with no detectable side products on the peptide. A broad peptide sequence scope and water-soluble phosphines with alkyl as well as aromatic groups were all shown to react efficiently. Phosphine addition proved to be efficient on nisin as a model Dha-containing biologically-derived peptide and on an mRNA-displayed peptide, as well as on TCEP-modified agarose for peptide capture from solution. This reaction thus presents a promising approach for modification of peptides for cargo attachment or altered physical properties in peptide discovery."
+ },
  "https://doi.org/10.3390/antiox11040659": {
   "month": "4",
   "pub_date": "Apr 2022",
@@ -754,6 +790,54 @@
   "organisations": "Systems Bioinformatics, AIMMS, NIZO food research, Daiya Foods Inc.",
   "journal": "Foods",
   "description": "Metabolic Conversions by Lactic Acid Bacteria during Plant Protein FermentationsTo secure a sustainable food supply for the rapidly growing global population, great efforts towards a plant-based diet are underway. However, the use of plant proteins comes with several challenges, such as improvement or removal of undesired flavours, and generation of desired texture properties. Fermentation holds large potential to alter these properties, but compared to dairy fermentations, our knowledge on strain properties in different plant-based substrates is still limited. Here, we explored different lactic acid bacteria for their ability to grow, produce flavour compounds, or remove off-flavour compounds from different plant proteins. For this, 151 LAB strains from dairy and non-dairy origins were cultured in plant protein plus coconut oil emulsions supplemented with glucose. Pea, chickpea, mung, fava, and soybean proteins were used in the study and bacterial strains for screening included the genera Streptococcus, Lactococcus, Lactobacillus, and Leuconostoc. Efficient, high throughput, screening on plant proteins was developed and strains were assessed for their ability to (i) acidify and decrease the pH; (ii) express key enzymes involved in the formation of amino acid derived flavours, which included PepN (aminopeptidase N), PepXP (X-prolyl dipeptidyl peptidase), EstA (esterase), BcAT (branched chain aminotransferase), CBL (cystathione beta lyase), and ArAT (aromatic aminotransferase); and (iii) improve the overall aroma profile by generating dairy/cheesy notes and decreasing off flavours. Suitable screening conditions were determined, and highlighted the importance that a sufficient heat treatment must be applied to samples containing plant proteins, prior to fermentation, as an outgrowth of spore forming Bacillus cereus was observed if the material was only pasteurised. Enzyme activities for strains measured in rich broth vs. a buffered protein solution showed little-to-no correlation, which illustrated the importance of screening conditions to obtain predictive enzyme measurements. Aroma formation analysis allowed to identify strains that were able to increase key aromas such as diacetyl, acetoin, 2-and 3-methyl butanol, and 2,3pentanedione, as well as decrease the off-flavours hexanal, pentanal, and nonanal. Our findings illustrate the importance of strain specific differences in the assessed functionalities and how a methodical approach to screening LAB can be applied to select suitable microorganisms that show promise in fermentation of plant proteins when applied in non-dairy cheese applications."
+ },
+ "https://doi.org/10.1016/j.tiv.2022.105345": {
+  "month": "6",
+  "pub_date": "Jun 2022",
+  "year": 2022,
+  "early_online": "10 Mar 2022",
+  "title": "A quantitative AOP of mitochondrial toxicity based on data from three cell lines",
+  "contributors": "Tebby, C., Gao, W., Delp, J., Carta, G., van der Stel, W., Leist, M., Jennings, P., van de Water, B., Bois, F. Y.",
+  "corresponding": "Tebby, C.",
+  "organisations": "Molecular and Computational Toxicology, AIMMS, Institut national de l'environnement industriel et des risques, Universit\u00e9 de technologie de Compi\u00e8gne, University of Konstanz, Leiden University, Certara",
+  "journal": "Toxicology in Vitro",
+  "description": "A quantitative AOP of mitochondrial toxicity based on data from three cell linesAdverse Outcome Pathways (AOPs) are increasingly used to support the integration of in vitro data in hazard assessment for chemicals. Quantitative AOPs (qAOPs) use mathematical models to describe the relationship between key events (KEs). In this paper, data obtained in three cell lines, LHUMES, HepG2 and RPTEC/TERT1, using similar experimental protocols, was used to calibrate a qAOP of mitochondrial toxicity for two chemicals, rotenone and deguelin. The objectives were to determine whether the same qAOP could be used for the three cell types, and to test chemical-independence by cross-validation with a dataset obtained on eight other chemicals in LHUMES cells. Repeating the calibration approach for both chemicals in three cell lines highlighted various practical difficulties. Even when the same readouts of KEs are measured, the mathematical functions used to describe the key event relationships may not be the same. Cross-validation in LHUMES cells was attempted by estimating chemical-specific potency at the molecular initiating events and using the rest of the calibrated qAOP to predict downstream KEs: toxicity of azoxystrobin, carboxine, mepronil and thifluzamide was underestimated. Selection of most relevant readouts and accurate characterization of the molecular initiating event for cross-validation are critical when designing in vitro experiments targeted at calibrating qAOPs."
+ },
+ "https://doi.org/10.1016/j.toxcx.2022.100118": {
+  "month": "6",
+  "pub_date": "Jun 2022",
+  "year": 2022,
+  "early_online": "7 Mar 2022",
+  "title": "In vitro and in vivo preclinical venom inhibition assays identify metalloproteinase inhibiting drugs as potential future treatments for snakebite envenoming by Dispholidus typus",
+  "contributors": "Menzies, S. K., Clare, R. H., Xie, C., Westhorpe, A., Hall, S. R., Edge, R. J., Alsolaiss, J., Crittenden, E., Marriott, A. E., Harrison, R. A., Kool, J., Casewell, N. R.",
+  "corresponding": "Menzies, S. K.",
+  "organisations": "AIMMS, BioAnalytical Chemistry, Liverpool School of Tropical Medicine",
+  "journal": "Toxicon: X",
+  "description": "In vitro and in vivo preclinical venom inhibition assays identify metalloproteinase inhibiting drugs as potential future treatments for snakebite envenoming by Dispholidus typusSnakebite envenoming affects more than 250,000 people annually in sub-Saharan Africa. Envenoming by Dispholidus typus (boomslang) results in venom-induced consumption coagulopathy (VICC), whereby highly abundant prothrombin-activating snake venom metalloproteinases (SVMPs) consume clotting factors and deplete fibrinogen. The only available treatment for D. typus envenoming is the monovalent SAIMR Boomslang antivenom. Treatment options are urgently required because this antivenom is often difficult to source and, at US$6000/vial, typically unaffordable for most snakebite patients. We therefore investigated the in vitro and in vivo preclinical efficacy of four SVMP inhibitors to neutralise the effects of D. typus venom; the matrix metalloproteinase inhibitors marimastat and prinomastat, and the metal chelators dimercaprol and DMPS. The venom of D. typus exhibited an SVMP-driven procoagulant phenotype in vitro. Marimastat and prinomastat demonstrated equipotent inhibition of the SVMP-mediated procoagulant activity of the venom in vitro, whereas dimercaprol and DMPS showed considerably lower potency. However, when tested in preclinical murine models of envenoming using mixed sex CD1 mice, DMPS and marimastat demonstrated partial protection against venom lethality, demonstrated by prolonged survival times of experimental animals, whereas dimercaprol and prinomastat failed to confer any protection at the doses tested. The preclinical results presented here demonstrate that DMPS and marimastat show potential as novel small molecule-based therapeutics for D. typus snakebite envenoming. These two drugs have been previously shown to be effective against Echis ocellatus VICC in preclinical models, and thus we conclude that marimastat and DMPS should be further explored as potentially valuable early intervention therapeutics to broadly treat VICC following snakebite envenoming in sub-Saharan Africa."
+ },
+ "https://doi.org/10.1002/chem.202200755": {
+  "month": "6",
+  "pub_date": "1 Jun 2022",
+  "year": 2022,
+  "early_online": "23 Mar 2022",
+  "title": "How the Chalcogen Atom Size Dictates the Hydrogen-Bond Donor Capability of Carboxamides, Thioamides, and Selenoamides",
+  "contributors": "Nieuwland, C., Fonseca Guerra, C.",
+  "corresponding": "Fonseca Guerra, C.",
+  "organisations": "Theoretical Chemistry, AIMMS",
+  "journal": "Chemistry - A European Journal",
+  "description": "How the Chalcogen Atom Size Dictates the Hydrogen-Bond Donor Capability of Carboxamides, Thioamides, and SelenoamidesThe amino groups of thio- and selenoamides can act as stronger hydrogen-bond donors than of carboxamides, despite the lower electronegativity of S and Se. This phenomenon has been experimentally explored, particularly in organocatalysis, but a sound electronic explanation is lacking. Our quantum chemical investigations show that the NH2 groups in thio- and selenoamides are more positively charged than in carboxamides. This originates from the larger electronic density flow from the nitrogen lone pair of the NH2 group towards the lower-lying \u03c0*C=S and \u03c0*C=Se orbitals than to the high-lying \u03c0*C=O orbital. The relative energies of the \u03c0* orbitals result from the overlap between the chalcogen np and carbon 2p atomic orbitals, which is set by the carbon-chalcogen equilibrium distance, a consequence of the Pauli repulsion between the two bonded atoms. Thus, neither the electronegativity nor the often-suggested polarizability but the steric size of the chalcogen atom determines the amide's hydrogen-bond donor capability."
+ },
+ "https://doi.org/10.1007/978-1-0716-1831-8_16": {
+  "month": "4",
+  "pub_date": "2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Metabolic Modeling of Wine Fermentation at Genome Scale",
+  "contributors": "Mendoza, S. N., Saa, P. A., Teusink, B., Agosin, E.",
+  "corresponding": "Agosin, E.",
+  "organisations": "Systems Bioinformatics, AIMMS, Systems Bioinformatics, Pontificia Universidad Cat\u00f3lica de Chile",
+  "journal": null,
+  "description": "Metabolic Modeling of Wine Fermentation at Genome ScaleWine fermentation is an ancient biotechnological process mediated by different microorganisms such as yeast and bacteria. Understanding of the metabolic and physiological phenomena taking place during this process can be now attained at a genome scale with the help of metabolic models. In this chapter, we present a detailed protocol for modeling wine fermentation using genome-scale metabolic models. In particular, we illustrate how metabolic fluxes can be computed, optimized and interpreted, for both yeast and bacteria under winemaking conditions. We also show how nutritional requirements can be determined and simulated using these models in relevant test cases. This chapter introduces fundamental concepts and practical steps for applying flux balance analysis in wine fermentation, and as such, it is intended for a broad microbiology audience as well as for practitioners in the metabolic modeling field."
  },
  "https://doi.org/10.1016/j.microc.2021.106986": {
   "month": "4",
@@ -803,6 +887,18 @@
   "journal": "Molecules (Basel, Switzerland)",
   "description": "Structural Properties of Phenylalanine-Based Dimers Revealed Using IR Action SpectroscopyPeptide segments with phenylalanine residues are commonly found in proteins that are related to neurodegenerative diseases. However, the self-assembly of phenylalanine-based peptides can be also functional. Peptides containing phenylalanine residues with different side caps, composition, and chemical alteration can form different types of nanostructures that find many applications in technology and medicine. Various studies have been performed in order to explain the remarkable stability of the resulting nanostructures. Here, we study the early stages of self-assembly of two phenylalanine derived peptides in the gas phase using IR action spectroscopy. Our focus lies on the identification of the key intra- and intermolecular interactions that govern the formation of the dimers. The far-IR region allowed us to distinguish between structural families and to assign the 2-(2-amino-2-phenylacetamido)-2-phenylacetic acid (PhgPhg) dimer to a very symmetric structure with two intermolecular hydrogen bonds and its aromatic rings folded away from the backbone. By comparison with the phenylalanine-based peptide cyclic L-phenylalanyl-L-phenylalanine (cyclo-FF), we found that the linear FF dimer likely adopts a less ordered structure. However, when one more phenylalanine residue is added (FFF), a more structurally organized dimer is formed with several intermolecular hydrogen bonds."
  },
+ "https://doi.org/10.1002/chem.202201093": {
+  "month": "4",
+  "pub_date": "11 Apr 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "C\u2212X Bond Activation by Palladium: Steric Shielding versus Steric Attraction",
+  "contributors": "Hansen, T., Sun, X., Dalla Tiezza, M., van Zeist, W. J., van Stralen, J. N., Geerke, D. P., Wolters, L. P., Poater, J., Hamlin, T. A., Bickelhaupt, F. M.",
+  "corresponding": "Hamlin, T. A.",
+  "organisations": "Chemistry and Pharmaceutical Sciences, Theoretical Chemistry, Molecular and Computational Toxicology, AIMMS, Vrije Universiteit Amsterdam",
+  "journal": "Chemistry - A European Journal",
+  "description": "C\u2212X Bond Activation by Palladium: Steric Shielding versus Steric AttractionThe C\u2212X bond activation (X = H, C) of a series of substituted C(n\u00b0)\u2212H and C(n\u00b0)\u2212C(m\u00b0) bonds with C(n\u00b0) and C(m\u00b0) = H3C\u2212 (methyl, 0\u00b0), CH3H2C\u2212 (primary, 1\u00b0), (CH3)2HC\u2212 (secondary, 2\u00b0), (CH3)3C\u2212 (tertiary, 3\u00b0) by palladium were investigated using relativistic dispersion-corrected density functional theory at ZORA-BLYP-D3(BJ)/TZ2P. The effect of the stepwise introduction of substituents was pinpointed at the C\u2212X bond on the bond activation process. The C(n\u00b0)\u2212X bonds become substantially weaker going from C(0\u00b0)\u2212X, to C(1\u00b0)\u2212X, to C(2\u00b0)\u2212X, to C(3\u00b0)\u2212X because of the increasing steric repulsion between the C(n\u00b0)- and X-group. Interestingly, this often does not lead to a lower barrier for the C(n\u00b0)\u2212X bond activation. The C\u2212H activation barrier, for example, decreases from C(0\u00b0)\u2212X, to C(1\u00b0)\u2212X, to C(2\u00b0)\u2212X and then increases again for the very crowded C(3\u00b0)\u2212X bond. For the more congested C\u2212C bond, in contrast, the activation barrier always increases as the degree of substitution is increased. Our activation strain and matching energy decomposition analyses reveal that these differences in C\u2212H and C\u2212C bond activation can be traced back to the opposing interplay between steric repulsion across the C\u2212X bond versus that between the catalyst and substrate."
+ },
  "https://doi.org/10.3389/fmolb.2022.861491": {
   "month": "4",
   "pub_date": "11 Apr 2022",
@@ -827,6 +923,18 @@
   "journal": "Journal of Molecular Spectroscopy",
   "description": "New potential candidates for astronomical searches discovered in the electrical discharge of the PAH naphthalene and acetonitrileThe formation and dissociation mechanisms of polycyclic aromatic hydrocarbons (PAHs) as well as their reactivity with other interstellar molecules are elusive. In this work, we have investigated the electrical discharge chemistry of the PAH naphthalene and acetonitrile, a molecule known to be present in interstellar environments, using a combination of mass-selective IR-UV ion dip spectroscopy with the free electron laser FELIX in the mid-IR frequency region (550 \u2013 1800 cm\u22121) and quantum chemical calculations. In addition to the species known to be produced in the electrical discharge of pure naphthalene, \u2013CH3 and \u2013CN substituted unsaturated hydrocarbons have been identified. Most of them, in particular those containing a nitrogen atom in the molecular framework, such as 7H-benzo[7]annulenecarbonitrile, have a substantial dipole moment and, therefore, can be considered as potential candidates for radio astronomical searches. Among the species observed, the two isomers 1- and 2-cyanonaphthalene, which have been recently detected in the TMC-1, have been identified in our experiment, thus continuing to highlight the use of electrical discharge sources as a valuable tool to produce astronomically relevant species."
  },
+ "https://doi.org/10.1002/chem.202200987": {
+  "month": "4",
+  "pub_date": "20 Apr 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "How Ionization Catalyzes Diels-Alder Reactions",
+  "contributors": "Vermeeren, P., Hamlin, T. A., Bickelhaupt, F. M.",
+  "corresponding": "Hamlin, T. A.",
+  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences",
+  "journal": "Chemistry - A European Journal",
+  "description": "How Ionization Catalyzes Diels-Alder ReactionsThe catalytic effect of ionization on the Diels-Alder reaction between 1,3-butadiene and acrylaldehyde has been studied using relativistic density functional theory (DFT). Removal of an electron from the dienophile, acrylaldehyde, significantly accelerates the Diels-Alder reaction and shifts the reaction mechanism from concerted asynchronous for the neutral Diels-Alder reaction to stepwise for the radical-cation Diels-Alder reaction. Our detailed activation strain and Kohn-Sham molecular orbital analyses reveal how ionization of the dienophile enhances the Diels-Alder reactivity via two mechanisms: (i) by amplifying the asymmetry in the dienophile's occupied \u03c0-orbitals to such an extent that the reaction goes from concerted asynchronous to stepwise and thus with substantially less steric (Pauli) repulsion per reaction step; (ii) by enhancing the stabilizing orbital interactions that result from the ability of the singly occupied molecular orbital of the radical-cation dienophile to engage in an additional three-electron bonding interaction with the highest occupied molecular orbital of the diene."
+ },
  "https://doi.org/10.1021/jacs.1c11506": {
   "month": "4",
   "pub_date": "20 Apr 2022",
@@ -839,17 +947,161 @@
   "journal": "Journal of the American Chemical Society",
   "description": "Improving Results by Improving Densities: Density-Corrected Density Functional TheoryDensity functional theory (DFT) calculations have become widespread in both chemistry and materials, because they usually provide useful accuracy at much lower computational cost than wavefunction-based methods. All practical DFT calculations require an approximation to the unknown exchange-correlation energy, which is then used self-consistently in the Kohn-Sham scheme to produce an approximate energy from an approximate density. Density-corrected DFT is simply the study of the relative contributions to the total energy error. In the vast majority of DFT calculations, the error due to the approximate density is negligible. But with certain classes of functionals applied to certain classes of problems, the density error is sufficiently large as to contribute to the energy noticeably, and its removal leads to much better results. These problems include reaction barriers, torsional barriers involving I -conjugation, halogen bonds, radicals and anions, most stretched bonds, etc. In all such cases, use of a more accurate density significantly improves performance, and often the simple expedient of using the Hartree-Fock density is enough. This Perspective explains what DC-DFT is, where it is likely to improve results, and how DC-DFT can produce more accurate functionals. We also outline challenges and prospects for the field."
  },
- "https://doi.org/10.3390/ph15050512": {
+ "https://doi.org/10.3389/fmolb.2022.882487": {
   "month": "4",
-  "pub_date": "22 Apr 2022",
+  "pub_date": "27 Apr 2022",
   "year": 2022,
   "early_online": null,
-  "title": "Using a <i>Caenorhabditis elegans</i> Parkinson&rsquo;s Disease Model to Assess Disease Progression and Therapy Efficiency",
-  "contributors": "Hughes, S., Dop, M. V., Kolsters, N., Klashorst, D. V. D., Pogosova, A., Rijs, A.",
-  "corresponding": null,
-  "organisations": "E&H: Environmental Health and Toxicology, AIMMS, AMS - Ageing & Vitality, AMS - Musculoskeletal Health, BioAnalytical Chemistry",
+  "title": "Studying Metabolism by NMR-Based Metabolomics",
+  "contributors": "Moco, S.",
+  "corresponding": "Moco, S.",
+  "organisations": "Molecular and Computational Toxicology, AIMMS",
+  "journal": "Frontiers in Molecular Biosciences",
+  "description": "Studying Metabolism by NMR-Based MetabolomicsDuring the past few decades, the direct analysis of metabolic intermediates in biological samples has greatly improved the understanding of metabolic processes. The most used technologies for these advances have been mass spectrometry (MS) and nuclear magnetic resonance (NMR) spectroscopy. NMR is traditionally used to elucidate molecular structures and has now been extended to the analysis of complex mixtures, as biological samples: NMR-based metabolomics. There are however other areas of small molecule biochemistry for which NMR is equally powerful. These include the quantification of metabolites (qNMR); the use of stable isotope tracers to determine the metabolic fate of drugs or nutrients, unravelling of new metabolic pathways, and flux through pathways; and metabolite-protein interactions for understanding metabolic regulation and pharmacological effects. Computational tools and resources for automating analysis of spectra and extracting meaningful biochemical information has developed in tandem and contributes to a more detailed understanding of systems biochemistry. In this review, we highlight the contribution of NMR in small molecule biochemistry, specifically in metabolic studies by reviewing the state-of-the-art methodologies of NMR spectroscopy and future directions."
+ },
+ "https://doi.org/10.3390/ph15050512": {
+  "month": "5",
+  "pub_date": "May 2022",
+  "year": 2022,
+  "early_online": "22 Apr 2022",
+  "title": "Using a Caenorhabditis elegans Parkinson\u2019s Disease Model to Assess Disease Progression and Therapy Efficiency",
+  "contributors": "Hughes, S., van Dop, M., Kolsters, N., van de Klashorst, D., Pogosova, A., Rijs, A. M.",
+  "corresponding": "Hughes, S.",
+  "organisations": "E&H: Environmental Health and Toxicology, AIMMS, AMS - Ageing & Vitality, AMS - Musculoskeletal Health, BioAnalytical Chemistry, HAN University of Applied Sciences",
   "journal": "Pharmaceuticals",
-  "description": "Using a <i>Caenorhabditis elegans</i> Parkinson&rsquo;s Disease Model to Assess Disease Progression and Therapy Efficiency"
+  "description": "Using a Caenorhabditis elegans Parkinson\u2019s Disease Model to Assess Disease Progression and Therapy EfficiencyDespite Parkinson\u2019s Disease (PD) being the second most common neurodegenerative disease, treatment options are limited. Consequently, there is an urgent need to identify and screen new therapeutic compounds that slow or reverse the pathology of PD. Unfortunately, few new therapeutics are being produced, partly due to the low throughput and/or poor predictability of the currently used model organisms and in vivo screening methods. Our objective was to develop a simple and affordable platform for drug screening utilizing the nematode Caenorhabditis elegans. The effect of Levodopa, the \u201cGold standard\u201d of PD treatment, was explored in nematodes expressing the disease-causing \u03b1-synuclein protein. We focused on two key hallmarks of PD: plaque formation and mobility. Exposure to Levodopa ameliorated the mobility defect in C. elegans, similar to people living with PD who take the drug. Further, long-term Levodopa exposure was not detrimental to lifespan. This C. elegans-based method was used to screen a selection of small-molecule drugs for an impact on \u03b1-synuclein aggregation and mobility, identifying several promising compounds worthy of further investigation, most notably Ambroxol. The simple methodology means it can be adopted in many labs to pre-screen candidate compounds for a positive impact on disease progression."
+ },
+ "https://doi.org/10.1021/acs.joc.2c00350": {
+  "month": "5",
+  "pub_date": "6 May 2022",
+  "year": 2022,
+  "early_online": "26 Apr 2022",
+  "title": "Probing Noncovalent Interactions in [3,3]Metaparacyclophanes",
+  "contributors": "Jian, J., Hammink, R., Tinnemans, P., Bickelhaupt, F. M., McKenzie, C. J., Poater, J., Mecinovi\u0107, J.",
+  "corresponding": "Mecinovi\u0107, J.",
+  "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, University of Southern Denmark, Radboud University Nijmegen",
+  "journal": "Journal of Organic Chemistry",
+  "description": "Probing Noncovalent Interactions in [3,3]MetaparacyclophanesArene-arene interactions are fundamentally important in molecular recognition. To precisely probe arene-arene interactions in cyclophanes, we designed and synthesized (2,6-phenol)paracyclophanes and (2,6-aniline)paracyclophanes that possess two aromatic rings in close proximity. Fine-tuning the aromatic character of one aromatic ring by fluorine substituents enables investigations on the intramolecular interactions between the electron-rich phenol and aniline with tetra-H- and tetra-F-substituted benzene. pKa measurements revealed that the tetra-F-template increases the acidity of the phenol (\u0394pKa = 0.55). X-ray crystallography and computational analyses demonstrated that all [3,3]metaparacyclophanes adopt cofacial parallel conformations, implying the presence of \u03c0-\u03c0stacking interactions. Advanced quantum chemical analyses furthermore revealed that both electrostatic interactions and orbital interactions provide the key contribution to the structure and stability of [3,3]metaparacyclophanes. "
+ },
+ "https://doi.org/10.1039/d2dt00356b": {
+  "month": "5",
+  "pub_date": "24 May 2022",
+  "year": 2022,
+  "early_online": "11 Apr 2022",
+  "title": "Probing the redox-conversion of Co(II)-disulfide to Co(III)-thiolate complexes: the effect of ligand-field strength",
+  "contributors": "Marvelous, C., de Azevedo Santos, L., Siegler, M. A., Fonseca Guerra, C., Bouwman, E.",
+  "corresponding": null,
+  "organisations": "Theoretical Chemistry, AIMMS, Leiden University, Johns Hopkins University",
+  "journal": "Dalton transactions (Cambridge, England : 2003)",
+  "description": "Probing the redox-conversion of Co(II)-disulfide to Co(III)-thiolate complexes: the effect of ligand-field strengthThe redox-conversion reaction of cobalt(II)-disulfide to cobalt(III)-thiolate complexes triggered by addition of the bidentate ligand 2,2'-bipyridine has been investigated. Reaction of the cobalt(II)-disulfide complex [Co2(L1SSL1)(X)4] (L1SSL1 = di-2-(bis(2-pyridylmethyl)amino)-ethyldisulfide; X = Cl or Br) [1X] with 2,2'-bipyridine (bpy) resulted in the formation of two different products, namely the cobalt(III)-thiolate complex [Co(L1S)(bpy)]X2 and the unexpected side product [Co2(L1SSL1)(bpy)2(X)2]X2. Crystals of [Co2(L1SSL1)(bpy)2(Cl)2](BPh4)2 [2Cl](BPh4)2 obtained after anion exchange showed the cobalt(II) ions to be in octahedral geometries with the nitrogen donors of the disulfide ligand arranged in a facial conformation and the chloride ion trans to the tertiary amine nitrogen. Remarkably, this side product cannot be converted to the cobalt(III)-thiolate compound [Co(L1S)(bpy)](SbF6)2 [3](SbF6)2 by removal of the chloride ion with use of a silver salt, as this causes scrambling of the ligands, resulting in the formation of [Co(bpy)3]n+. [Co(L1S)(bpy)](SbF6)2 was obtained in a pure form by addition of bpy to a solution in acetonitrile of the compound [Co(L1S)(MeCN)2]2+ [4]2+. Addition of NEt4Cl to [3](SbF6)2 regenerates the cobalt(II)-disulfide complex [1Cl] as confirmed spectroscopically. DFT studies revealed that the conversion from [1Cl] to [3]2+ most likely occurs via the hypothetical intermediate species [2Cl]2+mer, in which the nitrogen atoms of the disulfide ligand are arranged in a meridional conformation. Interestingly, the estimated d-orbital splitting energy of [3]2+ is lower than that of [4]2+, indicating that the ligand-field strength of bpy is lower than anticipated, which hampers clean conversion in the redox-conversion reaction. This study shows that the redox-conversion reaction between cobalt(II)-disulfide and cobalt(III)-thiolate complexes is intricate rather than straightforward."
+ },
+ "https://doi.org/10.1016/j.coisb.2022.100423": {
+  "month": "6",
+  "pub_date": "Jun 2022",
+  "year": 2022,
+  "early_online": "28 Apr 2022",
+  "title": "Enhanced underground metabolism challenges life at high temperature\u2013metabolic thermoadaptation in hyperthermophilic Archaea",
+  "contributors": "Schmerling, C., Kouril, T., Snoep, J., Br\u00e4sen, C., Siebers, B.",
+  "corresponding": "Siebers, B.",
+  "organisations": "Molecular Cell Physiology, AIMMS, University of Duisburg-Essen, University of Stellenbosch",
+  "journal": "Current Opinion in Systems Biology",
+  "description": "Enhanced underground metabolism challenges life at high temperature\u2013metabolic thermoadaptation in hyperthermophilic ArchaeaThe text-book picture of a perfect, well organised metabolism with highly specific enzymes, is challenged by non-enzymatic reactions and promiscuous enzymes. This, so-called \u2018underground metabolism\u2019, is a special challenge for hyperthermophilic Archaea that thrive at temperatures above 80 \u00b0C and possess modified central metabolic pathways often with promiscuous enzymes. Hence, the question arises how extremely thermophilic Archaea can operate their unusual metabolism at temperatures where many pathway intermediates are unstable? We herein discuss current insights in the underground metabolism and metabolic thermoadaptation of (hyper)thermophilic Archaea. So far, only a few repair enzymes and salvaging pathways have been investigated in Archaea. Studies of the central carbohydrate metabolism indicate that a number of different strategies have evolved: 1) reduction of the concentration of unstable metabolites, 2) different pathway topologies are used with newly induced enzymes, and 3) damaged metabolites are removed via new metabolic pathways."
+ },
+ "https://doi.org/10.1016/j.chroma.2022.463038": {
+  "month": "6",
+  "pub_date": "21 Jun 2022",
+  "year": 2022,
+  "early_online": "12 Apr 2022",
+  "title": "The development of a generic analysis method for natural and synthetic dyes by ultra-high-pressure liquid chromatography with photo-diode-array detection and triethylamine as an ion-pairing agent",
+  "contributors": "Groeneveld, I., Pirok, B. W., Molenaar, S. R., Schoenmakers, P. J., van Bommel, M. R.",
+  "corresponding": "Groeneveld, I.",
+  "organisations": "AIMMS, BioAnalytical Chemistry, Center for Analytical Sciences Amsterdam (CASA), University of Amsterdam",
+  "journal": "Journal of Chromatography A",
+  "description": "The development of a generic analysis method for natural and synthetic dyes by ultra-high-pressure liquid chromatography with photo-diode-array detection and triethylamine as an ion-pairing agentIn cultural heritage the characterization of organic colorants is a challenging task. Currently, different chromatographic techniques are used to analyze natural and synthetic dyes separately, since the classes differ significantly in chemical properties and, therefore, chromatographic behavior. To save time, costs and sample material, we developed a method suitable for a wide variety of organic colorants using ultra-high-performance liquid chromatography coupled to a photo-diode-array detector. Gradient elution was performed with a mobile phase consisting of water and methanol with 5 mM triethylamine added as an ion-pairing agent at a pH of 3. Both linear and step gradients were optimized using the \u2018Program for Interpretive Optimization of Two-dimensional Resolution\u2019 (PIOTR) Pirok et al. [22]. Two optimized linear gradients and two step gradients were evaluated experimentally. The method was applied on a complex dye mixture containing nearly 130 natural- and synthetic-dye reference compounds. More than 100 of these compounds could be identified in a single experiment. The feasibility of the method was demonstrated by analyzing samples of several precious objects that were found in the Texel shipwreck Vos et al. [2] and of two embroideries of Emile Bernard, the results of which are described in this paper."
+ },
+ "https://doi.org/10.1016/j.tcs.2022.04.029": {
+  "month": "6",
+  "pub_date": "24 Jun 2022",
+  "year": 2022,
+  "early_online": "26 Apr 2022",
+  "title": "Internal shortest absent word queries in constant time and linear space",
+  "contributors": "Badkobeh, G., Charalampopoulos, P., Kosolobov, D., Pissis, S. P.",
+  "corresponding": "Kosolobov, D.",
+  "organisations": "Bioinformatics, AIMMS, Bio Informatics (IBIVU), Goldsmiths, University of London, Interdisciplinary Center Herzliya, Ural Federal University",
+  "journal": "Theoretical Computer Science",
+  "description": "Internal shortest absent word queries in constant time and linear spaceGiven a string T of length n over an alphabet \u03a3\u2282{1,2,\u2026,nO(1)} of size \u03c3, we are to preprocess T so that given a range [i,j], we can return a representation of a shortest string over \u03a3 that is absent in the fragment T[i]\u22efT[j] of T. We present an O(n)-space data structure that answers such queries in constant time and can be constructed in O(nlog\u03c3\u2061n) time."
+ },
+ "https://doi.org/10.1093/gigascience/giac048": {
+  "month": "5",
+  "pub_date": "2022",
+  "year": 2022,
+  "early_online": "18 May 2022",
+  "title": "Modern venomics-Current insights, novel methods, and future perspectives in biological and applied animal venom research",
+  "contributors": "von Reumont, B. M., Anderluh, G., Antunes, A., Ayvazyan, N., Beis, D., Caliskan, F., Crnkovi\u0107, A., Damm, M., Dutertre, S., Ellgaard, L., Gajski, G., German, H., Halassy, B., Hempel, B. F., Hucho, T., Igci, N., Ikonomopoulou, M. P., Karbat, I., Klapa, M. I., Koludarov, I., Kool, J., L\u00fcddecke, T., Ben Mansour, R., Vittoria Modica, M., Moran, Y., Nalbantsoy, A., Ib\u00e1\u00f1ez, M. E. P., Panagiotopoulos, A., Reuveny, E., C\u00e9spedes, J. S., Sombke, A., Surm, J. M., Undheim, E. A., Verdes, A., Zancolli, G.",
+  "corresponding": null,
+  "organisations": "BioAnalytical Chemistry, AIMMS, Goethe University Frankfurt, LOEWE Centre for Translational Biodiversity Genomics, Justus Liebig University Giessen, National Institute of Chemistry Ljubljana, University of Porto, National Academy of Sciences of the Republic of Armenia, Academy of Athens, Osmangazi University, Technical University of Berlin, Universit\u00e9 de Montpellier, University of Copenhagen, Institute for Medical Research and Occupational Health, Vrije Universiteit Amsterdam, University of Zagreb, Charit\u00e9 \u2013 Universit\u00e4tsmedizin Berlin, University of Cologne, Nevsehir Haci Bektas Veli Universitesi, IMDEA Food Institute, University of Queensland, Weizmann Institute of Science, Foundation for Research and Technology-Hellas, Fraunhofer Institute for Molecular Biology and Applied Ecology, Gafsa University, Stazione Zoologica Anton Dohrn Napoli, Hebrew University of Jerusalem, Ege University, Hospital Universitario Virgen del Rocio, Instituto de Salud Carlos III, University of Patras, University of Vienna, University of Oslo, CSIC, University of Lausanne, Swiss Institute of Bioinformatics",
+  "journal": "GigaScience",
+  "description": "Modern venomics-Current insights, novel methods, and future perspectives in biological and applied animal venom researchVenoms have evolved >100 times in all major animal groups, and their components, known as toxins, have been fine-tuned over millions of years into highly effective biochemical weapons. There are many outstanding questions on the evolution of toxin arsenals, such as how venom genes originate, how venom contributes to the fitness of venomous species, and which modifications at the genomic, transcriptomic, and protein level drive their evolution. These questions have received particularly little attention outside of snakes, cone snails, spiders, and scorpions. Venom compounds have further become a source of inspiration for translational research using their diverse bioactivities for various applications. We highlight here recent advances and new strategies in modern venomics and discuss how recent technological innovations and multi-omic methods dramatically improve research on venomous animals. The study of genomes and their modifications through CRISPR and knockdown technologies will increase our understanding of how toxins evolve and which functions they have in the different ontogenetic stages during the development of venomous animals. Mass spectrometry imaging combined with spatial transcriptomics, in situ hybridization techniques, and modern computer tomography gives us further insights into the spatial distribution of toxins in the venom system and the function of the venom apparatus. All these evolutionary and biological insights contribute to more efficiently identify venom compounds, which can then be synthesized or produced in adapted expression systems to test their bioactivity. Finally, we critically discuss recent agrochemical, pharmaceutical, therapeutic, and diagnostic (so-called translational) aspects of venoms from which humans benefit."
+ },
+ "https://doi.org/10.3389/fphy.2022.880793": {
+  "month": "5",
+  "pub_date": "May 2022",
+  "year": 2022,
+  "early_online": "12 May 2022",
+  "title": "Fragmentation Dynamics of Fluorene Explored Using Ultrafast XUV-Vis Pump-Probe Spectroscopy",
+  "contributors": "Garg, D., Lee, J. W., Tikhonov, D. S., Chopra, P., Steber, A. L., Lemmens, A. K., Erk, B., Allum, F., Boll, R., Cheng, X., D\u00fcsterer, S., Gruet, S., He, L., Heathcote, D., Johny, M., Kazemi, M. M., K\u00f6ckert, H., Lahl, J., Loru, D., Maclot, S., Mason, R., M\u00fcller, E., Mullins, T., Olshin, P., Passow, C., Peschel, J., Ramm, D., Rompotis, D., Trippel, S., Wiese, J., Ziaee, F., Bari, S., Burt, M., K\u00fcpper, J., Rijs, A. M., Rolles, D., Techert, S., Eng-Johnsson, P., Brouard, M., Vallance, C., Manschwetus, B., Schnell, M.",
+  "corresponding": "Schnell, M.",
+  "organisations": "BioAnalytical Chemistry, AIMMS, German Electron Synchrotron, University of Hamburg, University of Oxford, Kiel University, University of Amsterdam, Radboud University Nijmegen, European XFEL, Lund University, University of Gothenburg, Ulsan National Institute of Science and Technology, Kansas State University, University of G\u00f6ttingen",
+  "journal": "Frontiers in Physics",
+  "description": "Fragmentation Dynamics of Fluorene Explored Using Ultrafast XUV-Vis Pump-Probe SpectroscopyWe report on the use of extreme ultraviolet (XUV, 30.3nm) radiation from the Free-electron LASer in Hamburg (FLASH) and visible (Vis, 405nm) photons from an optical laser to investigate the relaxation and fragmentation dynamics of fluorene ions. The ultrashort laser pulses allow to resolve the molecular processes occurring on the femtosecond timescales. Fluorene is a prototypical small polycyclic aromatic hydrocarbon (PAH). Through their infrared emission signature, PAHs have been shown to be ubiquitous in the universe, and they are assumed to play an important role in the chemistry of the interstellar medium. Our experiments track the ionization and dissociative ionization products of fluorene through time-of-flight mass spectrometry and velocity-map imaging. Multiple processes involved in the formation of each of the fragment ions are disentangled through analysis of the ion images. The relaxation lifetimes of the excited fluorene monocation and dication obtained through the fragment formation channels are reported to be in the range of a few tens of femtoseconds to a few picoseconds."
+ },
+ "https://doi.org/10.3390/ijerph19106294": {
+  "month": "5",
+  "pub_date": "2 May 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Acute, Sublethal, and Developmental Toxicity of Kratom (Mitragyna speciosa Korth.) Leaf Preparations on Caenorhabditis elegans as an Invertebrate Model for Human Exposure",
+  "contributors": "Hughes, S., van de Klashorst, D., Veltri, C. A., Grundmann, O.",
+  "corresponding": "Grundmann, O.",
+  "organisations": "E&H: Environmental Health and Toxicology, AIMMS, AMS - Ageing & Vitality, AMS - Musculoskeletal Health, HAN University of Applied Sciences, Midwestern University Glendale, University of Florida",
+  "journal": "International Journal of Environmental Research and Public Health",
+  "description": "Acute, Sublethal, and Developmental Toxicity of Kratom (Mitragyna speciosa Korth.) Leaf Preparations on Caenorhabditis elegans as an Invertebrate Model for Human ExposureKratom (Mitragyna speciosa Korth.) is a tree native to Southeast Asia with stimulant and opioid-like effects which has seen increased use in Europe and North America in recent years. Its safety and pharmacological effects remain under investigation, especially in regard to developmental and generational toxicity. In the current study, we investigated commercial kratom preparations using the nematode Caenorhabditis elegans as a translational model for toxicity and pharmacological effects. The pure alkaloids mitragynine and 7-hydroxymitragynine as well as aqueous, ethanolic, and methanolic extracts of three commercial kratom products were evaluated using a battery of developmental, genotoxic, and opioid-related experiments. As determined pre-viously, the mitragynine and 7-hydroxymitragynine content in kratom samples was higher in the alcoholic extracts than the aqueous extracts. Above the human consumption range equivalent of 15\u201370 \u00b5g/mL, kratom dose-dependently reduced brood size and health of parent worms and their progeny. 7-hydroxymitragynine, but not mitragynine, presented with toxic and developmental effects at very high concentrations, while the positive control, morphine, displayed toxic effects at 0.5 mM. Kratom and its alkaloids did not affect pumping rate or interpump interval in the same way as morphine, suggesting that kratom is unlikely to act primarily via the opioid-signalling path-way. Only at very high doses did kratom cause developmental and genotoxic effects in nematodes, indicating its relative safety."
+ },
+ "https://doi.org/10.3390/ijms23105590": {
+  "month": "5",
+  "pub_date": "2 May 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Genetic Elements Orchestrating Lactobacillus crispatus Glycogen Metabolism in the Vagina",
+  "contributors": "Hertzberger, R., May, A., Kramer, G., van Vondelen, I., Molenaar, D., Kort, R.",
+  "corresponding": "Kort, R.",
+  "organisations": "Molecular Cell Physiology, AIMMS, Systems Bioinformatics, Micropia, Natura Artis Magistra, DSM Food Specialties, University of Amsterdam, Vrije Universiteit Amsterdam",
+  "journal": "International Journal of Molecular Sciences",
+  "description": "Genetic Elements Orchestrating Lactobacillus crispatus Glycogen Metabolism in the VaginaGlycogen in the female lower reproductive tract is a major carbon source for colonization and acidification by common vaginal Lactobacillus species, such as Lactobacillus crispatus. Previously, we identified the amylopullulanase encoding gene pulA of Lactobacillus crispatus to correlate with the ability to autonomously utilize glycogen for growth. Here, we further characterize genetic variation and differential regulation of pulA affecting the presence of its gene product on the outer surface layer. We show that alpha-glucan degrading activity dissipates when Lactobacillus crispatus is grown on glucose, maltose and maltotriose, in agreement with carbon catabolite repression elements flanking the pulA gene. Proteome analysis of the S-layer confirmed that the amylopullulanase protein is highly abundant in an S-layer enriched fraction, but not in a strain with a defective amylopullulanase variant or in an amylopullulanase-sufficient strain grown on glucose. In addition, we provide evidence that Lactobacillus crispatus pulA mutants are relevant in vivo, as they are commonly observed in metagenome datasets of human vaginal microbial communities. Analysis of the largest publicly available dataset of 1507 human vaginal metagenomes indicates that among the 270 samples that contain a Lactobacillus crispatus pulA gene, 62 samples (23%) had a defective variant of this gene. Taken together, these results demonstrate that both environmental, as well as genetic factors explain the variation of Lactobacillus crispatus alpha-glucosidases in the vaginal environment."
+ },
+ "https://doi.org/10.3390/nu14102143": {
+  "month": "5",
+  "pub_date": "2 May 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Plasma Levels of Endocannabinoids and Their Analogues Are Related to Specific Fecal Bacterial Genera in Young Adults: Role in Gut Barrier Integrity",
+  "contributors": "Ortiz-Alvarez, L., Xu, H., Di, X., Kohler, I., Osuna-Prieto, F. J., Acosta, F. M., Vilchez-Vargas, R., Link, A., Plaza-D\u00edaz, J., van der Stelt, M., Hankemeier, T., Clemente-Postigo, M., Tinahones, F. J., Gil, A., Rensen, P. C., Ruiz, J. R., Martinez-Tellez, B.",
+  "corresponding": "Ruiz, J. R.",
+  "organisations": "BioAnalytical Chemistry, AIMMS, University of Granada, Leiden University, Research and Development of Functional Food Center (CIDAF), University of Turku, Otto von Guericke University Magdeburg, University of Ottawa, Hospital Universitario Reina Sof\u00eda, Hospital Universitari Virgen de la Victoria, Instituto de Salud Carlos III, Instituto de Investigaci\u00f3n Biosanitaria de Granada, University of Almeria",
+  "journal": "Nutrients",
+  "description": "Plasma Levels of Endocannabinoids and Their Analogues Are Related to Specific Fecal Bacterial Genera in Young Adults: Role in Gut Barrier IntegrityObjective: To investigate the association of plasma levels of endocannabinoids with fecal microbiota. Methods: Plasma levels of endocannabinoids, anandamide (AEA) and 2-arachidonoylglycerol (2-AG), as well as their eleven analogues, and arachidonic acid (AA), were measured using liquid chromatography-tandem mass spectrometry in 92 young adults. DNA extracted from stool samples was analyzed using 16S rRNA gene sequencing. Lipopolysaccharide levels were measured in plasma samples. Results: Plasma levels of endocannabinoids and their analogues were not related to beta or alpha diversity indexes. Plasma levels of AEA and related N-acylethanolamines correlated positively with the relative abundance of Faecalibacterium genus (all rho \u2265 0.26, p \u2264 0.012) and Akkermansia genus (all rho \u2265 0.22, p \u2264 0.036), and negatively with the relative abundance of Bilophila genus (all rho \u2264 \u22120.23, p \u2264 0.031). Moreover, plasma levels of 2-AG and other acylglycerols correlated positively with the relative abundance of Parasutterella (all rho \u2265 0.24, p \u2264 0.020) and Odoribacter genera (all rho \u2265 0.27, p \u2264 0.011), and negatively with the relative abundance of Prevotella genus (all rho \u2264 \u22120.24, p \u2264 0.023). In participants with high lipopolysaccharide values, the plasma levels of AEA and related N-acylethanolamines, as well as AA and 2-AG, were negatively correlated with plasma levels of lipopolysaccharide (all rho \u2264 \u22120.24, p \u2264 0.020). Conclusion: Plasma levels of endocannabinoids and their analogues are correlated to specific fecal bacterial genera involved in maintaining gut barrier integrity in young adults. This suggests that plasma levels of endocannabinoids and their analogues may play a role in the gut barrier integrity in young adults."
+ },
+ "https://doi.org/10.1021/acs.est.1c07876": {
+  "month": "5",
+  "pub_date": "3 May 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Fate of Per- and Polyfluoroalkyl Substances from Durable Water-Repellent Clothing during Use",
+  "contributors": "Van Der Veen, I., Schellenberger, S., Hanning, A. C., Stare, A., De Boer, J., Weiss, J. M., Leonards, P. E.",
+  "corresponding": "Van Der Veen, I.",
+  "organisations": "E&H: Environmental Bioanalytical Chemistry, AIMMS, E&H: Environmental Health and Toxicology, Stockholm University, RISE Research Institutes of Sweden AB, Swerea AB",
+  "journal": "Environmental Science and Technology",
+  "description": "Fate of Per- and Polyfluoroalkyl Substances from Durable Water-Repellent Clothing during UseTo make outdoor clothing water- or dirt-repellent, durable water-repellent (DWR) coatings based on side-chain fluorinated polymers (SFPs) are used. During use of outdoor clothing, per- and polyfluoroalkyl substances (PFASs) can be emitted from the DWR to the environment. In this study, the effects of aging, washing, and tumble drying on the concentration of extractable PFASs in the DWR of perfluorohexane-based short-chain SFPs (FC-6 chemistry) and of perfluorooctane-based long-chain SFPs (FC-8 chemistry) were assessed. For this purpose, polyamide (PA) and polyester (PES) fabrics were coated with FC-6- and FC-8-based DWRs. Results show that aging of the coated fabrics causes an increase in concentration and formation of perfluoroalkyl acids (PFAAs). The effect of aging on the volatile PFASs depends on the type of fabric. Washing causes a decrease in PFAA concentrations, and in general, volatile PFASs are partly washed out of the textiles. However, washing can also increase the extractable concentration of volatile PFASs in the fabrics. This effect becomes stronger by a combination of aging and washing. Tumble drying does not affect the PFAS concentrations in textiles. In conclusion, aging and washing of fabrics coated with the DWR based on SFPs release PFASs to the environment."
  },
  "https://doi.org/10.1002/chem.202103953": {
   "month": "5",
@@ -862,5 +1114,293 @@
   "organisations": "Chemistry and Pharmaceutical Sciences, Theoretical Chemistry, AIMMS, Vrije Universiteit Amsterdam",
   "journal": "Chemistry - A European Journal",
   "description": "C(spn)\u2212X (n=1\u20133) Bond Activation by PalladiumWe have studied the palladium-mediated activation of C(spn)\u2212X bonds (n = 1\u20133 and X = H, CH3, Cl) in archetypal model substrates H3C\u2212CH2\u2212X, H2C=CH\u2212X and HC\u2261C\u2212X by catalysts PdLn with Ln = no ligand, Cl\u2212, and (PH3)2, using relativistic density functional theory at ZORA-BLYP/TZ2P. The oxidative addition barrier decreases along this series, even though the strength of the bonds increases going from C(sp3)\u2212X, to C(sp2)\u2212X, to C(sp)\u2212X. Activation strain and matching energy decomposition analyses reveal that the decreased oxidative addition barrier going from sp3, to sp2, to sp, originates from a reduction in the destabilizing steric (Pauli) repulsion between catalyst and substrate. This is the direct consequence of the decreasing coordination number of the carbon atom in C(spn)\u2212X, which goes from four, to three, to two along this series. The associated net stabilization of the catalyst\u2013substrate interaction dominates the trend in strain energy which indeed becomes more destabilizing along this same series as the bond becomes stronger from C(sp3)\u2212X to C(sp)\u2212X."
+ },
+ "https://doi.org/10.1063/5.0085284": {
+  "month": "5",
+  "pub_date": "14 May 2022",
+  "year": 2022,
+  "early_online": "10 May 2022",
+  "title": "Natural range separation of the Coulomb hole",
+  "contributors": "Via-Nadal, M., Rodr\u00edguez-Mayorga, M., Ramos-Cordoba, E., Matito, E.",
+  "corresponding": null,
+  "organisations": "Theoretical Chemistry, AIMMS, Donostia International Physics Center",
+  "journal": "The Journal of chemical physics",
+  "description": "Natural range separation of the Coulomb holeA natural range separation of the Coulomb hole into two components, one of them being predominant at long interelectronic separations (hcI ) and the other at short distances (hcII ), is exhaustively analyzed throughout various examples that put forward the most relevant features of this approach and how they can be used to develop efficient ways to capture electron correlation. We show that hcI , which only depends on the first-order reduced density matrix, can be used to identify molecules with a predominant nondynamic correlation regime and differentiate between two types of nondynamic correlation, types A and B. Through the asymptotic properties of the hole components, we explain how hcI can retrieve the long-range part of electron correlation. We perform an exhaustive analysis of the hydrogen molecule in a minimal basis set, dissecting the hole contributions into spin components. We also analyze the simplest molecule presenting a dispersion interaction and how hcII helps identify it. The study of several atoms in different spin states reveals that the Coulomb hole components distinguish correlation regimes that are not apparent from the entire hole. The results of this work hold out the promise to aid in developing new electronic structure methods that efficiently capture electron correlation."
+ },
+ "https://doi.org/10.1111/brv.12865": {
+  "month": "5",
+  "pub_date": "17 May 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Convergent evolution of toxin resistance in animals",
+  "contributors": "van Thiel, J., Khan, M. A., Wouters, R. M., Harris, R. J., Casewell, N. R., Fry, B. G., Kini, R. M., Mackessy, S. P., Vonk, F. J., W\u00fcster, W., Richardson, M. K.",
+  "corresponding": "van Thiel, J.",
+  "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, Leiden University, University of Queensland, Liverpool School of Tropical Medicine, National University of Singapore, Virginia Commonwealth University, University Northern Colorado, Bangor University",
+  "journal": "Biological Reviews",
+  "description": "Convergent evolution of toxin resistance in animalsConvergence is the phenomenon whereby similar phenotypes evolve independently in different lineages. One example is resistance to toxins in animals. Toxins have evolved many times throughout the tree of life. They disrupt molecular and physiological pathways in target species, thereby incapacitating prey or deterring a predator. In response, molecular resistance has evolved in many species exposed to toxins to counteract their harmful effects. Here, we review current knowledge on the convergence of toxin resistance using examples from a wide range of toxin families. We explore the evolutionary processes and molecular adaptations driving toxin resistance. However, resistance adaptations may carry a fitness cost if they disrupt the normal physiology of the resistant animal. Therefore, there is a trade-off between maintaining a functional molecular target and reducing toxin susceptibility. There are relatively few solutions that satisfy this trade-off. As a result, we see a small set of molecular adaptations appearing repeatedly in diverse animal lineages, a phenomenon that is consistent with models of deterministic evolution. Convergence may also explain what has been called \u2018autoresistance\u2019. This is often thought to have evolved for self-protection, but we argue instead that it may be a consequence of poisonous animals feeding on toxic prey. Toxin resistance provides a unique and compelling model system for studying the interplay between trophic interactions, selection pressures and the molecular mechanisms underlying evolutionary novelties."
+ },
+ "https://doi.org/10.1016/j.tiv.2022.105387": {
+  "month": "5",
+  "pub_date": "Aug 2022",
+  "year": 2022,
+  "early_online": "17 May 2022",
+  "title": "Frankenstein's followers. Maintenance of human cells outside the body. Issue 1Although science can endeavour to do a great many things, unachievable thus far, these activities should be, but seldom are, tempered with the question, should we really do it? This is not necessarily implying a moral code to scientific activity, but at least suggests that we probably should consider the long-term consequences of certain scientific activities to human society and the environment. Indeed, scientists have struggled with the consequences of their discoveries, not least Nobel himself, who set up the Nobel prize as a reaction to being called \u201cThe father of death\u201d, due to his discovery and financial success with dynamite. Here, we set out the basis for a series of articles entitled, Frankenstein's Followers, Maintenance and propagation of human cells outside the body.General information",
+  "contributors": "Pfaller, W., Jennings, P.",
+  "corresponding": "Jennings, P.",
+  "organisations": "Molecular and Computational Toxicology, AIMMS, Innsbruck Medical University",
+  "journal": "Toxicology in Vitro",
+  "description": "Frankenstein's followers. Maintenance of human cells outside the body. Issue 1Although science can endeavour to do a great many things, unachievable thus far, these activities should be, but seldom are, tempered with the question, should we really do it? This is not necessarily implying a moral code to scientific activity, but at least suggests that we probably should consider the long-term consequences of certain scientific activities to human society and the environment. Indeed, scientists have struggled with the consequences of their discoveries, not least Nobel himself, who set up the Nobel prize as a reaction to being called \u201cThe father of death\u201d, due to his discovery and financial success with dynamite. Here, we set out the basis for a series of articles entitled, Frankenstein's Followers, Maintenance and propagation of human cells outside the body."
+ },
+ "https://doi.org/10.1145/3486897": {
+  "month": "5",
+  "pub_date": "20 May 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Methods Included: Standardizing Computational Reuse and Portability with the Common Workflow Language",
+  "contributors": "Crusoe, M. R., Abeln, S., Iosup, A., Amstutz, P., Chilton, J., Tijani\u0107, N., M\u00e9nager, H., Soiland-Reyes, S., Goble, C.",
+  "corresponding": null,
+  "organisations": "Computer Systems, Network Institute, Computer Systems, Bioinformatics, AIMMS, Integrative Bioinformatics, Massivizing Computer Systems",
+  "journal": "Communications of the ACM",
+  "description": "Methods Included: Standardizing Computational Reuse and Portability with the Common Workflow LanguageA widely used standard for portable multilingual data analysis pipelines would enable considerable benefits to scholarly publication reuse, research/industry collaboration, regulatory cost control, and to the environment. Published research that used multiple computer languages for their analysis pipelines would include a complete and reusable description of that analysis that is runnable on a diverse set of computing environments. Researchers would be able to easier collaborate and reuse these pipelines, adding or exchanging components regardless of programming language used; collaborations with and within the industry would be easier; approval of new medical interventions that rely on such pipelines would be faster. Time will be saved and environmental impact would also be reduced, as these descriptions contain enough information for advanced optimization without user intervention. Workflows are widely used in data analysis pipelines, enabling innovation and decision-making for the modern society. In many domains the analysis components are numerous and written in multiple different computer languages by third parties. However, lacking a standard for reusable and portable multilingual workflows, then reusing published multilingual workflows, collaborating on open problems, and optimizing their execution would be severely hampered. Moreover, only a standard for multilingual data analysis pipelines that was widely used would enable considerable benefits to research-industry collaboration, regulatory cost control, and to preserving the environment. Prior to the start of the CWL project, there was no standard for describing multilingual analysis pipelines in a portable and reusable manner. Even today / currently, although there exist hundreds of single-vendor and other single-source systems that run workflows, none is a general, community-driven, and consensus-built standard. "
+ },
+ "https://doi.org/10.1016/j.ijpddr.2022.05.004": {
+  "month": "5",
+  "pub_date": "Aug 2022",
+  "year": 2022,
+  "early_online": "26 May 2022",
+  "title": "3-nitroimidazo[1,2-b]pyridazine as a novel scaffold for antiparasitics with sub-nanomolar anti-Giardia lamblia activity",
+  "contributors": "Zheng, Y., M\u00fcller, J., Kunz, S., Siderius, M., Maes, L., Caljon, G., M\u00fcller, N., Hemphill, A., Sterk, G. J., Leurs, R.",
+  "corresponding": "Leurs, R.",
+  "organisations": "Medicinal chemistry, AIMMS, University of Bern, University of Antwerp",
+  "journal": "International Journal for Parasitology: Drugs and Drug Resistance",
+  "description": "3-nitroimidazo[1,2-b]pyridazine as a novel scaffold for antiparasitics with sub-nanomolar anti-Giardia lamblia activityAs there is a continuous need for novel anti-infectives, the present study aimed to fuse two modes of action into a novel 3-nitroimidazo[1,2-b]pyridazine scaffold to improve antiparasitic efficacy. For this purpose, we combined known structural elements of phosphodiesterase inhibitors, a target recently proposed for Trypanosoma brucei and Giardia lamblia, with a nitroimidazole scaffold to generate nitrosative stress. The compounds were evaluated in vitro against a panel of protozoal parasites, namely Giardia lamblia, Trypanosoma brucei, T. cruzi, Leishmania infantum and Plasmodium falciparum and for cytotoxicity on MRC-5 cells. Interestingly, selective sub-nanomolar activity was obtained against G. lamblia, and by testing several analogues with and without the nitro group, it was shown that the presence of a nitro group, but not PDE inhibition, is responsible for the low IC50 values of these novel compounds. Adding the favourable drug-like properties (low molecular weight, cLogP (1.2\u20134.1) and low polar surface area), the key compounds from the 3-nitroimidazo[1,2-b]pyridazine series can be considered as valuable hits for further anti-giardiasis drug exploration and development."
+ },
+ "https://doi.org/10.1016/j.drudis.2022.05.021": {
+  "month": "5",
+  "pub_date": "27 May 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Escape from planarity in fragment-based drug discovery: A synthetic strategy analysis of synthetic 3D fragment libraries",
+  "contributors": "Klein, H. F., Hamilton, D. J., de Esch, I. J., Wijtmans, M., O'Brien, P.",
+  "corresponding": "O'Brien, P.",
+  "organisations": "Medicinal chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, University of York",
+  "journal": "Drug Discovery Today",
+  "description": "Escape from planarity in fragment-based drug discovery: A synthetic strategy analysis of synthetic 3D fragment librariesIn fragment-based drug discovery (FBDD), there is a developing appreciation that 3D fragments could offer opportunities that are not provided by 2D fragments. This review provides an overview of the synthetic strategies that have been used to prepare 3D fragments, as discussed in 25 papers published from 2011 to mid-May 2020. Three distinct strategies are highlighted: (i) diversity-oriented synthesis; (ii) the synthesis and diversification of scaffolds; and (iii) computational design and synthesis (where 3D fragments were computationally enumerated and filtered on the basis of computationally generated 3D shape descriptors and other properties). We conclude that a workflow that combines computational design and one other strategy, together with a consideration of fragment properties, 3D shape and \u2018fragment sociability\u2019, could allow 3D fragments to feature more widely in fragment libraries and could facilitate fragment-to-lead optimisation."
+ },
+ "https://doi.org/10.1007/s10565-022-09726-0": {
+  "month": "5",
+  "pub_date": "31 May 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Direct transcriptomic comparison of xenobiotic metabolism and toxicity pathway induction of airway epithelium models at an air\u2013liquid interface generated from induced pluripotent stem cells and primary bronchial epithelial cells",
+  "contributors": "Djidrovski, I., Georgiou, M., Tasinato, E., Leonard, M. O., Van den Bor, J., Lako, M., Armstrong, L.",
+  "corresponding": "Armstrong, L.",
+  "organisations": "Medicinal chemistry, AIMMS, Newcells Biotech Ltd., Newcastle University, Public Health England",
+  "journal": "Cell biology and toxicology",
+  "description": "Direct transcriptomic comparison of xenobiotic metabolism and toxicity pathway induction of airway epithelium models at an air\u2013liquid interface generated from induced pluripotent stem cells and primary bronchial epithelial cellsAbstract: The airway epithelium represents the main barrier between inhaled air and the tissues of the respiratory tract and is therefore an important point of contact with xenobiotic substances into the human body. Several studies have recently shown that in vitro models of the airway grown at an air\u2013liquid interface (ALI) can be particularly useful to obtain mechanistic information about the toxicity of chemical compounds. However, such methods are not very amenable to high throughput since the primary cells cannot be expanded indefinitely in culture to obtain a sustainable number of cells. Induced pluripotent stem cells (iPSCs) have become a popular option in the recent years for modelling the airways of the lung, but despite progress in the field, such models have so far not been assessed for their ability to metabolise xenobiotic compounds and how they compare to the primary bronchial airway model (pBAE). Here, we report a comparative analysis by TempoSeq (oligo-directed sequencing) of an iPSC-derived airway model (iBAE) with a primary bronchial airway model (pBAE). The iBAE and pBAE were differentiated at an ALI and then evaluated in a 5-compound screen with exposure to a sub-lethal concentration of each compound for 24h. We found that despite lower expression of xenobiotic metabolism genes, the iBAE similarly predicted the toxic pathways when compared to the pBAE model. Our results show that iPSC airway models at ALI show promise for inhalation toxicity assessments with further development. Graphical abstract: [Figure not available: see fulltext.]."
+ },
+ "https://doi.org/10.1021/acs.analchem.2c00886": {
+  "month": "5",
+  "pub_date": "31 May 2022",
+  "year": 2022,
+  "early_online": "19 May 2022",
+  "title": "Liquid Core Waveguide Cell with in Situ Absorbance Spectroscopy and Coupled to Liquid Chromatography for Studying Light-Induced Degradation",
+  "contributors": "Groeneveld, I., Bagdonaite, I., Beekwilder, E., Ariese, F., Somsen, G. W., Van Bommel, M. R.",
+  "corresponding": "Groeneveld, I.",
+  "organisations": "AIMMS, BioAnalytical Chemistry, Biophotonics and Medical Imaging, LaserLaB - Biophotonics and Microscopy, Vrije Universiteit Amsterdam, Da Vinci Laboratory Solutions, University of Amsterdam",
+  "journal": "Analytical chemistry",
+  "description": "Liquid Core Waveguide Cell with in Situ Absorbance Spectroscopy and Coupled to Liquid Chromatography for Studying Light-Induced DegradationIn many areas, studying photostability or the mechanism of photodegradation is of high importance. Conventional methods to do so can be rather time-consuming, laborious, and prone to experimental errors. In this paper we evaluate an integrated and fully automated system for the study of light-induced degradation, comprising a liquid handler, an irradiation source and exposure cell with dedicated optics and spectrograph, and a liquid chromatography (LC) system. A liquid core waveguide (LCW) was used as an exposure cell, allowing efficient illumination of the sample over a 12 cm path length. This cell was coupled to a spectrograph, allowing in situ absorbance monitoring of the exposed sample during irradiation. The LCW is gas-permeable, permitting diffusion of air into the cell during light exposure. This unit was coupled online to LC with diode array detection for immediate and automated analysis of the composition of the light-exposed samples. The analytical performance of the new system was established by assessing linearity, limit of detection, and repeatability of the in-cell detection, sample recovery and carryover, and overall repeatability of light-induced degradation monitoring, using riboflavin as the test compound. The applicability of the system was demonstrated by recording a photodegradation time profile of riboflavin. "
+ },
+ "https://doi.org/10.1007/s10532-022-09982-1": {
+  "month": "6",
+  "pub_date": "Jun 2022",
+  "year": 2022,
+  "early_online": "2 May 2022",
+  "title": "Degradation of 2,4-dichlorophenoxyacetic acid (2,4-D) and 2,4,5-trichlorophenoxyacetic acid (2,4,5-T) by fungi originating from Vietnam",
+  "contributors": "Nguyen, T. L. A., Dao, A. T. N., Dang, H. T. C., Koekkoek, J., Brouwer, A., de Boer, T. E., van Spanning, R. J.",
+  "corresponding": "Nguyen, T. L. A.",
+  "organisations": "E&H: Environmental Chemistry and Toxicology, Animal Ecology, Systems Bioinformatics, AIMMS, Vrije Universiteit Amsterdam, Vietnamese Academy of Science and Technology, MicroLife Solutions B.V.",
+  "journal": "Biodegradation",
+  "description": "Degradation of 2,4-dichlorophenoxyacetic acid (2,4-D) and 2,4,5-trichlorophenoxyacetic acid (2,4,5-T) by fungi originating from VietnamThree different fungi were tested for their ability to degrade 2,4-dichlorophenoxyacetic acid and 2,4,5-trichlorophenoxyacetic acid and for the role of laccases and cytochromes P450-type in this process. We studied a white-rot fungus Rigidoporus sp. FMD21, which has a high laccase activity, for its efficiency to degrade these herbicides. A positive correlation was found between its laccase activity and the corresponding herbicide degradation rate. Even more, the doubling of the enzyme activity in this phase corresponded with a doubling of the herbicide degradation rate. It is, therefore, tempting to speculate that laccase is the most dominant enzyme in the degradation of 2,4-D and 2,4,5-T under these conditions. In addition, it was shown that Rigidoporus sp. FMD21 partly relies on cytochromes P450-type for the breakdown of the herbicides as well. Two filamentous fungi were isolated from soil contaminated with herbicides and dioxins located at Bien Hoa airbase. They belong to genera Fusarium and Verticillium of the phylum Ascomycota as judged by their 18S rRNA gene sequences. Both isolated fungi were able to degrade the herbicides but with different rates. Their laccase activity, however, was very low and did not correlate with the rate of breakdown of the herbicides. These data indicate that the white-rot fungus most likely synthesizes laccase and cytochromes P450-type for the breakdown of the herbicides, while the types of enzyme used for the breakdown of the herbicides by the two Ascomycota remain unclear. Graphical abstract: [Figure not available: see fulltext.]"
+ },
+ "https://doi.org/10.1137/20M1368033": {
+  "month": "6",
+  "pub_date": "Jun 2022",
+  "year": 2022,
+  "early_online": "19 May 2022",
+  "title": "ELASTIC-DEGENERATE STRING MATCHING VIA FAST MATRIX MULTIPLICATIONAn elastic-degenerate (ED) string is a sequence of n sets of strings of total length N which was recently proposed to model a set of similar sequences. The ED string matching (EDSM) problem is to find all occurrences of a pattern of length m in an ED text. The EDSM problem has recently received some attention in the combinatorial pattern matching community, and an O (nm15 \u221alog m+N)-time algorithm is known [Aoyama et al., CPM 2018]. The standard assumption in the prior work on this question is that N is substantially larger than both n and m, and thus we would like to have a linear dependency on the former. Under this assumption, the natural open problem is whether we can decrease the 1.5 exponent in the time complexity, similarly as in the related (but, to the best of our knowledge, not equivalent) word break problem [Backurs and Indyk, FOCS 2016]. Our starting point is a conditional lower bound for the EDSM problem. We use the popular combinatorial Boolean matrix multiplication (BMM) conjecture stating that there is no truly subcubic combinatorial algorithm for BMM [Abboud and Williams, FOCS 2014]. By designing an appropriate reduction, we show that a combinatorial algorithm solving the EDSM problem in \\scr",
+  "contributors": "Bernardini, G., Gawrychowski, P., Pisanti, N., Pissis, S. P., Rosone, G.",
+  "corresponding": null,
+  "organisations": "Bioinformatics, AIMMS, Bio Informatics (IBIVU), Centrum voor Wiskunde en Informatica, University of Wroc\u0142aw, University of Pisa",
+  "journal": "SIAM Journal on Computing",
+  "description": "ELASTIC-DEGENERATE STRING MATCHING VIA FAST MATRIX MULTIPLICATIONAn elastic-degenerate (ED) string is a sequence of n sets of strings of total length N which was recently proposed to model a set of similar sequences. The ED string matching (EDSM) problem is to find all occurrences of a pattern of length m in an ED text. The EDSM problem has recently received some attention in the combinatorial pattern matching community, and an O (nm15 \u221alog m+N)-time algorithm is known [Aoyama et al., CPM 2018]. The standard assumption in the prior work on this question is that N is substantially larger than both n and m, and thus we would like to have a linear dependency on the former. Under this assumption, the natural open problem is whether we can decrease the 1.5 exponent in the time complexity, similarly as in the related (but, to the best of our knowledge, not equivalent) word break problem [Backurs and Indyk, FOCS 2016]. Our starting point is a conditional lower bound for the EDSM problem. We use the popular combinatorial Boolean matrix multiplication (BMM) conjecture stating that there is no truly subcubic combinatorial algorithm for BMM [Abboud and Williams, FOCS 2014]. By designing an appropriate reduction, we show that a combinatorial algorithm solving the EDSM problem in \\scrO (nm1.5 - \\epsilon + N) time, for any \\epsilon > 0, refutes this conjecture. Our reduction should be understood as an indication that decreasing the exponent requires fast matrix multiplication. String periodicity and fast Fourier transform are two standard tools in string algorithms. Our main technical contribution is that we successfully combine these tools with fast matrix multiplication to design a noncombinatorial \\scrO \\~(nm\\omega -1 + N)-time algorithm for EDSM, where \\omega denotes the matrix multiplication exponent and the \\scrO \\~(\\cdot ) notation suppresses polylog factors. To the best of our knowledge, we are the first to combine these tools. In particular, using the fact that \\omega < 2.373 [Alman and Williams, SODA 2021; Le Gall, ISSAC 2014; Williams, STOC 2012], we obtain an \\scrO (nm1.373 + N)-time algorithm for EDSM. An important building block in our solution that might find applications in other problems is a method of selecting a small set of length-\\ell substrings of the pattern, called anchors, so that any occurrence of a string from an ED text set contains at least one but not too many (on average) such anchors inside."
+ },
+ "https://doi.org/10.1128/spectrum.02708-21": {
+  "month": "6",
+  "pub_date": "Jun 2022",
+  "year": 2022,
+  "early_online": "31 May 2022",
+  "title": "Manganese Modulates Metabolic Activity and Redox Homeostasis in Translationally Blocked Lactococcus cremoris, Impacting Metabolic Persistence, Cell Culturability, and Flavor Formation",
+  "contributors": "Nugroho, A. D. W., van Olst, B., Bachtiar, S. A., Boeren, S., Kleerebezem, M., Bachmann, H.",
+  "corresponding": "Bachmann, H.",
+  "organisations": "Systems Bioinformatics, AIMMS, TI Food and Nutrition, NIZO food research, Wageningen University & Research",
+  "journal": "Microbiology spectrum",
+  "description": "Manganese Modulates Metabolic Activity and Redox Homeostasis in Translationally Blocked Lactococcus cremoris, Impacting Metabolic Persistence, Cell Culturability, and Flavor FormationManganese (Mn) is an essential trace element that is supplemented in microbial media with varying benefits across species and growth conditions. We found that growth of Lactococcus cremoris was unaffected by manganese omission from the growth medium. The main proteome adaptation to manganese omission involved increased manganese transporter production (up to 2,000-fold), while the remaining 10 significant proteome changes were between 1.4- and 4-fold. Further investigation in translationally blocked (TB), nongrowing cells showed that Mn supplementation (20 mM) led to approximately 1.5 X faster acidification compared with Mn-free conditions. However, this faster acidification stagnated within 24 h, likely due to draining of intracellular NADH that coincides with substantial loss of culturability. Conversely, without manganese, nongrowing cells persisted to acidify for weeks, albeit at a reduced rate, but maintaining redox balance and culturability. Strikingly, despite being unculturable, a-keto acid-derived aldehydes continued to accumulate in cells incubated in the presence of manganese, whereas without manganese cells predominantly formed the corresponding alcohols. This is most likely reflecting NADH availability for the alcohol dehydrogenase-catalyzed conversion. Overall, manganese influences the lactococcal acidification rate, and flavor formation capacity in a redox dependent manner. These are important industrial traits especially during cheese ripening, where cells are in a non-growing, often unculturable state. IMPORTANCE In nature as well as in various biotechnology applications, microorganisms are often in a nongrowing state and their metabolic persistence determines cell survival and functionality. Industrial examples are dairy fermentations where bacteria remain active during the ripening phases that can take up to months and even years. Here we investigated environmental factors that can influence lactococcal metabolic persistence throughout such prolonged periods. We found that in the absence of manganese, acidification of nongrowing cells remained active for weeks while in the presence of manganese it stopped within 1 day. The latter coincided with the accumulation of amino acid derived volatile metabolites. Based on metabolic conversions, proteome analysis, and a reporter assay, we demonstrated that the manganese elicited effects were NADH dependent. Overall the results show the effect of environmental modulation on prolonged cell-based catalysis, which is highly relevant to nongrowing cells in nature and biotechnological applications."
+ },
+ "https://doi.org/10.1016/j.aca.2022.339888": {
+  "month": "6",
+  "pub_date": "1 Jun 2022",
+  "year": 2022,
+  "early_online": "2 May 2022",
+  "title": "Quantification of endocannabinoids in human cerebrospinal fluid using a novel micro-flow liquid chromatography-mass spectrometry method",
+  "contributors": "He, B., Di, X., Guled, F., Harder, A. V., van den Maagdenberg, A. M., Terwindt, G. M., Krekels, E. H., Kohler, I., Harms, A., Ramautar, R., Hankemeier, T.",
+  "corresponding": "Ramautar, R.",
+  "organisations": "BioAnalytical Chemistry, AIMMS, Leiden University",
+  "journal": "Analytica Chimica Acta",
+  "description": "Quantification of endocannabinoids in human cerebrospinal fluid using a novel micro-flow liquid chromatography-mass spectrometry methodThe endocannabinoid system (ECS) is implicated in various brain disorders. Changes in the composition of the cerebrospinal fluid (CSF) may be associated with ECS-related pathologies. Endocannabinoids (eCBs) and their analogues are present at low concentrations in human CSF, which hampered the investigation of the ECS in this body fluid. In this study, we developed a highly sensitive and selective micro-flow liquid chromatography-tandem mass spectrometry (micro-LC-MS/MS) method for the analysis of eCBs and eCB analogues in human CSF. The developed method allowed for the quantitative analysis of 16 eCBs and their analogues in human CSF. Micro-LC-MS/MS analyses were performed at a flow-rate of 4 \u03bcL min\u22121 with a 0.3-mm inner diameter column. A minor modification of a novel spray needle was carried out to improve the robustness of our method. By using an injection volume of 3 \u03bcL, our method reached limits of detection in the range from 0.6 to 1293.4 pM and limits of quantification in range from 2.0 to 4311.3 pM while intra- and interday precisions were below 13.7%. The developed workflow was successfully used for the determination of eCBs in 288 human CSF samples. It is anticipated that the proposed approach will contribute to a deeper understanding of the role of ECS in various brain disorders."
+ },
+ "https://doi.org/10.1039/d2cp01585d": {
+  "month": "6",
+  "pub_date": "7 Jun 2022",
+  "year": 2022,
+  "early_online": "16 May 2022",
+  "title": "Chemical potential, derivative discontinuity, fractional electrons, jump of the Kohn-Sham potential, atoms as thermodynamic open systems, and other (mis)conceptions of the density functional theory of electrons in molecules",
+  "contributors": "Baerends, E. J.",
+  "corresponding": "Baerends, E. J.",
+  "organisations": "Theoretical Chemistry, AIMMS",
+  "journal": "Physical Chemistry Chemical Physics",
+  "description": "Chemical potential, derivative discontinuity, fractional electrons, jump of the Kohn-Sham potential, atoms as thermodynamic open systems, and other (mis)conceptions of the density functional theory of electrons in moleculesMany references exist in the density functional theory (DFT) literature to the chemical potential of the electrons in an atom or a molecule. The origin of this notion has been the identification of the Lagrange multiplier \u03bc = \u2202E/\u2202N in the Euler-Lagrange variational equation for the ground state density as the chemical potential of the electrons. We first discuss why the Lagrange multiplier in this case is an arbitrary constant and therefore cannot be a physical characteristic of an atom or molecule. The switching of the energy derivative (\u201cchemical potential\u201d) from \u2212I to \u2212A when the electron number crosses the integer, called integer discontinuity or derivative discontinuity, is not physical but only occurs when the nonphysical noninteger electron systems and the corresponding energy and derivative \u2202E/\u2202N are chosen in a specific discontinuous way. The question is discussed whether in fact the thermodynamical concept of a chemical potential can be defined for the electrons in such few-electron systems as atoms and molecules. The conclusion is that such systems lack important characteristics of thermodynamic systems and do not afford the definition of a chemical potential. They also cannot be considered as analogues of the open systems of thermodynamics that can exchange particles with an environment (a particle bath or other members of a Gibbsian ensemble). Thermodynamical (statistical mechanical) concepts like chemical potential, open systems, grand canonical ensemble etc. are not applicable to a few electron system like an atom or molecule. A number of topics in DFT are critically reviewed in light of these findings: jumps in the Kohn-Sham potential when crossing an integer number of electrons, the band gap problem, the deviation-from-straight-lines error, and the role of ensembles in DFT."
+ },
+ "https://doi.org/10.1016/j.annals.2022.103411": {
+  "month": "7",
+  "pub_date": "Jul 2022",
+  "year": 2022,
+  "early_online": "6 May 2022",
+  "title": "Developing a classification scheme of service innovation: Synthesizing degree and type of change in service innovation",
+  "contributors": "Mu, Y., Bossink, B., Vinig, T.",
+  "corresponding": "Mu, Y.",
+  "organisations": "Science & Business Innovation, AIMMS, Sichuan Agricultural University, University of Amsterdam Business School",
+  "journal": "Annals of Tourism Research",
+  "description": "Developing a classification scheme of service innovation: Synthesizing degree and type of change in service innovationInnovation research has resulted in various methods to classify service innovations, which primarily feature either the degree of change or type of change. This paper develops a novel classification scheme, based on a four-dimensional view of innovativeness. The classification scheme simultaneously concerns both the degree and type of change in service innovations. A multiple-case study is conducted in the empirical settings of theme parks and airlines, with 11 service innovation projects situated in Walt Disney World, Singapore Airlines, or China Eastern Airlines. Following the proposed scheme, the 11 cases are analyzed and classified into four dimensions: environment-, technology-, market-, and organization-dominant service innovations. The scheme offers academics and practitioners an integral understanding through four dimensions that build on each other."
+ },
+ "https://doi.org/10.1039/d2cp02153f": {
+  "month": "6",
+  "pub_date": "2 Jun 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Clarifying notes on the bonding analysis adopted by the energy decomposition analysis",
+  "contributors": "Bickelhaupt, F. M., Fonseca Guerra, C., Mitoraj, M., Sagan, F., Michalak, A., Pan, S., Frenking, G.",
+  "corresponding": "Bickelhaupt, F. M.",
+  "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, Theoretical Chemistry, Jagiellonian University in Krak\u00f3w, University of Marburg, Nanjing Tech University, Donostia International Physics Center",
+  "journal": "Physical Chemistry Chemical Physics",
+  "description": "Clarifying notes on the bonding analysis adopted by the energy decomposition analysisWe discuss the fundamental aspects of the EDA-NOCV method and address some critical comments that have been made recently. The EDA-NOCV method unlike most other methods focuses on the process of bond formation between the interacting species and not just only on the analysis of the finally formed bond. This is demonstrated using LiF as an example. There is a difference between the interactions between the initial species which form the bond and are also the final product of bond cleavage, and the interactions between the fragments in the eventually formed molecule. The flexibility of the method allows the choice of the interacting fragments which helps to identify the charge and electron configuration of the fragments which describe the bond. This is very helpful in cases where the bond may be described with several Lewis structures. We reject the idea that it would be a disadvantage to have \u201cbond path functions\u201d as the energy components in the EDA, which actually indicate the variability of the method. The bonding analysis in a different sequence of the bond formation gives important results for the various questions that can be asked. This is demonstrated by using CH2, CO2 and the formation of a guanine quartet as examples. The fact that a bond is always defined by the bound molecule, the fragments, and their states is universal and deeply physical, as we show here again for various examples. The results of the EDA-NOCV method are in full accordance with the physical mechanism of the chemical bond as revealed by Ruedenberg."
+ },
+ "https://doi.org/10.1038/s41467-022-30979-0": {
+  "month": "6",
+  "pub_date": "10 Jun 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Excess ribosomal protein production unbalances translation in a model of Fragile X Syndrome",
+  "contributors": "Seo, S. S., Louros, S. R., Anstey, N., Gonzalez-Lozano, M. A., Harper, C. B., Verity, N. C., Dando, O., Thomson, S. R., Darnell, J. C., Kind, P. C., Li, K. W., Osterweil, E. K.",
+  "corresponding": "Osterweil, E. K.",
+  "organisations": "Molecular and Cellular Neurobiology, Amsterdam Neuroscience - Cellular & Molecular Mechanisms, AIMMS, Amsterdam Neuroscience - Neurodegeneration, University of Edinburgh",
+  "journal": "Nature Communications",
+  "description": "Excess ribosomal protein production unbalances translation in a model of Fragile X SyndromeDysregulated protein synthesis is a core pathogenic mechanism in Fragile X Syndrome (FX). The mGluR Theory of FX predicts that pathological synaptic changes arise from the excessive translation of mRNAs downstream of mGlu1/5 activation. Here, we use a combination of CA1 pyramidal neuron-specific TRAP-seq and proteomics to identify the overtranslating mRNAs supporting exaggerated mGlu1/5 -induced long-term synaptic depression (mGluR-LTD) in the FX mouse model (Fmr1\u2212/y). Our results identify a significant increase in the translation of ribosomal proteins (RPs) upon mGlu1/5 stimulation that coincides with a reduced translation of long mRNAs encoding synaptic proteins. These changes are mimicked and occluded in Fmr1\u2212/y neurons. Inhibiting RP translation significantly impairs mGluR-LTD and prevents the length-dependent shift in the translating population. Together, these results suggest that pathological changes in FX result from a length-dependent alteration in the translating population that is supported by excessive RP translation."
+ },
+ "https://doi.org/10.1016/j.reprotox.2022.06.003": {
+  "month": "6",
+  "pub_date": "Sep 2022",
+  "year": 2022,
+  "early_online": "11 Jun 2022",
+  "title": "Quality criteria for in vitro human pluripotent stem cell-derived models of tissue-based cells",
+  "contributors": "Pistollato, F., Bal-Price, A., Coecke, S., Parvatam, S., Pamies, D., Czysz, K., Hao, J., Kee, K., Teo, A. K. K., Niu, S., Wilmes, A., Smirnova, L., Freund, C., Mummery, C., Stacey, G.",
+  "corresponding": "Stacey, G.",
+  "organisations": "Molecular and Computational Toxicology, AIMMS, European Commission Joint Research Centre Institute, CSIR - Biomedicine and Agriculture, University of Lausanne, Swiss Centre for Applied Human Toxicology, Inc, CAS - Institute of Zoology, Chinese Academy of Sciences, Tsinghua University, Agency for Science, Technology and Research, National University of Singapore, Johns Hopkins University, Leiden University, International Stem Cell Banking Initiative",
+  "journal": "Reproductive Toxicology",
+  "description": "Quality criteria for in vitro human pluripotent stem cell-derived models of tissue-based cellsThe advent of the technology to isolate or generate human pluripotent stem cells provided the potential to develop a wide range of human models that could enhance understanding of mechanisms underlying human development and disease. These systems are now beginning to mature and provide the basis for the development of in vitro assays suitable to understand the biological processes involved in the multi-organ systems of the human body, and will improve strategies for diagnosis, prevention, therapies and precision medicine. Induced pluripotent stem cell lines are prone to phenotypic and genotypic changes and donor/clone dependent variability, which means that it is important to identify the most appropriate characterization markers and quality control measures when sourcing new cell lines and assessing differentiated cell and tissue culture preparations for experimental work. This paper considers those core quality control measures for human pluripotent stem cell lines and evaluates the state of play in the development of key functional markers for their differentiated cell derivatives to promote assurance of reproducibility of scientific data derived from pluripotent stem cell-based systems."
+ },
+ "https://doi.org/10.1063/5.0087243": {
+  "month": "6",
+  "pub_date": "14 Jun 2022",
+  "year": 2022,
+  "early_online": "9 Jun 2022",
+  "title": "Assessing MP2 frozen natural orbitals in relativistic correlated electronic structure calculations",
+  "contributors": "Yuan, X., Visscher, L., Gomes, A. S. P.",
+  "corresponding": "Gomes, A. S. P.",
+  "organisations": "Theoretical Chemistry, AIMMS, Universite de Lille 2",
+  "journal": "Journal of Chemical Physics",
+  "description": "Assessing MP2 frozen natural orbitals in relativistic correlated electronic structure calculationsThe high computational scaling with the basis set size and the number of correlated electrons is a bottleneck limiting applications of coupled cluster algorithms, in particular for calculations based on two- or four-component relativistic Hamiltonians, which often employ uncontracted basis sets. This problem may be alleviated by replacing canonical Hartree-Fock virtual orbitals by natural orbitals (NOs). In this paper, we describe the implementation of a module for generating NOs for correlated wavefunctions and, in particular, second order M\u00f8ller-Plesset perturbation frozen natural orbitals (MP2FNOs) as a component of our novel implementation of relativistic coupled cluster theory for massively parallel architectures [Pototschnig et al. J. Chem. Theory Comput. 17, 5509, (2021)]. Our implementation can manipulate complex or quaternion density matrices, thus allowing for the generation of both Kramers-restricted and Kramers-unrestricted MP2FNOs. Furthermore, NOs are re-expressed in the parent atomic orbital (AO) basis, allowing for generating coupled cluster singles and doubles NOs in the AO basis for further analysis. By investigating the truncation errors of MP2FNOs for both the correlation energy and molecular properties - electric field gradients at the nuclei, electric dipole and quadrupole moments for hydrogen halides HX (X = F-Ts), and parity-violating energy differences for H2Z2 (Z = O-Se) - we find MP2FNOs accelerate the convergence of the correlation energy in a roughly uniform manner across the Periodic Table. It is possible to obtain reliable estimates for both energies and the molecular properties considered with virtual molecular orbital spaces truncated to about half the size of the full spaces. "
+ },
+ "https://doi.org/10.1021/acs.jmedchem.2c00125": {
+  "month": "6",
+  "pub_date": "23 Jun 2022",
+  "year": 2022,
+  "early_online": "3 Jun 2022",
+  "title": "Optimization of Peptide Linker-Based Fluorescent Ligands for the Histamine H1Receptor",
+  "contributors": "Kok, Z. Y., Stoddart, L. A., Mistry, S. J., Mocking, T. A., Vischer, H. F., Leurs, R., Hill, S. J., Mistry, S. N., Kellam, B.",
+  "corresponding": "Kellam, B.",
+  "organisations": "Medicinal chemistry, AIMMS, University of Nottingham, University of Birmingham",
+  "journal": "Journal of medicinal chemistry",
+  "description": "Optimization of Peptide Linker-Based Fluorescent Ligands for the Histamine H1ReceptorThe histamine H1 receptor (H1R) has recently been implicated in mediating cell proliferation and cancer progression; therefore, high-affinity H1R-selective fluorescent ligands are desirable tools for further investigation of this behavior in vitro and in vivo. We previously reported a H1R fluorescent ligand, bearing a peptide-linker, based on antagonist VUF13816 and sought to further explore structure-activity relationships (SARs) around the linker, orthostere, and fluorescent moieties. Here, we report a series of high-affinity H1R fluorescent ligands varying in peptide linker composition, orthosteric targeting moiety, and fluorophore. Incorporation of a boron-dipyrromethene (BODIPY) 630/650-based fluorophore conferred high binding affinity to our H1R fluorescent ligands, remarkably overriding the linker SAR observed in corresponding unlabeled congeners. Compound 31a, both potent and subtype-selective, enabled H1R visualization using confocal microscopy at a concentration of 10 nM. Molecular docking of 31a with the human H1R predicts that the optimized peptide linker makes interactions with key residues in the receptor."
+ },
+ "https://doi.org/10.1039/d1cs00305d": {
+  "month": "6",
+  "pub_date": "24 Jun 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Transition metal-catalysed carbene- and nitrene transfer to carbon monoxide and isocyanides",
+  "contributors": "Roose, T. R., Verdoorn, D. S., Mampuys, P., Ruijter, E., Maes, B. U., Orru, R. V.",
+  "corresponding": "Ruijter, E.",
+  "organisations": "Organic Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, Maastricht University, University of Antwerp",
+  "journal": "Chemical Society Reviews",
+  "description": "Transition metal-catalysed carbene- and nitrene transfer to carbon monoxide and isocyanidesTransition metal-catalysed carbene- and nitrene transfer to the C1-building blocks carbon monoxide and isocyanides provides heteroallenes (i.e. ketenes, isocyanates, ketenimines and carbodiimides). These are versatile and reactive compounds allowing in situ transformation towards numerous functional groups and organic compounds, including heterocycles. Both one-pot and tandem processes have been developed providing valuable synthetic methods for the organic chemistry toolbox. This review discusses all known transition metal-catalysed carbene- and nitrene transfer reactions towards carbon monoxide and isocyanides and in situ transformation of the heteroallenes hereby obtained, with a special focus on the general mechanistic considerations."
+ },
+ "https://doi.org/10.1016/j.celrep.2022.111010": {
+  "month": "6",
+  "pub_date": "28 Jun 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Full humanization of the glycolytic pathway in Saccharomyces cerevisiae",
+  "contributors": "Boonekamp, F. J., Knibbe, E., Vieira-Lara, M. A., Wijsman, M., Luttik, M. A., van Eunen, K., Ridder, M. D., Bron, R., Almonacid Suarez, A. M., van Rijn, P., Wolters, J. C., Pabst, M., Daran, J. M., Bakker, B. M., Daran-Lapujade, P.",
+  "corresponding": null,
+  "organisations": "Molecular Cell Physiology, AIMMS, Delft University of Technology, University of Groningen",
+  "journal": "Cell Reports",
+  "description": "Full humanization of the glycolytic pathway in Saccharomyces cerevisiaeAlthough transplantation of single genes in yeast plays a key role in elucidating gene functionality in metazoans, technical challenges hamper humanization of full pathways and processes. Empowered by advances in synthetic biology, this study demonstrates the feasibility and implementation of full humanization of glycolysis in yeast. Single gene and full pathway transplantation revealed the remarkable conservation of glycolytic and moonlighting functions and, combined with evolutionary strategies, brought to light context-dependent responses. Human hexokinase 1 and 2, but not 4, required mutations in their catalytic or allosteric sites for functionality in yeast, whereas hexokinase 3 was unable to complement its yeast ortholog. Comparison with human tissues cultures showed preservation of turnover numbers of human glycolytic enzymes in yeast and human cell cultures. This demonstration of transplantation of an entire essential pathway paves the way for establishment of species-, tissue-, and disease-specific metazoan models."
+ },
+ "https://doi.org/10.1039/d2cp01631a": {
+  "month": "6",
+  "pub_date": "28 Jun 2022",
+  "year": 2022,
+  "early_online": "13 Jun 2022",
+  "title": "Polycyclic aromatic hydrocarbon growth in a benzene discharge explored by IR-UV action spectroscopy",
+  "contributors": "Lemmens, A. K., Rap, D. B., Br\u00fcnken, S., Buma, W. J., Rijs, A. M.",
+  "corresponding": "Lemmens, A. K.",
+  "organisations": "BioAnalytical Chemistry, AIMMS, University of Amsterdam, Radboud University Nijmegen",
+  "journal": "Physical Chemistry Chemical Physics",
+  "description": "Polycyclic aromatic hydrocarbon growth in a benzene discharge explored by IR-UV action spectroscopyInfrared signatures of polycyclic aromatic hydrocarbons (PAHs) are detected towards many phases of stellar evolution. PAHs are major players in the carbon chemistry of the interstellar medium, forming the connection between small hydrocarbons and large fullerenes. However, as details on the formation of PAHs in these environments are still unclear, modeling their abundance and chemistry has remained far from trivial. By combining molecular beam mass-selective IR spectroscopy and calculated IR spectra, we analyze the discharge of benzene and identify resulting products including larger PAHs, radicals and intermediates that serve as promising candidates for radio astronomical searches. The identification of various reaction products indicates that different gas-phase reaction mechanisms leading to PAH growth must occur under the same conditions to account for all observed PAH-related species, thereby revealing the complex and interconnected network of PAH formation pathways. The results of this study highlight key (exothermic) reactions that need to be included in astrochemical models describing the carbon chemistry in our universe."
+ },
+ "https://doi.org/10.3390/nu14132752": {
+  "month": "7",
+  "pub_date": "1 Jul 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Nicotinamide Riboside and Dihydronicotinic Acid Riboside Synergistically Increase Intracellular NAD+ by Generating Dihydronicotinamide Riboside",
+  "contributors": "Ciarlo, E., Joffraud, M., Hayat, F., Giner, M. P., Giroud\u2010gerbetant, J., Sanchez\u2010garcia, J. L., Rumpler, M., Moco, S., Migaud, M. E., Cant\u00f3, C.",
+  "corresponding": "Migaud, M. E.",
+  "organisations": "Molecular and Computational Toxicology, AIMMS, Nestle, University of South Alabama, Swiss Federal Institute of Technology Lausanne",
+  "journal": "Nutrients",
+  "description": "Nicotinamide Riboside and Dihydronicotinic Acid Riboside Synergistically Increase Intracellular NAD+ by Generating Dihydronicotinamide RibosideThrough evolution, eukaryote organisms have developed the ability to use different molecules as independent precursors to generate nicotinamide adenine dinucleotide (NAD+), an essential molecule for life. However, whether these different precursors act in an additive or complementary manner is not truly well understood. Here, we have evaluated how combinations of different NAD+ precursors influence intracellular NAD+ levels. We identified dihydronicotinic acid riboside (NARH) as a new NAD+ precursor in hepatic cells. Second, we demonstrate how NARH, but not any other NAD+ precursor, can act synergistically with nicotinamide riboside (NR) to increase NAD+ levels in cultured cells and in mice. Finally, we demonstrate that the large increase in NAD+ prompted by the combination of these two precursors is due to their chemical interaction and conversion to dihydronicotinamide riboside (NRH). Altogether, this work demonstrates for the first time that NARH can act as a NAD+ precursor in mammalian cells and how different NAD+ precursors can interact and influence each other when co\u2010administered."
+ },
+ "https://doi.org/10.3390/ijms23137393": {
+  "month": "7",
+  "pub_date": "1 Jul 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Overexpression of the Bam Complex Improves the Production of Chlamydia trachomatis MOMP in the E. coli Outer Membrane",
+  "contributors": "Huynh, D. T., Jong, W. S., Koningstein, G. M., van Ulsen, P., Luirink, J.",
+  "corresponding": "van Ulsen, P.",
+  "organisations": "Molecular Microbiology, AIMMS, LaserLaB - Analytical Chemistry and Spectroscopy, LaserLaB - Molecular Biophysics",
+  "journal": "International Journal of Molecular Sciences",
+  "description": "Overexpression of the Bam Complex Improves the Production of Chlamydia trachomatis MOMP in the E. coli Outer MembraneA licensed Chlamydia trachomatis (Ct) vaccine is not yet available. Recombinant Chlamydia trachomatis major outer membrane protein (Ct-MOMP), the most abundant constituent of the chlamydial outer membrane complex, is considered the most attractive candidate for subunit-based vaccine formulations. Unfortunately, Ct-MOMP is difficult to express in its native structure in the E. coli outer membrane (OM). Here, by co-expression of the Bam complex, we improved the expression and localization of recombinant Ct-MOMP in the E. coli OM. Under these conditions, recombinant Ct-MOMP appeared to assemble into a \u03b2-barrel conformation and express domains at the cell surface indicative of correct folding. The data indicate that limited availability of the Bam complex can be a bottleneck for the production of heterologous OM vaccine antigens, information that is also relevant for strategies aimed at producing recombinant OMV-based vaccines."
  }
 }
