@@ -14,16 +14,12 @@ import json
 import openpyxl
 import pprint
 
-#import copy
-#import collections
-#import wordcloud
-#import matplotlib.pyplot as plt
 
-#import datafilters as FLT
+# environment test and setup
 
-# import numpy
+assert os.sys.version_info.major == 3, 'Guess what ... sigh'
+assert os.environ['CONDA_DEFAULT_ENV'] == 'sandbox10', 'Guess what ... dev shortcuts'
 
-assert os.environ['CONDA_DEFAULT_ENV'] == 'sandbox10', 'Guess what ...'
 
 # set current month
 CURRENT_MONTH = int(time.strftime('%m'))
@@ -31,6 +27,15 @@ CURRENT_YEAR = int(time.strftime('%Y'))
 
 ctime = time.strftime('%Y-%m-%d')
 cdir = os.path.dirname(os.path.abspath(os.sys.argv[0]))
+workDir = os.path.abspath(os.path.join(cdir, '..', 'noupload', 'lsem2aurora'))
+inDir = os.path.abspath(os.path.join(workDir, 'input_data'))
+outDir = os.path.abspath(os.path.join(workDir, 'output'))
+
+for p_ in [workDir, inDir, outDir]:
+    if not os.path.exists(p_):
+        os.makedirs(p_)
+
+# DB test and setup
 
 # Test database
 DB_FILE_NAME = 'aimms_equipment.sqlite'
@@ -40,11 +45,45 @@ DB_FILE_NAME = 'aimms_equipment-test.sqlite'
 DB_ACTIVE_TABLE = 'equipment'
 
 
-# OPen database
-aimmsDB = CBNetDB.DBTools()
-aimmsDB.connectSQLiteDB(DB_FILE_NAME, work_dir=cdir)
+aucolsm = ["ID", "title","type","resrearch area","research area pt2","science area specified","pilot domain","short description","university","GPS - X","GPS - Y","Keyword 1","Keyword 2","Keyword 3","Keyword 4","Keyword 5","contact name","contact person email"]
+aucolso = ["contact person position", "contact person phone", "support staff name", "support staff position", "support staff email", "support staff phone", "Key Researcher name", "Key Researcher position", "Key Researcher e-mail", "Key Researcher phone number", "website", "Street name", "Street number", "Postal Code", "City", "Country", "Link to photo of resource", "Additional Information"]
+aucols = aucolsm + aucolso
 
-#sldata = aimmsDB.getColumns(DB_ACTIVE_TABLE, ['doi', 'year', 'title', 'contributors', 'organisations', 'corresponding'],)
+lscols = ["ID", "Barcode", "Other ID(s)", "Equipment class", "Laser class", "Name of device", "Manufacturer", "Owner Organisation", "Location"]
+
+aimmscols = lscols + aucols[1:]
+
+
+# Open database
+aimmsDB = CBNetDB.DBTools()
+if not os.path.exists(os.path.join(workDir, DB_FILE_NAME)):
+    aimmsDB.connectSQLiteDB(DB_FILE_NAME, work_dir=workDir)
+    aimmsDB.createDBTable('labs', lscols, primary='ID')
+    aimmsDB.createDBTable('aurora', aucols, primary='ID')
+    aimmsDB.createDBTable('aimms', aimmscols, primary='ID')
+
+    print(lscols)
+    print(aucols)
+    print(aimmscols)
+    
+else:
+    aimmsDB.connectSQLiteDB(DB_FILE_NAME, work_dir=workDir)
+
+#aimmsDB.insertData('labs', {'ID':1})
+#aimmsDB.insertData('labs', {'ID':2})
+#aimmsDB.insertData('labs', {'ID':3})
+#aimmsDB.insertData('labs', {'ID':4})
+    
+# Get current new index
+
+if len(aimmsDB.getColumns('labs', ['ID'])[0]) == 0 or aimmsDB.getColumns('labs', ['ID'])[0][-1] == 'None':
+    IDXVAL = 1
+else:
+    IDXVAL = int(aimmsDB.getColumns('labs', ['ID'])[0][-1]) + 1
+
+print('IDXVAL', IDXVAL)
+
+
 
 #data = {}
 #print('SLdata', len(sldata[0]))

@@ -131,7 +131,7 @@ class DBTools(NetDBbase):
         except:
             return False
 
-    def createDBTable(self, table, sqlcols):
+    def createDBTable(self, table, sqlcols, primary=None):
         """
         Create a database table if it does not exist:
 
@@ -140,9 +140,12 @@ class DBTools(NetDBbase):
 
         Effectively writes CREATE TABLE "table" (<id> <type>, gene TEXT PRIMARY KEY, aa_seq TEXT, nuc_seq TEXT, aa_len INT, nuc_len INT) % table
         """
-        SQL = 'CREATE TABLE %s (' % table
+        SQL = 'CREATE TABLE "{}" ('.format(table)
         for c in sqlcols:
-            SQL += ' %s,' % c
+            if c != primary:
+                SQL += ' "{}",'.format(c)
+            else:
+                SQL += ' "{}" PRIMARY KEY,'.format(c)
         SQL = SQL[:-1]
         SQL += ' )'
         print(SQL)
@@ -171,7 +174,7 @@ class DBTools(NetDBbase):
         try:
             data.keys()
             for d in data:
-                colstr += '%s, ' % d
+                colstr += '"{}", '.format(d)
                 valstr += '?, '
                 vals.append(data[d])
         except AttributeError:
@@ -180,7 +183,7 @@ class DBTools(NetDBbase):
             )
             time.sleep(3)
             for d in data:
-                colstr += '%s, ' % d[0]
+                colstr += '"{}", '.format(d[0])
                 valstr += '?, '
                 vals.append(d[1])
         colstr = colstr[:-2] + ')'
@@ -212,8 +215,8 @@ class DBTools(NetDBbase):
 
         sql = 'UPDATE {} SET '.format(table)
         for d in data:
-            sql += '{}=\"{}\", '.format(d, str(data[d]).replace('\"', '\''))
-        sql = sql[:-2] + ' WHERE {}=\"{}\"'.format(col, rid)
+            sql += '{}="{}", '.format(d, str(data[d]).replace('\"', '\''))
+        sql = sql[:-2] + ' WHERE "{}"="{}"'.format(col, rid)
 
         print(sql)
         try:
@@ -234,7 +237,7 @@ class DBTools(NetDBbase):
 
         """
         self.db_cursor.execute(
-            "SELECT count(*) FROM {} WHERE {}=\"{}\"".format(table, col, rid)
+            'SELECT count(*) FROM {} WHERE "{}"="{}"'.format(table, col, rid)
         )
         data = self.db_cursor.fetchone()[0]
         if data == 0:
@@ -269,9 +272,9 @@ class DBTools(NetDBbase):
         """
         sql = "SELECT "
         for c in cols:
-            sql += '{}, '.format(str(c))
+            sql += '"{}", '.format(str(c))
         sql = sql[:-2]
-        sql += ' FROM {}'.format(table)
+        sql += ' FROM "{}"'.format(table)
         dout = [[] for i in range(len(cols))]
         # print(sql)
         # print(dout)
@@ -296,7 +299,7 @@ class DBTools(NetDBbase):
          - *rid* the row index id
 
         """
-        sql = "SELECT * FROM {} WHERE {}=\"{}\"".format(table, col, rid)
+        sql = 'SELECT * FROM {} WHERE "{}"="{}"'.format(table, col, rid)
         # print(sql)
         dout = []
         try:
@@ -325,7 +328,7 @@ class DBTools(NetDBbase):
          - *cell* the column of the cell you want tp extract
 
         """
-        sql = "SELECT {} FROM {} WHERE {}=\"{}\"".format(cell, table, col, rid)
+        sql = 'SELECT {} FROM "{}" WHERE "{}"="{}"'.format(cell, table, col, rid)
         # print(sql)
         data = None
         try:
@@ -345,8 +348,8 @@ class DBTools(NetDBbase):
          - *colOut* optionally return a tuple of (data,ColNames)
 
         """
-        sql = 'SELECT * FROM %s' % table
-        sql2 = "PRAGMA table_info( %s )" % table
+        sql = 'SELECT * FROM "{}"'.format(table)
+        sql2 = "PRAGMA table_info( {} )".format(table)
 
         r = None
         col = None
