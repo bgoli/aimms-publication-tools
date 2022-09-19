@@ -65,7 +65,7 @@ if not os.path.exists(os.path.join(workDir, DB_FILE_NAME)):
     print(lscols)
     print(aucols)
     print(aimmscols)
-    
+
 else:
     aimmsDB.connectSQLiteDB(DB_FILE_NAME, work_dir=workDir)
 
@@ -73,7 +73,7 @@ else:
 #aimmsDB.insertData('labs', {'ID':2})
 #aimmsDB.insertData('labs', {'ID':3})
 #aimmsDB.insertData('labs', {'ID':4})
-    
+
 # Get current new index
 
 if len(aimmsDB.getColumns('labs', ['ID'])[0]) == 0 or aimmsDB.getColumns('labs', ['ID'])[0][-1] == 'None':
@@ -82,6 +82,50 @@ else:
     IDXVAL = int(aimmsDB.getColumns('labs', ['ID'])[0][-1]) + 1
 
 print('IDXVAL', IDXVAL)
+
+# Database ready
+
+
+# Load data
+ls_data_file = "AIMMS_equipment_list_clean.xlsx"
+
+ls_wb = openpyxl.load_workbook(os.path.join(inDir, ls_data_file))
+print(ls_wb.sheetnames)
+ls_ws = ls_wb[ls_wb.sheetnames[0]]
+print(ls_ws.max_column)
+print(ls_ws.max_row)
+
+maxcol = 8
+maxrow = 21
+
+
+for r in range(1, maxrow + 1):
+#     print('{}{}'.format(openpyxl.utils.get_column_letter(c), r))
+#     print(ls_ws['{}{}'.format(c, r)])
+#     print(ls_ws.cell(column=c, row=r).value)
+    data = {
+        'ID': IDXVAL,
+        'barcode': ls_ws.cell(column=1, row=r).value,
+        'Other ID(s)': ls_ws.cell(column=2, row=r).value,
+        'Equipment class': ls_ws.cell(column=3, row=r).value,
+        'Laser class': ls_ws.cell(column=4, row=r).value,
+        'Name of device': ls_ws.cell(column=5, row=r).value,
+        'Manufacturer': ls_ws.cell(column=6, row=r).value,
+        'Owner Organisation': ls_ws.cell(column=7, row=r).value,
+        'Location': ls_ws.cell(column=8, row=r).value,
+    }
+    aimmsDB.insertData('labs', data, commit=False)
+    aimmsDB.insertData('aimms', data, commit=False)
+    aimmsDB.commitDB()
+    IDXVAL += 1
+
+lsdb = aimmsDB.getTable("aimms")
+
+
+
+
+
+
 
 
 
