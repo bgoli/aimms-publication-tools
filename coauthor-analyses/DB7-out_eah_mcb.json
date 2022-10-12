@@ -1,0 +1,114 @@
+{
+ "dois": [
+  "https://doi.org/10.1289/EHP5911",
+  "https://doi.org/10.1007/s10532-022-09982-1",
+  "https://doi.org/10.3389/frsc.2021.69201210.3389/frsc.2021.692012",
+  "https://doi.org/10.3389/frsc.2021.692018"
+ ],
+ "https://doi.org/10.1289/EHP5911": {
+  "groups": [
+   "Environment and Health",
+   "Molecular Cell Biology"
+  ],
+  "groups0": [
+   "E&H: Environmental Health and Toxicology",
+   "Systems Bioinformatics"
+  ],
+  "groups1": [
+   "Molecular Cell Biology",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Hamers, T.",
+   "Kortenkamp, A.",
+   "Scholze, M.",
+   "Molenaar, D.",
+   "Cenijn, P. H.",
+   "Weiss, J. M."
+  ],
+  "title": "Transthyretin-binding activity of complex mixtures representing the composition of thyroid-hormone disrupting contaminants in house dust and human serum",
+  "year": "2020"
+ },
+ "https://doi.org/10.1007/s10532-022-09982-1": {
+  "groups": [
+   "Environment and Health",
+   "Molecular Cell Biology"
+  ],
+  "groups0": [
+   "E&H: Environmental Chemistry and Toxicology",
+   "Systems Bioinformatics"
+  ],
+  "groups1": [
+   "Molecular Cell Biology",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Nguyen, T. L. A.",
+   "Dao, A. T. N.",
+   "Dang, H. T. C.",
+   "Koekkoek, J.",
+   "Brouwer, A.",
+   "de Boer, T. E.",
+   "van Spanning, R. J. M."
+  ],
+  "title": "Degradation of 2,4-dichlorophenoxyacetic acid (2,4-D) and 2,4,5-trichlorophenoxyacetic acid (2,4,5-T) by fungi originating from Vietnam",
+  "year": "2022"
+ },
+ "https://doi.org/10.3389/frsc.2021.69201210.3389/frsc.2021.692012": {
+  "groups": [
+   "Environment and Health",
+   "Molecular Cell Biology"
+  ],
+  "groups0": [
+   "E&H: Environmental Chemistry and Toxicology",
+   "Molecular Cell Physiology",
+   "Systems Bioinformatics"
+  ],
+  "groups1": [
+   "Molecular Cell Biology",
+   "Molecular Cell Biology",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Nguyen, T. L. A.",
+   "Dang, H. T. C.",
+   "Koekkoek, J.",
+   "Dat, T. T. H.",
+   "Braster, M.",
+   "Brandt, B. W.",
+   "Parsons, J. R.",
+   "Brouwer, A.",
+   "Van Spanning, R. J. M."
+  ],
+  "title": "Correlating Biodegradation Kinetics of 2,4-Dichlorophenoxyacetic Acid (2,4-D) and 2,4,5-Trichlorophenoxyacetic Acid (2,4,5-T) to the Dynamics of Microbial Communities Originating From Soil in Vietnam Contaminated With Herbicides",
+  "year": "2021"
+ },
+ "https://doi.org/10.3389/frsc.2021.692018": {
+  "groups": [
+   "Environment and Health",
+   "Molecular Cell Biology"
+  ],
+  "groups0": [
+   "E&H: Environmental Chemistry and Toxicology",
+   "Molecular Cell Physiology",
+   "Systems Bioinformatics"
+  ],
+  "groups1": [
+   "Molecular Cell Biology",
+   "Molecular Cell Biology",
+   "Environment and Health"
+  ],
+  "contributors": [
+   "Nguyen, T. L. A.",
+   "Dang, H. T. C.",
+   "Koekkoek, J.",
+   "Braster, M.",
+   "Parsons, J. R.",
+   "Brouwer, A.",
+   "de Boer, T.",
+   "van Spanning, R. J. M."
+  ],
+  "title": "Species and Metabolic Pathways Involved in Bioremediation of Vietnamese Soil From Bien Hoa Airbase Contaminated With Herbicides",
+  "year": "2021"
+ }
+}

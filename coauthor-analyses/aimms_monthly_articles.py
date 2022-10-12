@@ -81,7 +81,8 @@ __version__ = 1.5
 # data_file = 'AIMMS_research_2021-14_06_21.xls'
 # data_file = 'AIMMS_research_2021-28_06_21.xls'
 # data_file = 'AIMMS_research_2021-13_09_21.xls'
-data_file = 'AIMMS_research_2016-2021-18_11_21v2.xls'
+# data_file = 'AIMMS_research_2016-2021-18_11_21v2.xls'
+data_file = 'AIMMS_research_2016-2022-12_10_22.xls'
 
 import os
 import time
@@ -97,7 +98,7 @@ assert os.environ['CONDA_DEFAULT_ENV'] == 'sandbox', 'Guess what ...'
 CURRENT_YEAR = int(time.strftime('%Y'))
 CURRENT_MONTH = int(time.strftime('%m'))
 # manual override for specific month/year
-CURRENT_YEAR = 2021
+CURRENT_YEAR = 2022
 CURRENT_MONTH = 12
 
 # set up current env.
@@ -107,7 +108,8 @@ data_dir = os.path.join(cdir, 'data')
 
 # set up database env.
 # default DB name: 'aimmsDB.sqlite'
-DB_FILE_NAME = 'aimmsDB6yrs.sqlite'
+#DB_FILE_NAME = 'aimmsDB6yrs.sqlite'
+DB_FILE_NAME = 'aimmsDB7yrs.sqlite'
 # default table name: 'publications'
 DB_ACTIVE_TABLE = 'publications'
 

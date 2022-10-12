@@ -36,8 +36,9 @@ cdir = os.path.dirname(os.path.abspath(os.sys.argv[0]))
 DB_FILE_NAME = 'aimmsDBtest.sqlite'
 DB_ACTIVE_TABLE = 'Y2020'
 # Production DB
-DB_FILE_NAME = 'aimmsDB6yrs.sqlite'
+DB_FILE_NAME = 'aimmsDB7yrs.sqlite'
 DB_ACTIVE_TABLE = 'publications'
+KEY = 'DB7'
 
 
 # Grab data from database and create a json dict and dump to file.
@@ -58,7 +59,7 @@ for r_ in range(len(sldata[0])):
     }
 aimmsDB.closeDB()
 
-with open('data0.json', 'w') as F:
+with open('{}-data0.json'.format(KEY), 'w') as F:
     json.dump(data, F, indent=1)
 
 def makeWordcloud(fname, kword_dict, size=(12, 12), height=600, width=800):
@@ -285,13 +286,13 @@ for paper in multigroup:
 
 
 
-with open('data_multigroup_raw.json', 'w') as F:
+with open('{}-data_multigroup_raw.json'.format(KEY), 'w') as F:
     json.dump(multigroup, F, indent=1)
 
-with open('data_multigroup.json', 'w') as F:
+with open('{}-data_multigroup.json'.format(KEY), 'w') as F:
     json.dump(cross_dept_data, F, indent=1)
 
-with open('data_multigroup_group.json', 'w') as F:
+with open('{}-data_multigroup_group.json'.format(KEY), 'w') as F:
     json.dump(cross_group_data, F, indent=1)
 
 spread_out = []
@@ -327,13 +328,13 @@ for p in cross_dept_data:
     dept_combi_freq.append(','.join(grps))
     spread_out.append(rowdat+groups)
 
-with open('out_all.json', 'w') as F:
+with open('{}-out_all.json'.format(KEY), 'w') as F:
     json.dump(out_all, F, indent=1)
-with open('out_cap_mcb.json', 'w') as F:
+with open('{}-out_cap_mcb.json'.format(KEY), 'w') as F:
     json.dump(out_cap_mcb, F, indent=1)
-with open('out_cap_eah.json', 'w') as F:
+with open('{}-out_cap_eah.json'.format(KEY), 'w') as F:
     json.dump(out_cap_eah, F, indent=1)
-with open('out_eah_mcb.json', 'w') as F:
+with open('{}-out_eah_mcb.json'.format(KEY), 'w') as F:
     json.dump(out_eah_mcb, F, indent=1)
 
 for p in cross_group_data:

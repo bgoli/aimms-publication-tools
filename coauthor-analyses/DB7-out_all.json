@@ -1,0 +1,68 @@
+{
+ "dois": [
+  "https://doi.org/10.1016/j.plaphy.2018.02.013",
+  "https://doi.org/10.1016/j.scitotenv.2020.139028"
+ ],
+ "https://doi.org/10.1016/j.plaphy.2018.02.013": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health",
+   "Molecular Cell Biology"
+  ],
+  "groups0": [
+   "E&H: Environmental Bioanalytical Chemistry",
+   "Medicinal chemistry",
+   "Structural Biology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "van Kleeff, P. J. M.",
+   "Gao, J.",
+   "Mol, S.",
+   "Zwart, N.",
+   "Zhang, H.",
+   "Li, K. W.",
+   "de Boer, A. H."
+  ],
+  "title": "The Arabidopsis GORK K+-channel is phosphorylated by calcium-dependent protein kinase 21 (CPK21), which in turn is activated by 14-3-3 proteins",
+  "year": "2018"
+ },
+ "https://doi.org/10.1016/j.scitotenv.2020.139028": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health",
+   "Molecular Cell Biology"
+  ],
+  "groups0": [
+   "BioAnalytical Chemistry",
+   "E&H: Environmental Chemistry and Toxicology",
+   "E&H: Environmental Health and Toxicology",
+   "Molecular Microbiology",
+   "Structural Biology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Environment and Health",
+   "Molecular Cell Biology",
+   "Environment and Health",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "Jonkers, T. J. H.",
+   "Steenhuis, M.",
+   "Schalkwijk, L.",
+   "Luirink, J.",
+   "Bald, D.",
+   "Houtman, C. J.",
+   "Kool, J.",
+   "Lamoree, M. H.",
+   "Hamers, T."
+  ],
+  "title": "Development of a high-throughput bioassay for screening of antibiotics in aquatic environmental samples",
+  "year": "2020"
+ }
+}

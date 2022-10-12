@@ -1,0 +1,504 @@
+{
+ "dois": [
+  "https://doi.org/10.1002/ejoc.201801562",
+  "https://doi.org/10.3390/antibiotics11020273",
+  "https://doi.org/10.1371/journal.pone.0173573",
+  "https://doi.org/10.1016/j.tiv.2017.12.007",
+  "https://doi.org/10.1002/anie.201813110",
+  "https://doi.org/10.1128/AAC.01445-20",
+  "https://doi.org/10.1007/s00253-019-09697-z",
+  "https://doi.org/10.1007/s12033-019-00175-5",
+  "https://doi.org/10.1111/mmi.14255",
+  "https://doi.org/10.1016/j.bcp.2020.113938",
+  "https://doi.org/10.3390/ijms20153684",
+  "https://doi.org/10.1002/anie.201804875",
+  "https://doi.org/10.1128/mBio.01346-18",
+  "https://doi.org/10.3389/fpls.2021.697324",
+  "https://doi.org/10.1007/s00726-018-2613-8",
+  "https://doi.org/10.1128/AEM.01528-17",
+  "https://doi.org/10.1007/s00253-018-9299-4",
+  "https://doi.org/10.1016/j.jinorgbio.2017.12.003"
+ ],
+ "https://doi.org/10.1002/ejoc.201801562": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "groups0": [
+   "Organic Chemistry",
+   "Systems Bioinformatics"
+  ],
+  "groups1": [
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "van Lint, M. J.",
+   "Hall, M.",
+   "Faber, K.",
+   "van Spanning, R. J. M.",
+   "Ruijter, E.",
+   "Orru, R. V. A."
+  ],
+  "title": "Stereoselective Chemoenzymatic Cascade Synthesis of the bis-THF Core of Acetogeninsbis-Tetrahydrofuran acetogenins are a class of natural products displaying highly potent and selective anti-tumor activity. Herein we report a new route to precursors of these natural products, utilizing the pseudo C2-symmetry in the central bis-tetrahydrofuran fragment. Key steps of our stereoselective chemoenzymatic strategy include the epoxide hydrolase-mediated desymmetrization of meso-epoxides and a cascade cyclization in either \u201cinside-out\u201d or \u201coutside-in\u201d direction, providing stereoselective access to the cores of both bullatacin- and rolliniastatin 1-type acetogenins with 6 stereocenters each from a common mono-epoxide precursor.General information",
+  "year": "2019"
+ },
+ "https://doi.org/10.3390/antibiotics11020273": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "groups0": [
+   "Molecular Microbiology",
+   "Organic Chemistry"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "Schouten, G. K.",
+   "Paulussen, F. M.",
+   "Kuipers, O. P.",
+   "Bitter, W.",
+   "Grossmann, T. N.",
+   "van Ulsen, P."
+  ],
+  "title": "Stapling of Peptides Potentiates: The Antibiotic Treatment of Acinetobacter baumannii In Vivo",
+  "year": "2022"
+ },
+ "https://doi.org/10.1371/journal.pone.0173573": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "groups0": [
+   "Molecular Cell Biology",
+   "Molecular and Computational Toxicology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "Huseinovic, A.",
+   "van Leeuwen, J.",
+   "van Welsem, T.",
+   "Stulemeijer, I.",
+   "van Leeuwen, F.",
+   "Vermeulen, N. P. E.",
+   "Kooter, J. M.",
+   "Vos, J. C."
+  ],
+  "title": "The effect of acetaminophen on ubiquitin homeostasis in Saccharomyces cerevisiae",
+  "year": "2017"
+ },
+ "https://doi.org/10.1016/j.tiv.2017.12.007": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "groups0": [
+   "Molecular Cell Biology",
+   "Molecular and Computational Toxicology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "Huseinovic, A.",
+   "van Dijk, M.",
+   "Vermeulen, N. P. E.",
+   "van Leeuwen, F.",
+   "Kooter, J. M.",
+   "Vos, J. C."
+  ],
+  "title": "Drug toxicity profiling of a Saccharomyces cerevisiae deubiquitinase deletion panel shows that acetaminophen mimics tyrosine",
+  "year": "2018"
+ },
+ "https://doi.org/10.1002/anie.201813110": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "groups0": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Medicinal chemistry",
+   "Structural Biology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "Hauwert, N. J.",
+   "Mocking, T. A. M.",
+   "Da Costa Pereira, D.",
+   "Lion, K.",
+   "Huppelschoten, Y.",
+   "Vischer, H. F.",
+   "De Esch, I. J. P.",
+   "Wijtmans, M.",
+   "Leurs, R."
+  ],
+  "title": "None",
+  "year": "2019"
+ },
+ "https://doi.org/10.1128/AAC.01445-20": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "groups0": [
+   "Molecular Microbiology",
+   "Organic Chemistry"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "Ho, V. Q. T.",
+   "Verboom, T.",
+   "Rong, M. K.",
+   "Habjan, E.",
+   "Bitter, W.",
+   "Speer, A."
+  ],
+  "title": "Heterologous Expression of eth",
+  "year": "2021"
+ },
+ "https://doi.org/10.1007/s00253-019-09697-z": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "groups0": [
+   "Molecular Microbiology",
+   "Molecular and Computational Toxicology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "Ortega Ugalde, S.",
+   "Boot, M.",
+   "Commandeur, J. N. M.",
+   "Jennings, P.",
+   "Bitter, W.",
+   "Vos, J. C."
+  ],
+  "title": "Function, essentiality, and expression of cytochrome P450 enzymes and their cognate redox partners in Mycobacterium tuberculosis: are they drug targets?",
+  "year": "2019"
+ },
+ "https://doi.org/10.1007/s12033-019-00175-5": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "groups0": [
+   "Medicinal chemistry",
+   "Molecular Cell Biology",
+   "Structural Biology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "Nawaz, I.",
+   "Iqbal, M.",
+   "Hakvoort, H. W. J.",
+   "de Boer, A. H.",
+   "Schat, H."
+  ],
+  "title": "None",
+  "year": "2019"
+ },
+ "https://doi.org/10.1111/mmi.14255": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "groups0": [
+   "Medicinal chemistry",
+   "Molecular Microbiology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "Steenhuis, M.",
+   "Abdallah, A. M.",
+   "de Munnik, S. M.",
+   "Kuhne, S.",
+   "Sterk, G. J.",
+   "van den Berg van Saparoea, B.",
+   "Westerhausen, S.",
+   "Wagner, S.",
+   "van der Wel, N. N.",
+   "Wijtmans, M.",
+   "van Ulsen, P.",
+   "Jong, W. S. P.",
+   "Luirink, J."
+  ],
+  "title": "Inhibition of autotransporter biogenesis by small molecules",
+  "year": "2019"
+ },
+ "https://doi.org/10.1016/j.bcp.2020.113938": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "groups0": [
+   "Molecular Microbiology",
+   "Molecular and Computational Toxicology",
+   "Organic Chemistry"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "Ortega Ugalde, S.",
+   "Wallraven, K.",
+   "Speer, A.",
+   "Bitter, W.",
+   "Grossmann, T. N.",
+   "Commandeur, J. N. M."
+  ],
+  "title": "Acetylene containing cyclo(L-Tyr-L-Tyr)-analogs as mechanism-based inhibitors of CYP121A1 from Mycobacterium tuberculosis",
+  "year": "2020"
+ },
+ "https://doi.org/10.3390/ijms20153684": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "groups0": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Medicinal chemistry",
+   "Molecular Microbiology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "Glas, M.",
+   "Eiso, A. B.",
+   "Hollander, J.",
+   "Siegal, G.",
+   "Luirink, J.",
+   "de Esch, I."
+  ],
+  "title": "Interrogating the essential bacterial cell division protein Fts",
+  "year": "2019"
+ },
+ "https://doi.org/10.1002/anie.201804875": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "groups0": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Medicinal chemistry",
+   "Structural Biology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "G\u00f3mez-Santacana, X.",
+   "de Munnik, S. M.",
+   "Vijayachandran, P.",
+   "Da Costa Pereira, D.",
+   "Bebelman, J. P. M.",
+   "de Esch, I. J. P.",
+   "Vischer, H. F.",
+   "Wijtmans, M.",
+   "Leurs, R."
+  ],
+  "title": "Photoswitching the Efficacy of a Small-Molecule Ligand for a Peptidergic GPCR: from Antagonism to Agonism",
+  "year": "2018"
+ },
+ "https://doi.org/10.1128/mBio.01346-18": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "groups0": [
+   "Medicinal chemistry",
+   "Molecular Microbiology",
+   "Molecular and Computational Toxicology",
+   "Organic Chemistry"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Chemistry and Pharmaceutical Sciences",
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "Kureisaite-Ciziene, D.",
+   "Varadajan, A.",
+   "McLaughlin, S. H.",
+   "Glas, M.",
+   "Silva, A. M.",
+   "Luirink, R.",
+   "Mueller, C.",
+   "Blaauwen, T. D.",
+   "Grossmann, T. N.",
+   "Luirink, J.",
+   "L\u00f6we, J."
+  ],
+  "title": "Structural analysis of the interaction between the bacterial cell division proteins FTSQ and FTSBMost bacteria and archaea use the tubulin homologue Fts",
+  "year": "2018"
+ },
+ "https://doi.org/10.3389/fpls.2021.697324": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "groups0": [
+   "Medicinal chemistry",
+   "Structural Biology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "Gao, J.",
+   "van Kleeff, P. J. M.",
+   "de Boer, M. H.",
+   "Erban, A.",
+   "Kopka, J.",
+   "Hincha, D. K.",
+   "de Boer, A. H."
+  ],
+  "title": "Ion Homeostasis and Metabolome Analysis of Arabidopsis 14-3-3 Quadruple Mutants to Salt Stress",
+  "year": "2021"
+ },
+ "https://doi.org/10.1007/s00726-018-2613-8": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "groups0": [
+   "AIMSS Division of BioAnalytical Chemistry",
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology",
+   "Molecular and Computational Toxicology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Huseinovic, A.",
+   "Dekker, S. J.",
+   "Boogaard, B.",
+   "Vermeulen, N. P. E.",
+   "Kooter, J. M.",
+   "Vos, J. C."
+  ],
+  "title": "Acetaminophen reduces the protein levels of high affinity amino acid permeases and causes tryptophan depletion",
+  "year": "2018"
+ },
+ "https://doi.org/10.1128/AEM.01528-17": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "groups0": [
+   "BioAnalytical Chemistry",
+   "Molecular Cell Physiology",
+   "Systems Bioinformatics"
+  ],
+  "groups1": [
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "dos Santos, F. B.",
+   "Olivier, B. G.",
+   "Boele, J.",
+   "Krumpochova, P.",
+   "Klau, G. W.",
+   "Giera, M.",
+   "Teusink, B."
+  ],
+  "title": "Probing the genome-scale metabolic landscape of Bordetella pertussis, the causative agent of whooping cough",
+  "year": "2017"
+ },
+ "https://doi.org/10.1007/s00253-018-9299-4": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "groups0": [
+   "AIMSS Division of BioAnalytical Chemistry",
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Microbiology",
+   "Molecular and Computational Toxicology",
+   "Organic Chemistry"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Chemistry and Pharmaceutical Sciences",
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology",
+   "Chemistry and Pharmaceutical Sciences"
+  ],
+  "contributors": [
+   "Ortega Ugalde, S.",
+   "de Koning, C. P.",
+   "Wallraven, K.",
+   "Bruyneel, B.",
+   "Vermeulen, N. P. E.",
+   "Grossmann, T. N.",
+   "Bitter, W.",
+   "Commandeur, J. N. M.",
+   "Vos, J. C."
+  ],
+  "title": "Linking cytochrome P450 enzymes from Mycobacterium tuberculosis to their cognate ferredoxin partners",
+  "year": "2018"
+ },
+ "https://doi.org/10.1016/j.jinorgbio.2017.12.003": {
+  "groups": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "groups0": [
+   "Molecular Microbiology",
+   "Molecular and Computational Toxicology"
+  ],
+  "groups1": [
+   "Chemistry and Pharmaceutical Sciences",
+   "Molecular Cell Biology"
+  ],
+  "contributors": [
+   "Ortega Ugalde, S.",
+   "Luirink, R. A.",
+   "Geerke, D. P.",
+   "Vermeulen, N. P. E.",
+   "Bitter, W.",
+   "Commandeur, J. N. M."
+  ],
+  "title": "Engineering a self-sufficient Mycobacterium tuberculosis CYP130 by gene fusion with the reductase-domain of CYP102A1 from Bacillus megaterium",
+  "year": "2017"
+ }
+}
