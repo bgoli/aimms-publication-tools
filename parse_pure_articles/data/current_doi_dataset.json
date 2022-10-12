@@ -623,6 +623,30 @@
   "journal": null,
   "description": "Using zebrafish to assess developmental neurotoxicityIt is widely accepted that the developing nervous system is especially vulnerable to a variety of chemicals, including drugs and environmental contaminants; however our understanding of the risks from chemical exposures during development is rudimentary. Zebrafish have become a popular test species in toxicology, pharmacology, and biomedical research. This chapter was written as an introduction to the use of zebrafish in developmental neurotoxicology, and to encourage the use of this model either for human or ecological risk characterizations. We have endeavored to make the reader aware of significant research findings, and to offer a balanced view of the advantages and limitations in using zebrafish as a model for investigating developmental neurotoxicity."
  },
+ "https://doi.org/10.1111/febs.16401": {
+  "month": "8",
+  "pub_date": "Aug 2022",
+  "year": 2022,
+  "early_online": "17 Feb 2022",
+  "title": "Escherichia coli robustly expresses ATP synthase at growth rate-maximizing concentrations",
+  "contributors": "Rabbers, I., Bruggeman, F. J.",
+  "corresponding": "Bruggeman, F. J.",
+  "organisations": "Systems Bioinformatics, AIMMS",
+  "journal": "FEBS Journal",
+  "description": "Escherichia coli robustly expresses ATP synthase at growth rate-maximizing concentrationsFitness-enhancing adaptations of protein expression and its regulation are an important aspect of bacterial evolution. A key question is whether evolution has led to optimal protein expression that maximizes immediate growth rate (short-term fitness) in a robust manner (consistently across diverse conditions). Alternatively, they could display suboptimal short-term fitness, because they cannot do better or because they instead strive for long-term fitness maximization by, for instance, preparing for future conditions. To address this question, we focus on the ATP-producing enzyme F1F0 H+-ATPase, which is an abundant enzyme and ubiquitously expressed across conditions. Its expression is highly regulated and dependent on growth rate and nutrient conditions. For instance, during growth on sugars, when metabolism is overflowing acetate, glycolysis supplies most ATP, while H+-ATPase is the main source of ATP synthesis during growth on acetate. We tested the optimality of H+-ATPase expression in Escherichia coli across different nutrient conditions. In all tested conditions, wild-type E. coli expresses its H+-ATPase remarkably close (within a few per cent) to optimal concentrations that maximize immediate growth rate. This work indicates that bacteria can indeed achieve robust optimal protein expression for immediate growth-rate maximization."
+ },
+ "https://doi.org/10.1021/acs.analchem.2c01928": {
+  "month": "8",
+  "pub_date": "9 Aug 2022",
+  "year": 2022,
+  "early_online": "28 Feb 2022",
+  "title": "Combining Photodegradation in a Liquid-Core-Waveguide Cell with Multiple-Heart-Cut Two-Dimensional Liquid Chromatography",
+  "contributors": "Den Uijl, M. J., Van Der Wijst, Y. J. H. L., Groeneveld, I., Schoenmakers, P. J., Pirok, B. W. J., Van Bommel, M. R.",
+  "corresponding": "Den Uijl, M. J.",
+  "organisations": "BioAnalytical Chemistry, AIMMS, University of Amsterdam, Center for Analytical Sciences Amsterdam (CASA)",
+  "journal": "Analytical chemistry",
+  "description": "Combining Photodegradation in a Liquid-Core-Waveguide Cell with Multiple-Heart-Cut Two-Dimensional Liquid ChromatographyPhotodegradation greatly affects everyday life. It poses challenges when food deteriorates or when objects of cultural heritage fade, but it can also create opportunities applied in advanced oxidation processes in water purification. Studying photodegradation, however, can be difficult because of the time needed for degradation, the inaccessibility of pure compounds, and the need to handle samples manually. A novel light-exposure cell, based on liquid-core-waveguide (LCW) technology, was embedded in a multiple-heart-cut two-dimensional liquid chromatography system by coupling the LCW cell to the multiple-heart-cut valve. The sample was flushed from the heart-cut loops into the cell by an isocratic pump. Samples were then irradiated using different time intervals and subsequently transferred by the same isocratic pump to a second-dimension sample loop. The mixture containing the transformation products was then subjected to the second-dimension separation. In the current setup, about 30-40% of the selected fraction was transferred. Multiple degradation products could be monitored. Degradation was found to be faster when a smaller sample amount was introduced (0.3 \u03bcg as compared to 1.5 \u03bcg). The system was tested with three applications, that is, fuchsin, a 19th-century synthetic organic colorant, annatto, a lipophilic food dye, and vitamin B complex."
+ },
  "https://doi.org/10.3390/biom12030424": {
   "month": "3",
   "pub_date": "Mar 2022",
@@ -1367,6 +1391,18 @@
   "journal": "Toxicology in Vitro",
   "description": "Frankenstein's followers. Maintenance of human cells outside the body. Issue 1Although science can endeavour to do a great many things, unachievable thus far, these activities should be, but seldom are, tempered with the question, should we really do it? This is not necessarily implying a moral code to scientific activity, but at least suggests that we probably should consider the long-term consequences of certain scientific activities to human society and the environment. Indeed, scientists have struggled with the consequences of their discoveries, not least Nobel himself, who set up the Nobel prize as a reaction to being called \u201cThe father of death\u201d, due to his discovery and financial success with dynamite. Here, we set out the basis for a series of articles entitled, Frankenstein's Followers, Maintenance and propagation of human cells outside the body."
  },
+ "https://doi.org/10.1039/d2em00103a": {
+  "month": "8",
+  "pub_date": "1 Aug 2022",
+  "year": 2022,
+  "early_online": "31 May 2022",
+  "title": "Fate-directed risk assessment of chemical mixtures: a case study for cedarwood essential oil",
+  "contributors": "S\u00fchring, R., Mayer, P., Leonards, P., MacLeod, M.",
+  "corresponding": "S\u00fchring, R.",
+  "organisations": "E&H: Environmental Bioanalytical Chemistry, Amsterdam Sustainability Institute, AIMMS, Stockholm University, Ryerson University, Technical University of Denmark",
+  "journal": "Environmental Science: Processes and Impacts",
+  "description": "Fate-directed risk assessment of chemical mixtures: a case study for cedarwood essential oilThe environmental risk assessment of UVCBs (i.e., substances of unknown or variable composition, complex reaction products, or biological materials) is challenging due to their inherent complexity. A particular problem is that UVCBs can contain constituents with unidentified chemical structures and/or have variable composition of constituents from batch to batch. Moreover, the composition of a UVCB in the environment is not the same as that of the UVCB in a product, meaning that a risk assessment based on environmental exposure to the UVCB in a product does not represent the actual environmental risk. Here we propose an in silico fate-directed risk assessment framework for UVCBs using cedarwood oil as a case study. The framework uses Monte Carlo simulations and the mass-balance models SimpleTreat and RAIDAR to provide quantitative information on whether unidentified constituents within the physical-chemical property space of a UVCB can be the decisive factor for the environmental risk of the entire UVCB. Thereby the framework provides a robust decision tool to evaluate if a UVCB risk assessment requires additional tests or if the data on known constituents is representative for the risk of the entire UVCB. In the case of cedarwood oil, it could be shown that a risk assessment based on the known constituents (representing around 70% of the overall UVCB by weight) is representative for the environmental risk of the entire UVCB - reducing the need for additional testing and test animals."
+ },
  "https://doi.org/10.1002/cssc.202200594": {
   "month": "8",
   "pub_date": "5 Aug 2022",
@@ -1499,18 +1535,6 @@
   "journal": "Journal of medicinal chemistry",
   "description": "Optimization of Peptide Linker-Based Fluorescent Ligands for the Histamine H1ReceptorThe histamine H1 receptor (H1R) has recently been implicated in mediating cell proliferation and cancer progression; therefore, high-affinity H1R-selective fluorescent ligands are desirable tools for further investigation of this behavior in vitro and in vivo. We previously reported a H1R fluorescent ligand, bearing a peptide-linker, based on antagonist VUF13816 and sought to further explore structure-activity relationships (SARs) around the linker, orthostere, and fluorescent moieties. Here, we report a series of high-affinity H1R fluorescent ligands varying in peptide linker composition, orthosteric targeting moiety, and fluorophore. Incorporation of a boron-dipyrromethene (BODIPY) 630/650-based fluorophore conferred high binding affinity to our H1R fluorescent ligands, remarkably overriding the linker SAR observed in corresponding unlabeled congeners. Compound 31a, both potent and subtype-selective, enabled H1R visualization using confocal microscopy at a concentration of 10 nM. Molecular docking of 31a with the human H1R predicts that the optimized peptide linker makes interactions with key residues in the receptor."
  },
- "https://doi.org/10.1039/d1cs00305d": {
-  "month": "6",
-  "pub_date": "24 Jun 2022",
-  "year": 2022,
-  "early_online": null,
-  "title": "Transition metal-catalysed carbene- and nitrene transfer to carbon monoxide and isocyanides",
-  "contributors": "Roose, T. R., Verdoorn, D. S., Mampuys, P., Ruijter, E., Maes, B. U. W., Orru, R. V. A.",
-  "corresponding": "Ruijter, E.",
-  "organisations": "Organic Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, Maastricht University, University of Antwerp",
-  "journal": "Chemical Society Reviews",
-  "description": "Transition metal-catalysed carbene- and nitrene transfer to carbon monoxide and isocyanidesTransition metal-catalysed carbene- and nitrene transfer to the C1-building blocks carbon monoxide and isocyanides provides heteroallenes (i.e. ketenes, isocyanates, ketenimines and carbodiimides). These are versatile and reactive compounds allowing in situ transformation towards numerous functional groups and organic compounds, including heterocycles. Both one-pot and tandem processes have been developed providing valuable synthetic methods for the organic chemistry toolbox. This review discusses all known transition metal-catalysed carbene- and nitrene transfer reactions towards carbon monoxide and isocyanides and in situ transformation of the heteroallenes hereby obtained, with a special focus on the general mechanistic considerations."
- },
  "https://doi.org/10.1039/d2cp01631a": {
   "month": "6",
   "pub_date": "28 Jun 2022",
@@ -1535,17 +1559,29 @@
   "journal": "European Journal of Organic Chemistry",
   "description": "Palladium-Catalyzed Activation of Carbon\u2013Halogen Bonds: Electrostatics-Controlled ReactivityWe have quantum chemically studied the palladium-mediated activation of C(spn)\u2212X bonds (n=1\u20133; X=F, Cl, Br, I) in the archetypal model substrates H3C\u2212CH2\u2212X, H2C=CH\u2212X, and HC\u2261C\u2212X by a model bare palladium catalyst, using relativistic density functional theory at ZORA-BLYP/TZ2P. The bond activation reaction barrier decreases, for all sp-hybridized carbon centers, when the substituent X of the substrate is changed from X=F to I. Activation strain and energy decomposition analyses reveal that the enhanced reactivity along this series originates from (i) a less destabilizing activation strain due to an intrinsically weaker C(spn)\u2212X bond; and (ii) an increasingly more stabilizing electrostatic interaction between the catalyst and the substrate. The latter is a direct consequence of the more diffuse electron density and higher nuclear charge of the X atom in the C(spn)\u2212X bond when going from X=F to I, which, in turn, engages in a more favorable electrostatic attraction with the nucleus and electrons, respectively, of the palladium catalyst."
  },
+ "https://doi.org/10.1002/chem.202201620": {
+  "month": "7",
+  "pub_date": "15 Jul 2022",
+  "year": 2022,
+  "early_online": "20 Jun 2022",
+  "title": "How Ionization Catalyzes Diels-Alder Reactions: [Cover profile]Invited for the cover of this issue are Pascal\u2005Vermeeren, Trevor\u2005A. Hamlin, and F.\u2005Matthias Bickelhaupt of the Theo",
+  "contributors": "Vermeeren, P., Hamlin, T. A., Bickelhaupt, F. M.",
+  "corresponding": null,
+  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences",
+  "journal": "Chemistry (Weinheim an der Bergstrasse, Germany)",
+  "description": "How Ionization Catalyzes Diels-Alder Reactions: [Cover profile]Invited for the cover of this issue are Pascal\u2005Vermeeren, Trevor\u2005A. Hamlin, and F.\u2005Matthias Bickelhaupt of the TheoCheM group at the Vrije Universiteit Amsterdam. The cover art depicts how ionizing the dienophile lowers the Diels-Alder reaction barrier between 1,3-butadiene and acrylaldehyde by reducing the destabilizing steric Pauli repulsion and enhancing the stabilizing orbital interactions. Read the full text of the article at 10.1002/chem.202200987."
+ },
  "https://doi.org/10.1021/acs.chemrestox.2c00067": {
   "month": "7",
   "pub_date": "18 Jul 2022",
   "year": 2022,
   "early_online": "29 Jun 2022",
-  "title": "\" Commandeuring\" Xenobiotic Metabolism: Advances in Understanding Xenobiotic Metabolism",
+  "title": "\"Commandeuring\" Xenobiotic Metabolism: Advances in Understanding Xenobiotic Metabolism",
   "contributors": "Van Vugt-Lussenburg, B. M. A., Capinha, L., Reinen, J., Rooseboom, M., Kranendonk, M., Onderwater, R. C. A., Jennings, P.",
   "corresponding": "Van Vugt-Lussenburg, B. M. A.",
   "organisations": "Molecular and Computational Toxicology, AIMMS, BioDetection Systems B.V., Charles River Den Bosch, Royal Dutch Shell PLC, NOVA University Lisbon, Materia Nova ASBL",
   "journal": "Chemical Research in Toxicology",
-  "description": "\" Commandeuring\" Xenobiotic Metabolism: Advances in Understanding Xenobiotic MetabolismThe understanding of how exogenous chemicals (xenobiotics) are metabolized, distributed, and eliminated is critical to determine the impact of the chemical and its metabolites to the (human) organism. This is part of the research and educational discipline ADMET (absorption, distribution, metabolism, elimination, and toxicity). Here, we review the work of Jan Commandeur and colleagues who have not only made a significant impact in understanding of phase I and phase II metabolism of several important compounds but also contributed greatly to the development of experimental techniques for the study of xenobiotic metabolism. Jan Commandeur's work has covered a broad area of research, such as the development of online screening methodologies, the use of a combination of enzyme mutagenesis and molecular modeling for structure-activity relationship (SAR) studies, and the development of novel probe substrates. This work is the bedrock of current activities and brings the field closer to personalized (cohort-based) pharmacology, toxicology, and hazard/risk assessment. "
+  "description": "\"Commandeuring\" Xenobiotic Metabolism: Advances in Understanding Xenobiotic MetabolismThe understanding of how exogenous chemicals (xenobiotics) are metabolized, distributed, and eliminated is critical to determine the impact of the chemical and its metabolites to the (human) organism. This is part of the research and educational discipline ADMET (absorption, distribution, metabolism, elimination, and toxicity). Here, we review the work of Jan Commandeur and colleagues who have not only made a significant impact in understanding of phase I and phase II metabolism of several important compounds but also contributed greatly to the development of experimental techniques for the study of xenobiotic metabolism. Jan Commandeur's work has covered a broad area of research, such as the development of online screening methodologies, the use of a combination of enzyme mutagenesis and molecular modeling for structure-activity relationship (SAR) studies, and the development of novel probe substrates. This work is the bedrock of current activities and brings the field closer to personalized (cohort-based) pharmacology, toxicology, and hazard/risk assessment. "
  },
  "https://doi.org/10.1016/j.molcel.2022.05.031": {
   "month": "7",
@@ -1558,6 +1594,18 @@
   "organisations": "Medicinal chemistry, AIMMS, CAS - Shanghai Institute of Materia Medica, University of Chinese Academy of Sciences, ShanghaiTech University, Zhejiang University, University of Copenhagen, Key Laboratory of Immunity and Inflammatory Diseases of Zhejiang Province",
   "journal": "Molecular cell",
   "description": "GPCRs steer Gi and Gs selectivity via TM5-TM6 switches as revealed by structures of serotonin receptorsSerotonin (or 5-hydroxytryptamine, 5-HT) is an important neurotransmitter that activates 12 different G protein-coupled receptors (GPCRs) through selective coupling of Gs, Gi, or Gq proteins. The structural basis for G protein subtype selectivity by these GPCRs remains elusive. Here, we report the structures of the serotonin receptors 5-HT4, 5-HT6, and 5-HT7 with Gs, and 5-HT4 with Gi1. The structures reveal that transmembrane helices TM5 and TM6 alternate lengths as a macro-switch to determine receptor's selectivity for Gs and Gi, respectively. We find that the macro-switch by the TM5-TM6 length is shared by class A GPCR-G protein structures. Furthermore, we discover specific residues within TM5 and TM6 that function as micro-switches to form specific interactions with Gs or Gi. Together, these results present a common mechanism of Gs versus Gi protein coupling selectivity or promiscuity by class A GPCRs and extend the basis of ligand recognition at serotonin receptors."
+ },
+ "https://doi.org/10.1039/d1cs00305d": {
+  "month": "7",
+  "pub_date": "21 Jul 2022",
+  "year": 2022,
+  "early_online": "24 Jun 2022",
+  "title": "Transition metal-catalysed carbene- and nitrene transfer to carbon monoxide and isocyanides",
+  "contributors": "Roose, T. R., Verdoorn, D. S., Mampuys, P., Ruijter, E., Maes, B. U. W., Orru, R. V. A.",
+  "corresponding": "Ruijter, E.",
+  "organisations": "Organic Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, Maastricht University, University of Antwerp",
+  "journal": "Chemical Society Reviews",
+  "description": "Transition metal-catalysed carbene- and nitrene transfer to carbon monoxide and isocyanidesTransition metal-catalysed carbene- and nitrene transfer to the C1-building blocks carbon monoxide and isocyanides provides heteroallenes (i.e. ketenes, isocyanates, ketenimines and carbodiimides). These are versatile and reactive compounds allowing in situ transformation towards numerous functional groups and organic compounds, including heterocycles. Both one-pot and tandem processes have been developed providing valuable synthetic methods for the organic chemistry toolbox. This review discusses all known transition metal-catalysed carbene- and nitrene transfer reactions towards carbon monoxide and isocyanides and in situ transformation of the heteroallenes hereby obtained, with a special focus on the general mechanistic considerations."
  },
  "https://doi.org/10.1016/j.reprotox.2022.06.003": {
   "month": "9",
@@ -1655,42 +1703,6 @@
   "journal": "Science",
   "description": "Conformational selection guides \u03b2-arrestin recruitment at a biased G protein\u2013coupled receptorG protein\u2013coupled receptors (GPCRs) recruit \u03b2-arrestins to coordinate diverse cellular processes, but the structural dynamics driving this process are poorly understood. Atypical chemokine receptors (ACKRs) are intrinsically biased GPCRs that engage \u03b2-arrestins but not G proteins, making them a model system for investigating the structural basis of \u03b2-arrestin recruitment. Here, we performed nuclear magnetic resonance (NMR) experiments on 13CH3-\u03b5\u2013methionine\u2013labeled ACKR3, revealing that \u03b2-arrestin recruitment is associated with conformational exchange at key regions of the extracellular ligand-binding pocket and intracellular \u03b2-arrestin\u2013coupling region. NMR studies of ACKR3 mutants defective in \u03b2-arrestin recruitment identified an allosteric hub in the receptor core that coordinates transitions among heterogeneously populated and selected conformational states. Our data suggest that conformational selection guides \u03b2-arrestin recruitment by tuning receptor dynamics at intracellular and extracellular regions."
  },
- "https://doi.org/10.1016/j.bmc.2022.116920": {
-  "month": "7",
-  "pub_date": "9 Jul 2022",
-  "year": 2022,
-  "early_online": null,
-  "title": "Targeting the interaction of \u03b2-catenin and TCF/LEF transcription factors to inhibit oncogenic Wnt signaling",
-  "contributors": "Koelman, E. M. R., Yeste-V\u00e1zquez, A., Grossmann, T. N.",
-  "corresponding": "Grossmann, T. N.",
-  "organisations": "Organic Chemistry, AIMMS, Vrije Universiteit Amsterdam",
-  "journal": "Bioorganic and Medicinal Chemistry",
-  "description": "Targeting the interaction of \u03b2-catenin and TCF/LEF transcription factors to inhibit oncogenic Wnt signalingThe Wnt/\u03b2-catenin signaling pathway is crucially involved in embryonic development, stem cell maintenance and tissue renewal. Hyperactivation of this pathway is associated with the development and progression of various types of cancers. The transcriptional coactivator \u03b2-catenin represents a pivotal component of the pathway and its interaction with transcription factors of the TCF/LEF family is central to pathway activation. Inhibition of this crucial protein\u2013protein interaction via direct targeting of \u03b2-catenin is considered a promising strategy for the inactivation of oncogenic Wnt signaling. This review summarizes advances in the development of Wnt antagonists that have been shown to directly bind \u03b2-catenin."
- },
- "https://doi.org/10.1002/chem.202201620": {
-  "month": "7",
-  "pub_date": "15 Jul 2022",
-  "year": 2022,
-  "early_online": null,
-  "title": "[Cover profile] How Ionization Catalyzes Diels-Alder Reactions",
-  "contributors": "Vermeeren, P., Hamlin, T. A., Bickelhaupt, F. M.",
-  "corresponding": null,
-  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences",
-  "journal": "Chemistry (Weinheim an der Bergstrasse, Germany)",
-  "description": "[Cover profile] How Ionization Catalyzes Diels-Alder ReactionsInvited for the cover of this issue are Pascal\u2005Vermeeren, Trevor\u2005A. Hamlin, and F.\u2005Matthias Bickelhaupt of the TheoCheM group at the Vrije Universiteit Amsterdam. The cover art depicts how ionizing the dienophile lowers the Diels-Alder reaction barrier between 1,3-butadiene and acrylaldehyde by reducing the destabilizing steric Pauli repulsion and enhancing the stabilizing orbital interactions. Read the full text of the article at 10.1002/chem.202200987."
- },
- "https://doi.org/10.1002/chem.202201619": {
-  "month": "7",
-  "pub_date": "15 Jul 2022",
-  "year": 2022,
-  "early_online": null,
-  "title": "Front Cover: How Ionization Catalyzes Diels\u2010Alder Reactions (Chem. Eur. J. 40/2022)General information",
-  "contributors": "Vermeeren, P., Hamlin, T. A., Bickelhaupt, F. M.",
-  "corresponding": null,
-  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences",
-  "journal": "Chemistry \u2013 A European Journal",
-  "description": "Front Cover: How Ionization Catalyzes Diels\u2010Alder Reactions (Chem. Eur. J. 40/2022)"
- },
  "https://doi.org/10.1177/07356331221114181": {
   "month": "7",
   "pub_date": "15 Jul 2022",
@@ -1715,6 +1727,18 @@
   "journal": "Environmental science & technology",
   "description": "Physiologically Based Toxicokinetic Modeling of Bisphenols in Zebrafish (Danio rerio) Accounting for Variations in Metabolic Rates, Brain Distribution, and Liver AccumulationBisphenol A (BPA) is an industrial chemical, which has raised human health and environmental concerns due to its endocrine-disrupting properties. BPA analogues are less well-studied despite their wide use in consumer products. These analogues have been detected in water and aquatic organisms around the world, with some analogues showing toxic effects in various species including fish. Here, we present novel organ-specific time-course distribution data of bisphenol Z (BPZ) in female zebrafish (Danio rerio), including concentrations in the ovaries, liver, and brain, a rarely sampled organ with high toxicological relevance. Furthermore, fish-specific in vitro biotransformation rates were determined for 11 selected bisphenols. A physiologically based toxicokinetic (PBTK) model was adapted for four of these bisphenols, which was able to predict levels in the gonads, liver, and brain as well as the whole body within a 2-5-fold error with respect to experimental data, covering several important target organs of toxicity. In particular, predicted liver concentrations improved compared to currently available PBTK models. Predicted data indicate that studied bisphenols mainly distribute to the carcass and gonads and less to the brain. Our model provides a tool to increase our understanding on the distribution and kinetics of a group of emerging pollutants."
  },
+ "https://doi.org/10.1002/chem.202201649": {
+  "month": "7",
+  "pub_date": "27 Jul 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Rational Tuning of the Reactivity of Three-Membered Heterocycle Ring Openings via SN2 Reactions",
+  "contributors": "Hansen, T., Nin-Hill, A., Cod\u00e9e, J. D. C., Hamlin, T. A., Rovira, C.",
+  "corresponding": "Hansen, T.",
+  "organisations": "Organic Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, Theoretical Chemistry, University of Barcelona, Leiden University, ICREA",
+  "journal": "Chemistry - A European Journal",
+  "description": "Rational Tuning of the Reactivity of Three-Membered Heterocycle Ring Openings via SN2 ReactionsThe development of small-molecule covalent inhibitors and probes continuously pushes the rapidly evolving field of chemical biology forward. A key element in these molecular tool compounds is the \u201celectrophilic trap\u201d that allows a covalent linkage with the target enzyme. The reactivity of this entity needs to be well balanced to effectively trap the desired enzyme, while not being attacked by off-target nucleophiles. Here we investigate the intrinsic reactivity of substrates containing a class of widely used electrophilic traps, the three-membered heterocycles with a nitrogen (aziridine), phosphorus (phosphirane), oxygen (epoxide) or sulfur atom (thiirane) as heteroatom. Using quantum chemical approaches, we studied the conformational flexibility and nucleophilic ring opening of a series of model substrates, in which these electrophilic traps are mounted on a cyclohexene scaffold (C6H10Y with Y=NH, PH, O, S). It was revealed that the activation energy of the ring opening does not necessarily follow the trend that is expected from C\u2212Y leaving-group bond strength, but steeply decreases from Y=NH, to PH, to O, to S. We illustrate that the HOMONu\u2013LUMOSubstrate interaction is an all-important factor for the observed reactivity. In addition, we show that the activation energy of aziridines and phosphiranes can be tuned far below that of the corresponding epoxides and thiiranes by the addition of proper electron-withdrawing ring substituents. Our results provide mechanistic insights to rationally tune the reactivity of this class of popular electrophilic traps and can guide the experimental design of covalent inhibitors and probes for enzymatic activity."
+ },
  "https://doi.org/10.1002/asia.202200553": {
   "month": "7",
   "pub_date": "28 Jul 2022",
@@ -1724,7 +1748,7 @@
   "contributors": "Beutick, S. E., Vermeeren, P., Hamlin, T. A.",
   "corresponding": "Vermeeren, P.",
   "organisations": "Theoretical Chemistry, AIMMS",
-  "journal": "Chemistry - An Asian JournalArticle number:e202200553",
+  "journal": "Chemistry - An Asian Journal",
   "description": "The 1,3-Dipolar Cycloaddition: From Conception to Quantum Chemical DesignThe 1,3-dipolar cycloaddition (1,3-DCA) reaction, conceptualized by Rolf Huisgen in 1960, has proven immensely useful in organic, material, and biological chemistry. The uncatalyzed, thermal transformation is generally sluggish and unselective, but the reactivity can be enhanced by means of metal catalysis or by the introduction of either predistortion or electronic tuning of the dipolarophile. These promoted reactions generally go with a much higher reactivity, selectivity, and yields, often at ambient temperatures. The rapid orthogonal reactivity and compatibility with aqueous and physiological conditions positions the 1,3-DCA as an excellent bioorthogonal reaction. Quantum chemical calculations have been critical for providing an understanding of the physical factors that control the reactivity and selectivity of 1,3-DCAs. In silico derived design principles have proven invaluable for the design of new dipolarophiles with tailored reactivity. This review discusses everything from the conception of the 1,3-DCA all the way to the state-of-the-art methods and models used for the quantum chemical design of novel (bioorthogonal) reagents."
  },
  "https://doi.org/10.3390/ijms23158211": {
@@ -1811,6 +1835,18 @@
   "journal": "Angewandte Chemie - International Edition",
   "description": "Methyl Substitution Destabilizes Alkyl RadicalsWe have quantum chemically investigated how methyl substituents affect the stability of alkyl radicals MemH3\u2212mC\u22c5 and the corresponding MemH3\u2212mC\u2212X bonds (X = H, CH3, OH; m = 0 \u2013 3) using density functional theory at M06-2X/TZ2P. The state-of-the-art in physical organic chemistry is that alkyl radicals are stabilized upon an increase in their degree of substitution from methyl<primary<secondary<tertiary, and that this is the underlying cause for the decrease in C\u2212H bond strength along this series. Here, we provide evidence that falsifies this model and show that, on the contrary, the MemH3\u2212mC\u22c5 radical is destabilized with increasing substitution. The reason that the corresponding C\u2212H bond nevertheless becomes weaker is that substitution destabilizes the sterically more congested MemH3\u2212mC\u2212H molecule even more."
  },
+ "https://doi.org/10.1016/j.bmc.2022.116920": {
+  "month": "9",
+  "pub_date": "15 Sep 2022",
+  "year": 2022,
+  "early_online": "9 Jul 2022",
+  "title": "Targeting the interaction of \u03b2-catenin and TCF/LEF transcription factors to inhibit oncogenic Wnt signaling",
+  "contributors": "Koelman, E. M. R., Yeste-V\u00e1zquez, A., Grossmann, T. N.",
+  "corresponding": "Grossmann, T. N.",
+  "organisations": "AIMMS, Organic Chemistry, Vrije Universiteit Amsterdam",
+  "journal": "Bioorganic and Medicinal Chemistry",
+  "description": "Targeting the interaction of \u03b2-catenin and TCF/LEF transcription factors to inhibit oncogenic Wnt signalingThe Wnt/\u03b2-catenin signaling pathway is crucially involved in embryonic development, stem cell maintenance and tissue renewal. Hyperactivation of this pathway is associated with the development and progression of various types of cancers. The transcriptional coactivator \u03b2-catenin represents a pivotal component of the pathway and its interaction with transcription factors of the TCF/LEF family is central to pathway activation. Inhibition of this crucial protein\u2013protein interaction via direct targeting of \u03b2-catenin is considered a promising strategy for the inactivation of oncogenic Wnt signaling. This review summarizes advances in the development of Wnt antagonists that have been shown to directly bind \u03b2-catenin."
+ },
  "https://doi.org/10.1007/978-1-0716-2493-7_9": {
   "month": "8",
   "pub_date": "2022",
@@ -1822,6 +1858,30 @@
   "organisations": "BioAnalytical Chemistry, AIMMS, Leiden University",
   "journal": null,
   "description": "Assessment of Macro- and Microheterogeneity of Monoclonal Antibodies Using Capillary Zone Electrophoresis Hyphenated with Mass SpectrometryThis chapter focuses on the application of capillary zone electrophoresis hyphenated with mass spectrometry (CZE-MS) for the characterization of monoclonal antibodies (mAbs). mAbs are complex molecules comprising different glycoforms and many other posttranslational modifications. In addition to this inherent microheterogeneity, misassembling of antibodies can take place during production contributing to their macroheterogeneity. CZE-MS is a versatile and powerful technique which has demonstrated high potential for the assessment of both micro- and macroheterogeneity of mAbs. In this chapter, technical and practical considerations for the characterization of mAbs by CZE-MS are described. CE-MS interfacing, capillary coatings for the prevention of mAb adsorption, and sample preparation considerations are covered in detail. The assessment of the macro- and microheterogeneity is discussed and exemplified through three different approaches involving analysis of intact, enzymatically digested, and reduced antibodies. The examples also illustrate the use of two commercially available interfacing techniques (i.e., sheath liquid and sheathless) as well as different types of capillary coatings (positively charged and neutral coatings)."
+ },
+ "https://doi.org/10.1128/msystems.00423-22": {
+  "month": "8",
+  "pub_date": "Aug 2022",
+  "year": 2022,
+  "early_online": "11 Aug 2022",
+  "title": "A Computational Toolbox to Investigate the Metabolic Potential and Resource Allocation in Fission Yeast",
+  "contributors": "Grigaitis, P., Grundel, D. A. J., van Pelt-KleinJan, E., Isaku, M., Xie, G., Mendoza Farias, S., Teusink, B., van Heerden, J. H.",
+  "corresponding": "Grigaitis, P.",
+  "organisations": "Systems Bioinformatics, AIMMS, Systems Bioinformatics, Vrije Universiteit Amsterdam",
+  "journal": "mSystems",
+  "description": "A Computational Toolbox to Investigate the Metabolic Potential and Resource Allocation in Fission YeastThe fission yeast, Schizosaccharomyces pombe, is a popular eukaryal model organism for cell division and cell cycle studies. With this extensive knowledge of its cell and molecular biology, S. pombe also holds promise for use in metabolism research and industrial applications. However, unlike the baker\u2019s yeast, Saccharomyces cerevisiae, a major workhorse in these areas, cell physiology and metabolism of S. pombe remain less explored. One way to advance understanding of organism-specific metabolism is construction of computational models and their use for hypothesis testing. To this end, we leverage existing knowledge of S. cerevisiae to generate a manually curated high-quality reconstruction of S. pombe\u2019s metabolic network, including a proteome-constrained version of the model. Using these models, we gain insights into the energy demands for growth, as well as ribosome kinetics in S. pombe. Furthermore, we predict proteome composition and identify growth-limiting constraints that determine optimal metabolic strategies under different glucose availability regimes and reproduce experimentally determined metabolic profiles. Notably, we find similarities in metabolic and proteome predictions of S. pombe with S. cerevisiae, which indicate that similar cellular resource constraints operate to dictate metabolic organization. With these cases, we show, on the one hand, how these models provide an efficient means to transfer metabolic knowledge from a well-studied to a lesser-studied organism, and on the other, how they can successfully be used to explore the metabolic behavior and the role of resource allocation in driving different strategies in fission yeast."
+ },
+ "https://doi.org/10.3390/genes13081402": {
+  "month": "8",
+  "pub_date": "Aug 2022",
+  "year": 2022,
+  "early_online": "7 Aug 2022",
+  "title": "A Functional Carbohydrate Degrading Enzyme Potentially Acquired by Horizontal Gene Transfer in the Genome of the Soil Invertebrate Folsomia candida",
+  "contributors": "Le, N. G., van Ulsen, P., van Spanning, R., Brouwer, A., van Straalen, N. M., Roelofs, D.",
+  "corresponding": "Le, N. G.",
+  "organisations": "Animal Ecology, Molecular Microbiology, AIMMS, LaserLaB - Analytical Chemistry and Spectroscopy, Systems Bioinformatics",
+  "journal": "Genes",
+  "description": "A Functional Carbohydrate Degrading Enzyme Potentially Acquired by Horizontal Gene Transfer in the Genome of the Soil Invertebrate Folsomia candidaHorizontal gene transfer (HGT) is defined as the acquisition by an organism of hereditary material from a phylogenetically unrelated organism. This process is mostly observed among bacteria and archaea, and considered less likely between microbes and multicellular eukaryotes. However, recent studies provide compelling evidence of the evolutionary importance of HGT in eukaryotes, driving functional innovation. Here, we study an HGT event in Folsomia candida (Collembola, Hexapoda) of a carbohydrate-active enzyme homologous to glycosyl hydrase group 43 (GH43). The gene encodes an N-terminal signal peptide, targeting the product for excretion, which suggests that it contributes to the diversity of digestive capacities of the detritivore host. The predicted \u03b1-L-arabinofuranosidase shows high similarity to genes in two other Collembola, an insect and a tardigrade. The gene was cloned and expressed in Escherichia coli using a cell-free protein expression system. The expressed protein showed activity against p-nitrophenyl-\u03b1-L-arabinofuranoside. Our work provides evidence for functional activity of an HGT gene in a soil-living detritivore, most likely from a bacterial donor, with genuine eukaryotic properties, such as a signal peptide. Co-evolution of metazoan GH43 genes with the Panarthropoda phylogeny suggests the HGT event took place early in the evolution of this ecdysozoan lineage."
  },
  "https://doi.org/10.1016/j.heliyon.2022.e10108": {
   "month": "8",
@@ -1844,7 +1904,7 @@
   "contributors": "Pascha, M. N., Thijssen, V., Egido, J. E., Linthorst, M. W., Van Lanen, J. H., Van Dongen, D. A. A., Hopstaken, A. J. P., Van Kuppeveld, F. J. M., Snijder, J., De Haan, C. A. M., Jongkees, S. A. K.",
   "corresponding": "Jongkees, S. A. K.",
   "organisations": "AIMMS, Chemistry and Pharmaceutical Sciences, Utrecht University",
-  "journal": "Acs chemical biology",
+  "journal": "ACS chemical biology",
   "description": "Inhibition of H1 and H5 Influenza A Virus Entry by Diverse Macrocyclic Peptides Targeting the Hemagglutinin Stem RegionInfluenza A viruses pose a serious pandemic risk, while generation of efficient vaccines against seasonal variants remains challenging. There is thus a pressing need for new treatment options. We report here a set of macrocyclic peptides that inhibit influenza A virus infection at low nanomolar concentrations by binding to hemagglutinin, selected using ultrahigh-Throughput screening of a diverse peptide library. The peptides are active against both H1 and H5 variants, with no detectable cytotoxicity. Despite the high sequence diversity across hits, all tested peptides were found to bind to the same region in the hemagglutinin stem by HDX-MS epitope mapping. A mutation in this region identified in an escape variant confirmed the binding site. This stands in contrast to the immunodominance of the head region for antibody binding and suggests that macrocyclic peptides from in vitro display may be well suited for finding new druggable sites not revealed by antibodies. Functional analysis indicates that these peptides stabilize the prefusion conformation of the protein and thereby prevent virus-cell fusion. High-Throughput screening of macrocyclic peptides is thus shown here to be a powerful method for the discovery of novel broadly acting viral fusion inhibitors with therapeutic potential. "
  },
  "https://doi.org/10.1038/s41467-022-32174-7": {
@@ -1870,5 +1930,185 @@
   "organisations": "Medicinal chemistry, AIMMS, Imperial College London, University of Southern California, University of Ioannina, University of Surrey, University of Patras, Universit\u00e9 de Montpellier, Ospedale San Croce e Carle, Academy of Athens",
   "journal": "Proceedings of the National Academy of Sciences of the United States of America",
   "description": "Inhibition of the angiotensin II type 2 receptor AT2R is a novel therapeutic strategy for glioblastomaGlioblastoma (GBM) is an aggressive malignant primary brain tumor with limited therapeutic options. We show that the angiotensin II (AngII) type 2 receptor (AT2R) is a therapeutic target for GBM and that AngII, endogenously produced in GBM cells, promotes proliferation through AT2R. We repurposed EMA401, an AT2R antagonist originally developed as a peripherally restricted analgesic, for GBM and showed that it inhibits the proliferation of AT2R-expressing GBM spheroids and blocks their invasiveness and angiogenic capacity. The crystal structure of AT2R bound to EMA401 was determined and revealed the receptor to be in an active-like conformation with helix- VIII blocking G-protein or \u03b2-arrestin recruitment. The architecture and interactions of EMA401 in AT2R differ drastically from complexes of AT2R with other relevant compounds. To enhance central nervous system (CNS) penetration of EMA401, we exploited the crystal structure to design an angiopep-2-tethered EMA401 derivative, A3E. A3E exhibited enhanced CNS penetration, leading to reduced tumor volume, inhibition of proliferation, and increased levels of apoptosis in an orthotopic xenograft model of GBM."
+ },
+ "https://doi.org/10.3389/fmicb.2022.923432": {
+  "month": "8",
+  "pub_date": "11 Aug 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Correlating biodegradation kinetics of 2,3,7,8-tetrachlorodibenzo-p-dioxin to the dynamics of microbial communities originating from soil in Vietnam contaminated with herbicides and dioxins",
+  "contributors": "Nguyen, T. L. A., Dang, H. T. C., Dat, T. T. H., Brandt, B. W., R\u00f6ling, W. F. M., Brouwer, A., van Spanning, R. J. M.",
+  "corresponding": "Nguyen, T. L. A.",
+  "organisations": "AIMMS, Molecular Cell Physiology, Preventive Dentistry, Animal Ecology, Systems Bioinformatics, Vietnamese Academy of Science and Technology",
+  "journal": "Frontiers in Microbiology",
+  "description": "Correlating biodegradation kinetics of 2,3,7,8-tetrachlorodibenzo-p-dioxin to the dynamics of microbial communities originating from soil in Vietnam contaminated with herbicides and dioxinsWe studied the succession of bacterial communities during the biodegradation of 2,3,7,8-tetrachlorodibenzo-p-dioxin (2,3,7,8-TCDD). The communities originated from a mesocosm with soil from Bien Hoa airbase in Vietnam heavily contaminated with herbicides and dioxins. They were grown in defined media with different carbon and Gibbs energy sources and 2,3,7,8-TCDD. Cultures with dimethyl sulfoxide (DMSO) as the sole carbon and energy source degraded about 95% of 2,3,7,8-TCDD within 60\u2006days of cultivation. Those with an additional 1\u2006mM of vanillin did that in roughly 90\u2006days. Further 16S rRNA gene amplicon sequencing showed that the increase in relative abundance of members belonging to the genera Bordetella, Sphingomonas, Proteiniphilum, and Rhizobium correlated to increased biodegradation of 2,3,7,8-TCDD in these cultures. A higher concentration of vanillin slowed down the biodegradation rate. Addition of alternative carbon and Gibbs energy sources, such as amino acids, sodium lactate and sodium acetate, even stopped the degradation of 2,3,7,8-TCDD completely. Bacteria from the genera Bordetella, Achromobacter, Sphingomonas and Pseudomonas dominated most of the cultures, but the microbial profiles also significantly differed between cultures as judged by non-metric multidimensional scaling (NMDS) analyses. Our study indicates that 2,3,7,8-TCDD degradation may be stimulated by bacterial communities preadapted to a certain degree of starvation with respect to the carbon and energy source. It also reveals the succession and abundance of defined bacterial genera in the degradation process."
+ },
+ "https://doi.org/10.1002/chem.202201724": {
+  "month": "8",
+  "pub_date": "12 Aug 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Competing C-4 and C-5-Acyl Stabilization of Uronic Acid Glycosyl Cations",
+  "contributors": "Elferink, H., Remmerswaal, W. A., Houthuijs, K. J., Jansen, O., Hansen, T., Rijs, A. M., Berden, G., Martens, J., Oomens, J., Cod\u00e9e, J. D. C., Boltje, T. J.",
+  "corresponding": "Boltje, T. J.",
+  "organisations": "Organic Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, BioAnalytical Chemistry, Radboud University Nijmegen, Leiden University",
+  "journal": "Chemistry - A European Journal",
+  "description": "Competing C-4 and C-5-Acyl Stabilization of Uronic Acid Glycosyl CationsUronic acids are carbohydrates carrying a terminal carboxylic acid and have a unique reactivity in stereoselective glycosylation reactions. Herein, the competing intramolecular stabilization of uronic acid cations by the C-5 carboxylic acid or the C-4 acetyl group was studied with infrared ion spectroscopy (IRIS). IRIS reveals that a mixture of bridged ions is formed, in which the mixture is driven towards the C-1,C-5 dioxolanium ion when the C-5,C-2-relationship is cis, and towards the formation of the C-1,C-4 dioxepanium ion when this relation is trans. Isomer-population analysis and interconversion barrier computations show that the two bridged structures are not in dynamic equilibrium and that their ratio parallels the density functional theory computed stability of the structures. These studies reveal how the intrinsic interplay of the different functional groups influences the formation of the different regioisomeric products."
+ },
+ "https://doi.org/10.1021/acs.jpca.2c01617": {
+  "month": "8",
+  "pub_date": "18 Aug 2022",
+  "year": 2022,
+  "early_online": "5 Aug 2022",
+  "title": "Computational Prediction of Tc-99 NMR Chemical Shifts in Technetium Complexes with Radiopharmaceutical Applications",
+  "contributors": "De Andrade, T. F. C. B., Dos Santos, H. F., Fonseca Guerra, C., Paschoal, D. F. S.",
+  "corresponding": "Paschoal, D. F. S.",
+  "organisations": "Theoretical Chemistry, AIMMS, Universidade Federal do Rio de Janeiro, Universidade Federal de Juiz de Fora",
+  "journal": "Journal of Physical Chemistry A",
+  "description": "Computational Prediction of Tc-99 NMR Chemical Shifts in Technetium Complexes with Radiopharmaceutical ApplicationsThe Tc-99m nucleus is the most used nuclide in radiopharmaceuticals designed for imaging diagnosis. The metal can exist in nine distinct oxidation states and forms distinct coordination complexes with a variety of chelating agents and geometries. These complexes are usually characterized through Tc-99 NMR that is very sensitive to the Tc coordination sphere. Therefore, predicting Tc-99 NMR might be useful to assist experimentalists in structural characterization. In the present study, we propose three computational protocols for predicting Tc-99 NMR chemical shifts based on density functional theory calculations using relativistic and nonrelativistic Hamiltonians: the relativistic Model 1, the nonrelativistic Model 2, and the empirical nonrelativistic Model 3. In Models 2 and 3, the NMR-DKH basis set was used for all atoms, including the Tc, for which it was developed here. All models were applied for a set of 41 Tc-complexes with metal oxidation states 0, I, and V, for which the Tc-99 chemical shift was available experimentally. The mean absolute deviation and the mean relative deviation were 67 ppm and 4.8% (Model 1), 92 ppm and 6.2% (Model 2), and 65 ppm and 4.9% (Model 3), respectively. Last, the effect of the explicit solvent was evaluated for the [TcO2(en)2]+\u2500Tc(V) complex. The calculated results for the Tc-99 NMR chemical shift at SO-ZORA-SSB-D/TZ2P-ZORA/COSMO//TPSS/def2-SVP/IEF-PCM(UFF) show that the inclusion of 14 water molecules (first solvation shell) together with the implicit solvation model leads to an absolute deviation of only 7 ppm (0.3%) from the experimental value, indicating that the solvent effects play a key role in predicting Tc-99 NMR."
+ },
+ "https://doi.org/10.1038/s41598-022-18283-9": {
+  "month": "8",
+  "pub_date": "22 Aug 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "New putative phenol oxidase in ascidian blood cells",
+  "contributors": "Daugavet, M. A., Dobrynina, M. I., Shaposhnikova, T. G., Solovyeva, A. I., Mittenberg, A. G., Shabelnikov, S. V., Babkina, I. Y., Grinchenko, A. V., Ilyaskina, D. V., Podgornaya, O. I.",
+  "corresponding": "Daugavet, M. A.",
+  "organisations": "AIMMS, E&H: Environmental Bioanalytical Chemistry, RAS - Institute of Cytology, St. Petersburg State University, Russian Academy of Sciences, RAS - National Scientific Center of Marine Biology, Far Eastern Branch",
+  "journal": "Scientific Reports",
+  "description": "New putative phenol oxidase in ascidian blood cellsThe phenol oxidase system is ancient and ubiquitously distributed in all living organisms. In various groups it serves for the biosynthesis of pigments and neurotransmitters (dopamine), defence reactions and tissue hardening. Ascidians belong to subphylum Tunicata, which is considered the closest living relative to Vertebrates. Two phenol oxidases previously described for ascidians are vertebrate-like and arthropod-like phenol oxidases. In our present study, we described a new ascidian protein, Tuphoxin, with putative phenol oxidase function, which bears no sequence similarity with two enzymes described previously. The closest related proteins to Tuphoxin are mollusc haemocyanins. Unlike haemocyanins, which are oxygen transporting plasma proteins, Tuphoxin is synthesised in ascidian blood cells and secreted in the extracellular matrix of the tunic\u2014ascidian outer coverings. Single mature transcript coding for this phenol oxidase can give several protein products of different sizes. Thus limited proteolysis of the initial protein is suggested. A unique feature of Tuphoxins and their homologues among Tunicata is the presence of thrombospondin first type repeats (TSP1) domain in their sequence which is supposed to provide interaction with extracellular matrix. The finding of TSP1 in the structure of phenol oxidases is new and we consider this to be an innovation of Tunicata evolutionary lineage."
+ },
+ "https://doi.org/10.1002/1873-3468.14484": {
+  "month": "8",
+  "pub_date": "25 Aug 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "An excess of glycolytic enzymes under glucose-limited conditions may enable Saccharomyces cerevisiae to adapt to nutrient availability",
+  "contributors": "Grigaitis, P., Teusink, B.",
+  "corresponding": "Grigaitis, P.",
+  "organisations": "Systems Bioinformatics, AIMMS, Systems Bioinformatics",
+  "journal": "FEBS Letters",
+  "description": "An excess of glycolytic enzymes under glucose-limited conditions may enable Saccharomyces cerevisiae to adapt to nutrient availabilityMicroorganisms, including the budding yeast Saccharomyces cerevisiae, express glycolytic proteins to a maximal capacity that (largely) exceeds the actual flux through the enzymes, especially at low growth rates. An open question is if this apparent expression level is really an overcapacity, or maintains the (optimal) enzyme capacity needed to carry flux at (very) low substrate availability. Here, we use computational modelling to suggest that yeast maintains a genuine excess of glycolytic enzymes at low specific growth rates. During fast fermentative growth at high glucose levels, the observed expression of the glycolytic enzymes matched the predicted optimal levels. We suggest that the excess glycolytic capacity at low glucose levels is apreparatory strategy in the adaptation to sugar fluctuations in the environment."
+ },
+ "https://doi.org/10.1002/anie.202210592": {
+  "month": "8",
+  "pub_date": "25 Aug 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Enantioselective Total Synthesis of (\u2212)-Limaspermidine and (\u2212)-Kopsinine by a Nitroaryl Transfer Cascade Strategy",
+  "contributors": "Horst, B., Verdoorn, D. S., Hennig, S., van der Heijden, G., Ruijter, E.",
+  "corresponding": "Ruijter, E.",
+  "organisations": "AIMMS, Organic Chemistry, Vrije Universiteit Amsterdam",
+  "journal": "Angewandte Chemie. International Edition",
+  "description": "Enantioselective Total Synthesis of (\u2212)-Limaspermidine and (\u2212)-Kopsinine by a Nitroaryl Transfer Cascade StrategyWe report an intramolecular conjugate addition/Truce-Smiles/E1cb cascade of 2-nitrobenzenesulfonamide-functionalized cyclohexenones as a new entry to the core scaffold of monoterpene indole alkaloids. The method was applied to the asymmetric total synthesis of (\u2212)-limaspermidine, (\u2212)-kopsinilam, and (\u2212)-kopsinine, as well as the framework of the kopsifoline alkaloids, thus highlighting its complementarity to existing approaches involving the use of indole-based starting materials or the interrupted Fischer indole synthesis. Furthermore, we show that the cascade tolerates various substituents on the nitroarene, opening the way to other natural products as well as non-natural analogues."
+ },
+ "https://doi.org/10.1063/5.0107220": {
+  "month": "8",
+  "pub_date": "28 Aug 2022",
+  "year": 2022,
+  "early_online": "22 Aug 2022",
+  "title": "Efficient simulation of resonance Raman spectra with tight-binding approximations to density functional theory",
+  "contributors": "Ashtari-Jafari, S., Jamshidi, Z., Visscher, L.",
+  "corresponding": "Visscher, L.",
+  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Chemical Engineering Research Center of Iran, Vrije Universiteit Amsterdam",
+  "journal": "Journal of Chemical Physics",
+  "description": "Efficient simulation of resonance Raman spectra with tight-binding approximations to density functional theoryResonance Raman spectroscopy has long been established as one of the most sensitive techniques for detection, structure characterization, and probing the excited-state dynamics of biochemical systems. However, the analysis of resonance Raman spectra is much facilitated when measurements are accompanied by Density Functional Theory (DFT) calculations that are expensive for large biomolecules. In this work, resonance Raman spectra are therefore computed with the Density Functional Tight-Binding (DFTB) method in the time-dependent excited-state gradient approximation. To test the accuracy of the tight-binding approximations, this method is first applied to typical resonance Raman benchmark molecules, such as \u03b2-carotene, and compared to results obtained with pure and range-separated exchange-correlation functionals. We then demonstrate the efficiency of the approach by considering a computationally challenging heme variation. Overall, we find that the vibrational frequencies and excited-state properties (energies and gradients) that are needed to simulate the spectra are reasonably accurate and suitable for interpretation of experiments. We can therefore recommend DFTB as a fast computational method to interpret resonance Raman spectra. "
+ },
+ "https://doi.org/10.1002/wcms.1634": {
+  "month": "8",
+  "pub_date": "29 Aug 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Density functionals based on the mathematical structure of the strong-interaction limit of DFTWhile in principle exact, Kohn\u2013Sham density functional theory\u2014the workhorse of computational chemistry\u2014must rely on approximations for the exchange\u2013correlation functional. Despite staggering successes, present-day approximations still struggle when the effects of electron\u2013electron correlation play a prominent role. The limit in which the electronic Coulomb repulsion completely dominates the exchange\u2013correlation functional offers a well-defined mathematical framework that provides insight for new approximations able to deal with strong correlation. In particular, the mathematical structure of this limit, which is now well-established thanks to its reformulation as an optimal transport problem, points to the use of very different ingredients (or features) with respect to the traditional ones used in present approximations. We focus on strategies to use these new ingredients to build approximations for computational chemistry and highlight future promising directions. This article is categorized under: Electronic Structure Theory > Density Functional Theory.General information",
+  "contributors": "Vuckovic, S., Gerolin, A., Daas, T. J., Bahmann, H., Friesecke, G., Gori-Giorgi, P.",
+  "corresponding": "Vuckovic, S.",
+  "organisations": "Theoretical Chemistry, AIMMS, University of Wuppertal, Technical University of Munich",
+  "journal": "Wiley Interdisciplinary Reviews: Computational Molecular Science",
+  "description": "Density functionals based on the mathematical structure of the strong-interaction limit of DFTWhile in principle exact, Kohn\u2013Sham density functional theory\u2014the workhorse of computational chemistry\u2014must rely on approximations for the exchange\u2013correlation functional. Despite staggering successes, present-day approximations still struggle when the effects of electron\u2013electron correlation play a prominent role. The limit in which the electronic Coulomb repulsion completely dominates the exchange\u2013correlation functional offers a well-defined mathematical framework that provides insight for new approximations able to deal with strong correlation. In particular, the mathematical structure of this limit, which is now well-established thanks to its reformulation as an optimal transport problem, points to the use of very different ingredients (or features) with respect to the traditional ones used in present approximations. We focus on strategies to use these new ingredients to build approximations for computational chemistry and highlight future promising directions. This article is categorized under: Electronic Structure Theory > Density Functional Theory."
+ },
+ "https://doi.org/10.1016/j.chroma.2022.463388": {
+  "month": "8",
+  "pub_date": "30 Aug 2022",
+  "year": 2022,
+  "early_online": "1 Aug 2022",
+  "title": "Assessing the feasibility of stationary-phase-assisted modulation for two-dimensional liquid-chromatography separations",
+  "contributors": "den Uijl, M. J., Roeland, T., Bos, T. S., Schoenmakers, P. J., van Bommel, M. R., Pirok, B. W. J.",
+  "corresponding": "den Uijl, M. J.",
+  "organisations": "BioAnalytical Chemistry, AIMMS, University of Amsterdam, Center for Analytical Sciences Amsterdam (CASA)",
+  "journal": "Journal of Chromatography A",
+  "description": "Assessing the feasibility of stationary-phase-assisted modulation for two-dimensional liquid-chromatography separationsTwo-dimensional liquid chromatography (2DLC) offers great separation power for complex mixtures. The frequently encountered incompatibility of two orthogonal separation systems, however, makes its application complicated. Active-modulation strategies can reduce such incompatibility issues considerably. Stationary-phase-assisted modulation (SPAM) is the most-common of these techniques, but also the least robust due to the major disadvantage that analytes may elute prematurely. The range of liquid chromatography (LC) applications continues to expand towards ever more complex mixtures. Retention modelling is increasingly indispensable to comprehend and develop LC separations. In this research, a tool was designed to assess the feasibility of applying SPAM in 2DLC. Several parameters were investigated to accurately predict isocratic retention of analytes on trap columns under dilution-flow conditions. Model parameters were derived from scanning-gradient experiments performed on analytical columns. The trap-to-trap repeatability was found to be similar to the prediction error. Dead volumes for the trap columns could not be accurately determined through direct experimentation. Instead, they were extrapolated from dead-volume measurements on analytical columns. Several known retention models were evaluated. Better predictions were found using the quadratic model than with the log-linear (\u201clinear-solvent-strength\u201d) model. Steep scanning gradients were found to result in inaccurate predictions. The impact of the dilution flow on the retention of analytes proved less straightforward than anticipated. Under certain conditions dilution with a weaker eluent was found to be counter productive. A tool was developed to quantify the effect of the dilution flow and to predict whether SPAM could be applied in specific situations. For nine different analytes under 36 different sets of conditions and with three different modulation times, the SPAM tool yielded a correct assessment in more than 95% of all cases (less than 5% false positives plus false negatives)."
+ },
+ "https://doi.org/10.1021/acs.joc.2c01258": {
+  "month": "9",
+  "pub_date": "2 Sep 2022",
+  "year": 2022,
+  "early_online": "19 Aug 2022",
+  "title": "Iodine Gauche Effect Induced by an Intramolecular Hydrogen Bond",
+  "contributors": "Martins, F. A., De Azevedo Santos, L., Rodrigues Silva, D., Fonseca Guerra, C., Bickelhaupt, F. M., Freitas, M. P.",
+  "corresponding": "Freitas, M. P.",
+  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, Universidade Federal de Lavras",
+  "journal": "Journal of Organic Chemistry",
+  "description": "Iodine Gauche Effect Induced by an Intramolecular Hydrogen BondThe gauche conformer in 1-X,2-Y-disubstituted ethanes, that is, the staggered orientation in which X and Y are in closer contact, is only favored for relatively small substituents that do not give rise to large X\u00b7\u00b7\u00b7Y steric repulsion. For more diffuse substituents, weakly attractive orbital interactions between antiperiplanar bonds (i.e., hyperconjugation) cannot overrule the repulsive forces between X and Y. Our quantum chemical analyses of the rotational isomerism of XCH2CH2Y (X = F, OH; Y = I) at ZORA-BP86-D3(BJ)/QZ4P reveal that indeed the anti conformer is generally favored due to a less destabilizing I\u00b7\u00b7\u00b7F and I\u00b7\u00b7\u00b7O-H steric repulsion. The only case when the gauche conformer is preferred is when the hydroxyl hydrogen is oriented toward the iodine atom in the 2-iodoethanol. This is because of the significantly stabilizing covalent component of the I\u00b7\u00b7\u00b7H-O intramolecular hydrogen bond. Therefore, we show that strong intramolecular interactions can overcome the steric repulsion between bulky substituents in 1,2-disubstituted ethanes and cause the gauche effect. Our quantum chemical computations have guided nuclear magnetic resonance experiments that confirm the increase in the gauche population as X goes from F to OH. "
+ },
+ "https://doi.org/10.1016/j.isci.2022.104882": {
+  "month": "9",
+  "pub_date": "16 Sep 2022",
+  "year": 2022,
+  "early_online": "5 Aug 2022",
+  "title": "Optical control of the \u03b22-adrenergic receptor with opto-prop-2: A cis-active azobenzene analog of propranolol",
+  "contributors": "Bosma, R., Dijon, N. C., Zheng, Y., Schihada, H., Hauwert, N. J., Shi, S., Arimont, M., Riemens, R., Custers, H., van de Stolpe, A., Vischer, H. F., Wijtmans, M., Holliday, N. D., Kuster, D. W. D., Leurs, R.",
+  "corresponding": "Leurs, R.",
+  "organisations": "Innovations in Human Health & Life Sciences, AIMMS, Medicinal chemistry, University of Nottingham, Vrije Universiteit Amsterdam, Karolinska Institutet, University of Marburg, Amsterdam UMC",
+  "journal": "iScience",
+  "description": "Optical control of the \u03b22-adrenergic receptor with opto-prop-2: A cis-active azobenzene analog of propranololIn this study, we synthesized and evaluated new photoswitchable ligands for the beta-adrenergic receptors \u03b21-AR and \u03b22-AR, applying an azologization strategy to the first-generation beta-blocker propranolol. The resulting compounds (Opto-prop-1, -2, -3) have good photochemical properties with high levels of light-induced trans-cis isomerization (>94%) and good thermal stability (t1/2 > 10 days) of the resulting cis-isomer in an aqueous buffer. Upon illumination with 360-nm light to PSScis, large differences in binding affinities were observed for photoswitchable compounds at \u03b21-AR as well as \u03b22-AR. Notably, Opto-prop-2 (VUF17062) showed one of the largest optical shifts in binding affinities at the \u03b22-AR (587-fold, cis-active), as recorded so far for photoswitches of G protein-coupled receptors. We finally show the broad utility of Opto-prop-2 as a light-dependent competitive antagonist of the \u03b22-AR as shown with a conformational \u03b22-AR sensor, by the recruitment of downstream effector proteins and functional modulation of isolated adult rat cardiomyocytes."
+ },
+ "https://doi.org/10.1016/j.watres.2022.119020": {
+  "month": "9",
+  "pub_date": "Sep 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Analytical investigation of cannabis biomarkers in raw urban wastewater to refine consumption estimates",
+  "contributors": "Campos-Ma\u00f1as, M. C., Wichelen, N. V., Covaci, A., Nuijs, A. L. N. V., Ort, C., B\u00e9en, F., Castiglioni, S., Hern\u00e1ndez, F., Bijlsma, L.",
+  "corresponding": null,
+  "organisations": "E&H: Environmental Chemistry and Toxicology, AIMMS",
+  "journal": "Water Research",
+  "description": "Analytical investigation of cannabis biomarkers in raw urban wastewater to refine consumption estimates"
+ },
+ "https://doi.org/10.1016/j.envres.2022.113569": {
+  "month": "9",
+  "pub_date": "Sep 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Quantum cascade laser imaging (LDIR) and machine learning for the identification of environmentally exposed microplastics and polymers",
+  "contributors": "Tian, X., Be\u00e9n, F., B\u00e4uerlein, P. S.",
+  "corresponding": null,
+  "organisations": "E&H: Environmental Chemistry and Toxicology, AIMMS",
+  "journal": "Environmental Research",
+  "description": "Quantum cascade laser imaging (LDIR) and machine learning for the identification of environmentally exposed microplastics and polymers"
+ },
+ "https://doi.org/10.4230/LIPIcs.ESA.2022.35": {
+  "month": "9",
+  "pub_date": "1 Sep 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Approximate Circular Pattern Matching",
+  "contributors": "Charalampopoulos, P., Kociumaka, T., Radoszewski, J., Pissis, S. P., Rytter, W., Wale\u0144, T., Zuba, W.",
+  "corresponding": null,
+  "organisations": "Bioinformatics, AIMMS, Bio Informatics (IBIVU), Birkbeck University of London, Reichman University, Max Planck Institute for Informatics, University of Warsaw, Samsung R&D Institute Poland, Centrum voor Wiskunde en Informatica",
+  "journal": null,
+  "description": "Approximate Circular Pattern MatchingWe investigate the complexity of approximate circular pattern matching (CPM, in short) under the Hamming and edit distance. Under each of these two basic metrics, we are given a length-n text T, a length-m pattern P, and a positive integer threshold k, and we are to report all starting positions (called occurrences) of fragments of T that are at distance at most k from some cyclic rotation of P. In the decision version of the problem, we are to check if there is any such occurrence. All previous results for approximate CPM were either average-case upper bounds or heuristics, with the exception of the work of Charalampopoulos et al. [CKP+, JCSS'21], who considered only the Hamming distance. For the reporting version of the approximate CPM problem, under the Hamming distance we improve upon the main algorithm of [CKP+, JCSS'21] from O(n+(n/m) k4) to O(n+(n/m) k3 log log k) time; for the edit distance, we give an O(nk2)-time algorithm. Notably, for the decision versions and wide parameter-ranges, we give algorithms whose complexities are almost identical to the state-of-the-art for standard (i.e., non-circular) approximate pattern matching: For the decision version of the approximate CPM problem under the Hamming distance, we obtain an O(n + (n/m) k2 log k/ log log k)-time algorithm, which works in O(n) time whenever k = O( p mlog log m/logm). In comparison, the fastest algorithm for the standard counterpart of the problem, by Chan et al. [CGKKP, STOC'20], runs in O(n) time only for k = O(\u221a m). We achieve this result via a reduction to a geometric problem by building on ideas from [CKP+, JCSS'21] and Charalampopoulos et al. [CKW, FOCS'20]. For the decision version of the approximate CPM problem under the edit distance, the O(nk log3 k) runtime of our algorithm near matches the O(nk) runtime of the Landau-Vishkin algorithm [LV, J. Algorithms'89] for approximate pattern matching under edit distance; the latter algorithm remains the fastest known for k = \u03a9(m2/5). As a stepping stone, we propose an O(nk log3 k)-time algorithm for solving the Longest Prefix k-Approximate Match problem, proposed by Landau et al. [LMS, SICOMP'98], for all k \u2208 {1, , k}. Our algorithm is based on Tiskin's theory of seaweeds [Tiskin, Math. Comput. Sci.'08], with recent advancements (see Charalampopoulos et al. [CKW, FOCS'22]), and on exploiting the seaweeds' relation to Monge matrices. In contrast, we obtain a conditional lower bound that suggests a polynomial separation between approximate CPM under the Hamming distance over the binary alphabet and its non-circular counterpart. We also show that a strongly subquadratic-time algorithm for the decision version of approximate CPM under edit distance would refute the Strong Exponential Time Hypothesis."
+ },
+ "https://doi.org/10.1016/j.chemosphere.2022.136312": {
+  "month": "9",
+  "pub_date": "Dec 2022",
+  "year": 2022,
+  "early_online": "9 Sep 2022",
+  "title": "Nuclear magnetic resonance as a tool to determine chlorine percentage of chlorinated paraffin mixtures",
+  "contributors": "Valderhaug, S., Liu, H., Gorovoy, A., Johansen, J. E., van Mourik, L., de Boer, J., Gautun, O. R.",
+  "corresponding": "Gautun, O. R.",
+  "organisations": "E&H: Environmental Bioanalytical Chemistry, AIMMS, E&H: Environmental Health and Toxicology, Amsterdam Sustainability Institute, Norwegian University of Science and Technology, CHIRON AS",
+  "journal": "Chemosphere",
+  "description": "Nuclear magnetic resonance as a tool to determine chlorine percentage of chlorinated paraffin mixturesA new simple method for chlorine percentage calculations (method C), from proton nuclear magnetic resonance (1H NMR) spectroscopy, has been established and applied to an industrial chlorinated paraffin (CP) mixture and 13 single-chain CPs of known carbon chain lengths. Two modified methods (method A and B), originating from the work of Sprengel et al., have been utilized on the same single-chain mixtures. All samples were analysed by 1H NMR and two-dimensional heteronuclear quantum coherence (HSQC) for this purpose. All three methods worked well for medium chlorinated (45\u201355% Cl) single-chain mixtures of known carbon chain lengths. Method A yielded the best result for mixtures of lower chlorine content (<45% Cl), method C gave better estimations for higher chlorine contents (>55% Cl). Compared to Mohr's titration, method A showed a deviation of 0.7\u20137.8% (3.6% average), method B 4.1\u201311.3% (7.0% average) and method C 0.6\u201311.6% (5.2% average), for all 13 single-chain mixtures. The new method C is the only method that could be applied for determining the chlorine percentage of industrial mixtures of multiple, unknown chain lengths."
  }
 }

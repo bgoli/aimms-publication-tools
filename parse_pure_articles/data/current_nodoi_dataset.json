@@ -1,5 +1,5 @@
 {
- "1662536955.4985828": {
+ "1665565941.2749352": {
   "month": "2",
   "pub_date": "Jun 2022",
   "year": 2022,
@@ -11,7 +11,7 @@
   "journal": "Toxicology in Vitro",
   "description": "An in vitro strategy using multiple human induced pluripotent stem cell-derived models to assess the toxicity of chemicals: A case study on paraquatMost OECD guidelines for chemical risk assessment include tests performed on animals, raising financial, ethical and scientific concerns. Thus, the development of human-based models for toxicity testing is highly encouraged. Here, we propose an in vitro multi-organ strategy to assess the toxicity of chemicals. Human induced pluripotent stem cells (hiPSCs)-derived models of the brain, blood-brain barrier, kidney, liver and vasculature were generated and exposed to paraquat (PQ), a widely employed herbicide with known toxic effects in kidneys and brain. The models showed differential cytotoxic sensitivity to PQ after acute exposure. TempO-Seq\u2122 analysis with a set of 3565 probes revealed the deregulation of oxidative stress, unfolded protein response and Estrogen Receptor-mediated signaling pathways, in line with the existing knowledge on PQ mechanisms of action. The main advantages of this strategy are to assess chemical toxicity on multiple tissues/organs in parallel, exclusively in human cells, eliminating the interspecies bias, allowing a better evaluation of the differential sensitivity of the models representing the diverse organs, and increasing the chance to identify toxic compounds. Furthermore, although we focused on the mechanisms of action of PQ shared by the different models, this strategy would also allow for organ-specific toxicity testing, by including more cell type-specific probes for TempO-Seq analyses. In conclusion, we believe this strategy will participate in the further improvement of chemical risk assessment for human health."
  },
- "1662536955.5025718": {
+ "1665565941.279921": {
   "month": "3",
   "pub_date": "Mar 2022",
   "year": 2022,
@@ -23,7 +23,7 @@
   "journal": "Frontiers in Toxicology",
   "description": "Implementation of Zebrafish Ontologies for Toxicology ScreeningToxicological evaluation of chemicals using early-life stage zebrafish (Danio rerio) involves the observation and recording of altered phenotypes. Substantial variability has been observed among researchers in phenotypes reported from similar studies, as well as a lack of consistent data annotation, indicating a need for both terminological and data harmonization. When examined from a data science perspective, many of these apparent differences can be parsed into the same or similar endpoints whose measurements differ only in time, methodology, or nomenclature. Ontological knowledge structures can be leveraged to integrate diverse data sets across terminologies, scales, and modalities. Building on this premise, the National Toxicology Program\u2019s Systematic Evaluation of the Application of Zebrafish in Toxicology undertook a collaborative exercise to evaluate how the application of standardized phenotype terminology improved data consistency. To accomplish this, zebrafish researchers were asked to assess images of zebrafish larvae for morphological malformations in two surveys. In the first survey, researchers were asked to annotate observed malformations using their own terminology. In the second survey, researchers were asked to annotate the images from a list of terms and definitions from the Zebrafish Phenotype Ontology. Analysis of the results suggested that the use of ontology terms increased consistency and decreased ambiguity, but a larger study is needed to confirm. We conclude that utilizing a common data standard will not only reduce the heterogeneity of reported terms but increases agreement and repeatability between different laboratories. Thus, we advocate for the development of a zebrafish phenotype atlas to help laboratories create interoperable, computable data."
  },
- "1662536955.523516": {
+ "1665565941.2978728": {
   "month": "4",
   "pub_date": "19 Apr 2022",
   "year": 2022,
@@ -35,7 +35,7 @@
   "journal": null,
   "description": null
  },
- "1662536955.5245137": {
+ "1665565941.2998676": {
   "month": "4",
   "pub_date": "22 Apr 2022",
   "year": 2022,
@@ -47,7 +47,31 @@
   "journal": null,
   "description": "De wereld als laboratorium: over stoffen die niet gemaakt hadden moeten worden"
  },
- "1662536955.5504444": {
+ "1665565941.3148277": {
+  "month": "5",
+  "pub_date": "17 May 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "From rivers to the tap: Investigation of micro and nanoplastics in drinking water by pyrolysis-GC-MSThe occurrence of micro-and nanoplastics (MNPs) in freshwater has been globally recognized. This raised the question of possible human exposure to MNPs through drinking water from freshwater sources. Recent studies have shown that potable water may contain MNPs, but a high degree of variation in concentrations has been reported. These variations are attributed to the differences between raw water and the treatment and distribution processes. However, the analytical techniques employed for the identification and quantification of MNPs also have a significant role at the level of reported. To be able to estimate the MNP associated risks via drinking water consumption, reliable exposure concentrations with lower size limits of polymers are urgently needed. In the present study, a sensitive method was developed to detect and quantify MNPs in water samples based on the protein corona mediated aggregation of particles followed by filtration and analysis with pyrolysis-gas chromatograph-mass spectrometry (Py-GC-MS). The method was validated using different types of water and acceptable recoveries were obtained for PE, PP, PVC and PS ranging from 97 to 118%. Given the ubiquity of microplastics in freshwater systems and increased particle numbers with decreasing polymer sizes, this method is a promising tool to quantify MNPs in water samples and to evaluate the risks for human health.General information",
+  "contributors": "Sefiloglu, F. \u00d6., Brits, M., Scibetta, L., Vethaak, A., Lamoree, M., Leslie, H.Pages:286",
+  "corresponding": null,
+  "organisations": "E&H: Environmental Chemistry and Toxicology, AIMMS, Environment and Health",
+  "journal": null,
+  "description": "From rivers to the tap: Investigation of micro and nanoplastics in drinking water by pyrolysis-GC-MSThe occurrence of micro-and nanoplastics (MNPs) in freshwater has been globally recognized. This raised the question of possible human exposure to MNPs through drinking water from freshwater sources. Recent studies have shown that potable water may contain MNPs, but a high degree of variation in concentrations has been reported. These variations are attributed to the differences between raw water and the treatment and distribution processes. However, the analytical techniques employed for the identification and quantification of MNPs also have a significant role at the level of reported. To be able to estimate the MNP associated risks via drinking water consumption, reliable exposure concentrations with lower size limits of polymers are urgently needed. In the present study, a sensitive method was developed to detect and quantify MNPs in water samples based on the protein corona mediated aggregation of particles followed by filtration and analysis with pyrolysis-gas chromatograph-mass spectrometry (Py-GC-MS). The method was validated using different types of water and acceptable recoveries were obtained for PE, PP, PVC and PS ranging from 97 to 118%. Given the ubiquity of microplastics in freshwater systems and increased particle numbers with decreasing polymer sizes, this method is a promising tool to quantify MNPs in water samples and to evaluate the risks for human health."
+ },
+ "1665565941.3208117": {
+  "month": "5",
+  "pub_date": "9 Jun 2022",
+  "year": 2022,
+  "early_online": "23 May 2022",
+  "title": "Exploring the Activity Profile of Tbr",
+  "contributors": "Zara, L., Moraca, F., van Muijlwijk-Koezen, J. E., Zarzycka, B., Abel, R., de Esch, I.",
+  "corresponding": "de Esch, I.",
+  "organisations": "Innovations in Human Health & Life Sciences, AIMMS, Medicinal chemistry, Chemistry and Pharmaceutical Sciences, Schr\u00f6dinger LLC, Schr\u04e7dinger, Inc.",
+  "journal": "ACS medicinal chemistry letters",
+  "description": "Exploring the Activity Profile of TbrPDEB1 and hPDE4 Inhibitors Using Free Energy PerturbationHuman African trypanosomiasis (HAT) is a neglected tropical disease caused by the parasite Trypanosoma brucei (T.b.). A validated target for the treatment of HAT is the parasitic T.b. cyclic nucleotide phosphodiesterase B1 (TbrPDEB1). Although nanomolar TbrPDEB1 inhibitors have been obtained, their activity against the off-target human PDE4 (hPDE4) is likely to lead to undesirable clinical side effects, such as nausea, emesis, and immune suppression. Thus, new and more selective TbrPDEB1 inhibitors are still needed. This retrospective study evaluated the free energy perturbation (FEP+) method to predict the affinity profiles of TbrPDEB1 inhibitors against hPDE4. We demonstrate that FEP+ can be used to accurately predict the activity profiles of these homologous proteins. Moreover, we show how FEP+ can overcome challenges like protein flexibility and high sequence conservation. This also implies that the method can be applied prospectively for the lead optimization campaigns to design new and more selective TbrPDEB1 inhibitors."
+ },
+ "1665565941.327793": {
   "month": "6",
   "pub_date": "Jun 2022",
   "year": 2022,
@@ -59,16 +83,88 @@
   "journal": "Toxicology in Vitro",
   "description": "An in vitro strategy using multiple human induced pluripotent stem cell-derived models to assess the toxicity of chemicals: A case study on paraquatMost OECD guidelines for chemical risk assessment include tests performed on animals, raising financial, ethical and scientific concerns. Thus, the development of human-based models for toxicity testing is highly encouraged. Here, we propose an in vitro multi-organ strategy to assess the toxicity of chemicals. Human induced pluripotent stem cells (hiPSCs)-derived models of the brain, blood-brain barrier, kidney, liver and vasculature were generated and exposed to paraquat (PQ), a widely employed herbicide with known toxic effects in kidneys and brain. The models showed differential cytotoxic sensitivity to PQ after acute exposure. TempO-Seq\u2122 analysis with a set of 3565 probes revealed the deregulation of oxidative stress, unfolded protein response and Estrogen Receptor-mediated signaling pathways, in line with the existing knowledge on PQ mechanisms of action. The main advantages of this strategy are to assess chemical toxicity on multiple tissues/organs in parallel, exclusively in human cells, eliminating the interspecies bias, allowing a better evaluation of the differential sensitivity of the models representing the diverse organs, and increasing the chance to identify toxic compounds. Furthermore, although we focused on the mechanisms of action of PQ shared by the different models, this strategy would also allow for organ-specific toxicity testing, by including more cell type-specific probes for TempO-Seq analyses. In conclusion, we believe this strategy will participate in the further improvement of chemical risk assessment for human health."
  },
- "1662536955.5883439": {
-  "month": "8",
-  "pub_date": "25 Aug 2022",
+ "1665565941.3347747": {
+  "month": "6",
+  "pub_date": "6 Jun 2022",
   "year": 2022,
   "early_online": null,
-  "title": "Enantioselective Total Synthesis of (-)-Limaspermidine and (-)-Kopsinine by a Nitroaryl Transfer Cascade Strategy",
-  "contributors": "Horst, B., Verdoorn, D. S., Hennig, S., van der Heijden, G., Ruijter, E.",
+  "title": "An Analysis of SARS-Co",
+  "contributors": "Stephens, N., B\u00e9en, F., Savic, D.",
   "corresponding": null,
-  "organisations": "Organic Chemistry, AIMMS, Vrije Universiteit Amsterdam, Amsterdam",
-  "journal": "Angewandte Chemie. International Edition",
-  "description": "Enantioselective Total Synthesis of (-)-Limaspermidine and (-)-Kopsinine by a Nitroaryl Transfer Cascade StrategyWe report an intramolecular conjugate addition/Truce-Smiles/E1cb cascade of 2-nitrobenzenesulfonamide-functionalized cyclohexenones as a new entry to the core scaffold of monoterpene indole alkaloids. The method was applied to the asymmetric total synthesis of (-)-limaspermidine, (-)-kopsinilam, and (-)-kopsinine, as well as the framework of the kopsifoline alkaloids, thus highlighting its complementarity to existing approaches involving the use of indole-based starting materials or the interrupted Fischer indole synthesis. Furthermore, we show that the cascade tolerates various substituents on the nitroarene, opening the way to other natural products as well as non-natural analogues."
+  "organisations": "E&H: Environmental Chemistry and Toxicology, AIMMS",
+  "journal": "ACS ES&T WaterRatings:Scopus rating (2022): CiteScore 2.7 ",
+  "description": "An Analysis of SARS-CoV-2 in Wastewater to Evaluate the Effectiveness of Nonpharmaceutical Interventions against COVID-19 in The NetherlandsWastewater-based epidemiology (WBE) is increasingly being recognized as a powerful tool for detecting and monitoring SARS-CoV-2 trends at a population level. This study looked to extend the use of WBE to explore the effectiveness of nonpharmaceutical interventions (NPIs) that have been used in response to COVID-19 and compare the results to the effect of such interventions on COVID-19 hospitalizations. A data-driven approach demonstrated that trends of SARS-CoV-2 RNA in wastewater, from Amsterdam and Utrecht (The Netherlands), precede hospitalizations by at least 3\u20139 days. Additionally, the effect of NPIs can be seen in wastewater and hospitalizations after 20 and 24 days, respectively. Changepoint analysis indicated that the closure of schools and universities significantly reduced the level of SARS-CoV-2 RNA in wastewater and COVID-19 hospitalizations. Regression modeling suggested the stay-at-home policy is an effective intervention for reducing the level of SARS-CoV-2 RNA in wastewater, whereas the closure of workplaces significantly reduced hospitalizations in both Dutch cities. This study demonstrates how WBE can be used to inform public health decisions and anticipate future strain on healthcare facilities in major cities but also indicates a need for higher temporal resolution of wastewater sampling."
+ },
+ "1665565941.3357723": {
+  "month": "6",
+  "pub_date": "9 Jun 2022",
+  "year": 2022,
+  "early_online": "23 May 2022",
+  "title": "Exploring the Activity Profile of Tbr",
+  "contributors": "Zara, L., Moraca, F., van Muijlwijk-Koezen, J. E., Zarzycka, B., Abel, R., de Esch, I.",
+  "corresponding": "de Esch, I.",
+  "organisations": "Innovations in Human Health & Life Sciences, AIMMS, Medicinal chemistry, Chemistry and Pharmaceutical Sciences, Schr\u00f6dinger LLC, Schr\u04e7dinger, Inc.",
+  "journal": "ACS medicinal chemistry letters",
+  "description": "Exploring the Activity Profile of TbrPDEB1 and hPDE4 Inhibitors Using Free Energy PerturbationHuman African trypanosomiasis (HAT) is a neglected tropical disease caused by the parasite Trypanosoma brucei (T.b.). A validated target for the treatment of HAT is the parasitic T.b. cyclic nucleotide phosphodiesterase B1 (TbrPDEB1). Although nanomolar TbrPDEB1 inhibitors have been obtained, their activity against the off-target human PDE4 (hPDE4) is likely to lead to undesirable clinical side effects, such as nausea, emesis, and immune suppression. Thus, new and more selective TbrPDEB1 inhibitors are still needed. This retrospective study evaluated the free energy perturbation (FEP+) method to predict the affinity profiles of TbrPDEB1 inhibitors against hPDE4. We demonstrate that FEP+ can be used to accurately predict the activity profiles of these homologous proteins. Moreover, we show how FEP+ can overcome challenges like protein flexibility and high sequence conservation. This also implies that the method can be applied prospectively for the lead optimization campaigns to design new and more selective TbrPDEB1 inhibitors."
+ },
+ "1665565941.3437505": {
+  "month": "6",
+  "pub_date": "15 Jul 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Front Cover: How Ionization Catalyzes Diels\u2010Alder Reactions (Chem. Eur. J. 40/2022)General information",
+  "contributors": "Vermeeren, P., Hamlin, T. A., Bickelhaupt, F. M.",
+  "corresponding": null,
+  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences",
+  "journal": null,
+  "description": "Front Cover: How Ionization Catalyzes Diels\u2010Alder Reactions (Chem. Eur. J. 40/2022)"
+ },
+ "1665565941.3527265": {
+  "month": "7",
+  "pub_date": "15 Jul 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Front Cover: How Ionization Catalyzes Diels\u2010Alder Reactions (Chem. Eur. J. 40/2022)General information",
+  "contributors": "Vermeeren, P., Hamlin, T. A., Bickelhaupt, F. M.",
+  "corresponding": null,
+  "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences",
+  "journal": null,
+  "description": "Front Cover: How Ionization Catalyzes Diels\u2010Alder Reactions (Chem. Eur. J. 40/2022)"
+ },
+ "1665565941.3836436": {
+  "month": "9",
+  "pub_date": "20 Sep 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": null,
+  "contributors": "Ghasemi Goojani, H. A.",
+  "corresponding": null,
+  "organisations": "Structural Biology, AIMMS",
+  "journal": null,
+  "description": null
+ },
+ "1665565941.38464": {
+  "month": "10",
+  "pub_date": "4 Oct 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Social innovation and \"surprises\" in the electricity gridnone available",
+  "contributors": "Doomernik, J., van der Sijde, P.",
+  "corresponding": null,
+  "organisations": "Organization Sciences, AIMMS, Science & Business Innovation",
+  "journal": null,
+  "description": "Social innovation and \"surprises\" in the electricity gridnone available"
+ },
+ "1665565941.3856385": {
+  "month": "10",
+  "pub_date": "19 Oct 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Discovery of Structure-Activity and Structure-Kinetic Relationships by in silico Methods for PDE Inhibitors Optimization",
+  "contributors": "Zara, L.",
+  "corresponding": null,
+  "organisations": "Medicinal chemistry, AIMMS",
+  "journal": null,
+  "description": null
  }
 }
