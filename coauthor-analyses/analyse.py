@@ -165,8 +165,8 @@ def createWordcloudSheet(
     # write filtered data to sheet
     orgsheet = writeFreqToSheet(wbook, sheet_name, theheader, thelist_freq, addbarchart=create_barchart)
     if create_wordcloud:
-        makeWordcloud(sheet_name + '.png', thelist_freq)
-        orgsheet.insert_image('D77', sheet_name + '.png', {'x_offset': 25, 'y_offset': 10})
+        makeWordcloud(KEY + '-' + sheet_name + '.png', thelist_freq)
+        orgsheet.insert_image('D77', KEY + '-' + sheet_name + '.png', {'x_offset': 25, 'y_offset': 10})
 
 
 # ###################
@@ -176,7 +176,7 @@ def createWordcloudSheet(
 max_barchart_items = 50
 
 # create organisation reports
-analysis_results = xlsxwriter.Workbook('coauthor_organisation_analysis.xlsx')
+analysis_results = xlsxwriter.Workbook('{}-coauthor_organisation_analysis.xlsx'.format(KEY))
 all_author_organisations = []
 for p in data:
     for a in data[p]['organisations']:
@@ -407,8 +407,8 @@ con = numpy.array([[numpy.nan,	numpy.nan,	3,	numpy.nan],
                     [3,	19,	numpy.nan,	3],
                     [numpy.nan,	8,	3,	numpy.nan]])
 fig, axes = plot_connectivity_circle(con, node_names, vmin=0, vmax=20, fontsize_names=9, title='Joint publications', show=False)
-fig.savefig('org_multi_dept_chord.png')
-dept_combi_sheet.insert_image('F1', 'org_multi_dept_chord.png', {'x_offset': 25, 'y_offset': 10})
+fig.savefig('{}-org_multi_dept_chord.png'.format(KEY))
+dept_combi_sheet.insert_image('F1', '{}-org_multi_dept_chord.png'.format(KEY), {'x_offset': 25, 'y_offset': 10})
 
 analysis_results.close()
 
