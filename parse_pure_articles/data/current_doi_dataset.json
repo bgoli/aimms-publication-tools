@@ -875,6 +875,18 @@
   "journal": "International journal of sport nutrition and exercise metabolism",
   "description": "Effect of Different Exercise Training Modalities on Fasting Levels of Oxylipins and Endocannabinoids in Middle-Aged Sedentary Adults: A Randomized Controlled TrialThis study aimed to investigate the effects of different exercise training programs on fasting plasma levels of oxylipins, endocannabinoids (eCBs), and eCBs-like molecules in middle-aged sedentary adults. A 12-week randomized controlled trial was conducted using a parallel group design. Sixty-five middle-aged adults (40\u201365 years old) were randomly assigned to: (a) no exercise (control group), (b) concurrent training based on international physical activity recommendations (PAR group), (c) high-intensity interval training (HIIT group), and (d) HIIT together with whole-body electromyostimulation (HIIT + EMS group). Plasma levels of oxylipins, eCBs, and eCBs-like molecules were determined in plasma samples before and after the intervention using targeted lipidomics. Body composition was assessed through dual-energy X-ray absorptiometry, and dietary intake through a food frequency questionnaire and three nonconsecutive 24-hr recalls. The physical activity recommendations, HIIT, and HIIT-EMS groups showed decreased plasma levels of omega-6 and omega-3-derived oxylipins, and eCBs and eCBs-like molecules after 12 weeks (all \u0394 \u2264 \u22120.12; all p < .05). Importantly, after Bonferroni post hoc corrections, the differences in plasma levels of omega-6 and omega-3 oxylipins were not statistically significant compared with the control group (all p > .05). However, after post hoc corrections, plasma levels of anandamide and oleoylethanolamide were increased in the physical activity recommendations group compared with the control group (anandamide: \u0394 = 0.05 vs. \u22120.09; oleoylethanolamide: \u0394 = \u22120.12 vs. 0.013, all p \u2264 .049). In conclusion, this study reports that a 12-week exercise training intervention, independent of the modality applied, does not modify fasting plasma levels of omega-6 and omega-3 oxylipins, eCBs, and eCBs-like molecules in middle-aged sedentary adults."
  },
+ "https://doi.org/10.1080/03075079.2022.2061448": {
+  "month": "4",
+  "pub_date": "2022",
+  "year": 2022,
+  "early_online": "11 Apr 2022",
+  "title": "Endurance in the face of environmental transformations: a practice-oriented perspective on organizational identity",
+  "contributors": "Hasanefendic, S., Donina, D.",
+  "corresponding": "Donina, D.",
+  "organisations": "Science & Business Innovation, AIMMS, Nicolaus Copernicus University in Toru\u0144",
+  "journal": "Studies in Higher Education",
+  "description": "Endurance in the face of environmental transformations: a practice-oriented perspective on organizational identityThe effect of environmental transformations on organizational identity in universities has been addressed from different perspectives, yet considering micro-dynamics and impact on actual practices of academic work has been neglected. This article addresses this gap by analyzing how institutional field prescriptions relative to an environmental transformation have been internalized into organizational members\u2019 practices and what effect it has on the collective understanding of organizational identity. Our analytical context is represented by two schools at the biggest Dutch higher education organization. While most studies emphasize contestation and fragmentation with multiple interpretations of organizational identity within the same higher education organization during or as a consequence of environmental transformations, the analyzed case presents contrary results. Organizational members were consistent in describing their own organizational practices across schools. The stable and shared identity is strengthened via anti-identity through two distinct mechanisms: the process of socialization and contrasting to academia. Additionally, we show how through a third mechanism (association to the professional field) organizational members draw on the institutional field prescriptions to legitimize their teaching and research practices. Thus, this paper demonstrates that organizational identity can be stable and non-fragmented even when higher education organizations face and implement changes."
+ },
  "https://doi.org/10.1007/978-1-0716-1831-8_16": {
   "month": "4",
   "pub_date": "2022",
@@ -995,18 +1007,6 @@
   "journal": "Frontiers in Molecular Biosciences",
   "description": "Studying Metabolism by NMR-Based MetabolomicsDuring the past few decades, the direct analysis of metabolic intermediates in biological samples has greatly improved the understanding of metabolic processes. The most used technologies for these advances have been mass spectrometry (MS) and nuclear magnetic resonance (NMR) spectroscopy. NMR is traditionally used to elucidate molecular structures and has now been extended to the analysis of complex mixtures, as biological samples: NMR-based metabolomics. There are however other areas of small molecule biochemistry for which NMR is equally powerful. These include the quantification of metabolites (qNMR); the use of stable isotope tracers to determine the metabolic fate of drugs or nutrients, unravelling of new metabolic pathways, and flux through pathways; and metabolite-protein interactions for understanding metabolic regulation and pharmacological effects. Computational tools and resources for automating analysis of spectra and extracting meaningful biochemical information has developed in tandem and contributes to a more detailed understanding of systems biochemistry. In this review, we highlight the contribution of NMR in small molecule biochemistry, specifically in metabolic studies by reviewing the state-of-the-art methodologies of NMR spectroscopy and future directions."
  },
- "https://doi.org/10.1016/j.ipl.2022.106275": {
-  "month": "4",
-  "pub_date": "Nov 2022",
-  "year": 2022,
-  "early_online": "28 Apr 2022",
-  "title": "All-pairs suffix/prefix in optimal time using Aho-Corasick space",
-  "contributors": "Loukides, G., Pissis, S. P.",
-  "corresponding": "Pissis, S. P.",
-  "organisations": "Bioinformatics, AIMMS, Bio Informatics (IBIVU), King's College London",
-  "journal": "Information Processing Letters",
-  "description": "All-pairs suffix/prefix in optimal time using Aho-Corasick spaceThe all-pairs suffix/prefix (APSP) problem is a classic problem in computer science with many applications in bioinformatics. Given a set {S1,\u2026,Sk} of k strings of total length n, we are asked to find, for each string Si, i\u2208[1,k], its longest suffix that is a prefix of string Sj, for all j\u2260i, j\u2208[1,k]. Several algorithms running in the optimal O(n+k2) time for solving APSP are known. All of these algorithms are based on suffix sorting and thus require space \u03a9(n) in any case. We consider the parameterized version of the APSP problem, denoted by \u2113-APSP, in which we are asked to output only the pairs whose suffix/prefix overlap is of length at least \u2113. We give an algorithm for solving \u2113-APSP that runs in the optimal O(n+|OUTPUT\u2113|) time using O(n) space, where OUTPUT\u2113 is the set of output pairs. Our algorithm is thus optimal for the APSP problem as well by setting \u2113=0. Notably, our algorithm is fundamentally different from all optimal algorithms solving the APSP problem: it does not rely on sorting the suffixes of all input strings but on a novel traversal of the Aho-Corasick machine, and it thus requires space linear in the size of the machine."
- },
  "https://doi.org/10.3390/ph15050512": {
   "month": "5",
   "pub_date": "May 2022",
@@ -1090,6 +1090,30 @@
   "organisations": "Bioinformatics, AIMMS, Bio Informatics (IBIVU), Goldsmiths, University of London, Interdisciplinary Center Herzliya, Ural Federal University",
   "journal": "Theoretical Computer Science",
   "description": "Internal shortest absent word queries in constant time and linear spaceGiven a string T of length n over an alphabet \u03a3\u2282{1,2,\u2026,nO(1)} of size \u03c3, we are to preprocess T so that given a range [i,j], we can return a representation of a shortest string over \u03a3 that is absent in the fragment T[i]\u22efT[j] of T. We present an O(n)-space data structure that answers such queries in constant time and can be constructed in O(nlog\u03c3\u2061n) time."
+ },
+ "https://doi.org/10.1111/febs.16459": {
+  "month": "10",
+  "pub_date": "Oct 2022",
+  "year": 2022,
+  "early_online": "16 Apr 2022",
+  "title": "p",
+  "contributors": "Luzia, L., Lao-Martil, D., Savakis, P., van Heerden, J., van Riel, N., Teusink, B.",
+  "corresponding": "Teusink, B.",
+  "organisations": "AIMMS, Systems Bioinformatics, Systems Bioinformatics, TU Eindhoven",
+  "journal": "FEBS Journal",
+  "description": "pH dependencies of glycolytic enzymes of yeast under in vivo-like assay conditionsUnder carbon source transitions, the intracellular pH of Saccharomyces cerevisiae is subject to change. Dynamics in pH modulate the activity of the glycolytic enzymes, resulting in a change in glycolytic flux and ultimately cell growth. To understand how pH affects the global behavior of glycolysis and ethanol fermentation, we measured the activity of the glycolytic and fermentative enzymes in S. cerevisiae under in vivo-like conditions at different pH. We demonstrate that glycolytic enzymes exhibit differential pH dependencies, and optima, in the pH range observed during carbon source transitions. The forward reaction of GAPDH shows the highest decrease in activity, 83%, during a simulated feast/famine regime upon glucose removal (cytosolic pH drop from 7.1 to 6.4). We complement our biochemical characterization of the glycolytic enzymes by fitting the Vmax to the progression curves of product formation or decay over time. The fitting analysis shows that the observed changes in enzyme activities require changes in Vmax, but changes in Km cannot be excluded. Our study highlights the relevance of pH as a key player in metabolic regulation and provides a large set of quantitative data that can be explored to improve our understanding of metabolism in dynamic environments."
+ },
+ "https://doi.org/10.1016/j.ipl.2022.106275": {
+  "month": "11",
+  "pub_date": "Nov 2022",
+  "year": 2022,
+  "early_online": "28 Apr 2022",
+  "title": "All-pairs suffix/prefix in optimal time using Aho-Corasick space",
+  "contributors": "Loukides, G., Pissis, S. P.",
+  "corresponding": "Pissis, S. P.",
+  "organisations": "Bioinformatics, AIMMS, Bio Informatics (IBIVU), King's College London",
+  "journal": "Information Processing Letters",
+  "description": "All-pairs suffix/prefix in optimal time using Aho-Corasick spaceThe all-pairs suffix/prefix (APSP) problem is a classic problem in computer science with many applications in bioinformatics. Given a set {S1,\u2026,Sk} of k strings of total length n, we are asked to find, for each string Si, i\u2208[1,k], its longest suffix that is a prefix of string Sj, for all j\u2260i, j\u2208[1,k]. Several algorithms running in the optimal O(n+k2) time for solving APSP are known. All of these algorithms are based on suffix sorting and thus require space \u03a9(n) in any case. We consider the parameterized version of the APSP problem, denoted by \u2113-APSP, in which we are asked to output only the pairs whose suffix/prefix overlap is of length at least \u2113. We give an algorithm for solving \u2113-APSP that runs in the optimal O(n+|OUTPUT\u2113|) time using O(n) space, where OUTPUT\u2113 is the set of output pairs. Our algorithm is thus optimal for the APSP problem as well by setting \u2113=0. Notably, our algorithm is fundamentally different from all optimal algorithms solving the APSP problem: it does not rely on sorting the suffixes of all input strings but on a novel traversal of the Aho-Corasick machine, and it thus requires space linear in the size of the machine."
  },
  "https://doi.org/10.1093/gigascience/giac048": {
   "month": "5",
@@ -1619,6 +1643,18 @@
   "journal": "Reproductive Toxicology",
   "description": "Quality criteria for in vitro human pluripotent stem cell-derived models of tissue-based cellsThe advent of the technology to isolate or generate human pluripotent stem cells provided the potential to develop a wide range of human models that could enhance understanding of mechanisms underlying human development and disease. These systems are now beginning to mature and provide the basis for the development of in vitro assays suitable to understand the biological processes involved in the multi-organ systems of the human body, and will improve strategies for diagnosis, prevention, therapies and precision medicine. Induced pluripotent stem cell lines are prone to phenotypic and genotypic changes and donor/clone dependent variability, which means that it is important to identify the most appropriate characterization markers and quality control measures when sourcing new cell lines and assessing differentiated cell and tissue culture preparations for experimental work. This paper considers those core quality control measures for human pluripotent stem cell lines and evaluates the state of play in the development of key functional markers for their differentiated cell derivatives to promote assurance of reproducibility of scientific data derived from pluripotent stem cell-based systems."
  },
+ "https://doi.org/10.1002/cbic.202200178": {
+  "month": "9",
+  "pub_date": "5 Sep 2022",
+  "year": 2022,
+  "early_online": "29 Jun 2022",
+  "title": "Fragment Screening Yields a Small-Molecule Stabilizer of 14-3-3 Dimers That Modulates Client Protein Interactions",
+  "contributors": "Brink, H. J., Riemens, R., Thee, S., Beishuizen, B., da Costa Pereira, D., Wijtmans, M., de Esch, I., Smit, M. J., de Boer, A. H.",
+  "corresponding": "Smit, M. J.",
+  "organisations": "Medicinal chemistry, Chemistry and Pharmaceutical Sciences, AIMMS, Molecular and Computational Toxicology, Amsterdam Institute for Molecular and Life Sciences (AIMMS)",
+  "journal": "ChemBioChem",
+  "description": "Fragment Screening Yields a Small-Molecule Stabilizer of 14-3-3 Dimers That Modulates Client Protein InteractionsThe development of protein-protein interaction (PPI) inhibitors has been a successful strategy in drug development. However, the identification of PPI stabilizers has proven much more challenging. Here we report a fragment-based drug screening approach using the regulatory hub-protein 14-3-3 as a platform for identifying PPI stabilizers. A homogenous time-resolved FRET assay was used to monitor stabilization of 14-3-3/peptide binding using the known interaction partner estrogen receptor alpha. Screening of an in-house fragment library identified fragment 2 (VUF15640) as a putative PPI stabilizer capable of cooperatively stabilizing 14-3-3 PPIs in a cooperative fashion with Fusicoccin-A. Mechanistically, fragment 2 appears to enhance 14-3-3 dimerization leading to increased client-protein binding. Functionally, fragment 2 enhanced potency of 14-3-3 in a cell-free system inhibiting the enzyme activity of the nitrate reductase. In conclusion, we identified a general PPI stabilizer targeting 14-3-3, which could be used as a tool compound for investigating 14-3-3 client protein interactions."
+ },
  "https://doi.org/10.3389/fimmu.2022.952674": {
   "month": "7",
   "pub_date": "Jul 2022",
@@ -1666,18 +1702,6 @@
   "organisations": "Molecular Microbiology, AIMMS, LaserLaB - Analytical Chemistry and Spectroscopy, LaserLaB - Molecular Biophysics",
   "journal": "International Journal of Molecular Sciences",
   "description": "Overexpression of the Bam Complex Improves the Production of Chlamydia trachomatis MOMP in the E. coli Outer MembraneA licensed Chlamydia trachomatis (Ct) vaccine is not yet available. Recombinant Chlamydia trachomatis major outer membrane protein (Ct-MOMP), the most abundant constituent of the chlamydial outer membrane complex, is considered the most attractive candidate for subunit-based vaccine formulations. Unfortunately, Ct-MOMP is difficult to express in its native structure in the E. coli outer membrane (OM). Here, by co-expression of the Bam complex, we improved the expression and localization of recombinant Ct-MOMP in the E. coli OM. Under these conditions, recombinant Ct-MOMP appeared to assemble into a \u03b2-barrel conformation and express domains at the cell surface indicative of correct folding. The data indicate that limited availability of the Bam complex can be a bottleneck for the production of heterologous OM vaccine antigens, information that is also relevant for strategies aimed at producing recombinant OMV-based vaccines."
- },
- "https://doi.org/10.1016/j.envres.2022.113764": {
-  "month": "7",
-  "pub_date": "Nov 2022",
-  "year": 2022,
-  "early_online": "5 Jul 2022",
-  "title": "Does parental exposure to nanoplastics modulate the response of Hediste diversicolor to other contaminants: A case study with arsenic",
-  "contributors": "Silva, M. S. S., Oliveira, M., Almeida, H., Vethaak, A. D., Mart\u00ednez-G\u00f3mez, C., Figueira, E., Pires, A.",
-  "corresponding": "Pires, A.",
-  "organisations": "AIMMS, Environment and Health, University of Aveiro, Instituto Espanol de Oceanografia, Deltares",
-  "journal": "Environmental Research",
-  "description": "Does parental exposure to nanoplastics modulate the response of Hediste diversicolor to other contaminants: A case study with arsenicPlastic pollution is a serious problem in aquatic systems throughout the world. Despite the increasing number of studies addressing the impact of macro- and microplastics on biota, there is still a significant knowledge gap regarding the effects of nanoplastics alone and in combination with other contaminants. Among the aquatic contaminants that may interact with nanoplastics is arsenic (As), a metalloid found in estuarine and coastal ecosystems, pernicious to benthic organisms. This study aimed to understand how a parental pre-exposure to 100 nm polystyrene nanoplastics (PS NPs) would influence the response of Hediste diversicolor to exposure to arsenic in terms of behaviour, neurotransmission, antioxidant defences and oxidative damage, and energy metabolism. The obtained data revealed an increase in burrowing time and a significant inhibition in cholinesterase activity in all polychaetes exposed to As, regardless of the pre-exposure to PS NPs. Oxidative status was altered particularly in parentally exposed organisms, with damage detected in terms of lipid peroxidation at 50 \u03bcg/L and protein carbonylation at 50 and 250 \u03bcg As/L exposed organisms when compared to control. Overall, data shows that parental pre-exposure to plastics influences the response of aquatic organisms, increasing their susceptibility to other contaminants. Thus, more studies should be performed with other environmental contaminants, to better understand the potential increased risk associated with the presence of nanoplastics to aquatic ecosystems."
  },
  "https://doi.org/10.1186/s40478-022-01387-8": {
   "month": "7",
@@ -1846,6 +1870,18 @@
   "organisations": "AIMMS, Organic Chemistry, Vrije Universiteit Amsterdam",
   "journal": "Bioorganic and Medicinal Chemistry",
   "description": "Targeting the interaction of \u03b2-catenin and TCF/LEF transcription factors to inhibit oncogenic Wnt signalingThe Wnt/\u03b2-catenin signaling pathway is crucially involved in embryonic development, stem cell maintenance and tissue renewal. Hyperactivation of this pathway is associated with the development and progression of various types of cancers. The transcriptional coactivator \u03b2-catenin represents a pivotal component of the pathway and its interaction with transcription factors of the TCF/LEF family is central to pathway activation. Inhibition of this crucial protein\u2013protein interaction via direct targeting of \u03b2-catenin is considered a promising strategy for the inactivation of oncogenic Wnt signaling. This review summarizes advances in the development of Wnt antagonists that have been shown to directly bind \u03b2-catenin."
+ },
+ "https://doi.org/10.1016/j.envres.2022.113764": {
+  "month": "11",
+  "pub_date": "Nov 2022",
+  "year": 2022,
+  "early_online": "5 Jul 2022",
+  "title": "Does parental exposure to nanoplastics modulate the response of Hediste diversicolor to other contaminants: A case study with arsenic",
+  "contributors": "Silva, M. S. S., Oliveira, M., Almeida, H., Vethaak, A. D., Mart\u00ednez-G\u00f3mez, C., Figueira, E., Pires, A.",
+  "corresponding": "Pires, A.",
+  "organisations": "AIMMS, Environment and Health, University of Aveiro, Instituto Espanol de Oceanografia, Deltares",
+  "journal": "Environmental Research",
+  "description": "Does parental exposure to nanoplastics modulate the response of Hediste diversicolor to other contaminants: A case study with arsenicPlastic pollution is a serious problem in aquatic systems throughout the world. Despite the increasing number of studies addressing the impact of macro- and microplastics on biota, there is still a significant knowledge gap regarding the effects of nanoplastics alone and in combination with other contaminants. Among the aquatic contaminants that may interact with nanoplastics is arsenic (As), a metalloid found in estuarine and coastal ecosystems, pernicious to benthic organisms. This study aimed to understand how a parental pre-exposure to 100 nm polystyrene nanoplastics (PS NPs) would influence the response of Hediste diversicolor to exposure to arsenic in terms of behaviour, neurotransmission, antioxidant defences and oxidative damage, and energy metabolism. The obtained data revealed an increase in burrowing time and a significant inhibition in cholinesterase activity in all polychaetes exposed to As, regardless of the pre-exposure to PS NPs. Oxidative status was altered particularly in parentally exposed organisms, with damage detected in terms of lipid peroxidation at 50 \u03bcg/L and protein carbonylation at 50 and 250 \u03bcg As/L exposed organisms when compared to control. Overall, data shows that parental pre-exposure to plastics influences the response of aquatic organisms, increasing their susceptibility to other contaminants. Thus, more studies should be performed with other environmental contaminants, to better understand the potential increased risk associated with the presence of nanoplastics to aquatic ecosystems."
  },
  "https://doi.org/10.1007/978-1-0716-2493-7_9": {
   "month": "8",
@@ -2039,6 +2075,18 @@
   "journal": "Journal of Chromatography A",
   "description": "Assessing the feasibility of stationary-phase-assisted modulation for two-dimensional liquid-chromatography separationsTwo-dimensional liquid chromatography (2DLC) offers great separation power for complex mixtures. The frequently encountered incompatibility of two orthogonal separation systems, however, makes its application complicated. Active-modulation strategies can reduce such incompatibility issues considerably. Stationary-phase-assisted modulation (SPAM) is the most-common of these techniques, but also the least robust due to the major disadvantage that analytes may elute prematurely. The range of liquid chromatography (LC) applications continues to expand towards ever more complex mixtures. Retention modelling is increasingly indispensable to comprehend and develop LC separations. In this research, a tool was designed to assess the feasibility of applying SPAM in 2DLC. Several parameters were investigated to accurately predict isocratic retention of analytes on trap columns under dilution-flow conditions. Model parameters were derived from scanning-gradient experiments performed on analytical columns. The trap-to-trap repeatability was found to be similar to the prediction error. Dead volumes for the trap columns could not be accurately determined through direct experimentation. Instead, they were extrapolated from dead-volume measurements on analytical columns. Several known retention models were evaluated. Better predictions were found using the quadratic model than with the log-linear (\u201clinear-solvent-strength\u201d) model. Steep scanning gradients were found to result in inaccurate predictions. The impact of the dilution flow on the retention of analytes proved less straightforward than anticipated. Under certain conditions dilution with a weaker eluent was found to be counter productive. A tool was developed to quantify the effect of the dilution flow and to predict whether SPAM could be applied in specific situations. For nine different analytes under 36 different sets of conditions and with three different modulation times, the SPAM tool yielded a correct assessment in more than 95% of all cases (less than 5% false positives plus false negatives)."
  },
+ "https://doi.org/10.1002/pro.4391": {
+  "month": "9",
+  "pub_date": "Sep 2022",
+  "year": 2022,
+  "early_online": "29 Aug 2022",
+  "title": "Of problems and opportunities\u2014How to treat and how to not treat crystallographic fragment screening data",
+  "contributors": "Weiss, M. S., Wollenhaupt, J., Correy, G. J., Fraser, J. S., Heine, A., Klebe, G., Krojer, T., Thunissen, M., Pearce, N. M.",
+  "corresponding": "Weiss, M. S.",
+  "organisations": "Organic Chemistry, AIMMS, Helmholtz Centre Berlin for Materials and Energy, University of California at San Francisco, University of Marburg, Lund University",
+  "journal": "Protein Science",
+  "description": "Of problems and opportunities\u2014How to treat and how to not treat crystallographic fragment screening dataIn their recent commentary in Protein Science, Jaskolski et al. analyzed three randomly picked diffraction data sets from fragment-screening group depositions from the PDB and, based on that, they claimed that such data are principally problematic. We demonstrate here that if such data are treated properly, none of the proclaimed criticisms persist."
+ },
  "https://doi.org/10.1021/acs.joc.2c01258": {
   "month": "9",
   "pub_date": "2 Sep 2022",
@@ -2050,6 +2098,30 @@
   "organisations": "Theoretical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, Universidade Federal de Lavras",
   "journal": "Journal of Organic Chemistry",
   "description": "Iodine Gauche Effect Induced by an Intramolecular Hydrogen BondThe gauche conformer in 1-X,2-Y-disubstituted ethanes, that is, the staggered orientation in which X and Y are in closer contact, is only favored for relatively small substituents that do not give rise to large X\u00b7\u00b7\u00b7Y steric repulsion. For more diffuse substituents, weakly attractive orbital interactions between antiperiplanar bonds (i.e., hyperconjugation) cannot overrule the repulsive forces between X and Y. Our quantum chemical analyses of the rotational isomerism of XCH2CH2Y (X = F, OH; Y = I) at ZORA-BP86-D3(BJ)/QZ4P reveal that indeed the anti conformer is generally favored due to a less destabilizing I\u00b7\u00b7\u00b7F and I\u00b7\u00b7\u00b7O-H steric repulsion. The only case when the gauche conformer is preferred is when the hydroxyl hydrogen is oriented toward the iodine atom in the 2-iodoethanol. This is because of the significantly stabilizing covalent component of the I\u00b7\u00b7\u00b7H-O intramolecular hydrogen bond. Therefore, we show that strong intramolecular interactions can overcome the steric repulsion between bulky substituents in 1,2-disubstituted ethanes and cause the gauche effect. Our quantum chemical computations have guided nuclear magnetic resonance experiments that confirm the increase in the gauche population as X goes from F to OH. "
+ },
+ "https://doi.org/10.1021/acsmaterialslett.2c00568": {
+  "month": "9",
+  "pub_date": "5 Sep 2022",
+  "year": 2022,
+  "early_online": "9 Aug 2022",
+  "title": "Correction to: Colloidal Bi-Doped Cs2Ag1- x",
+  "contributors": "Zhang, B., Wang, M., Ghini, M., Melcherts, A. E. M., Zito, J., Goldoni, L., Infante, I., Guizzardi, M., Scotognella, F., Kriegel, I., De Trizio, L., Manna, L.",
+  "corresponding": "Wang, M.",
+  "organisations": "Theoretical Chemistry, AIMMS, University of Genoa, Italian Institute of Technology, Utrecht University, Polytechnic University of Milan",
+  "journal": "ACS Materials Letters",
+  "description": "Correction to: Colloidal Bi-Doped Cs2Ag1- xNaxInCl6Nanocrystals: Undercoordinated Surface Cl Ions Limit Their Light Emission EfficiencyUnderstanding and tuning the ligand shell composition in colloidal halide perovskite nanocrystals (NCs) has been done systematically only for Pb-based perovskites, while much less is known on the surface of Pb-free perovskite systems. Here, we reveal the ligand shell architecture of Bi-doped Cs2Ag1-xNaxInCl6NCs via nuclear magnetic resonance analysis. This material, in its bulk form, was found to have a photoluminescence quantum yield (PLQY) as high as 86%, which is a record value for halide double perovskites. Our results show that both amines and carboxylic acids are present and homogeneously distributed over the surface of the NCs. Notably, even for an optimized surface ligand coating, achieved by combining dodecanoic acid and decylamine, a maximum PLQY value of only 37% is reached, with no further improvements observed when exploiting post-synthesis ligand exchange procedures (involving Cs-oleate, different ammonium halides, thiocyanates, and sulfonic acids). Our density functional theory calculations indicate that, even with the best ligand combinations, a small fraction of unpassivated surface sites, namely undercoordinated Cl ions, is sufficient to create deep trap states, opposite to the case of Pb-based perovskites that exhibit much higher defect tolerance. This was corroborated by our transient absorption measurements, which evidenced that an ultrafast trapping of holes (most likely mediated by surface Cl-trap states) competes with their localization at the AgCl6octahedra, from where, instead, they can undergo an optically active recombination, yielding the observed PL emission. Our results highlight that alternative surface passivation strategies should be devised in order to further optimize the PLQY of double-perovskite NCs, which might include their incorporation inside inorganic shells."
+ },
+ "https://doi.org/10.1021/acs.est.2c03576": {
+  "month": "9",
+  "pub_date": "6 Sep 2022",
+  "year": 2022,
+  "early_online": "17 Aug 2022",
+  "title": "Semiquantitative Characterization of Bromo-chloro Paraffins and Olefins in the Australian Environment",
+  "contributors": "He, C., Van Mourik, L., Brandsma, S., Thai, P., Wang, X., Chen, S., Thomas, K. V., Mueller, J. F.",
+  "corresponding": "He, C.",
+  "organisations": "E&H: Environmental Bioanalytical Chemistry, AIMMS, University of Queensland",
+  "journal": "Environmental Science and Technology",
+  "description": "Semiquantitative Characterization of Bromo-chloro Paraffins and Olefins in the Australian EnvironmentA semiquantitative high-resolution mass spectrometry method was developed and applied to assess the occurrence of bromo-/chloro paraffins (BCPs) and olefins (BCOs) in the environment. More than 400 possible BCPs and BCO congener groups were detected in dust, air, and sewage sludge samples collected from Australia. Median chain analytes with the number of halogen atoms <7 (CnHmClxBry, 14 \u2264 n \u2264 17, x + y < 7) prevailed in the dust and sludge samples, while short chain analytes (CnHmClxBry, 10 \u2264 n \u2264 13, x + y < 7) predominated the air samples. The estimated concentrations of \u2211BCPs and \u2211BCOs in dust and sludge were approximately 20% that of the chlorinated paraffins (CPs) present, with the median concentrations of 5.4 \u03bcg/g (dust) and 0.18 \u03bcg/g (sludge) for \u2211BCPs and 22 \u03bcg/g (in dust) and 0.50 \u03bcg/g (sludge) for BCOs. In the air samples, the concentrations of BCPs (0.020 pg/m3) and BCOs (0.032 pg/m3) were 3-4 orders of magnitudes lower than the concentrations of CPs (790 pg/m3). Significant correlations (P < 0.001) were found between the concentration of CPs, BCPs, and BCOs in all the matrices."
  },
  "https://doi.org/10.1016/j.isci.2022.104882": {
   "month": "9",
@@ -2063,6 +2135,18 @@
   "journal": "iScience",
   "description": "Optical control of the \u03b22-adrenergic receptor with opto-prop-2: A cis-active azobenzene analog of propranololIn this study, we synthesized and evaluated new photoswitchable ligands for the beta-adrenergic receptors \u03b21-AR and \u03b22-AR, applying an azologization strategy to the first-generation beta-blocker propranolol. The resulting compounds (Opto-prop-1, -2, -3) have good photochemical properties with high levels of light-induced trans-cis isomerization (>94%) and good thermal stability (t1/2 > 10 days) of the resulting cis-isomer in an aqueous buffer. Upon illumination with 360-nm light to PSScis, large differences in binding affinities were observed for photoswitchable compounds at \u03b21-AR as well as \u03b22-AR. Notably, Opto-prop-2 (VUF17062) showed one of the largest optical shifts in binding affinities at the \u03b22-AR (587-fold, cis-active), as recorded so far for photoswitches of G protein-coupled receptors. We finally show the broad utility of Opto-prop-2 as a light-dependent competitive antagonist of the \u03b22-AR as shown with a conformational \u03b22-AR sensor, by the recruitment of downstream effector proteins and functional modulation of isolated adult rat cardiomyocytes."
  },
+ "https://doi.org/10.1021/acs.inorgchem.2c00824": {
+  "month": "9",
+  "pub_date": "26 Sep 2022",
+  "year": 2022,
+  "early_online": "18 Aug 2022",
+  "title": "Racemization Pathway for Mo",
+  "contributors": "Dhimba, G., Muller, A., Lammertsma, K.",
+  "corresponding": "Lammertsma, K.",
+  "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, University of Johannesburg",
+  "journal": "Inorganic Chemistry",
+  "description": "Racemization Pathway for MoO2(acac)2Favored over Ray-Dutt, Bailar, and Conte-Hippler TwistsChiral cis-MoO2(acac)2racemizes via four pathways that agree with and extend upon Muetterties' topological analysis for dynamic MX2(chel)2complexes. Textbook Ray-Dutt and Bailar twists are the least favored with barriers of 27.5 and 28.7 kcal/mol, respectively. Rotating both acac ligands of the Bailar structure by 90\u00b0 gives the lower Conte-Hippler twist (20.0 kcal/mol), which represents a valley-ridge inflection that invokes the trans isomer. The most favorable is a new twist that was found by 90\u00b0 rotation of only one acac ligand of the Bailar structure. The gas-phase barrier of 17.4 kcal/mol for this Dhimba-Muller-Lammertsma twist further decreases upon inclusion of the effects of solvents to 16.3 kcal/mol (benzene), 16.2 kcal/mol (toluene), and 15.4 kcal/mol (chloroform), which are in excellent agreement with the reported experimental values."
+ },
  "https://doi.org/10.1016/j.watres.2022.119020": {
   "month": "9",
   "pub_date": "Sep 2022",
@@ -2074,6 +2158,18 @@
   "organisations": "E&H: Environmental Chemistry and Toxicology, AIMMS",
   "journal": "Water Research",
   "description": "Analytical investigation of cannabis biomarkers in raw urban wastewater to refine consumption estimates"
+ },
+ "https://doi.org/10.1098/rsif.2022.0129": {
+  "month": "9",
+  "pub_date": "Sep 2022",
+  "year": 2022,
+  "early_online": "14 Sep 2022",
+  "title": "Integrative biology of persister cell formation: molecular circuitry, phenotypic diversification and fitness effects",
+  "contributors": "Berkvens, A., Chauhan, P., Bruggeman, F. J.",
+  "corresponding": "Bruggeman, F. J.",
+  "organisations": "AIMMS, Systems Bioinformatics, Structural Biology",
+  "journal": "Journal of the Royal Society Interface",
+  "description": "Integrative biology of persister cell formation: molecular circuitry, phenotypic diversification and fitness effectsMicrobial populations often contain persister cells, which reduce the extinction risk upon sudden stresses. Persister cell formation is deeply intertwined with physiology. Due to this complexity, it cannot be satisfactorily understood by focusing only on mechanistic, physiological or evolutionary aspects. In this review, we take an integrative biology perspective to identify common principles of persister cell formation, which might be applicable across evolutionary-distinct microbes. Persister cells probably evolved to cope with a fundamental trade-off between cellular stress and growth tasks, as any biosynthetic resource investment in growth-supporting proteins is at the expense of stress tasks and vice versa. Natural selection probably favours persister cell subpopulation formation over a single-phenotype strategy, where each cell is prepared for growth and stress to a suboptimal extent, since persister cells can withstand harsher environments and their coexistence with growing cells leads to a higher fitness. The formation of coexisting phenotypes requires bistable molecular circuitry. Bistability probably emerges from growth-modulated, positive feedback loops in the cell's growth versus stress control network, involving interactions between sigma factors, guanosine pentaphosphate and toxin-antitoxin (TA) systems. We conclude that persister cell formation is most likely a response to a sudden reduction in growth rate, which can be achieved by antibiotic addition, nutrient starvation, sudden stresses, nutrient transitions or activation of a TA system. "
  },
  "https://doi.org/10.1016/j.envres.2022.113569": {
   "month": "9",
@@ -2087,6 +2183,18 @@
   "journal": "Environmental Research",
   "description": "Quantum cascade laser imaging (LDIR) and machine learning for the identification of environmentally exposed microplastics and polymers"
  },
+ "https://doi.org/10.1289/EHP10873": {
+  "month": "9",
+  "pub_date": "Sep 2022",
+  "year": 2022,
+  "early_online": "21 Sep 2022",
+  "title": "Uptake, Transport, and Toxicity of Pristine and Weathered Micro- and Nanoplastics in Human Placenta Cells",
+  "contributors": "Dusza, H. M., Katrukha, E. A., Nijmeijer, S. M., Akhmanova, A., Vethaak, A. D., Walker, D. I., Legler, J.",
+  "corresponding": null,
+  "organisations": "Environment and Health, AIMMS, Institute for Environmental Studies, Utrecht University, Icahn School of Medicine at Mount Sinai",
+  "journal": "Environmental Health Perspectives",
+  "description": "Uptake, Transport, and Toxicity of Pristine and Weathered Micro- and Nanoplastics in Human Placenta CellsBACKGROUND: The first evidence of micro- and nanoplastic (MNP) exposure in the human placenta is emerging. However, the toxicokinetics and toxicity of MNPs in the placenta, specifically environmentally relevant particles, remain unclear. OBJECTIVES: We examined the transport, uptake, and toxicity of pristine and experimentally weathered MNPs in nonsyncytialized and syncytialized BeWo b30 choriocarcinoma cells. METHODS: We performed untargeted chemical characterization of pristine and weathered MNPs using liquid chromatography high-resolution mass spectrometry to evaluate compositional differences following particle weathering. We investigated cellular internalization of pristine and weathered polystyrene (PS; formula presented ) and high-density polyethylene (HDPE; formula presented ) particles using high-resolution confocal imaging and three-dimensional rendering. We investigated the influence of particle coating with human plasma on the cellular transport of PS particles using a transwell setup and examined the influence of acute MNP exposure on cell viability, damage to the plasma membrane, and expression of genes involved in steroidogenesis. RESULTS: Chemical characterization of MNPs showed a significantly higher number of unique features in pristine particles in comparison with weathered particles. Size-dependent placental uptake of pristine and weathered MNPs was observed in both placental cell types after 24 h exposure. Cellular transport was limited and size-dependent and was not influenced by particle coating with human plasma. None of the MNPs affected cell viability. Damage to the plasma membrane was observed only for formula presented PS particles in the nonsyncytialized cells at the highest concentration tested (formula presented ). Modest down-regulation of hsd17b1 was observed in syncytialized cells exposed to pristine MNPs. DISCUSSION: Our results suggest that pristine and weathered MNPs are internalized and translocated in placental cells in vitro. Effects on gene expression observed upon pristine PS and HDPE particle exposure warrant further examination. More in-depth investigations are needed to better understand the potential health risks of MNP and chemicals associated with them under environmentally relevant exposure scenarios. https://doi.org/10.1289/EHP10873."
+ },
  "https://doi.org/10.4230/LIPIcs.ESA.2022.35": {
   "month": "9",
   "pub_date": "1 Sep 2022",
@@ -2099,6 +2207,18 @@
   "journal": null,
   "description": "Approximate Circular Pattern MatchingWe investigate the complexity of approximate circular pattern matching (CPM, in short) under the Hamming and edit distance. Under each of these two basic metrics, we are given a length-n text T, a length-m pattern P, and a positive integer threshold k, and we are to report all starting positions (called occurrences) of fragments of T that are at distance at most k from some cyclic rotation of P. In the decision version of the problem, we are to check if there is any such occurrence. All previous results for approximate CPM were either average-case upper bounds or heuristics, with the exception of the work of Charalampopoulos et al. [CKP+, JCSS'21], who considered only the Hamming distance. For the reporting version of the approximate CPM problem, under the Hamming distance we improve upon the main algorithm of [CKP+, JCSS'21] from O(n+(n/m) k4) to O(n+(n/m) k3 log log k) time; for the edit distance, we give an O(nk2)-time algorithm. Notably, for the decision versions and wide parameter-ranges, we give algorithms whose complexities are almost identical to the state-of-the-art for standard (i.e., non-circular) approximate pattern matching: For the decision version of the approximate CPM problem under the Hamming distance, we obtain an O(n + (n/m) k2 log k/ log log k)-time algorithm, which works in O(n) time whenever k = O( p mlog log m/logm). In comparison, the fastest algorithm for the standard counterpart of the problem, by Chan et al. [CGKKP, STOC'20], runs in O(n) time only for k = O(\u221a m). We achieve this result via a reduction to a geometric problem by building on ideas from [CKP+, JCSS'21] and Charalampopoulos et al. [CKW, FOCS'20]. For the decision version of the approximate CPM problem under the edit distance, the O(nk log3 k) runtime of our algorithm near matches the O(nk) runtime of the Landau-Vishkin algorithm [LV, J. Algorithms'89] for approximate pattern matching under edit distance; the latter algorithm remains the fastest known for k = \u03a9(m2/5). As a stepping stone, we propose an O(nk log3 k)-time algorithm for solving the Longest Prefix k-Approximate Match problem, proposed by Landau et al. [LMS, SICOMP'98], for all k \u2208 {1, , k}. Our algorithm is based on Tiskin's theory of seaweeds [Tiskin, Math. Comput. Sci.'08], with recent advancements (see Charalampopoulos et al. [CKW, FOCS'22]), and on exploiting the seaweeds' relation to Monge matrices. In contrast, we obtain a conditional lower bound that suggests a polynomial separation between approximate CPM under the Hamming distance over the binary alphabet and its non-circular counterpart. We also show that a strongly subquadratic-time algorithm for the decision version of approximate CPM under edit distance would refute the Strong Exponential Time Hypothesis."
  },
+ "https://doi.org/10.3390/ijms231810331": {
+  "month": "9",
+  "pub_date": "2 Sep 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Response of Mycobacterium smegmatis to the Cytochrome bcc Inhibitor Q203For the design of next-generation tuberculosis chemotherapy, insight into bacterial defence against drugs is required. Currently, targeting respiration has attracted strong attention for combatting drug-resistant mycobacteria. Q203 (telacebec), an inhibitor of the cytochrome bcc complex in the mycobacterial respiratory chain, is currently evaluated in phase-2 clinical trials. Q203 has bacteriostatic activity against M. tuberculosis, which can be converted to bactericidal activity by concurrently inhibiting an alternative branch of the mycobacterial respiratory chain, cytochrome bd. In contrast, non-tuberculous mycobacteria, such as Mycobacterium smegmatis, show only very little sensitivity to Q203. In this report, we investigated factors that M. smegmatis employs to adapt to Q203 in the presence or absence of a functional cytochrome bd, especially regarding its terminal oxidases. In the presence of a functional cytochrome bd, M. smegmatis responds to Q203 by increasing the expression of cytochrome bcc as well as of cytochrome bd, whereas a M. smegmatis bd-KO strain adapted to Q203 by increasing the expression of cytochrome bcc. Interestingly, single-cell studies revealed cell-to-cell variability in drug adaptation. We also investigated the role of a putative second cytochrome bd isoform postulated for M. smegmatis. Although this putative isoform showed differential expression in response to Q203 in the M. smegmatis bd-KO strain, it did not display functional features similar to the characterised cytochrome bd variant.General information",
+  "contributors": "Chauhan, P., van der Meulen, S. A., Sim\u00f5es Caetano, J. M., Goojani, H. G., Botman, D., van Spanning, R., Lill, H., Bald, D.",
+  "corresponding": "Chauhan, P.",
+  "organisations": "Structural Biology, AIMMS, Systems Bioinformatics, LaserLaB - Analytical Chemistry and Spectroscopy, LaserLaB - Molecular Biophysics, Vrije Universiteit Amsterdam",
+  "journal": "International Journal of Molecular Sciences",
+  "description": "Response of Mycobacterium smegmatis to the Cytochrome bcc Inhibitor Q203For the design of next-generation tuberculosis chemotherapy, insight into bacterial defence against drugs is required. Currently, targeting respiration has attracted strong attention for combatting drug-resistant mycobacteria. Q203 (telacebec), an inhibitor of the cytochrome bcc complex in the mycobacterial respiratory chain, is currently evaluated in phase-2 clinical trials. Q203 has bacteriostatic activity against M. tuberculosis, which can be converted to bactericidal activity by concurrently inhibiting an alternative branch of the mycobacterial respiratory chain, cytochrome bd. In contrast, non-tuberculous mycobacteria, such as Mycobacterium smegmatis, show only very little sensitivity to Q203. In this report, we investigated factors that M. smegmatis employs to adapt to Q203 in the presence or absence of a functional cytochrome bd, especially regarding its terminal oxidases. In the presence of a functional cytochrome bd, M. smegmatis responds to Q203 by increasing the expression of cytochrome bcc as well as of cytochrome bd, whereas a M. smegmatis bd-KO strain adapted to Q203 by increasing the expression of cytochrome bcc. Interestingly, single-cell studies revealed cell-to-cell variability in drug adaptation. We also investigated the role of a putative second cytochrome bd isoform postulated for M. smegmatis. Although this putative isoform showed differential expression in response to Q203 in the M. smegmatis bd-KO strain, it did not display functional features similar to the characterised cytochrome bd variant."
+ },
  "https://doi.org/10.1016/j.chemosphere.2022.136312": {
   "month": "9",
   "pub_date": "Dec 2022",
@@ -2110,5 +2230,209 @@
   "organisations": "E&H: Environmental Bioanalytical Chemistry, AIMMS, E&H: Environmental Health and Toxicology, Amsterdam Sustainability Institute, Norwegian University of Science and Technology, CHIRON AS",
   "journal": "Chemosphere",
   "description": "Nuclear magnetic resonance as a tool to determine chlorine percentage of chlorinated paraffin mixturesA new simple method for chlorine percentage calculations (method C), from proton nuclear magnetic resonance (1H NMR) spectroscopy, has been established and applied to an industrial chlorinated paraffin (CP) mixture and 13 single-chain CPs of known carbon chain lengths. Two modified methods (method A and B), originating from the work of Sprengel et al., have been utilized on the same single-chain mixtures. All samples were analysed by 1H NMR and two-dimensional heteronuclear quantum coherence (HSQC) for this purpose. All three methods worked well for medium chlorinated (45\u201355% Cl) single-chain mixtures of known carbon chain lengths. Method A yielded the best result for mixtures of lower chlorine content (<45% Cl), method C gave better estimations for higher chlorine contents (>55% Cl). Compared to Mohr's titration, method A showed a deviation of 0.7\u20137.8% (3.6% average), method B 4.1\u201311.3% (7.0% average) and method C 0.6\u201311.6% (5.2% average), for all 13 single-chain mixtures. The new method C is the only method that could be applied for determining the chlorine percentage of industrial mixtures of multiple, unknown chain lengths."
+ },
+ "https://doi.org/10.1038/s41598-022-19608-4": {
+  "month": "9",
+  "pub_date": "26 Sep 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Protein",
+  "contributors": "Capel, H., Weiler, R., Dijkstra, M., Vleugels, R., Bloem, P., Feenstra, K. A.",
+  "corresponding": "Feenstra, K. A.",
+  "organisations": "Computer Science, Integrative Bioinformatics, Artificial intelligence, Network Institute, Knowledge Representation and Reasoning, Bioinformatics, AIMMS, Vrije Universiteit Amsterdam",
+  "journal": "Scientific Reports",
+  "description": "ProteinGLUE multi-task benchmark suite for self-supervised protein modelingSelf-supervised language modeling is a rapidly developing approach for the analysis of protein sequence data. However, work in this area is heterogeneous and diverse, making comparison of models and methods difficult. Moreover, models are often evaluated only on one or two downstream tasks, making it unclear whether the models capture generally useful properties. We introduce the ProteinGLUE benchmark for the evaluation of protein representations: a set of seven per-amino-acid tasks for evaluating learned protein representations. We also offer reference code, and we provide two baseline models with hyperparameters specifically trained for these benchmarks. Pre-training was done on two tasks, masked symbol prediction and next sentence prediction. We show that pre-training yields higher performance on a variety of downstream tasks such as secondary structure and protein interaction interface prediction, compared to no pre-training. However, the larger base model does not outperform the smaller medium model. We expect the ProteinGLUE benchmark dataset introduced here, together with the two baseline pre-trained models and their performance evaluations, to be of great value to the field of protein sequence-based property prediction. Availability: code and datasets from https://github.com/ibivu/protein-glue."
+ },
+ "https://doi.org/10.1021/acs.jctc.2c00366": {
+  "month": "10",
+  "pub_date": "11 Oct 2022",
+  "year": 2022,
+  "early_online": "23 Sep 2022",
+  "title": "Assessment of the Second-Order Statically Screened Exchange Correction to the Random Phase Approximation for Correlation Energies",
+  "contributors": "F\u00f6rster, A.",
+  "corresponding": "F\u00f6rster, A.",
+  "organisations": "Theoretical Chemistry, AIMMS",
+  "journal": "Journal of chemical theory and computation",
+  "description": "Assessment of the Second-Order Statically Screened Exchange Correction to the Random Phase Approximation for Correlation EnergiesWith increasing interelectronic distance, the screening of the electron-electron interaction by the presence of other electrons becomes the dominant source of electron correlation. This effect is described by the random phase approximation (RPA) which is therefore a promising method for the calculation of weak interactions. The success of the RPA relies on the cancellation of errors, which can be traced back to the violation of the crossing symmetry of the 4-point vertex, leading to strongly overestimated total correlation energies. By the addition of second-order screened exchange (SOSEX) to the correlation energy, this issue is substantially reduced. In the adiabatic connection (AC) SOSEX formalism, one of the two electron-electron interaction lines in the second-order exchange term is dynamically screened (SOSEX(W, vc)). A related SOSEX expression in which both electron-electron interaction lines are statically screened (SOSEX(W(0), W(0))) is obtained from the G3W2 contribution to the electronic self-energy. In contrast to SOSEX(W, vc), the evaluation of this correlation energy expression does not require an expensive numerical frequency integration and is therefore advantageous from a computational perspective. We compare the accuracy of the statically screened variant to RPA and RPA+SOSEX(W, vc) for a wide range of chemical reactions. While both methods fail for barrier heights, SOSEX(W(0), W(0)) agrees very well with SOSEX(W, vc) for charged excitations and noncovalent interactions where they lead to major improvements over RPA."
+ },
+ "https://doi.org/10.1021/acs.jchemed.2c00523": {
+  "month": "10",
+  "pub_date": "11 Oct 2022",
+  "year": 2022,
+  "early_online": "22 Sep 2022",
+  "title": "Particle on a Ring Model for Teaching the Origin of the Aromatic Stabilization Energy and the H\u00fcckel and Baird Rules",
+  "contributors": "Sol\u00e0, M., Bickelhaupt, F. M.",
+  "corresponding": null,
+  "organisations": "Chemistry and Pharmaceutical Sciences, AIMMS, University of Girona",
+  "journal": "Journal of Chemical Education",
+  "description": "Particle on a Ring Model for Teaching the Origin of the Aromatic Stabilization Energy and the H\u00fcckel and Baird RulesSimple mathematical models can serve to reveal the essence of experimental phenomena and scientific concepts. The particle in a box (PIB), for example, is widely used in undergraduate programs to teach the quantum mechanical principles behind the UV-vis spectra of conjugated polyenes and polyynes. In this work, the particle on a ring (POR) and the PIB models are used to elucidate the concept of aromaticity in Introductory Chemistry courses. Thus, we explain the origin of the aromatic stabilization energy, H\u00fcckel's rule, and Baird's rule. Besides applications, the limitations of the POR and PIB models are also discussed."
+ },
+ "https://doi.org/10.1021/acs.jctc.2c00352": {
+  "month": "10",
+  "pub_date": "11 Oct 2022",
+  "year": 2022,
+  "early_online": "12 Sep 2022",
+  "title": "Self-Consistent Implementation of Kohn-Sham Adiabatic Connection Models with Improved Treatment of the Strong-Interaction Limit",
+  "contributors": "\u015amiga, S., Della Sala, F., Gori-Giorgi, P., Fabiano, E.",
+  "corresponding": "\u015amiga, S.",
+  "organisations": "Theoretical Chemistry, AIMMS, Nicolaus Copernicus University in Toru\u0144, Institute for Microelectronics and Microsystems (CNR-IMM), Italian Institute of Technology",
+  "journal": "Journal of chemical theory and computation",
+  "description": "Self-Consistent Implementation of Kohn-Sham Adiabatic Connection Models with Improved Treatment of the Strong-Interaction LimitAdiabatic connection models (ACMs), which interpolate between the limits of weak and strong interaction, are powerful tools to build accurate exchange-correlation functionals. If the exact weak-interaction expansion from the second-order perturbation theory is included, a self-consistent implementation of these functionals is challenging and still absent in the literature. In this work, we fill this gap by presenting a fully self-consistent-field (SCF) implementation of some popular ACM functionals. While using second-order perturbation theory at weak interactions, we have also introduced new generalized gradient approximations (GGAs), beyond the usual point-charge-plus-continuum model, for the first two leading terms at strong interactions, which are crucial to ensure robustness and reliability. We then assess the SCF-ACM functionals for molecular systems and for prototypical strong-correlation problems. We find that they perform well for both the total energy and the electronic density and that the impact of SCF orbitals is directly connected to the accuracy of the ACM functional form. For the H2 dissociation, the SCF-ACM functionals yield significant improvements with respect to standard functionals also thanks to the use of the new GGAs for the strong-coupling functionals. "
+ },
+ "https://doi.org/10.1016/j.exger.2022.111954": {
+  "month": "11",
+  "pub_date": "Nov 2022",
+  "year": 2022,
+  "early_online": "17 Sep 2022",
+  "title": "Linoleic acid-derived oxylipins and isoprostanes plasma levels are influenced by 1,25-Dihydroxyvitamin D levels in middle-aged sedentary adults: The FIT-AGEING study",
+  "contributors": "V\u00e1zquez-Lorente, H., Jurado-Fasoli, L., Kohler, I., Di, X., Yang, W., Osuna-Prieto, F. J., Asadov, S., Frias-Rodr\u00edguez, J. F., Castillo-Garz\u00f3n, M. J., Amaro-Gahete, F. J.",
+  "corresponding": "V\u00e1zquez-Lorente, H.",
+  "organisations": "BioAnalytical Chemistry, AIMMS, University of Granada, Leiden University, Hospital Universitario Virgen de las Nieves",
+  "journal": "Experimental Gerontology",
+  "description": "Linoleic acid-derived oxylipins and isoprostanes plasma levels are influenced by 1,25-Dihydroxyvitamin D levels in middle-aged sedentary adults: The FIT-AGEING studyIntroduction: Vitamin D \u2013 concretely its active form 1,25-dihydroxyvitamin D (1,25(OH)2D) \u2013 maintains several physiological processes. Oxylipins are oxidized lipids derived from \u03c9-6 and \u03c9-3 polyunsaturated fatty acids involved in inflammation. Little is known about the association of 1,25(OH)2D with inflammatory parameters in middle-aged populations \u2013 who could be at risk of vitamin D deficiency \u2013. The aim of this study was to investigate the relationship between 1,25(OH)2D plasma levels with circulating white blood cells, platelets counts and oxylipins levels. Materials and methods: A total of 74 (53 % women) middle-aged (40\u201365 years old) adults were recruited for this cross-sectional study. 1,25(OH)2D plasma levels were measured using an immunochemiluminometric assay. White blood cells and platelets were analyzed by hemocytometry. \u03c9-6 and \u03c9-3 oxylipins plasma levels were measured using liquid chromatography - tandem mass spectrometry. Simple and multiple linear regression models, and Pearson correlation analyses, were performed to study the association of 1,25(OH)2D levels with WBC and platelets counts, and oxylipins, respectively. Results: 1,25(OH)2D plasma levels were positively related with linoleic acid-derived oxylipins and isoprostanes plasma levels, whereas an inverse relationship with dihomo-\u03b3-linolenic acid/linoleic acid and arachidonic acid/linoleic acid ratios was unveiled. No significant associations were observed for circulating \u03c9-3 oxylipins, white blood cells levels or platelets count. Conclusions: Linoleic acid-derived oxylipins and isoprostanes plasma levels may be influenced by 1,25(OH)2D plasma levels. Further investigations are needed to elucidate the impact of other vitamin D forms upon circulating oxylipins levels."
+ },
+ "https://doi.org/10.3390/molecules27206923": {
+  "month": "10",
+  "pub_date": "2 Oct 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "High-Resolution Bioassay Profiling with Complemented Sensitivity and Resolution for Pancreatic Lipase Inhibitor Screening",
+  "contributors": "Jian, J., Yuan, J., Fan, Y., Wang, J., Zhang, T., Kool, J., Jiang, Z.",
+  "corresponding": "Jiang, Z.",
+  "organisations": "BioAnalytical Chemistry, AIMMS, Jinan University",
+  "journal": "Molecules",
+  "description": "High-Resolution Bioassay Profiling with Complemented Sensitivity and Resolution for Pancreatic Lipase Inhibitor ScreeningHow to rapidly and accurately screen bioactive components from complex natural products remains a major challenge. In this study, a screening platform for pancreatic lipase (PL) inhibitors was established by combining magnetic beads-based ligand fishing and high-resolution bioassay profiling. This platform was well validated using a mixture of standard compounds, i.e., (-)- epigallocatechin gallate (EGCG), luteolin and schisandrin. The dose\u2013effect relationship of high-resolution bioassay profiling was demonstrated by the standard mixture with different concentrations for each compound. The screening of PL inhibitors from green tea extract at the concentrations of 0.2, 0.5 and 1.0 mg/mL by independent high-resolution bioassay profiling was performed. After sample pre-treatment by ligand fishing, green tea extract at the concentration of 0.2 mg/mL was specifically enriched and simplified, and consequently screened through the high-resolution bioassay profiling. As a result, three PL inhibitors, i.e., EGCG, (-)-Gallocatechin gallate (GCG) and (-)-Epicatechin gallate (ECG), were rapidly identified from the complex matrix. The established platform proved to be capable of enriching affinity binders and eliminating nonbinders in sample pre-treatment by ligand fishing, which overcame the technical challenges of high-resolution bioassay profiling in the aspects of sensitivity and resolution. Meanwhile, the high-resolution bioassay profiling possesses the ability of direct bioactive assessment, parallel structural analysis and identification after separation. The established platform allowed more accurate and rapid screening of PL inhibitors, which greatly facilitated natural product-based drug screening."
+ },
+ "https://doi.org/10.3390/ijerph192012990": {
+  "month": "10",
+  "pub_date": "2 Oct 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Mixture Risk Assessment of Complex Real-Life Mixtures\u2014The PANORAMIX Project",
+  "contributors": "Escher, B. I., Lamoree, M., Antignac, J. P., Scholze, M., Herzler, M., Hamers, T., Jensen, T. K., Audebert, M., Busquet, F., Maier, D., Oelgeschl\u00e4ger, M., Valente, M. J., Boye, H., Schmeisser, S., Dervilly, G., Piumatti, M., Motteau, S., K\u00f6nig, M., Renko, K., Margalef, M., Cariou, R., Ma, Y., Treschow, A. F., Kortenkamp, A., Vinggaard, A. M.",
+  "corresponding": "Vinggaard, A. M.",
+  "organisations": "E&H: Environmental Chemistry and Toxicology, AIMMS, E&H: Environmental Health and Toxicology, Helmholtz Centre for Environmental Research, University of T\u00fcbingen, \u00c9cole nationale v\u00e9t\u00e9rinaire, agroalimentaire et de l'alimentation, Nantes-Atlantique, Brunel University London, Federal Institute for Risk Assessment, University of Southern Denmark, INRAE, Altertox Academy, Biomax Informatics, Technical University of Denmark",
+  "journal": "International Journal of Environmental Research and Public Health",
+  "description": "Mixture Risk Assessment of Complex Real-Life Mixtures\u2014The PANORAMIX ProjectHumans are involuntarily exposed to hundreds of chemicals that either contaminate our environment and food or are added intentionally to our daily products. These complex mixtures of chemicals may pose a risk to human health. One of the goals of the European Union\u2019s Green Deal and zero-pollution ambition for a toxic-free environment is to tackle the existent gaps in chemical mixture risk assessment by providing scientific grounds that support the implementation of adequate regulatory measures within the EU. We suggest dealing with this challenge by: (1) characterising \u2018real-life\u2019 chemical mixtures and determining to what extent they are transferred from the environment to humans via food and water, and from the mother to the foetus; (2) establishing a high-throughput whole-mixture-based in vitro strategy for screening of real-life complex mixtures of organic chemicals extracted from humans using integrated chemical profiling (suspect screening) together with effect-directed analysis; (3) evaluating which human blood levels of chemical mixtures might be of concern for children\u2019s development; and (4) developing a web-based, ready-to-use interface that integrates hazard and exposure data to enable component-based mixture risk estimation. These concepts form the basis of the Green Deal project PANORAMIX, whose ultimate goal is to progress mixture risk assessment of chemicals."
+ },
+ "https://doi.org/10.1002/psc.3457": {
+  "month": "10",
+  "pub_date": "14 Oct 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Peptide-based covalent inhibitors of protein\u2013protein interactions",
+  "contributors": "Paulussen, F. M., Grossmann, T. N.",
+  "corresponding": "Grossmann, T. N.",
+  "organisations": "Organic Chemistry, AIMMS",
+  "journal": "Journal of Peptide Science",
+  "description": "Peptide-based covalent inhibitors of protein\u2013protein interactionsProtein\u2013protein interactions (PPI) are involved in all cellular processes and many represent attractive therapeutic targets. However, the frequently rather flat and large interaction areas render the identification of small molecular PPI inhibitors very challenging. As an alternative, peptide interaction motifs derived from a PPI interface can serve as starting points for the development of inhibitors. However, certain proteins remain challenging targets when applying inhibitors with a competitive mode of action. For that reason, peptide-based ligands with an irreversible binding mode have gained attention in recent years. This review summarizes examples of covalent inhibitors that employ peptidic binders and have been tested in a biological context."
+ },
+ "https://doi.org/10.3389/fnut.2022.998044": {
+  "month": "10",
+  "pub_date": "26 Oct 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Grape polyphenols decrease circulating branched chain amino acids in overfed adults",
+  "contributors": "Bartova, S., Madrid-Gambin, F., Fern\u00e1ndez, L., Carayol, J., Meugnier, E., Segrestin, B., Delage, P., Vionnet, N., Boizot, A., Laville, M., Vidal, H., Marco, S., Hager, J., Moco, S.",
+  "corresponding": "Bartova, S.",
+  "organisations": "Molecular and Computational Toxicology, AIMMS, Nestle, \ufeffInstitute for Bioengineering of Catalonia, Pompeu Fabra University, Vrije Universiteit Amsterdam, University of Barcelona, University of Lyon, University of Lausanne",
+  "journal": "Frontiers in nutrition",
+  "description": "Grape polyphenols decrease circulating branched chain amino acids in overfed adultsIntroduction and aims: Dietary polyphenols have long been associated with health benefits, including the prevention of obesity and related chronic diseases. Overfeeding was shown to rapidly induce weight gain and fat mass, associated with mild insulin resistance in humans, and thus represents a suitable model of the metabolic complications resulting from obesity. We studied the effects of a polyphenol-rich grape extract supplementation on the plasma metabolome during an overfeeding intervention in adults, in two randomized parallel controlled clinical trials. Methods: Blood plasma samples from 40 normal weight to overweight male adults, submitted to a 31-day overfeeding (additional 50% of energy requirement by a high calorie-high fructose diet), given either 2 g/day grape polyphenol extract or a placebo at 0, 15, 21, and 31 days were analyzed (Lyon study). Samples from a similarly designed trial on females (20 subjects) were collected in parallel (Lausanne study). Nuclear magnetic resonance (NMR)-based metabolomics was conducted to characterize metabolome changes induced by overfeeding and associated effects from polyphenol supplementation. The clinical trials are registered under the numbers NCT02145780 and NCT02225457 at ClinicalTrials.gov. Results: Changes in plasma levels of many metabolic markers, including branched chain amino acids (BCAA), ketone bodies and glucose in both placebo as well as upon polyphenol intervention were identified in the Lyon study. Polyphenol supplementation counterbalanced levels of BCAA found to be induced by overfeeding. These results were further corroborated in the Lausanne female study. Conclusion: Administration of grape polyphenol-rich extract over 1 month period was associated with a protective metabolic effect against overfeeding in adults."
+ },
+ "https://doi.org/10.1002/ardp.202200451": {
+  "month": "10",
+  "pub_date": "30 Oct 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "SAR exploration of the non-imidazole histamine H3 receptor ligand ZEL-H16 reveals potent inverse agonism",
+  "contributors": "W\u00e1gner, G., Mocking, T. A. M., Ma, X., Slynko, I., Da Costa Pereira, D., Breeuwer, R., Rood, N. J. N., van der Horst, C., Vischer, H. F., de Graaf, C., de Esch, I. J. P., Wijtmans, M., Leurs, R.",
+  "corresponding": "Leurs, R.",
+  "organisations": "Medicinal chemistry, AIMMS, Molecular and Computational Toxicology, Chemistry and Pharmaceutical Sciences, Vrije Universiteit Amsterdam",
+  "journal": "Archiv der Pharmazie",
+  "description": "SAR exploration of the non-imidazole histamine H3 receptor ligand ZEL-H16 reveals potent inverse agonismHistamine H3 receptor (H3R) agonists without an imidazole moiety remain very scarce. Of these, ZEL-H16 (1) has been reported previously as a high-affinity non-imidazole H3R (partial) agonist. Our structure-activity relationship analysis using derivatives of 1 identified both basic moieties as key interaction motifs and the distance of these from the central core as a determinant for H3R affinity. However, in spite of the reported H3R (partial) agonism, in our hands, 1 acts as an inverse agonist for G\u03b1i signaling in a CRE-luciferase reporter gene assay and using an H3R conformational sensor. Inverse agonism was also observed for all of the synthesized derivatives of 1. Docking studies and molecular dynamics simulations suggest ionic interactions/hydrogen bonds to H3R residues D1143.32 and E2065.46 as essential interaction points."
+ },
+ "https://doi.org/10.3390/toxins14110736": {
+  "month": "11",
+  "pub_date": "Nov 2022",
+  "year": 2022,
+  "early_online": "27 Oct 2022",
+  "title": "A Combined Bioassay and Nanofractionation Approach to Investigate the Anticoagulant Toxins of Mamba and Cobra Venoms and Their Inhibition by Varespladib",
+  "contributors": "Arrahman, A., Kazandjian, T. D., Still, K. B. M., Slagboom, J., Somsen, G. W., Vonk, F. J., Casewell, N. R., Kool, J.",
+  "corresponding": "Kool, J.",
+  "organisations": "BioAnalytical Chemistry, AIMMS, Chemistry and Pharmaceutical Sciences, Liverpool School of Tropical Medicine",
+  "journal": "Toxins",
+  "description": "A Combined Bioassay and Nanofractionation Approach to Investigate the Anticoagulant Toxins of Mamba and Cobra Venoms and Their Inhibition by VarespladibEnvenomation by elapid snakes primarily results in neurotoxic symptoms and, consequently, are the primary focus of therapeutic research concerning such venoms. However, mounting evidence suggests these venoms can additionally cause coagulopathic symptoms, as demonstrated by some Asian elapids and African spitting cobras. This study sought to investigate the coagulopathic potential of venoms from medically important elapids of the genera Naja (true cobras), Hemachatus (rinkhals), and Dendroaspis (mambas). Crude venoms were bioassayed for coagulant effects using a plasma coagulation assay before RPLC/MS was used to separate and identify venom toxins in parallel with a nanofractionation module. Subsequently, coagulation bioassays were performed on the nanofractionated toxins, along with in-solution tryptic digestion and proteomics analysis. These experiments were then repeated on both crude venoms and on the nanofractionated venom toxins with the addition of either the phospholipase A2 (PLA2) inhibitor varespladib or the snake venom metalloproteinase (SVMP) inhibitor marimastat. Our results demonstrate that various African elapid venoms have an anticoagulant effect, and that this activity is significantly reduced for cobra venoms by the addition of varespladib, though this inhibitor had no effect against anticoagulation caused by mamba venoms. Marimastat showed limited capacity to reduce anticoagulation in elapids, affecting only N. haje and H. haemachatus venom at higher doses. Proteomic analysis of nanofractionated toxins revealed that the anticoagulant toxins in cobra venoms were both acidic and basic PLA2s, while the causative toxins in mamba venoms remain uncertain. This implies that while PLA2 inhibitors such as varespladib and metalloproteinase inhibitors such as marimastat are viable candidates for novel snakebite treatments, they are not likely to be effective against mamba envenomings."
+ },
+ "https://doi.org/10.1016/j.ebiom.2022.104313": {
+  "month": "11",
+  "pub_date": "Nov 2022",
+  "year": 2022,
+  "early_online": "27 Oct 2022",
+  "title": "Acute and long-term exercise differently modulate plasma levels of oxylipins, endocannabinoids, and their analogues in young sedentary adults: A sub-study and secondary analyses from the ACTIBATE randomized controlled-trial",
+  "contributors": "Jurado-Fasoli, L., Di, X., Sanchez-Delgado, G., Yang, W., Osuna-Prieto, F. J., Ortiz-Alvarez, L., Krekels, E., Harms, A. C., Hankemeier, T., Sch\u00f6nke, M., Aguilera, C. M., Llamas-Elvira, J. M., Kohler, I., Rensen, P. C. N., Ruiz, J. R., Martinez-Tellez, B.",
+  "corresponding": "Ruiz, J. R.",
+  "organisations": "BioAnalytical Chemistry, AIMMS, University of Granada, Leiden University, LSU Pennington Biomedical Research Center, Research and Development of Functional Food Centre (CIDAF), Ibs.Granada, CIBER - Center for Biomedical Research Network, Hospital Universitario Virgen de las Nieves, University of Almeria",
+  "journal": "Ebiomedicine",
+  "description": "Acute and long-term exercise differently modulate plasma levels of oxylipins, endocannabinoids, and their analogues in young sedentary adults: A sub-study and secondary analyses from the ACTIBATE randomized controlled-trialBackground: Fatty acid-derived lipid mediators including oxylipins, endocannabinoids (eCBs), and their analogues, have emerged as key metabolites in the inflammatory and immune response to physiological stressors. Methods: This report was based on a sub-study and secondary analyses the ACTIBATE single-center unblinded randomized controlled trial (ClinicalTrials.gov ID: NCT02365129). The study was performed in the Sport and Health University Research Institute and the Virgen de las Nieves University Hospital of the University of Granada. Eligible participants were young, sedentary adults with no chronic diseases. Here, we performed both an acute endurance and resistance exercise sub-studies (n = 14 and 17 respectively), and a 24-week supervised exercise intervention, combining endurance and resistance exercise training at moderate-intensity (MOD-EX) or vigorous-intensity (VIG-EX) exercise groups, in young sedentary adults. Randomization was performed by unrestricted randomization. Plasma levels of oxylipins, eCBs, and their analogues were measured using liquid chromatography-tandem mass spectrometry. Findings: Both endurance and resistance exercise increased by +50% the plasma levels of dihomo-\u03b3-linolenic acid and arachidonic acid (AA) omega-6 derived oxylipins, as well as eicosapentaenoic acid and docosahexaenoic acid omega-3 derived after 3 and 120 min of the bout of exercise (all \u03b72 \u2265 0.219 and P \u2264 0.039). These exercise modalities also increased the levels of anandamide and eCBs analogues (+25%). 145 young sedentary adults were assigned to a control (CON, n = 54), a MOD-EX (n = 48) or a VIG-EX (n = 43). 102 participants were included in the final long-term analyses (CON, n = 36; MOD-EX, n = 33; and VIG-EX, n = 33) of the trial. After 24-week of supervised exercise, MOD-EX decreased plasma levels of omega-6 oxylipins, concretely linoleic acid (LA) and adrenic acid derived oxylipins, and the eCBs analogues OEA and LEA in comparison to the CON (all P \u2264 0.021). VIG-EX decreased LA-derived oxylipins and LEA compared to CON. No relevant adverse events were recorded. Interpretation: Endurance and resistance exercises acutely increased plasma levels of oxylipins, eCBs, and their analogues, whereas 24 weeks of exercise training decreased fasting plasma levels of omega-6 oxylipins, and eCBs analogues in young, sedentary adults. Funding: See Acknowledgments section."
+ },
+ "https://doi.org/10.1039/d2cc04034d": {
+  "month": "11",
+  "pub_date": "7 Nov 2022",
+  "year": 2022,
+  "early_online": "6 Oct 2022",
+  "title": "Stability of alkyl carbocations",
+  "contributors": "Hansen, T., Vermeeren, P., Bickelhaupt, F. M., Hamlin, T. A.",
+  "corresponding": null,
+  "organisations": "Organic Chemistry, AIMMS, Theoretical Chemistry, Chemistry and Pharmaceutical Sciences",
+  "journal": "Chemical communications (Cambridge, England)",
+  "description": "Stability of alkyl carbocationsThe traditional and widespread rationale behind the stability trend of alkyl-substituted carbocations is incomplete. Through state-of-the-art quantum chemical analyses, we quantitatively established a generally overlooked driving force behind the stability of carbocations, namely, that the parent substrates are substantially destabilized by the introduction of substituents, often playing a dominant role in solution. This stems from the repulsion between the substituents and the C-X bond."
+ },
+ "https://doi.org/10.1038/s41564-022-01252-3": {
+  "month": "11",
+  "pub_date": "3 Nov 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Methanotrophy by a Mycobacterium species that dominates a cave microbial ecosystem",
+  "contributors": "van Spanning, R. J. M., Guan, Q., Melkonian, C., Gallant, J., Polerecky, L., Flot, J. F., Brandt, B. W., Braster, M., Iturbe Espinoza, P., Aerts, J. W., Meima-Franke, M. M., Piersma, S. R., Bunduc, C. M., Ummels, R., Pain, A., Fleming, E. J., van der Wel, N. N., Gherman, V. D., Sarbu, S. M., Bodelier, P. L. E., Bitter, W.",
+  "corresponding": "van Spanning, R. J. M.",
+  "organisations": "Systems Bioinformatics, AIMMS, Molecular Microbiology, Preventive Dentistry, Molecular Cell Physiology, King Abdullah University of Science and Technology, Utrecht University, Free Universities of Brussels, Royal Netherlands Academy of Arts and Sciences, University of Amsterdam, California State University Chico, Politehnica University of Timisoara, Romanian Academy",
+  "journal": "NATURE MICROBIOLOGY",
+  "description": "Methanotrophy by a Mycobacterium species that dominates a cave microbial ecosystemSo far, only members of the bacterial phyla Proteobacteria and Verrucomicrobia are known to grow methanotrophically under aerobic conditions. Here we report that this metabolic trait is also observed within the Actinobacteria. We enriched and cultivated a methanotrophic Mycobacterium from an extremely acidic biofilm growing on a cave wall at a gaseous chemocline interface between volcanic gases and the Earth\u2019s atmosphere. This Mycobacterium, for which we propose the name Candidatus Mycobacterium methanotrophicum, is closely related to well-known obligate pathogens such as M. tuberculosis and M. leprae. Genomic and proteomic analyses revealed that Candidatus M. methanotrophicum expresses a full suite of enzymes required for aerobic growth on methane, including a soluble methane monooxygenase that catalyses the hydroxylation of methane to methanol and enzymes involved in formaldehyde fixation via the ribulose monophosphate pathway. Growth experiments combined with stable isotope probing using 13C-labelled methane confirmed that Candidatus M. methanotrophicum can grow on methane as a sole carbon and energy source. A broader survey based on 16S metabarcoding suggests that species closely related to Candidatus M. methanotrophicum may be abundant in low-pH, high-methane environments."
+ },
+ "https://doi.org/10.1038/s41467-022-34382-7": {
+  "month": "11",
+  "pub_date": "11 Nov 2022",
+  "year": 2022,
+  "early_online": null,
+  "title": "Computationally designed GPCR quaternary structures bias signaling pathway activation",
+  "contributors": "Paradis, J. S., Feng, X., Murat, B., Jefferson, R. E., Sokrat, B., Szpakowska, M., Hogue, M., Bergkamp, N. D., Heydenreich, F. M., Smit, M. J., Chevign\u00e9, A., Bouvier, M., Barth, P.",
+  "corresponding": "Bouvier, M.",
+  "organisations": "Medicinal chemistry, AIMMS, University of Montreal, Universit\u00e9 de Montr\u00e9al, Swiss Federal Institute of Technology Lausanne, Van Andel Institute, Luxembourg Institute of Health",
+  "journal": "Nature Communications",
+  "description": "Computationally designed GPCR quaternary structures bias signaling pathway activationCommunication across membranes controls critical cellular processes and is achieved by receptors translating extracellular signals into selective cytoplasmic responses. While receptor tertiary structures can be readily characterized, receptor associations into quaternary structures are challenging to study and their implications in signal transduction remain poorly understood. Here, we report a computational approach for predicting receptor self-associations, and designing receptor oligomers with various quaternary structures and signaling properties. Using this approach, we designed chemokine receptor CXCR4 dimers with reprogrammed binding interactions, conformations, and abilities to activate distinct intracellular signaling proteins. In agreement with our predictions, the designed CXCR4s dimerized through distinct conformations and displayed different quaternary structural changes upon activation. Consistent with the active state models, all engineered CXCR4 oligomers activated the G protein Gi, but only specific dimer structures also recruited \u03b2-arrestins. Overall, we demonstrate that quaternary structures represent an important unforeseen mechanism of receptor biased signaling and reveal the existence of a bias switch at the dimer interface of several G protein-coupled receptors including CXCR4, mu-Opioid and type-2 Vasopressin receptors that selectively control the activation of G proteins vs \u03b2-arrestin-mediated pathways. The approach should prove useful for predicting and designing receptor associations to uncover and reprogram selective cellular signaling functions."
+ },
+ "https://doi.org/10.1021/acsinfecdis.2c00459": {
+  "month": "11",
+  "pub_date": "11 Nov 2022",
+  "year": 2022,
+  "early_online": "1 Nov 2022",
+  "title": "Synthesis and Structure-Activity Studies of \u03b2-Barrel Assembly Machine Complex Inhibitor MRL-494In the hunt for new antibiotics with activity against Gram-negative pathogens, the outer membrane \u03b2-barrel assembly machine (BAM) complex has become an increasingly interesting target. The recently reported BAM complex inhibitor, MRL-494, was discovered via a screening campaign for molecules that target the outer membrane. Notably, MRL-494 was reported to be an unintended byproduct generated during the synthesis of an unrelated compound, and as such no synthesis of the compound was disclosed. We here present a convenient and reliable route for the synthesis of MRL-494 that scales well. The antibacterial activity measured for synthesized MRL-494 matches that reported in the literature. Furthermore, MRL-494 was found to exhibit potent synergistic activity with rifampicin against Gram-negative bacteria, including E. coli, K. pneumoniae, A. baumannii, and P. aeruginosa. MRL-494 was also found to cause outer membrane disruption and induction of the Rcs stress response pathway. In addition, we undertook a focused structure-activity study specifically aimed at elucidating the roles played by the two guanidine moieties contained within the structure of MRL-494.General information",
+  "contributors": "Wade, N., Wesseling, C. M. J., Innocenti, P., Slingerland, C. J., Koningstein, G. M., Luirink, J., Martin, N. I.",
+  "corresponding": "Martin, N. I.",
+  "organisations": "Molecular Microbiology, AIMMS, LaserLaB - Molecular Biophysics, Leiden University",
+  "journal": "ACS Infectious Diseases",
+  "description": "Synthesis and Structure-Activity Studies of \u03b2-Barrel Assembly Machine Complex Inhibitor MRL-494In the hunt for new antibiotics with activity against Gram-negative pathogens, the outer membrane \u03b2-barrel assembly machine (BAM) complex has become an increasingly interesting target. The recently reported BAM complex inhibitor, MRL-494, was discovered via a screening campaign for molecules that target the outer membrane. Notably, MRL-494 was reported to be an unintended byproduct generated during the synthesis of an unrelated compound, and as such no synthesis of the compound was disclosed. We here present a convenient and reliable route for the synthesis of MRL-494 that scales well. The antibacterial activity measured for synthesized MRL-494 matches that reported in the literature. Furthermore, MRL-494 was found to exhibit potent synergistic activity with rifampicin against Gram-negative bacteria, including E. coli, K. pneumoniae, A. baumannii, and P. aeruginosa. MRL-494 was also found to cause outer membrane disruption and induction of the Rcs stress response pathway. In addition, we undertook a focused structure-activity study specifically aimed at elucidating the roles played by the two guanidine moieties contained within the structure of MRL-494."
+ },
+ "https://doi.org/10.1021/acs.analchem.2c03160": {
+  "month": "11",
+  "pub_date": "22 Nov 2022",
+  "year": 2022,
+  "early_online": "1 Nov 2022",
+  "title": "Chemometric Strategies for Fully Automated Interpretive Method Development in Liquid Chromatography",
+  "contributors": "Bos, T. S., Boelrijk, J., Molenaar, S. R. A., Van 'T Veer, B., Niezen, L. E., Van Herwerden, D., Samanipour, S., Stoll, D. R., Forr\u00e9, P., Ensing, B., Somsen, G. W., Pirok, B. W. J.",
+  "corresponding": "Pirok, B. W. J.",
+  "organisations": "BioAnalytical Chemistry, AIMMS, University of Amsterdam, Center for Analytical Sciences Amsterdam, Gustavus Adolphus College",
+  "journal": "Analytical chemistry",
+  "description": "Chemometric Strategies for Fully Automated Interpretive Method Development in Liquid ChromatographyThe majority of liquid chromatography (LC) methods are still developed in a conventional manner, that is, by analysts who rely on their knowledge and experience to make method development decisions. In this work, a novel, open-source algorithm was developed for automated and interpretive method development of LC(-mass spectrometry) separations (\"AutoLC\"). A closed-loop workflow was constructed that interacted directly with the LC system and ran unsupervised in an automated fashion. To achieve this, several challenges related to peak tracking, retention modeling, the automated design of candidate gradient profiles, and the simulation of chromatograms were investigated. The algorithm was tested using two newly designed method development strategies. The first utilized retention modeling, whereas the second used a Bayesian-optimization machine learning approach. In both cases, the algorithm could arrive within 4-10 iterations (i.e., sets of method parameters) at an optimum of the objective function, which included resolution and analysis time as measures of performance. Retention modeling was found to be more efficient while depending on peak tracking, whereas Bayesian optimization was more flexible but limited in scalability. We have deliberately designed the algorithm to be modular to facilitate compatibility with previous and future work (e.g., previously published data handling algorithms)."
  }
 }
