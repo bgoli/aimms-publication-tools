@@ -61,7 +61,7 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 """
-__version__ = 1.5
+__version__ = 1.6
 
 # data_file = 'AIMMS_research_2020-7_08_20.xls'
 # data_file = 'AIMMS_research_2020-31_08_20.xls'
@@ -90,7 +90,8 @@ __version__ = 1.5
 #data_file = 'AIMMS_research_2022-20_07_22.xls'
 #data_file = 'AIMMS_research_2022-7_09_22.xls'
 #data_file = 'AIMMS_research_2022-12_10_22.xls'
-data_file = 'AIMMS_research_2022-23_11_22.xls'
+#data_file = 'AIMMS_research_2022-23_11_22.xls'
+data_file = 'AIMMS_research_2023-23_01_23.xls'
 
 import os
 import time
@@ -118,7 +119,7 @@ data_dir = os.path.join(cdir, 'data')
 # default DB name: 'aimmsDB.sqlite'
 DB_FILE_NAME = 'aimmsDB.sqlite'
 # default table name: 'publications'
-DB_ACTIVE_TABLE = 'Y2020'
+#DB_ACTIVE_TABLE = 'Y2022'
 DB_ACTIVE_TABLE = 'publications'
 
 # using excel file directly

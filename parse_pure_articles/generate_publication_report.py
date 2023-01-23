@@ -61,7 +61,7 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 """
-__version__ = 1.5
+__version__ = 1.6
 
 import os
 import time
@@ -84,8 +84,8 @@ DO_ALL = False
 CURRENT_MONTH = int(time.strftime('%m'))
 CURRENT_YEAR = int(time.strftime('%Y'))
 # manual override for specific month/year
-# CURRENT_YEAR = 2020
-# CURRENT_MONTH = 12
+# CURRENT_YEAR = 2023
+# CURRENT_MONTH = 2
 
 ctime = time.strftime('%Y-%m-%d')
 cdir = os.path.dirname(os.path.abspath(os.sys.argv[0]))
