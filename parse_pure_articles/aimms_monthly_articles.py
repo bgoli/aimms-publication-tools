@@ -101,7 +101,7 @@ import json
 import CBNetDB
 import xlrd
 
-assert os.environ['CONDA_DEFAULT_ENV'] == 'sandbox', 'Guess what ...'
+assert os.environ['CONDA_DEFAULT_ENV'] in ['sandbox', 'sandbox10'] , 'Guess what ... \"{}\" is not what I need'.format(os.environ['CONDA_DEFAULT_ENV'])
 
 # this sets the current year and month to search until
 CURRENT_YEAR = int(time.strftime('%Y'))
